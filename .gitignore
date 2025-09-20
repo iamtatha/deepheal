@@ -1,0 +1,7 @@
+# Ignore PyTorch model files
+*.pt
+
+# Ignore environment files
+.env
+
+#
