@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DeepHeal Logs</title>
+    <meta http-equiv="refresh" content="5"> <!-- auto refresh every 5 sec -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px auto;
+            max-width: 800px;
+            background: #f8f9fa;
+        }
+        h2 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 20px;
+        }
+        .entry {
+            background: #fff;
+            margin-bottom: 12px;
+            padding: 15px;
+            border-radius: 8px;
+            border: 1px solid #ddd;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            cursor: pointer;
+        }
+        .entry:nth-child(even) { background: #fdfdfd; }
+        .role {
+            display: inline-block;
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-size: 0.9em;
+            font-weight: bold;
+            margin-bottom: 6px;
+        }
+        .timestamp {
+            font-size: 0.8em;
+            color: #666;
+            margin-bottom: 8px;
+        }
+        .details {
+            display: none;
+            margin-top: 10px;
+            padding: 10px;
+            background: #f7f7f7;
+            border-left: 3px solid #aaa;
+            border-radius: 5px;
+            white-space: pre-wrap;
+        }
+        /* Color coding by role */
+        .role-human { background: #007bff; color: white; }
+        .role-ai { background: #28a745; color: white; }
+        .role-action { background: #ff9800; color: white; }
+        .role-prompt { background: #6f42c1; color: white; }
+    </style>
+    <script>
+        function toggleDetails(id) {
+            let el = document.getElementById(id);
+            el.style.display = el.style.display === "block" ? "none" : "block";
+        }
+    </script>
+</head>
+<body>
+    <h2>DeepHeal Logs</h2>
+    {% for log in logs %}
+        <div class="entry" onclick="toggleDetails('details-{{ forloop.counter }}')">
+            <div class="role role-{{ log.role|lower }}">
+                {{ log.role }}
+                {% if log.role == "Action" and log.name %}
+                    - {{ log.name }}
+                {% endif %}
+            </div>
+            <div class="timestamp">{{ log.timestamp }}</div>
+            <div id="details-{{ forloop.counter }}" class="details">
+                {{ log.details|safe }}
+            </div>
+        </div>
+    {% endfor %}
+
+    <script>
+        function toggleDetails(id) {
+            let el = document.getElementById(id);
+            let isVisible = el.style.display === "block";
+            el.style.display = isVisible ? "none" : "block";
+
+            // save state in localStorage
+            let openLogs = JSON.parse(localStorage.getItem("openLogs") || "[]");
+            if (!isVisible) {
+                // add if opening
+                if (!openLogs.includes(id)) openLogs.push(id);
+            } else {
+                // remove if closing
+                openLogs = openLogs.filter(x => x !== id);
+            }
+            localStorage.setItem("openLogs", JSON.stringify(openLogs));
+        }
+
+        // restore state after reload
+        window.onload = () => {
+            let openLogs = JSON.parse(localStorage.getItem("openLogs") || "[]");
+            openLogs.forEach(id => {
+                let el = document.getElementById(id);
+                if (el) el.style.display = "block";
+            });
+        }
+    </script>
+</body>
+
+</html>

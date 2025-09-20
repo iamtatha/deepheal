@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>DeepHeal Chat</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Tahoma, sans-serif;
+      background: #f2f6fa;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 90vh;
+      margin: 0;
+    }
+
+    .chat-container {
+      width: 60%;
+      max-width: 90%;
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    .chat-header {
+      background: #439e97;
+      color: white;
+      padding: 15px;
+      text-align: center;
+      font-size: 18px;
+      font-weight: bold;
+    }
+
+    .chat-box {
+      flex: 1;
+      padding: 15px;
+      overflow-y: auto;
+      background: #fafafa;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .message {
+      margin: 10px 0;
+      padding: 10px 14px;
+      border-radius: 16px;
+      max-width: 70%;
+      line-height: 1.4;
+      display: inline-block;
+      clear: both;
+    }
+
+    .message.user {
+      background: #d1ecf1;
+      align-self: flex-end;
+      /* pushes user msgs to right */
+      text-align: right;
+    }
+
+    .message.ai {
+      background: #e2e3e5;
+      align-self: flex-start;
+      /* pushes AI msgs to left */
+      text-align: left;
+    }
+
+    .chat-input {
+      display: flex;
+      border-top: 1px solid #ddd;
+    }
+
+    .chat-input input {
+      flex: 1;
+      border: none;
+      padding: 12px;
+      font-size: 14px;
+      outline: none;
+    }
+
+    .chat-input button {
+      border: none;
+      background: #254263;
+      color: white;
+      padding: 12px 20px;
+      cursor: pointer;
+      font-weight: bold;
+      transition: background 0.3s;
+    }
+
+    .chat-input button:hover {
+      background: #3a78c2;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="chat-container">
+    <div class="chat-header">DeepHeal</div>
+    <div id="chatbox" class="chat-box"></div>
+    <div class="chat-input">
+      <input type="text" id="msg" placeholder="Type your message..." />
+      <button id="sendBtn" onclick="sendMessage()">Send</button>
+    </div>
+  </div>
+
+  <script>
+    const input = document.getElementById("msg");
+    const chatbox = document.getElementById("chatbox");
+
+    // Send on Enter
+    input.addEventListener("keydown", async (event) => {
+      if (event.key === "Enter") {
+        event.preventDefault();  // stop new line / form submit
+        await sendMessage();
+      }
+    });
+
+    function addMessage(sender, text) {
+      const msgDiv = document.createElement("div");
+      msgDiv.classList.add("message", sender);
+      msgDiv.textContent = text;
+      chatbox.appendChild(msgDiv);
+      chatbox.scrollTop = chatbox.scrollHeight;
+    }
+
+    async function sendMessage() {
+      let msg = document.getElementById("msg").value;
+      let chatbox = document.getElementById("chatbox");
+
+      addMessage("user", msg);
+      document.getElementById("msg").value = "";
+
+      let res = await fetch("/api/chat/", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ message: msg })
+      });
+      let data = await res.json();
+
+      addMessage("ai", data.reply);
+    }
+
+    window.onload = async () => {
+      try {
+        let res = await fetch("/api/chat/", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ message: "START" })
+        });
+
+        let data = await res.json();
+
+        addMessage("ai", data.reply);
+      } catch (err) {
+        console.error("Error fetching initial message:", err);
+      }
+    };
+  </script>
+</body>
+
+</html>
