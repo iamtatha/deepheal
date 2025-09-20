@@ -1,0 +1,66 @@
+[
+    {
+        "disorder": "Delirium",
+        "criteria": "A disturbance in attention and awareness, developing over a short period of time, with additional disturbance in cognition, not better explained by another neurocognitive disorder."
+    },
+    {
+        "disorder": "Major Neurocognitive Disorder",
+        "criteria": "Evidence of significant cognitive decline from a previous level of performance in one or more cognitive domains, interfering with independence in everyday activities, not occurring exclusively in the context of a delirium."
+    },
+    {
+        "disorder": "Mild Neurocognitive Disorder",
+        "criteria": "Evidence of modest cognitive decline from a previous level of performance in one or more cognitive domains, not interfering with independence in everyday activities, not occurring exclusively in the context of a delirium."
+    },
+    {
+        "disorder": "Substance/Medication-Induced Major or Mild Neurocognitive Disorder",
+        "criteria": "Neurocognitive impairments that do not occur exclusively during the course of a delirium, persist beyond the usual duration of intoxication and acute withdrawal, and are consistent with the timing of substance use."
+    },
+    {
+        "disorder": "Major or Mild Neurocognitive Disorder Due to Alzheimer's Disease",
+        "criteria": "Insidious onset and gradual progression of impairment in one or more cognitive domains, with evidence of a causative Alzheimer's disease genetic mutation or characteristic clinical features."
+    },
+    {
+        "disorder": "Major or Mild Neurocognitive Disorder Due to Frontotemporal Lobar Degeneration",
+        "criteria": "Insidious onset and gradual progression, with either behavioral symptoms or prominent decline in language ability, and relative sparing of learning and memory."
+    },
+    {
+        "disorder": "Major or Mild Neurocognitive Disorder With Lewy Bodies",
+        "criteria": "Insidious onset and gradual progression, with core features including fluctuating cognition, recurrent visual hallucinations, and spontaneous features of parkinsonism."
+    },
+    {
+        "disorder": "Major or Mild Vascular Neurocognitive Disorder",
+        "criteria": "Cognitive deficits temporally related to one or more cerebrovascular events, with evidence of cerebrovascular disease."
+    },
+    {
+        "disorder": "Major or Mild Neurocognitive Disorder Due to Traumatic Brain Injury",
+        "criteria": "Evidence of a traumatic brain injury with cognitive disorder presenting immediately after the injury or after recovery of consciousness."
+    },
+    {
+        "disorder": "Major or Mild Neurocognitive Disorder Due to HIV Infection",
+        "criteria": "Documented infection with HIV, with neurocognitive disorder not better explained by non-HIV conditions."
+    },
+    {
+        "disorder": "Major or Mild Neurocognitive Disorder Due to Prion Disease",
+        "criteria": "Insidious onset and rapid progression, with motor features of prion disease or biomarker evidence."
+    },
+    {
+        "disorder": "Major or Mild Neurocognitive Disorder Due to Parkinson's Disease",
+        "criteria": "Cognitive decline occurring in the setting of established Parkinson's disease, with gradual progression."
+    },
+    {
+        "disorder": "Major or Mild Neurocognitive Disorder Due to Huntington's Disease",
+        "criteria": "Insidious onset and gradual progression, with clinically established Huntington's disease or risk based on family history."
+    },
+    {
+        "disorder": "Major or Mild Neurocognitive Disorder Due to Another Medical Condition",
+        "criteria": "Neurocognitive disorder is the pathophysiological consequence of another medical condition."
+    },
+    {
+        "disorder": "Major or Mild Neurocognitive Disorder Due to Multiple Etiologies",
+        "criteria": "Neurocognitive disorder is the consequence of more than one etiological process."
+    },
+    {
+        "disorder": "Unspecified Neurocognitive Disorder",
+        "criteria": "Symptoms characteristic of a neurocognitive disorder causing clinically significant distress or impairment, but do not meet the full criteria for any specific disorder."
+    }
+]

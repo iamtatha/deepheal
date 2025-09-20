@@ -1,0 +1,26 @@
+[
+    {
+        "disorder": "Neuroleptic-Induced Parkinsonism",
+        "criteria": "Parkinsonian tremor, muscular rigidity, akinesia, or bradykinesia developing within a few weeks of starting or raising the dosage of a medication."
+    },
+    {
+        "disorder": "Neuroleptic Malignant Syndrome",
+        "criteria": "Patients have generally been exposed to a dopamine antagonist within 72 hours prior to symptom development. Symptoms include hyperthermia, generalized rigidity, changes in mental status, and autonomic instability."
+    },
+    {
+        "disorder": "Medication-Induced Acute Dystonia",
+        "criteria": "Abnormal and prolonged contraction of the muscles of the eyes, head, neck, limbs, or trunk developing within a few days of starting or raising the dosage of a medication."
+    },
+    {
+        "disorder": "Medication-Induced Acute Akathisia",
+        "criteria": "Subjective complaints of restlessness, often accompanied by observed excessive movements, developing within a few weeks of starting or raising the dosage of a medication."
+    },
+    {
+        "disorder": "Tardive Dyskinesia",
+        "criteria": "Involuntary athetoid or choreiform movements generally of the tongue, lower face and jaw, and extremities developing in association with the use of a neuroleptic medication for at least a few months."
+    },
+    {
+        "disorder": "Antidepressant Discontinuation Syndrome",
+        "criteria": "A set of symptoms that can occur after an abrupt cessation of an antidepressant medication taken continuously for at least 1 month, beginning within 2–4 days and including sensory, somatic, and cognitive-emotional manifestations."
+    }
+]

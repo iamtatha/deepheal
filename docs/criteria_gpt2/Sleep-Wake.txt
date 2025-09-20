@@ -1,0 +1,52 @@
+```json
+[
+    {
+        "disorder": "Insomnia Disorder",
+        "criteria": "A. A predominant complaint of dissatisfaction with sleep quantity or quality, associated with one (or more) of the following symptoms: 1. Difficulty initiating sleep. 2. Difficulty maintaining sleep, characterized by frequent awakenings or problems returning to sleep after awakenings. 3. Early-morning awakening with inability to return to sleep. B. The sleep disturbance causes clinically significant distress or impairment in social, occupational, educational, academic, behavioral, or other important areas of functioning. C. The sleep difficulty occurs at least 3 nights per week. D. The sleep difficulty is present for at least 3 months. E. The sleep difficulty occurs despite adequate opportunity for sleep. F. The insomnia is not better explained by and does not occur exclusively during the course of another sleep-wake disorder. G. The insomnia is not attributable to the physiological effects of a substance. H. Coexisting mental disorders and medical conditions do not adequately explain the predominant complaint of insomnia."
+    },
+    {
+        "disorder": "Hypersomnolence Disorder",
+        "criteria": "A. Self-reported excessive sleepiness (hypersomnolence) despite a main sleep period lasting at least 7 hours, with at least one of the following symptoms: 1. Recurrent periods of sleep or lapses into sleep within the same day. 2. A prolonged main sleep episode of more than 9 hours per day that is nonrestorative. 3. Difficulty being fully awake after abrupt awakening. B. The hypersomnolence occurs at least three times per week, for at least 3 months. C. The hypersomnolence is accompanied by significant distress or impairment in cognitive, social, occupational, or other important areas of functioning. D. The hypersomnolence is not better explained by and does not occur exclusively during the course of another sleep disorder. E. The hypersomnolence is not attributable to the physiological effects of a substance. F. Coexisting mental and medical disorders do not adequately explain the predominant complaint of hypersomnolence."
+    },
+    {
+        "disorder": "Narcolepsy",
+        "criteria": "A. Recurrent periods of an irrepressible need to sleep, lapsing into sleep, or napping occurring within the same day, at least three times per week over the past 3 months. B. Presence of at least one of the following: 1. Episodes of cataplexy occurring at least a few times per month: a. In individuals with long-standing disease, brief episodes of sudden bilateral loss of muscle tone with maintained consciousness precipitated by laughter or joking. b. In children or individuals within 6 months of onset, spontaneous grimaces or jaw-opening episodes with tongue thrusting or global hypotonia without obvious emotional triggers. 2. Hypocretin deficiency measured by cerebrospinal fluid hypocretin-1 immunoreactivity values ≤ one-third of normal or ≤ 110 pg/mL, excluding acute brain injury, inflammation, or infection. 3. Nocturnal polysomnography showing REM sleep latency ≤ 15 minutes, or multiple sleep latency test showing mean sleep latency ≤ 8 minutes and two or more sleep-onset REM periods."
+    },
+    {
+        "disorder": "Obstructive Sleep Apnea Hypopnea",
+        "criteria": "A. Either (1) or (2): 1. Evidence by polysomnography of at least five obstructive apneas or hypopneas per hour of sleep and either of the following sleep symptoms: a. Nocturnal breathing disturbances (snoring, snorting/gasping, or breathing pauses during sleep). b. Daytime sleepiness, fatigue, or unrefreshing sleep despite sufficient opportunities to sleep, not better explained by another mental disorder or medical condition. 2. Evidence by polysomnography of 15 or more obstructive apneas and/or hypopneas per hour of sleep regardless of accompanying symptoms."
+    },
+    {
+        "disorder": "Central Sleep Apnea",
+        "criteria": "A. Evidence by polysomnography of five or more central apneas per hour of sleep. B. The disorder is not better explained by another current sleep disorder."
+    },
+    {
+        "disorder": "Sleep-Related Hypoventilation",
+        "criteria": "A. Polysomnography demonstrates episodes of decreased respiration associated with elevated CO2 levels (or persistent low levels of hemoglobin oxygen saturation unassociated with apneic/hypopneic events). B. The disturbance is not better explained by another current sleep disorder."
+    },
+    {
+        "disorder": "Circadian Rhythm Sleep-Wake Disorders",
+        "criteria": "A. A persistent or recurrent pattern of sleep disruption primarily due to alteration of the circadian system or misalignment between endogenous circadian rhythm and required sleep-wake schedule. B. The sleep disruption leads to excessive sleepiness or insomnia, or both. C. The sleep disturbance causes clinically significant distress or impairment in social, occupational, or other important areas of functioning."
+    },
+    {
+        "disorder": "Non–Rapid Eye Movement Sleep Arousal Disorders",
+        "criteria": "A. Recurrent episodes of incomplete awakening from sleep, usually during the first third of the major sleep episode, accompanied by either: 1. Sleepwalking: repeated episodes of rising from bed and walking about with a blank, staring face, relative unresponsiveness, and difficulty awakening. 2. Sleep terrors: recurrent episodes of abrupt terror arousals from sleep, beginning with a panicky scream, intense fear, autonomic arousal, and relative unresponsiveness to comfort. B. No or little dream imagery is recalled. C. Amnesia for the episodes is present. D. The episodes cause clinically significant distress or impairment. E. The disturbance is not attributable to substance effects. F. Coexisting mental and medical disorders do not explain the episodes."
+    },
+    {
+        "disorder": "Nightmare Disorder",
+        "criteria": "A. Repeated occurrences of extended, extremely dysphoric, and well-remembered dreams usually involving efforts to avoid threats, generally occurring during the second half of the major sleep episode. B. On awakening from the dysphoric dreams, the individual rapidly becomes oriented and alert. C. The sleep disturbance causes clinically significant distress or impairment. D. The nightmare symptoms are not attributable to substance effects. E. Coexisting mental and medical disorders do not adequately explain the complaint."
+    },
+    {
+        "disorder": "Rapid Eye Movement Sleep Behavior Disorder",
+        "criteria": "A. Repeated episodes of arousal during sleep associated with vocalization and/or complex motor behaviors. B. Behaviors arise during REM sleep, usually more than 90 minutes after sleep onset, more frequent during later sleep period, uncommonly during naps. C. Upon awakening, individual is completely awake, alert, and not confused. D. Either 1. REM sleep without atonia on polysomnography, or 2. History suggestive of REM sleep behavior disorder with established synucleinopathy diagnosis. E. Behaviors cause clinically significant distress or impairment. F. Disturbance not attributable to substance effects or medical condition. G. Coexisting mental and medical disorders do not explain episodes."
+    },
+    {
+        "disorder": "Restless Legs Syndrome",
+        "criteria": "A. An urge to move the legs, usually accompanied by or in response to uncomfortable and unpleasant sensations in the legs, characterized by: 1. Urge begins or worsens during periods of rest or inactivity. 2. Urge is partially or totally relieved by movement. 3. Urge is worse in the evening or at night than during the day, or occurs only in the evening or at night. B. Symptoms occur at least three times per week and have persisted for at least 3 months. C. Symptoms are accompanied by significant distress or impairment in social, occupational, educational, academic, behavioral, or other important areas of functioning. D. Symptoms are not attributable to another mental disorder or medical condition and not better explained by a behavioral condition. E. Symptoms are not attributable to physiological effects of a drug of abuse or medication."
+    },
+    {
+        "disorder": "Substance/Medication-Induced Sleep Disorder",
+        "criteria": "A. A prominent and severe disturbance in sleep. B. Evidence from history, physical exam, or lab findings of both: 1. Symptoms developed during or soon after substance intoxication or withdrawal or exposure to medication. 2. The involved substance/medication is capable of producing the symptoms. C. Disturbance is not better explained by a sleep disorder that is not substance/medication-induced. D. Disturbance does not occur exclusively during delirium. E. Disturbance causes clinically significant distress or impairment."
+    }
+]
+```

@@ -1,0 +1,28 @@
+```json
+[
+    {
+        "disorder": "Pica",
+        "criteria": "A. Persistent eating of nonnutritive, nonfood substances over a period of at least 1 month. B. The eating of nonnutritive, nonfood substances is inappropriate to the developmental level of the individual. C. The eating behavior is not part of a culturally supported or socially normative practice. D. If the eating behavior occurs in the context of another mental disorder or medical condition, it is sufficiently severe to warrant additional clinical attention."
+    },
+    {
+        "disorder": "Rumination Disorder",
+        "criteria": "A. Repeated regurgitation of food over a period of at least 1 month. Regurgitated food may be re-chewed, re-swallowed, or spit out. B. The repeated regurgitation is not attributable to an associated gastrointestinal or other medical condition. C. The eating disturbance does not occur exclusively during the course of anorexia nervosa, bulimia nervosa, binge-eating disorder, or avoidant/restrictive food intake disorder. D. If the symptoms occur in the context of another mental disorder, they are sufficiently severe to warrant additional clinical attention."
+    },
+    {
+        "disorder": "Avoidant/Restrictive Food Intake Disorder",
+        "criteria": "A. An eating or feeding disturbance manifested by persistent failure to meet appropriate nutritional and/or energy needs associated with one (or more) of the following: 1. Significant weight loss (or failure to achieve expected weight gain or faltering growth in children). 2. Significant nutritional deficiency. 3. Dependence on enteral feeding or oral nutritional supplements. 4. Marked interference with psychosocial functioning. B. The disturbance is not better explained by lack of available food or by an associated culturally sanctioned practice. C. The eating disturbance does not occur exclusively during the course of anorexia nervosa or bulimia nervosa, and there is no evidence of a disturbance in the way in which one’s body weight or shape is experienced. D. The eating disturbance is not attributable to a concurrent medical condition or not better explained by another mental disorder. When it occurs in the context of another condition or disorder, the severity exceeds that routinely associated and warrants additional clinical attention."
+    },
+    {
+        "disorder": "Anorexia Nervosa",
+        "criteria": "A. Restriction of energy intake relative to requirements, leading to a significantly low body weight in the context of age, sex, developmental trajectory, and physical health. B. Intense fear of gaining weight or of becoming fat, or persistent behavior that interferes with weight gain, even though at a significantly low weight. C. Disturbance in the way in which one’s body weight or shape is experienced, undue influence of body weight or shape on self-evaluation, or persistent lack of recognition of the seriousness of the current low body weight."
+    },
+    {
+        "disorder": "Bulimia Nervosa",
+        "criteria": "A. Recurrent episodes of binge eating characterized by: 1. Eating, in a discrete period of time, an amount of food definitely larger than most individuals would eat under similar circumstances. 2. A sense of lack of control over eating during the episode. B. Recurrent inappropriate compensatory behaviors to prevent weight gain, such as self-induced vomiting; misuse of laxatives, diuretics, or other medications; fasting; or excessive exercise. C. The binge eating and inappropriate compensatory behaviors both occur, on average, at least once a week for 3 months. D. Self-evaluation is unduly influenced by body shape and weight. E. The disturbance does not occur exclusively during episodes of anorexia nervosa."
+    },
+    {
+        "disorder": "Binge-Eating Disorder",
+        "criteria": "A. Recurrent episodes of binge eating characterized by: 1. Eating, in a discrete period of time, an amount of food definitely larger than most people would eat under similar circumstances. 2. A sense of lack of control over eating during the episode. B. The binge-eating episodes are associated with three (or more) of the following: eating much more rapidly than normal; eating until feeling uncomfortably full; eating large amounts of food when not feeling physically hungry; eating alone because of feeling embarrassed by how much one is eating; feeling disgusted with oneself, depressed, or very guilty afterward. C. Marked distress regarding binge eating is present. D. The binge eating occurs, on average, at least once a week for 3 months. E. The binge eating is not associated with the recurrent use of inappropriate compensatory behavior as in bulimia nervosa and does not occur exclusively during the course of bulimia nervosa or anorexia nervosa."
+    }
+]
+```

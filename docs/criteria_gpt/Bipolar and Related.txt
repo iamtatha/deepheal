@@ -1,0 +1,224 @@
+Here are the diagnostic criteria extracted from the provided text:
+
+---
+
+**Bipolar I Disorder**
+
+For a diagnosis of bipolar I disorder, it is necessary to meet the following criteria for a manic episode. The manic episode may have been preceded by and may be followed by hypomanic or major depressive episodes.
+
+**Manic Episode**
+A. A distinct period of abnormally and persistently elevated, expansive, or irritable mood and abnormally and persistently increased goal-directed activity or energy, lasting at least 1 week and present most of the day, nearly every day (or any duration if hospitalization is necessary).
+B. During the period of mood disturbance and increased energy or activity, three (or more) of the following symptoms (four if the mood is only irritable) are present to a significant degree and represent a noticeable change from usual behavior:
+    1. Inflated self-esteem or grandiosity.
+    2. Decreased need for sleep (e.g., feels rested after only 3 hours of sleep).
+    3. More talkative than usual or pressure to keep talking.
+    4. Flight of ideas or subjective experience that thoughts are racing.
+    5. Distractibility (i.e., attention too easily drawn to unimportant or irrelevant external stimuli), as reported or observed.
+    6. Increase in goal-directed activity (either socially, at work or school, or sexually) or psychomotor agitation (i.e., purposeless non-goal-directed activity).
+    7. Excessive involvement in activities that have a high potential for painful consequences (e.g., engaging in unrestrained buying sprees, sexual indiscretions, or foolish business investments).
+C. The mood disturbance is sufficiently severe to cause marked impairment in social or occupational functioning or to necessitate hospitalization to prevent harm to self or others, or there are psychotic features.
+D. The episode is not attributable to the physiological effects of a substance (e.g., a drug of abuse, a medication, other treatment) or to another medical condition.
+*Note:* A full manic episode that emerges during antidepressant treatment (e.g., medication, electroconvulsive therapy) but persists at a fully syndromal level beyond the physiological effect of that treatment is sufficient evidence for a manic episode and, therefore, a bipolar I diagnosis.
+*Note:* Criteria A–D constitute a manic episode. At least one lifetime manic episode is required for the diagnosis of bipolar I disorder.
+
+**Hypomanic Episode**
+A. A distinct period of abnormally and persistently elevated, expansive, or irritable mood and abnormally and persistently increased activity or energy, lasting at least 4 consecutive days and present most of the day, nearly every day.
+B. During the period of mood disturbance and increased energy and activity, three (or more) of the following symptoms (four if the mood is only irritable) have persisted, represent a noticeable change from usual behavior, and have been present to a significant degree:
+    1. Inflated self-esteem or grandiosity.
+    2. Decreased need for sleep (e.g., feels rested after only 3 hours of sleep).
+    3. More talkative than usual or pressure to keep talking.
+    4. Flight of ideas or subjective experience that thoughts are racing.
+    5. Distractibility (i.e., attention too easily drawn to unimportant or irrelevant external stimuli), as reported or observed.
+    6. Increase in goal-directed activity (either socially, at work or school, or sexually) or psychomotor agitation.
+    7. Excessive involvement in activities that have a high potential for painful consequences (e.g., engaging in unrestrained buying sprees, sexual indiscretions, or foolish business investments).
+C. The episode is associated with an unequivocal change in functioning that is uncharacteristic of the individual when not symptomatic.
+D. The disturbance in mood and the change in functioning are observable by others.
+E. The episode is not severe enough to cause marked impairment in social or occupational functioning or to necessitate hospitalization. If there are psychotic features, the episode is, by definition, manic.
+F. The episode is not attributable to the physiological effects of a substance (e.g., a drug of abuse, a medication, other treatment).
+*Note:* A full hypomanic episode that emerges during antidepressant treatment (e.g., medication, electroconvulsive therapy) but persists at a fully syndromal level beyond the physiological effect of that treatment is sufficient evidence for a hypomanic episode diagnosis. However, caution is indicated so that one or two symptoms (particularly increased irritability, edginess, or agitation following antidepressant use) are not taken as sufficient for diagnosis of a hypomanic episode, nor necessarily indicative of a bipolar diathesis.
+*Note:* Criteria A–F constitute a hypomanic episode. Hypomanic episodes are common in bipolar I disorder but are not required for the diagnosis of bipolar I disorder.
+
+**Major Depressive Episode**
+A. Five (or more) of the following symptoms have been present during the same 2-week period and represent a change from previous functioning; at least one of the symptoms is either (1) depressed mood or (2) loss of interest or pleasure.
+*Note:* Do not include symptoms that are clearly attributable to another medical condition.
+    1. Depressed mood most of the day, nearly every day, as indicated by either subjective report (e.g., feels sad, empty, or hopeless) or observation made by others (e.g., appears tearful). (*Note:* In children and adolescents, can be irritable mood.)
+    2. Markedly diminished interest or pleasure in all, or almost all, activities most of the day, nearly every day (as indicated by either subjective account or observation).
+    3. Significant weight loss when not dieting or weight gain (e.g., a change of more than 5% of body weight in a month), or decrease or increase in appetite nearly every day. (*Note:* In children, consider failure to make expected weight gain.)
+    4. Insomnia or hypersomnia nearly every day.
+    5. Psychomotor agitation or retardation nearly every day (observable by others; not merely subjective feelings of restlessness or being slowed down).
+    6. Fatigue or loss of energy nearly every day.
+    7. Feelings of worthlessness or excessive or inappropriate guilt (which may be delusional) nearly every day (not merely self-reproach or guilt about being sick).
+    8. Diminished ability to think or concentrate, or indecisiveness, nearly every day (either by subjective account or as observed by others).
+    9. Recurrent thoughts of death (not just fear of dying), recurrent suicidal ideation without a specific plan, or a suicide attempt or a specific plan for committing suicide.
+B. The symptoms cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+C. The episode is not attributable to the physiological effects of a substance or another medical condition.
+*Note:* Criteria A–C constitute a major depressive episode. Major depressive episodes are common in bipolar I disorder but are not required for the diagnosis of bipolar I disorder.
+
+**Bipolar I Disorder (Overall Criteria)**
+A. Criteria have been met for at least one manic episode (Criteria A–D under “Manic Episode” above).
+B. The occurrence of the manic and major depressive episode(s) is not better explained by schizoaffective disorder, schizophrenia, schizophreniform disorder, delusional disorder, or other specified or unspecified schizophrenia spectrum and other psychotic disorder.
+
+---
+
+**Bipolar II Disorder**
+
+For a diagnosis of bipolar II disorder, it is necessary to meet the following criteria for a current or past hypomanic episode and the following criteria for a current or past major depressive episode:
+
+**Hypomanic Episode**
+(Same criteria as listed above for Bipolar I Disorder)
+
+**Major Depressive Episode**
+(Same criteria as listed above for Bipolar I Disorder)
+
+**Bipolar II Disorder (Overall Criteria)**
+A. Criteria have been met for at least one hypomanic episode (Criteria A–F under “Hypomanic Episode” above) and at least one major depressive episode (Criteria A–C under “Major Depressive Episode” above).
+B. There has never been a manic episode.
+C. The occurrence of the hypomanic episode(s) and major depressive episode(s) is not better explained by schizoaffective disorder, schizophrenia, schizophreniform disorder, delusional disorder, or other specified or unspecified schizophrenia spectrum and other psychotic disorder.
+D. The symptoms of depression or the unpredictability caused by frequent alternation between periods of depression and hypomania causes clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+
+---
+
+**Cyclothymic Disorder**
+A. For at least 2 years (at least 1 year in children and adolescents) there have been numerous periods with hypomanic symptoms that do not meet criteria for a hypomanic episode and numerous periods with depressive symptoms that do not meet criteria for a major depressive episode.
+B. During the above 2-year period (1 year in children and adolescents), the hypomanic and depressive periods have been present for at least half the time and the individual has not been without the symptoms for more than 2 months at a time.
+C. Criteria for a major depressive, manic, or hypomanic episode have never been met.
+D. The symptoms in Criterion A are not better explained by schizoaffective disorder, schizophrenia, schizophreniform disorder, delusional disorder, or other specified or unspecified schizophrenia spectrum and other psychotic disorder.
+E. The symptoms are not attributable to the physiological effects of a substance (e.g., a drug of abuse, a medication) or another medical condition (e.g., hyperthyroidism).
+F. The symptoms cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+**Specify if:**
+With anxious distress (p. 149)
+
+---
+
+**Substance/Medication-Induced Bipolar and Related Disorder**
+A. A prominent and persistent disturbance in mood that predominates in the clinical picture and is characterized by elevated, expansive, or irritable mood, with or without depressed mood, or markedly diminished interest or pleasure in all, or almost all, activities.
+B. There is evidence from the history, physical examination, or laboratory findings of both (1) and (2):
+    1. The symptoms in Criterion A developed during or soon after substance intoxication or withdrawal or after exposure to a medication.
+    2. The involved substance/medication is capable of producing the symptoms in Criterion A.
+C. The disturbance is not better explained by a bipolar or related disorder that is not substance/medication-induced. Such evidence of an independent bipolar or related disorder could include the following:
+    The symptoms precede the onset of the substance/medication use; the symptoms persist for a substantial period of time (e.g., about 1 month) after the cessation of acute withdrawal or severe intoxication; or there is other evidence suggesting the existence of an independent non-substance/medication-induced bipolar and related disorder (e.g., a history of recurrent non-substance/medication-related episodes).
+D. The disturbance does not occur exclusively during the course of a delirium.
+E. The disturbance causes clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+**Specify if:**
+With onset during intoxication: If the criteria are met for intoxication with the substance and the symptoms develop during intoxication.
+With onset during withdrawal: If criteria are met for withdrawal from the substance and the symptoms develop during, or shortly after, withdrawal.
+
+---
+
+**Bipolar and Related Disorder Due to Another Medical Condition**
+A. A prominent and persistent period of abnormally elevated, expansive, or irritable mood and abnormally increased activity or energy that predominates in the clinical picture.
+B. There is evidence from the history, physical examination, or laboratory findings that the disturbance is the direct pathophysiological consequence of another medical condition.
+C. The disturbance is not better explained by another mental disorder.
+D. The disturbance does not occur exclusively during the course of a delirium.
+E. The disturbance causes clinically significant distress or impairment in social, occupational, or other important areas of functioning, or necessitates hospitalization to prevent harm to self or others, or there are psychotic features.
+**Specify if:**
+(F06.33) With manic features: Full criteria are not met for a manic or hypomanic episode.
+(F06.33) With manic- or hypomanic-like episode: Full criteria are met except Criterion D for a manic episode or except Criterion F for a hypomanic episode.
+(F06.34) With mixed features: Symptoms of depression are also present but do not predominate in the clinical picture.
+
+---
+
+**Other Specified Bipolar and Related Disorder**
+This category applies to presentations in which symptoms characteristic of a bipolar and related disorder that cause clinically significant distress or impairment in social, occupational, or other important areas of functioning predominate but do not meet the full criteria for any of the disorders in the bipolar and related disorders diagnostic class. The other specified bipolar and related disorder category is used in situations in which the clinician chooses to communicate the specific reason that the presentation does not meet the criteria for any specific bipolar and related disorder. This is done by recording “other specified bipolar and related disorder” followed by the specific reason (e.g., “short-duration cyclothymia”).
+
+**Examples of presentations that can be specified using the “other specified” designation include the following:**
+1.  **Short-duration hypomanic episodes (2–3 days) and major depressive episodes:** A lifetime history of one or more major depressive episodes in individuals whose presentation has never met full criteria for a manic or hypomanic episode but who have experienced two or more episodes of short-duration hypomania that meet the full symptomatic criteria for a hypomanic episode but that only last for 2–3 days. The episodes of hypomanic symptoms do not overlap in time with the major depressive episodes, so the disturbance does not meet criteria for major depressive episode, with mixed features.
+2.  **Hypomanic episodes with insufficient symptoms and major depressive episodes:** A lifetime history of one or more major depressive episodes in individuals whose presentation has never met full criteria for a manic or hypomanic episode but who have experienced one or more episodes of hypomania that do not meet full symptomatic criteria (i.e., at least 4 consecutive days of elevated mood and one or two of the other symptoms of a hypomanic episode, or irritable mood and two or three of the other symptoms of a hypomanic episode). The episodes of hypomanic symptoms do not overlap in time with the major depressive episodes, so the disturbance does not meet criteria for major depressive episode, with mixed features.
+3.  **Hypomanic episode without prior major depressive episode:** One or more hypomanic episodes in an individual whose presentation has never met full criteria for a major depressive episode or a manic episode. If this occurs in an individual with an established diagnosis of persistent depressive disorder (dysthymia), both diagnoses can be concurrently applied during the periods when the full criteria for a hypomanic episode are met.
+4.  **Short-duration cyclothymia (less than 24 months):** Multiple episodes of hypomanic symptoms that do not meet criteria for a hypomanic episode and multiple episodes of depressive symptoms that do not meet criteria for a major depressive episode that persist over a period of less than 24 months (less than 12 months for children or adolescents) in an individual whose presentation has never met full criteria for a major depressive, manic, or hypomanic episode and does not meet criteria for any psychotic disorder. During the course of the disorder, the hypomanic or depressive symptoms are present for more days than not, the individual has not been without symptoms for more than 2 months at a time, and the symptoms cause clinically significant distress or impairment.
+
+---
+
+**Unspecified Bipolar and Related Disorder**
+This category applies to presentations in which symptoms characteristic of a bipolar and related disorder that cause clinically significant distress or impairment in social, occupational, or other important areas of functioning predominate but do not meet the full criteria for any of the disorders in the bipolar and related disorders diagnostic class. The unspecified bipolar and related disorder category is used in situations in which the clinician chooses not to specify the reason that the criteria are not met for a specific bipolar and related disorder, and includes presentations in which there is insufficient information to make a more specific diagnosis (e.g., in emergency room settings).
+
+---
+
+**Specifiers for Bipolar and Related Disorders**
+
+**With anxious distress:** The presence of at least two of the following symptoms during the majority of days of the current or most recent episode of mania, hypomania, or depression:
+1. Feeling keyed up or tense.
+2. Feeling unusually restless.
+3. Difficulty concentrating because of worry.
+4. Fear that something awful may happen.
+5. Feeling that the individual might lose control of himself or herself.
+**Specify current severity:**
+*   **Mild:** Two symptoms.
+*   **Moderate:** Three symptoms.
+*   **Moderate-severe:** Four or five symptoms.
+*   **Severe:** Four or five symptoms with motor agitation.
+
+**With mixed features:**
+**Manic or hypomanic episode, with mixed features:**
+A. Full criteria are met for a manic episode or hypomanic episode, and at least three of the following symptoms are present during the majority of days of the current or most recent episode of mania or hypomania:
+    1. Prominent dysphoria or depressed mood as indicated by either subjective report (e.g., feels sad or empty) or observation made by others (e.g., appears tearful).
+    2. Diminished interest or pleasure in all, or almost all, activities (as indicated by either subjective account or observation made by others).
+    3. Psychomotor retardation nearly every day (observable by others; not merely subjective feelings of being slowed down).
+    4. Fatigue or loss of energy.
+    5. Feelings of worthlessness or excessive or inappropriate guilt (not merely self-reproach or guilt about being sick).
+    6. Recurrent thoughts of death (not just fear of dying), recurrent suicidal ideation without a specific plan, or a suicide attempt or a specific plan for committing suicide.
+B. Mixed symptoms are observable by others and represent a change from the person’s usual behavior.
+C. For individuals whose symptoms meet full episode criteria for both mania and depression simultaneously, the diagnosis should be manic episode, with mixed features, due to the marked impairment and clinical severity of full mania.
+D. The mixed symptoms are not attributable to the physiological effects of a substance (e.g., a drug of abuse, a medication, other treatment).
+
+**Depressive episode, with mixed features:**
+A. Full criteria are met for a major depressive episode, and at least three of the following manic/hypomanic symptoms are present during the majority of days of the current or most recent episode of depression:
+    1. Elevated, expansive mood.
+    2. Inflated self-esteem or grandiosity.
+    3. More talkative than usual or pressure to keep talking.
+    4. Flight of ideas or subjective experience that thoughts are racing.
+    5. Increase in energy or goal-directed activity (either socially, at work or school, or sexually).
+    6. Increased or excessive involvement in activities that have a high potential for painful consequences (e.g., engaging in unrestrained buying sprees, sexual indiscretions, or foolish business investments).
+    7. Decreased need for sleep (feeling rested despite sleeping less than usual; to be contrasted with insomnia).
+B. Mixed symptoms are observable by others and represent a change from the person’s usual behavior.
+C. For individuals whose symptoms meet full episode criteria for both mania and depression simultaneously, the diagnosis should be manic episode, with mixed features.
+D. The mixed symptoms are not attributable to the physiological effects of a substance (e.g., a drug of abuse, a medication, or other treatment).
+
+**With rapid cycling** (can be applied to bipolar I or bipolar II disorder): Presence of at least four mood episodes in the previous 12 months that meet the criteria for manic, hypomanic, or major depressive episode.
+*Note:* Episodes are demarcated by either partial or full remissions of at least 2 months or a switch to an episode of the opposite polarity (e.g., major depressive episode to manic episode).
+
+**With melancholic features:**
+A. One of the following is present during the most severe period of the current episode:
+    1. Loss of pleasure in all, or almost all, activities.
+    2. Lack of reactivity to usually pleasurable stimuli (does not feel much better, even temporarily, when something good happens).
+B. Three (or more) of the following:
+    1. A distinct quality of depressed mood characterized by profound despondency, despair, and/or moroseness or by so-called empty mood.
+    2. Depression that is regularly worse in the morning.
+    3. Early-morning awakening (i.e., at least 2 hours before usual awakening).
+    4. Marked psychomotor agitation or retardation.
+    5. Significant anorexia or weight loss.
+    6. Excessive or inappropriate guilt.
+
+**With atypical features:** This specifier can be applied when these features predominate during the majority of days of the current or most recent major depressive episode.
+A. Mood reactivity (i.e., mood brightens in response to actual or potential positive events).
+B. Two (or more) of the following features:
+    1. Significant weight gain or increase in appetite.
+    2. Hypersomnia.
+    3. Leaden paralysis (i.e., heavy, leaden feelings in arms or legs).
+    4. A long-standing pattern of interpersonal rejection sensitivity (not limited to episodes of mood disturbance) that results in significant social or occupational impairment.
+C. Criteria are not met for “with melancholic features” or “with catatonia” during the same episode.
+
+**With psychotic features:** Delusions or hallucinations are present at any time in the episode. If psychotic features are present, specify if mood-congruent or mood-incongruent:
+*   **With mood-congruent psychotic features:** During manic episodes, the content of all delusions and hallucinations is consistent with the typical manic themes of grandiosity, invulnerability, etc., but may also include themes of suspiciousness or paranoia, especially with respect to others’ doubts about the individual’s capacities, accomplishments, and so forth.
+*   **With mood-incongruent psychotic features:** The content of delusions and hallucinations is inconsistent with the episode polarity themes as described above, or the content is a mixture of mood-incongruent and mood-congruent themes.
+
+**With catatonia:** This specifier can apply to an episode of mania or depression if catatonic features are present during most of the episode. See criteria for catatonia associated with a mental disorder in the chapter “Schizophrenia Spectrum and Other Psychotic Disorders.”
+
+**With peripartum onset:** This specifier can be applied to the current or, if the full criteria are not currently met for a mood episode, most recent episode of mania, hypomania, or major depression in bipolar I or bipolar II disorder if onset of mood symptoms occurs during pregnancy or in the 4 weeks following delivery.
+
+**With seasonal pattern:** This specifier applies to the lifetime pattern of mood episodes. The essential feature is a regular seasonal pattern of at least one type of episode (i.e., mania, hypomania, or depression). The other types of episodes may not follow this pattern. For example, an individual may have seasonal manias, but his or her depressions do not regularly occur at a specific time of year.
+A. There has been a regular temporal relationship between the onset of manic, hypomanic, or major depressive episodes and a particular time of the year (e.g., in the fall or winter) in bipolar I or bipolar II disorder.
+*Note:* Do not include cases in which there is an obvious effect of seasonally related psychosocial stressors (e.g., regularly being unemployed every winter).
+B. Full remissions (or a change from major depression to mania or hypomania or vice versa) also occur at a characteristic time of the year (e.g., depression disappears in the spring).
+C. In the last 2 years, the individual’s manic, hypomanic, or major depressive episodes have demonstrated a temporal seasonal relationship, as defined above, and no non-seasonal episodes of that polarity have occurred during that 2-year period.
+D. Seasonal manias, hypomanias, or depressions (as described above) substantially outnumber any nonseasonal manias, hypomanias, or depressions that may have occurred over the individual’s lifetime.
+
+**In partial remission:** Symptoms of the immediately previous manic, hypomanic, or depressive episode are present, but full criteria are not met, or there is a period lasting less than 2 months without any significant symptoms of a manic, hypomanic, or major depressive episode following the end of such an episode.
+
+**In full remission:** During the past 2 months, no significant signs or symptoms of the disturbance were present.
+
+**Specify current severity:**
+Severity is based on the number of criterion symptoms, the severity of those symptoms, and the degree of functional disability.
+*   **Mild:** Few, if any, symptoms in excess of those required to meet the diagnostic criteria are present, the intensity of the symptoms is distressing but manageable, and the symptoms result in minor impairment in social or occupational functioning.
+*   **Moderate:** The number of symptoms, intensity of symptoms, and/or functional impairment are between those specified for “mild” and “severe.”
+*   **Severe:** The number of symptoms is substantially in excess of those required to make the diagnosis, the intensity of the symptoms is seriously distressing and unmanageable, and the symptoms markedly interfere with social and occupational functioning.

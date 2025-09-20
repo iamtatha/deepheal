@@ -1,0 +1,265 @@
+Here are the diagnostic criteria extracted from the provided text:
+
+---
+
+### Delirium
+**Diagnostic Criteria**
+A. A disturbance in attention (i.e., reduced ability to direct, focus, sustain, and shift attention) and awareness (reduced orientation to the environment).
+B. The disturbance develops over a short period of time (usually hours to a few days), represents a change from baseline attention and awareness, and tends to fluctuate in severity during the course of a day.
+C. An additional disturbance in cognition (e.g., memory deficit, disorientation, language, visuospatial ability, or perception).
+D. The disturbances in Criteria A and C are not better explained by another preexisting, established, or evolving neurocognitive disorder and do not occur in the context of a severely reduced level of arousal, such as coma.
+E. There is evidence from the history, physical examination, or laboratory findings that the disturbance is a direct physiological consequence of another medical condition, substance intoxication or withdrawal (i.e., due to a drug of abuse or to a medication), or exposure to a toxin, or is due to multiple etiologies.
+
+**Specify whether:**
+*   **Substance intoxication delirium:** This diagnosis should be made instead of substance intoxication when the symptoms in Criteria A and C predominate in the clinical picture and when they are sufficiently severe to warrant clinical attention.
+*   **Substance withdrawal delirium:** This diagnosis should be made instead of substance withdrawal when the symptoms in Criteria A and C predominate in the clinical picture and when they are sufficiently severe to warrant clinical attention.
+*   **Medication-induced delirium:** This diagnosis applies when the symptoms in Criteria A and C arise as a side effect of a medication taken as prescribed.
+*   **Delirium due to another medical condition:** There is evidence from the history, physical examination, or laboratory findings that the disturbance is attributable to the physiological consequences of another medical condition.
+*   **Delirium due to multiple etiologies:** There is evidence from the history, physical examination, or laboratory findings that the delirium has more than one etiology (e.g., more than one etiological medical condition; another medical condition plus substance intoxication or medication side effect).
+
+**Specify if:**
+*   **Acute:** Lasting a few hours or days.
+*   **Persistent:** Lasting weeks or months.
+
+**Specify if:**
+*   **Hyperactive:** The individual has a hyperactive level of psychomotor activity that may be accompanied by mood lability, agitation, and/or refusal to cooperate with medical care.
+*   **Hypoactive:** The individual has a hypoactive level of psychomotor activity that may be accompanied by sluggishness and lethargy that approaches stupor.
+*   **Mixed level of activity:** The individual has a normal level of psychomotor activity even though attention and awareness are disturbed. Also includes individuals whose activity level rapidly fluctuates.
+
+---
+
+### Major Neurocognitive Disorder
+**Diagnostic Criteria**
+A. Evidence of significant cognitive decline from a previous level of performance in one or more cognitive domains (complex attention, executive function, learning and memory, language, perceptual-motor, or social cognition) based on:
+    1. Concern of the individual, a knowledgeable informant, or the clinician that there has been a significant decline in cognitive function; and
+    2. A substantial impairment in cognitive performance, preferably documented by standardized neuropsychological testing or, in its absence, another quantified clinical assessment.
+B. The cognitive deficits interfere with independence in everyday activities (i.e., at a minimum, requiring assistance with complex instrumental activities of daily living such as paying bills or managing medications).
+C. The cognitive deficits do not occur exclusively in the context of a delirium.
+D. The cognitive deficits are not better explained by another mental disorder (e.g., major depressive disorder, schizophrenia).
+
+**Specify whether due to:**
+*   Alzheimer’s disease
+*   Frontotemporal lobar degeneration
+*   Lewy body disease
+*   Vascular disease
+*   Traumatic brain injury
+*   Substance/medication use
+*   HIV infection
+*   Prion disease
+*   Parkinson’s disease
+*   Huntington’s disease
+*   Another medical condition
+*   Multiple etiologies
+*   Unspecified
+
+**Specify:**
+*   **Without behavioral disturbance:** If the cognitive disturbance is not accompanied by any clinically significant behavioral disturbance.
+*   **With behavioral disturbance** (specify disturbance): If the cognitive disturbance is accompanied by a clinically significant behavioral disturbance (e.g., psychotic symptoms, mood disturbance, agitation, apathy, or other behavioral symptoms).
+
+**Specify current severity:**
+*   **Mild:** Difficulties with instrumental activities of daily living (e.g., housework, managing money).
+*   **Moderate:** Difficulties with basic activities of daily living (e.g., feeding, dressing).
+*   **Severe:** Fully dependent.
+
+---
+
+### Mild Neurocognitive Disorder
+**Diagnostic Criteria**
+A. Evidence of modest cognitive decline from a previous level of performance in one or more cognitive domains (complex attention, executive function, learning and memory, language, perceptual-motor, or social cognition) based on:
+    1. Concern of the individual, a knowledgeable informant, or the clinician that there has been a mild decline in cognitive function; and
+    2. A modest impairment in cognitive performance, preferably documented by standardized neuropsychological testing or, in its absence, another quantified clinical assessment.
+B. The cognitive deficits do not interfere with capacity for independence in everyday activities (i.e., complex instrumental activities of daily living such as paying bills or managing medications are preserved, but greater effort, compensatory strategies, or accommodation may be required).
+C. The cognitive deficits do not occur exclusively in the context of a delirium.
+D. The cognitive deficits are not better explained by another mental disorder (e.g., major depressive disorder, schizophrenia).
+
+**Specify whether due to:**
+*   Alzheimer’s disease
+*   Frontotemporal lobar degeneration
+*   Lewy body disease
+*   Vascular disease
+*   Traumatic brain injury
+*   Substance/medication use
+*   HIV infection
+*   Prion disease
+*   Parkinson’s disease
+*   Huntington’s disease
+*   Another medical condition
+*   Multiple etiologies
+*   Unspecified
+
+**Specify:**
+*   **Without behavioral disturbance:** If the cognitive disturbance is not accompanied by any clinically significant behavioral disturbance.
+*   **With behavioral disturbance** (specify disturbance): If the cognitive disturbance is accompanied by a clinically significant behavioral disturbance (e.g., psychotic symptoms, mood disturbance, agitation, apathy, or other behavioral symptoms).
+
+---
+
+### Major or Mild Neurocognitive Disorder Due to Alzheimer’s Disease
+**Diagnostic Criteria**
+A. The criteria are met for major or mild neurocognitive disorder.
+B. There is insidious onset and gradual progression of impairment in one or more cognitive domains (for major neurocognitive disorder, at least two domains must be impaired).
+C. Criteria are met for either probable or possible Alzheimer’s disease as follows:
+    **For major neurocognitive disorder:**
+    **Probable Alzheimer’s disease** is diagnosed if either of the following is present; otherwise, **possible Alzheimer’s disease** should be diagnosed.
+    1. Evidence of a causative Alzheimer’s disease genetic mutation from family history or genetic testing.
+    2. All three of the following are present:
+        a. Clear evidence of decline in memory and learning and at least one other cognitive domain (based on detailed history or serial neuropsychological testing).
+        b. Steadily progressive, gradual decline in cognition, without extended plateaus.
+        c. No evidence of mixed etiology (i.e., absence of other neurodegenerative or cerebrovascular disease, or another neurological, mental, or systemic disease or condition likely contributing to cognitive decline).
+    **For mild neurocognitive disorder:**
+    **Probable Alzheimer’s disease** is diagnosed if there is evidence of a causative Alzheimer’s disease genetic mutation from either genetic testing or family history.
+    **Possible Alzheimer’s disease** is diagnosed if there is no evidence of a causative Alzheimer’s disease genetic mutation from either genetic testing or family history, and all three of the following are present:
+    1. Clear evidence of decline in memory and learning.
+    2. Steadily progressive, gradual decline in cognition, without extended plateaus.
+    3. No evidence of mixed etiology (i.e., absence of other neurodegenerative or cerebrovascular disease, or another neurological or systemic disease or condition likely contributing to cognitive decline).
+D. The disturbance is not better explained by cerebrovascular disease, another neurodegenerative disease, the effects of a substance, or another mental, neurological, or systemic disorder.
+
+---
+
+### Major or Mild Frontotemporal Neurocognitive Disorder
+**Diagnostic Criteria**
+A. The criteria are met for major or mild neurocognitive disorder.
+B. The disturbance has insidious onset and gradual progression.
+C. Either (1) or (2):
+    1. **Behavioral variant:**
+        a. Three or more of the following behavioral symptoms:
+            i. Behavioral disinhibition.
+            ii. Apathy or inertia.
+            iii. Loss of sympathy or empathy.
+            iv. Perseverative, stereotyped or compulsive/ritualistic behavior.
+            v. Hyperorality and dietary changes.
+        b. Prominent decline in social cognition and/or executive abilities.
+    2. **Language variant:**
+        a. Prominent decline in language ability, in the form of speech production, word finding, object naming, grammar, or word comprehension.
+D. Relative sparing of learning and memory and perceptual-motor function.
+E. The disturbance is not better explained by cerebrovascular disease, another neurodegenerative disease, the effects of a substance, or another mental, neurological, or systemic disorder.
+
+**Probable frontotemporal neurocognitive disorder** is diagnosed if either of the following is present; otherwise, **possible frontotemporal neurocognitive disorder** should be diagnosed:
+1. Evidence of a causative frontotemporal neurocognitive disorder genetic mutation, from either family history or genetic testing.
+2. Evidence of disproportionate frontal and/or temporal lobe involvement from neuroimaging.
+**Possible frontotemporal neurocognitive disorder** is diagnosed if there is no evidence of a genetic mutation, and neuroimaging has not been performed.
+
+---
+
+### Major or Mild Neurocognitive Disorder With Lewy Bodies
+**Diagnostic Criteria**
+A. The criteria are met for major or mild neurocognitive disorder.
+B. The disorder has an insidious onset and gradual progression.
+C. The disorder meets a combination of core diagnostic features and suggestive diagnostic features for either probable or possible neurocognitive disorder with Lewy bodies.
+    **For probable major or mild neurocognitive disorder with Lewy bodies,** the individual has two core features, or one suggestive feature with one or more core features.
+    **For possible major or mild neurocognitive disorder with Lewy bodies,** the individual has only one core feature, or one or more suggestive features.
+    1. **Core diagnostic features:**
+        a. Fluctuating cognition with pronounced variations in attention and alertness.
+        b. Recurrent visual hallucinations that are well formed and detailed.
+        c. Spontaneous features of parkinsonism, with onset subsequent to the development of cognitive decline.
+    2. **Suggestive diagnostic features:**
+        a. Meets criteria for rapid eye movement sleep behavior disorder.
+        b. Severe neuroleptic sensitivity.
+D. The disturbance is not better explained by cerebrovascular disease, another neurodegenerative disease, the effects of a substance, or another mental, neurological, or systemic disorder.
+
+---
+
+### Major or Mild Vascular Neurocognitive Disorder
+**Diagnostic Criteria**
+A. The criteria are met for major or mild neurocognitive disorder.
+B. The clinical features are consistent with a vascular etiology, as suggested by either of the following:
+    1. Onset of the cognitive deficits is temporally related to one or more cerebrovascular events.
+    2. Evidence for decline is prominent in complex attention (including processing speed) and frontal-executive function.
+C. There is evidence of the presence of cerebrovascular disease from history, physical examination, and/or neuroimaging considered sufficient to account for the neurocognitive deficits.
+D. The symptoms are not better explained by another brain disease or systemic disorder.
+
+**Probable vascular neurocognitive disorder** is diagnosed if one of the following is present; otherwise **possible vascular neurocognitive disorder** should be diagnosed:
+1. Clinical criteria are supported by neuroimaging evidence of significant parenchymal injury attributed to cerebrovascular disease (neuroimaging-supported).
+2. The neurocognitive syndrome is temporally related to one or more documented cerebrovascular events.
+3. Both clinical and genetic (e.g., cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy) evidence of cerebrovascular disease is present.
+**Possible vascular neurocognitive disorder** is diagnosed if the clinical criteria are met but neuroimaging is not available and the temporal relationship of the neurocognitive syndrome with one or more cerebrovascular events is not established.
+
+---
+
+### Major or Mild Neurocognitive Disorder Due to Traumatic Brain Injury
+**Diagnostic Criteria**
+A. The criteria are met for major or mild neurocognitive disorder.
+B. There is evidence of a traumatic brain injury—that is, an impact to the head or other mechanisms of rapid movement or displacement of the brain within the skull, with one or more of the following:
+    1. Loss of consciousness.
+    2. Posttraumatic amnesia.
+    3. Disorientation and confusion.
+    4. Neurological signs (e.g., neuroimaging demonstrating injury; a new onset of seizures; a marked worsening of a preexisting seizure disorder; visual field cuts; anosmia; hemiparesis).
+C. The neurocognitive disorder presents immediately after the occurrence of the traumatic brain injury or immediately after recovery of consciousness and persists past the acute post-injury period.
+
+**Specifiers**
+Rate the severity of the neurocognitive disorder (NCD), not the underlying traumatic brain injury.
+
+---
+
+### Substance/Medication-Induced Major or Mild Neurocognitive Disorder
+**Diagnostic Criteria**
+A. The criteria are met for major or mild neurocognitive disorder.
+B. The neurocognitive impairments do not occur exclusively during the course of a delirium and persist beyond the usual duration of intoxication and acute withdrawal.
+C. The involved substance or medication and duration and extent of use are capable of producing the neurocognitive impairment.
+D. The temporal course of the neurocognitive deficits is consistent with the timing of substance or medication use and abstinence (e.g., the deficits remain stable or improve after a period of abstinence).
+E. The neurocognitive disorder is not attributable to another medical condition or is not better explained by another mental disorder.
+
+**Specify if:**
+*   **Persistent:** Neurocognitive impairment continues to be significant after an extended period of abstinence.
+
+---
+
+### Major or Mild Neurocognitive Disorder Due to HIV Infection
+**Diagnostic Criteria**
+A. The criteria are met for major or mild neurocognitive disorder.
+B. There is documented infection with human immunodeficiency virus (HIV).
+C. The neurocognitive disorder is not better explained by non-HIV conditions, including secondary brain diseases such as progressive multifocal leukoencephalopathy or cryptococcal meningitis.
+D. The neurocognitive disorder is not attributable to another medical condition and is not better explained by a mental disorder.
+
+---
+
+### Major or Mild Neurocognitive Disorder Due to Prion Disease
+**Diagnostic Criteria**
+A. The criteria are met for major or mild neurocognitive disorder.
+B. There is insidious onset, and rapid progression of impairment is common.
+C. There are motor features of prion disease, such as myoclonus or ataxia, or biomarker evidence.
+D. The neurocognitive disorder is not attributable to another medical condition and is not better explained by another mental disorder.
+
+---
+
+### Major or Mild Neurocognitive Disorder Due to Parkinson’s Disease
+**Diagnostic Criteria**
+A. The criteria are met for major or mild neurocognitive disorder.
+B. The disturbance occurs in the setting of established Parkinson’s disease.
+C. There is insidious onset and gradual progression of impairment.
+D. The neurocognitive disorder is not attributable to another medical condition and is not better explained by another mental disorder.
+
+**Major or mild neurocognitive disorder probably due to Parkinson’s disease** should be diagnosed if 1 and 2 are both met. **Major or mild neurocognitive disorder possibly due to Parkinson’s disease** should be diagnosed if 1 or 2 is met:
+1. There is no evidence of mixed etiology (i.e., absence of other neurodegenerative or cerebrovascular disease or another neurological, mental, or systemic disease or condition likely contributing to cognitive decline).
+2. The Parkinson’s disease clearly precedes the onset of the neurocognitive disorder.
+
+---
+
+### Major or Mild Neurocognitive Disorder Due to Huntington’s Disease
+**Diagnostic Criteria**
+A. The criteria are met for major or mild neurocognitive disorder.
+B. There is insidious onset and gradual progression.
+C. There is clinically established Huntington’s disease, or risk for Huntington’s disease based on family history or genetic testing.
+D. The neurocognitive disorder is not attributable to another medical condition and is not better explained by another mental disorder.
+
+---
+
+### Major or Mild Neurocognitive Disorder Due to Another Medical Condition
+**Diagnostic Criteria**
+A. The criteria are met for major or mild neurocognitive disorder.
+B. There is evidence from the history, physical examination, or laboratory findings that the neurocognitive disorder is the pathophysiological consequence of another medical condition.
+C. The cognitive deficits are not better explained by another mental disorder or another specific neurocognitive disorder (e.g., Alzheimer’s disease, HIV infection).
+
+---
+
+### Major or Mild Neurocognitive Disorder Due to Multiple Etiologies
+**Diagnostic Criteria**
+A. The criteria are met for major or mild neurocognitive disorder.
+B. There is evidence from the history, physical examination, or laboratory findings that the neurocognitive disorder is the pathophysiological consequence of more than one etiological process, excluding substances (e.g., neurocognitive disorder due to Alzheimer’s disease with subsequent development of vascular neurocognitive disorder).
+    *Note:* Please refer to the diagnostic criteria for the various neurocognitive disorders due to specific medical conditions for guidance on establishing the particular etiologies.
+C. The cognitive deficits are not better explained by another mental disorder and do not occur exclusively during the course of a delirium.
+
+---
+
+### Unspecified Neurocognitive Disorder
+**Diagnostic Criteria**
+This category applies to presentations in which symptoms characteristic of a neurocognitive disorder that cause clinically significant distress or impairment in social, occupational, or other important areas of functioning predominate but do not meet the full criteria for any of the disorders in the neurocognitive disorders diagnostic class. The unspecified neurocognitive disorder category is used in situations in which the precise etiology cannot be determined with sufficient certainty to make an etiological attribution.

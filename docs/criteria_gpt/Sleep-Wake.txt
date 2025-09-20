@@ -1,0 +1,281 @@
+Here are the diagnostic criteria for each sleep-wake disorder from the provided text:
+
+---
+
+**Insomnia Disorder**
+Diagnostic Criteria 307.42 (F51.01)
+A. A predominant complaint of dissatisfaction with sleep quantity or quality, associated with one (or more) of the following symptoms:
+    1. Difficulty initiating sleep. (In children, this may manifest as difficulty initiating sleep without caregiver intervention.)
+    2. Difficulty maintaining sleep, characterized by frequent awakenings or problems returning to sleep after awakenings. (In children, this may manifest as difficulty returning to sleep without caregiver intervention.)
+    3. Early-morning awakening with inability to return to sleep.
+B. The sleep disturbance causes clinically significant distress or impairment in social, occupational, educational, academic, behavioral, or other important areas of functioning.
+C. The sleep difficulty occurs at least 3 nights per week.
+D. The sleep difficulty is present for at least 3 months.
+E. The sleep difficulty occurs despite adequate opportunity for sleep.
+F. The insomnia is not better explained by and does not occur exclusively during the course of another sleep-wake disorder (e.g., narcolepsy, a breathing-related sleep disorder, a circadian rhythm sleep-wake disorder, a parasomnia).
+G. The insomnia is not attributable to the physiological effects of a substance (e.g., a drug of abuse, a medication).
+H. Coexisting mental disorders and medical conditions do not adequately explain the predominant complaint of insomnia.
+
+**Specify if:**
+*   With non–sleep disorder mental comorbidity, including substance use disorders
+*   With other medical comorbidity
+*   With other sleep disorder
+
+**Specify if:**
+*   Episodic: Symptoms last at least 1 month but less than 3 months.
+*   Persistent: Symptoms last 3 months or longer.
+*   Recurrent: Two (or more) episodes within the space of 1 year.
+
+---
+
+**Hypersomnolence Disorder**
+Diagnostic Criteria 307.44 (F51.11)
+A. Self-reported excessive sleepiness (hypersomnolence) despite a main sleep period lasting at least 7 hours, with at least one of the following symptoms:
+    1. Recurrent periods of sleep or lapses into sleep within the same day.
+    2. A prolonged main sleep episode of more than 9 hours per day that is nonrestorative (i.e., unrefreshing).
+    3. Difficulty being fully awake after abrupt awakening.
+B. The hypersomnolence occurs at least three times per week, for at least 3 months.
+C. The hypersomnolence is accompanied by significant distress or impairment in cognitive, social, occupational, or other important areas of functioning.
+D. The hypersomnolence is not better explained by and does not occur exclusively during the course of another sleep disorder (e.g., narcolepsy, breathing-related sleep disorder, circadian rhythm sleep-wake disorder, or a parasomnia).
+E. The hypersomnolence is not attributable to the physiological effects of a substance (e.g., a drug of abuse, a medication).
+F. Coexisting mental and medical disorders do not adequately explain the predominant complaint of hypersomnolence.
+
+**Specify if:**
+*   With mental disorder, including substance use disorders
+*   With medical condition
+*   With another sleep disorder
+
+**Specify if:**
+*   Acute: Duration of less than 1 month.
+*   Subacute: Duration of 1–3 months.
+*   Persistent: Duration of more than 3 months.
+
+**Specify current severity:**
+*   Mild: Difficulty maintaining daytime alertness 1–2 days/week.
+*   Moderate: Difficulty maintaining daytime alertness 3–4 days/week.
+*   Severe: Difficulty maintaining daytime alertness 5–7 days/week.
+
+---
+
+**Narcolepsy**
+Diagnostic Criteria
+A. Recurrent periods of an irrepressible need to sleep, lapsing into sleep, or napping occurring within the same day. These must have been occurring at least three times per week over the past 3 months.
+B. The presence of at least one of the following:
+    1. Episodes of cataplexy, defined as either (a) or (b), occurring at least a few times per month:
+        a. In individuals with long-standing disease, brief (seconds to minutes) episodes of sudden bilateral loss of muscle tone with maintained consciousness that are precipitated by laughter or joking.
+        b. In children or in individuals within 6 months of onset, spontaneous grimaces or jaw-opening episodes with tongue thrusting or a global hypotonia, without any obvious emotional triggers.
+    2. Hypocretin deficiency, as measured using cerebrospinal fluid (CSF) hypocretin-1 immunoreactivity values (less than or equal to one-third of values obtained in healthy subjects tested using the same assay, or less than or equal to 110 pg/mL). Low CSF levels of hypocretin-1 must not be observed in the context of acute brain injury, inflammation, or infection.
+    3. Nocturnal sleep polysomnography showing rapid eye movement (REM) sleep latency less than or equal to 15 minutes, or a multiple sleep latency test showing a mean sleep latency less than or equal to 8 minutes and two or more sleep-onset REM periods.
+
+**Specify whether:**
+*   347.00 (G47.419) Narcolepsy without cataplexy but with hypocretin deficiency: Criterion B requirements of low CSF hypocretin-1 levels and positive polysomnography/multiple sleep latency test are met, but no cataplexy is present (Criterion B1 not met).
+*   347.01 (G47.411) Narcolepsy with cataplexy but without hypocretin deficiency: In this rare subtype (less than 5% of narcolepsy cases), Criterion B requirements of cataplexy and positive polysomnography/multiple sleep latency test are met, but CSF hypocretin-1 levels are normal (Criterion B2 not met).
+*   347.00 (G47.419) Autosomal dominant cerebellar ataxia, deafness, and narcolepsy: This subtype is caused by exon 21 DNA (cytosine-5)-methyltransferase-1 mutations and is characterized by late-onset (age 30–40 years) narcolepsy (with low or intermediate CSF hypocretin-1 levels), deafness, cerebellar ataxia, and eventually dementia.
+*   347.00 (G47.419) Autosomal dominant narcolepsy, obesity, and type 2 diabetes: Narcolepsy, obesity, and type 2 diabetes and low CSF hypocretin-1 levels have been described in rare cases and are associated with a mutation in the myelin oligodendrocyte glycoprotein gene.
+*   347.10 (G47.429) Narcolepsy secondary to another medical condition: This subtype is for narcolepsy that develops secondary to medical conditions that cause infectious (e.g., Whipple’s disease, sarcoidosis), traumatic, or tumoral destruction of hypocretin neurons.
+
+**Specify current severity:**
+*   Mild: Infrequent cataplexy (less than once per week), need for naps only once or twice per day, and less disturbed nocturnal sleep.
+*   Moderate: Cataplexy once daily or every few days, disturbed nocturnal sleep, and need for multiple naps daily.
+*   Severe: Drug-resistant cataplexy with multiple attacks daily, nearly constant sleepiness, and disturbed nocturnal sleep (i.e., movements, insomnia, and vivid dreaming).
+
+---
+
+**Breathing-Related Sleep Disorders**
+
+**Obstructive Sleep Apnea Hypopnea**
+Diagnostic Criteria 327.23 (G47.33)
+A. Either (1) or (2):
+    1. Evidence by polysomnography of at least five obstructive apneas or hypopneas per hour of sleep and either of the following sleep symptoms:
+        a. Nocturnal breathing disturbances: snoring, snorting/gasping, or breathing pauses during sleep.
+        b. Daytime sleepiness, fatigue, or unrefreshing sleep despite sufficient opportunities to sleep that is not better explained by another mental disorder (including a sleep disorder) and is not attributable to another medical condition.
+    2. Evidence by polysomnography of 15 or more obstructive apneas and/or hypopneas per hour of sleep regardless of accompanying symptoms.
+
+**Specify current severity:**
+*   Mild: Apnea hypopnea index is less than 15.
+*   Moderate: Apnea hypopnea index is 15–30.
+*   Severe: Apnea hypopnea index is greater than 30.
+
+**Central Sleep Apnea**
+Diagnostic Criteria
+A. Evidence by polysomnography of five or more central apneas per hour of sleep.
+B. The disorder is not better explained by another current sleep disorder.
+
+**Specify whether:**
+*   327.21 (G47.31) Idiopathic central sleep apnea: Characterized by repeated episodes of apneas and hypopneas during sleep caused by variability in respiratory effort but without evidence of airway obstruction.
+*   786.04 (R06.3) Cheyne-Stokes breathing: A pattern of periodic crescendo-decrescendo variation in tidal volume that results in central apneas and hypopneas at a frequency of at least five events per hour, accompanied by frequent arousal.
+*   780.57 (G47.37) Central sleep apnea comorbid with opioid use: The pathogenesis of this subtype is attributed to the effects of opioids on the respiratory rhythm generators in the medulla as well as the differential effects on hypoxic versus hypercapnic respiratory drive.
+
+**Specify current severity:**
+*   Severity of central sleep apnea is graded according to the frequency of the breathing disturbances as well as the extent of associated oxygen desaturation and sleep fragmentation that occur as a consequence of repetitive respiratory disturbances. The presence of blood gas abnormalities during wakefulness is an indicator of greater severity.
+
+**Sleep-Related Hypoventilation**
+Diagnostic Criteria
+A. Polysomnograpy demonstrates episodes of decreased respiration associated with elevated CO2 levels. (Note: In the absence of objective measurement of CO2, persistent low levels of hemoglobin oxygen saturation unassociated with apneic/hypopneic events may indicate hypoventilation.)
+B. The disturbance is not better explained by another current sleep disorder.
+
+**Specify whether:**
+*   327.24 (G47.34) Idiopathic hypoventilation: This subtype is not attributable to any readily identified condition.
+*   327.25 (G47.35) Congenital central alveolar hypoventilation: This subtype is a rare congenital disorder in which the individual typically presents in the perinatal period with shallow breathing, or cyanosis and apnea during sleep.
+*   327.26 (G47.36) Comorbid sleep-related hypoventilation: This subtype occurs as a consequence of a medical condition, such as a pulmonary disorder (e.g., interstitial lung disease, chronic obstructive pulmonary disease) or a neuromuscular or chest wall disorder (e.g., muscular dystrophies, postpolio syndrome, cervical spinal cord injury, kyphoscoliosis), or medications (e.g., benzodiazepines, opiates). It also occurs with obesity (obesity hypoventilation disorder), where it reflects a combination of increased work of breathing due to reduced chest wall compliance and ventilation-perfusion mismatch and variably reduced ventilatory drive. Such individuals usually are characterized by body mass index of greater than 30 and hypercapnia during wakefulness (with a pCO2 of greater than 45), without other evidence of hypoventilation.
+
+**Specify current severity:**
+*   Severity is graded according to the degree of hypoxemia and hypercarbia present during sleep and evidence of end organ impairment due to these abnormalities (e.g., right-sided heart failure). The presence of blood gas abnormalities during wakefulness is an indicator of greater severity.
+
+---
+
+**Circadian Rhythm Sleep-Wake Disorders**
+Diagnostic Criteria
+A. A persistent or recurrent pattern of sleep disruption that is primarily due to an alteration of the circadian system or to a misalignment between the endogenous circadian rhythm and the sleep–wake schedule required by an individual’s physical environment or social or professional schedule.
+B. The sleep disruption leads to excessive sleepiness or insomnia, or both.
+C. The sleep disturbance causes clinically significant distress or impairment in social, occupational, and other important areas of functioning.
+
+**Specify whether:**
+*   307.45 (G47.21) Delayed sleep phase type: A pattern of delayed sleep onset and awakening times, with an inability to fall asleep and awaken at a desired or conventionally acceptable earlier time.
+    *   **Specify if:** Familial: A family history of delayed sleep phase is present.
+    *   **Specify if:** Overlapping with non-24-hour sleep-wake type: Delayed sleep phase type may overlap with another circadian rhythm sleep-wake disorder, non-24-hour sleep-wake type.
+*   307.45 (G47.22) Advanced sleep phase type: A pattern of advanced sleep onset and awakening times, with an inability to remain awake or asleep until the desired or conventionally acceptable later sleep or wake times.
+    *   **Specify if:** Familial: A family history of advanced sleep phase is present.
+*   307.45 (G47.23) Irregular sleep-wake type: A temporally disorganized sleep-wake pattern, such that the timing of sleep and wake periods is variable throughout the 24-hour period.
+*   307.45 (G47.24) Non-24-hour sleep-wake type: A pattern of sleep-wake cycles that is not synchronized to the 24-hour environment, with a consistent daily drift (usually to later and later times) of sleep onset and wake times.
+*   307.45 (G47.26) Shift work type: Insomnia during the major sleep period and/or excessive sleepiness (including inadvertent sleep) during the major awake period associated with a shift work schedule (i.e., requiring unconventional work hours).
+*   307.45 (G47.20) Unspecified type
+
+**Specify if:**
+*   Episodic: Symptoms last at least 1 month but less than 3 months.
+*   Persistent: Symptoms last 3 months or longer.
+*   Recurrent: Two or more episodes occur within the space of 1 year.
+
+---
+
+**Non–Rapid Eye Movement Sleep Arousal Disorders**
+Diagnostic Criteria
+A. Recurrent episodes of incomplete awakening from sleep, usually occurring during the first third of the major sleep episode, accompanied by either one of the following:
+    1. Sleepwalking: Repeated episodes of rising from bed during sleep and walking about. While sleepwalking, the individual has a blank, staring face; is relatively unresponsive to the efforts of others to communicate with him or her; and can be awakened only with great difficulty.
+    2. Sleep terrors: Recurrent episodes of abrupt terror arousals from sleep, usually beginning with a panicky scream. There is intense fear and signs of autonomic arousal, such as mydriasis, tachycardia, rapid breathing, and sweating, during each episode. There is relative unresponsiveness to efforts of others to comfort the individual during the episodes.
+B. No or little (e.g., only a single visual scene) dream imagery is recalled.
+C. Amnesia for the episodes is present.
+D. The episodes cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+E. The disturbance is not attributable to the physiological effects of a substance (e.g., a drug of abuse, a medication).
+F. Coexisting mental and medical disorders do not explain the episodes of sleepwalking or sleep terrors.
+
+**Specify whether:**
+*   307.46 (F51.3) Sleepwalking type
+    *   **Specify if:** With sleep-related eating
+    *   **Specify if:** With sleep-related sexual behavior (sexsomnia)
+*   307.46 (F51.4) Sleep terror type
+
+---
+
+**Nightmare Disorder**
+Diagnostic Criteria 307.47 (F51.5)
+A. Repeated occurrences of extended, extremely dysphoric, and well-remembered dreams that usually involve efforts to avoid threats to survival, security, or physical integrity and that generally occur during the second half of the major sleep episode.
+B. On awakening from the dysphoric dreams, the individual rapidly becomes oriented and alert.
+C. The sleep disturbance causes clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+D. The nightmare symptoms are not attributable to the physiological effects of a substance (e.g., a drug of abuse, a medication).
+E. Coexisting mental and medical disorders do not adequately explain the predominant complaint of dysphoric dreams.
+
+**Specify if:**
+*   During sleep onset
+*   With associated non–sleep disorder, including substance use disorders
+*   With associated other medical condition
+*   With associated other sleep disorder
+
+**Specify if:**
+*   Acute: Duration of period of nightmares is 1 month or less.
+*   Subacute: Duration of period of nightmares is greater than 1 month but less than 6 months.
+*   Persistent: Duration of period of nightmares is 6 months or greater.
+
+**Specify current severity:**
+*   Mild: Less than one episode per week on average.
+*   Moderate: One or more episodes per week but less than nightly.
+*   Severe: Episodes nightly.
+
+---
+
+**Rapid Eye Movement Sleep Behavior Disorder**
+Diagnostic Criteria 327.42 (G47.52)
+A. Repeated episodes of arousal during sleep associated with vocalization and/or complex motor behaviors.
+B. These behaviors arise during rapid eye movement (REM) sleep and therefore usually occur more than 90 minutes after sleep onset, are more frequent during the later portions of the sleep period, and uncommonly occur during daytime naps.
+C. Upon awakening from these episodes, the individual is completely awake, alert, and not confused or disoriented.
+D. Either of the following:
+    1. REM sleep without atonia on polysomnographic recording.
+    2. A history suggestive of REM sleep behavior disorder and an established synucleinopathy diagnosis (e.g., Parkinson’s disease, multiple system atrophy).
+E. The behaviors cause clinically significant distress or impairment in social, occupational, or other important areas of functioning (which may include injury to self or the bed partner).
+F. The disturbance is not attributable to the physiological effects of a substance (e.g., a drug of abuse, a medication) or another medical condition.
+G. Coexisting mental and medical disorders do not explain the episodes.
+
+---
+
+**Restless Legs Syndrome**
+Diagnostic Criteria 333.94 (G25.81)
+A. An urge to move the legs, usually accompanied by or in response to uncomfortable and unpleasant sensations in the legs, characterized by all of the following:
+    1. The urge to move the legs begins or worsens during periods of rest or inactivity.
+    2. The urge to move the legs is partially or totally relieved by movement.
+    3. The urge to move the legs is worse in the evening or at night than during the day, or occurs only in the evening or at night.
+B. The symptoms in Criterion A occur at least three times per week and have persisted for at least 3 months.
+C. The symptoms in Criterion A are accompanied by significant distress or impairment in social, occupational, educational, academic, behavioral, or other important areas of functioning.
+D. The symptoms in Criterion A are not attributable to another mental disorder or medical condition (e.g., arthritis, leg edema, peripheral ischemia, leg cramps) and are not better explained by a behavioral condition (e.g., positional discomfort, habitual foot tapping).
+E. The symptoms are not attributable to the physiological effects of a drug of abuse or medication (e.g., akathisia).
+
+---
+
+**Substance/Medication-Induced Sleep Disorder**
+Diagnostic Criteria
+A. A prominent and severe disturbance in sleep.
+B. There is evidence from the history, physical examination, or laboratory findings of both (1) and (2):
+    1. The symptoms in Criterion A developed during or soon after substance intoxication or after withdrawal from or exposure to a medication.
+    2. The involved substance/medication is capable of producing the symptoms in Criterion A.
+C. The disturbance is not better explained by a sleep disorder that is not substance/medication-induced. Such evidence of an independent sleep disorder could include the following:
+    The symptoms precede the onset of the substance/medication use; the symptoms persist for a substantial period of time (e.g., about 1 month) after the cessation of acute withdrawal or severe intoxication; or there is other evidence suggesting the existence of an independent non-substance/medication-induced sleep disorder (e.g., a history of recurrent non-substance/medication-related episodes).
+D. The disturbance does not occur exclusively during the course of a delirium.
+E. The disturbance causes clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+
+**Specify whether:**
+*   Insomnia type: Characterized by difficulty falling asleep or maintaining sleep, frequent nocturnal awakenings, or nonrestorative sleep.
+*   Daytime sleepiness type: Characterized by predominant complaint of excessive sleepiness/fatigue during waking hours or, less commonly, a long sleep period.
+*   Parasomnia type: Characterized by abnormal behavioral events during sleep.
+*   Mixed type: Characterized by a substance/medication-induced sleep problem characterized by multiple types of sleep symptoms, but no symptom clearly predominates.
+
+**Specify if:**
+*   With onset during intoxication: This specifier should be used if criteria are met for intoxication with the substance/medication and symptoms developed during the intoxication period.
+*   With onset during discontinuation/withdrawal: This specifier should be used if criteria are met for discontinuation/withdrawal from the substance/medication and symptoms developed during, or shortly after, discontinuation of the substance/medication.
+
+---
+
+**Other Specified Insomnia Disorder**
+780.52 (G47.09)
+This category applies to presentations in which symptoms characteristic of insomnia disorder that cause clinically significant distress or impairment in social, occupational, or other important areas of functioning predominate but do not meet the full criteria for insomnia disorder or any of the disorders in the sleep-wake disorders diagnostic class. The other specified insomnia disorder category is used in situations in which the clinician chooses to communicate the specific reason that the presentation does not meet the criteria for insomnia disorder or any specific sleep-wake disorder. This is done by recording “other specified insomnia disorder” followed by the specific reason (e.g., “brief insomnia disorder”).
+Examples of presentations that can be specified using the “other specified” designation include the following:
+1.  Brief insomnia disorder: Duration is less than 3 months.
+2.  Restricted to nonrestorative sleep: Predominant complaint is nonrestorative sleep unaccompanied by other sleep symptoms such as difficulty falling asleep or remaining asleep.
+
+---
+
+**Unspecified Insomnia Disorder**
+780.52 (G47.00)
+This category applies to presentations in which symptoms characteristic of insomnia disorder that cause clinically significant distress or impairment in social, occupational, or other important areas of functioning predominate but do not meet the full criteria for insomnia disorder or any of the disorders in the sleep-wake disorders diagnostic class. The unspecified insomnia disorder category is used in situations in which the clinician chooses not to specify the reason that the criteria are not met for insomnia disorder or a specific sleep-wake disorder, and includes presentations in which there is insufficient information to make a more specific diagnosis.
+
+---
+
+**Other Specified Hypersomnolence Disorder**
+780.54 (G47.19)
+This category applies to presentations in which symptoms characteristic of hypersomnolence disorder that cause clinically significant distress or impairment in social, occupational, or other important areas of functioning predominate but do not meet the full criteria for hypersomnolence disorder or any of the disorders in the sleep-wake disorders diagnostic class. The other specified hypersomnolence disorder category is used in situations in which the clinician chooses to communicate the specific reason that the presentation does not meet the criteria for hypersomnolence disorder or any specific sleep-wake disorder. This is done by recording “other specified hypersomnolence disorder” followed by the specific reason (e.g., “brief-duration hypersomnolence,” as in Kleine-Levin syndrome).
+
+---
+
+**Unspecified Hypersomnolence Disorder**
+780.54 (G47.10)
+This category applies to presentations in which symptoms characteristic of hypersomnolence disorder that cause clinically significant distress or impairment in social, occupational, or other important areas of functioning predominate but do not meet the full criteria for hypersomnolence disorder or any of the disorders in the sleep-wake disorders diagnostic class. The unspecified hypersomnolence disorder category is used in situations in which the clinician chooses not to specify the reason that the criteria are not met for hypersomnolence disorder or a specific sleep-wake disorder, and includes presentations in which there is insufficient information to make a more specific diagnosis.
+
+---
+
+**Other Specified Sleep-Wake Disorder**
+780.59 (G47.8)
+This category applies to presentations in which symptoms characteristic of a sleep-wake disorder that cause clinically significant distress or impairment in social, occupational, or other important areas of functioning predominate but do not meet the full criteria for any of the disorders in the sleep-wake disorders diagnostic class and do not qualify for a diagnosis of other specified insomnia disorder or other specified hypersomnolence disorder. The other specified sleep-wake disorder category is used in situations in which the clinician chooses to communicate the specific reason that the presentation does not meet the criteria for any specific sleep-wake disorder. This is done by recording “other specified sleep-wake disorder” followed by the specific reason (e.g., “repeated arousals during rapid eye movement sleep without polysomnography or history of Parkinson’s disease or other synucleinopathy”).
+
+---
+
+**Unspecified Sleep-Wake Disorder**
+780.59 (G47.9)
+This category applies to presentations in which symptoms characteristic of a sleep-wake disorder that cause clinically significant distress or impairment in social, occupational, or other important areas of functioning predominate but do not meet the full criteria for any of the disorders in the sleep-wake disorders diagnostic class and do not qualify for a diagnosis of unspecified insomnia disorder or unspecified hypersomnolence disorder. The unspecified sleep-wake disorder category is used in situations in which the clinician chooses not to specify the reason that the criteria are not met for a specific sleep-wake disorder, and includes presentations in which there is insufficient information to make a more specific diagnosis.

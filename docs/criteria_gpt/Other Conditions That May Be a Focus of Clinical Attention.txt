@@ -1,0 +1,1107 @@
+The user wants to extract diagnostic criteria from the provided text. I need to go through each condition and identify the specific criteria listed for its diagnosis.
+
+Here's a plan:
+1.  **Identify each condition** that has "Proposed Diagnostic Criteria" or "Diagnostic Criteria" explicitly stated.
+2.  For each identified condition, **extract the criteria verbatim**, including any sub-points (A, B, C, 1, 2, 3, etc.) and notes.
+3.  Pay close attention to conditions under "Conditions for Further Study" as they explicitly state "Proposed Criteria".
+4.  For "Other Conditions That May Be a Focus of Clinical Attention", these are generally descriptive and do not have formal diagnostic criteria in the same way mental disorders do. I will extract the *description of when the category should be used* as that serves a similar function to diagnostic criteria for these non-disorder conditions.
+5.  For "Personality Disorders" (Section II), I will extract the criteria as presented.
+6.  For "Alternative DSM-5 Model for Personality Disorders" (Section III), I will extract the "General Criteria for Personality Disorder" and then the "Proposed Diagnostic Criteria" for each specific personality disorder listed under this alternative model.
+
+Let's start extracting.
+
+---
+
+**715 Other Conditions That May Be a Focus of Clinical Attention**
+*   **General Description for the Chapter:** "A condition or problem in this chapter may be coded if it is a reason for the current visit or helps to explain the need for a test, procedure, or treatment. Conditions and problems in this chapter may also be included in the medical record as useful information on circumstances that may affect the patient’s care, regardless of their relevance to the current visit."
+
+**Relational Problems**
+
+*   **V61.20 (Z62.820) Parent-Child Relational Problem**
+    *   **Criteria:** This category should be used when the main focus of clinical attention is to address the quality of the parent-child relationship or when the quality of the parent-child relationship is affecting the course, prognosis, or treatment of a mental or other medical disorder. Typically, the parent-child relational problem is associated with impaired functioning in behavioral, cognitive, or affective domains.
+        *   *Examples of behavioral problems:* inadequate parental control, supervision, and involvement with the child; parental overprotection; excessive parental pressure; arguments that escalate to threats of physical violence; and avoidance without resolution of problems.
+        *   *Cognitive problems:* negative attributions of the other’s intentions, hostility toward or scapegoating of the other, and unwarranted feelings of estrangement.
+        *   *Affective problems:* feelings of sadness, apathy, or anger about the other individual in the relationship.
+        *   *Note:* Clinicians should take into account the developmental needs of the child and the cultural context.
+
+*   **V61.8 (Z62.891) Sibling Relational Problem**
+    *   **Criteria:** This category should be used when the focus of clinical attention is a pattern of interaction among siblings that is associated with significant impairment in individual or family functioning or with development of symptoms in one or more of the siblings, or when a sibling relational problem is affecting the course, prognosis, or treatment of a sibling’s mental or other medical disorder. This category can be used for either children or adults if the focus is on the sibling relationship. Siblings in this context include full, half-, step-, foster, and adopted siblings.
+
+*   **V61.8 (Z62.29) Upbringing Away From Parents**
+    *   **Criteria:** This category should be used when the main focus of clinical attention pertains to issues regarding a child being raised away from the parents or when this separate upbringing affects the course, prognosis, or treatment of a mental or other medical disorder. The child could be one who is under state custody and placed in kin care or foster care. The child could also be one who is living in a nonparental relative’s home, or with friends, but whose out-of-home placement is not mandated or sanctioned by the courts. Problems related to a child living in a group home or orphanage are also included. This category excludes issues related to V60.6 (Z59.3) children in boarding schools.
+
+*   **V61.29 (Z62.898) Child Affected by Parental Relationship Distress**
+    *   **Criteria:** This category should be used when the focus of clinical attention is the negative effects of parental relationship discord (e.g., high levels of conflict, distress, or disparagement) on a child in the family, including effects on the child’s mental or other medical disorders.
+
+**Other Problems Related to Primary Support Group**
+
+*   **V61.10 (Z63.0) Relationship Distress With Spouse or Intimate Partner**
+    *   **Criteria:** This category should be used when the major focus of the clinical contact is to address the quality of the intimate (spouse or partner) relationship or when the quality of that relationship is affecting the course, prognosis, or treatment of a mental or other medical disorder. Partners can be of the same or different genders. Typically, the relationship distress is associated with impaired functioning in behavioral, cognitive, or affective domains.
+        *   *Examples of behavioral problems:* conflict resolution difficulty, withdrawal, and overinvolvement.
+        *   *Cognitive problems:* chronic negative attributions of the other’s intentions or dismissals of the partner’s positive behaviors.
+        *   *Affective problems:* chronic sadness, apathy, and/or anger about the other partner.
+        *   *Note:* This category excludes clinical encounters for V61.1x (Z69.1x) mental health services for spousal or partner abuse problems and V65.49 (Z70.9) sex counseling.
+
+*   **V61.03 (Z63.5) Disruption of Family by Separation or Divorce**
+    *   **Criteria:** This category should be used when partners in an intimate adult couple are living apart due to relationship problems or are in the process of divorce.
+
+*   **V61.8 (Z63.8) High Expressed Emotion Level Within Family**
+    *   **Criteria:** This category should be used when a family’s high level of expressed emotion is the focus of clinical attention or is affecting the course, prognosis, or treatment of a family member’s mental or other medical disorder.
+
+*   **V62.82 (Z63.4) Uncomplicated Bereavement**
+    *   **Criteria:** This category can be used when the focus of clinical attention is a normal reaction to the death of a loved one. As part of their reaction to such a loss, some grieving individuals present with symptoms characteristic of a major depressive episode—for example, feelings of sadness and associated symptoms such as insomnia, poor appetite, and weight loss. The bereaved individual typically regards the depressed mood as “normal,” although the individual may seek professional help for relief of associated symptoms such as insomnia or anorexia. The duration and expression of “normal” bereavement vary considerably among different cultural groups. Further guidance in distinguishing grief from a major depressive episode is provided in the criteria for major depressive episode.
+
+**Abuse and Neglect**
+*   **General Description:** "Maltreatment by a family member (e.g., caregiver, intimate adult partner) or by a nonrelative can be the area of current clinical focus, or such maltreatment can be an important factor in the assessment and treatment of patients with mental or other medical disorders. Because of the legal implications of abuse and neglect, care should be used in assessing these conditions and assigning these codes. Having a past history of abuse or neglect can influence diagnosis and treatment response in a number of mental disorders, and may also be noted along with the diagnosis."
+*   **Coding Note for ICD-10-CM Abuse and Neglect Conditions:** For T codes only, the 7th character should be coded as follows:
+    *   A (initial encounter) —Use while the patient is receiving active treatment for the condition (e.g., surgical treatment, emergency department encounter, evaluation and treatment by a new clinician); or
+    *   D (subsequent encounter) —Use for encounters after the patient has received active treatment for the condition and when he or she is receiving routine care for the condition during the healing or recovery phase (e.g., cast change or removal, removal of external or internal fixation device, medication adjustment, other aftercare and follow-up visits).
+
+**Child Maltreatment and Neglect Problems**
+
+*   **Child Physical Abuse**
+    *   **Definition:** Child physical abuse is nonaccidental physical injury to a child—ranging from minor bruises to severe fractures or death—occurring as a result of punching, beating, kicking, biting, shaking, throwing, stabbing, choking, hitting (with a hand, stick, strap, or other object), burning, or any other method that is inflicted by a parent, caregiver, or other individual who has responsibility for the child. Such injury is considered abuse regardless of whether the caregiver intended to hurt the child. Physical discipline, such as spanking or paddling, is not considered abuse as long as it is reasonable and causes no bodily injury to the child.
+    *   **Criteria for Confirmed/Suspected:** The codes (995.54/T74.12XA/T74.12XD for Confirmed, 995.54/T76.12XA/T76.12XD for Suspected) are assigned based on the event occurring. The definition above serves as the criteria.
+
+*   **Child Sexual Abuse**
+    *   **Definition:** Child sexual abuse encompasses any sexual act involving a child that is intended to provide sexual gratification to a parent, caregiver, or other individual who has responsibility for the child. Sexual abuse includes activities such as fondling a child’s genitals, penetration, incest, rape, sodomy, and indecent exposure. Sexual abuse also includes noncontact exploitation of a child by a parent or caregiver—for example, forcing, tricking, enticing, threatening, or pressuring a child to participate in acts for the sexual gratification of others, without direct physical contact between child and abuser.
+    *   **Criteria for Confirmed/Suspected:** The codes (995.53/T74.22XA/T74.22XD for Confirmed, 995.53/T76.22XA/T76.22XD for Suspected) are assigned based on the event occurring. The definition above serves as the criteria.
+
+*   **Child Neglect**
+    *   **Definition:** Child neglect is defined as any confirmed or suspected egregious act or omission by a child’s parent or other caregiver that deprives the child of basic age-appropriate needs and thereby results, or has reasonable potential to result, in physical or psychological harm to the child. Child neglect encompasses abandonment; lack of appropriate supervision; failure to attend to necessary emotional or psychological needs; and failure to provide necessary education, medical care, nourishment, shelter, and/or clothing.
+    *   **Criteria for Confirmed/Suspected:** The codes (995.52/T74.02XA/T74.02XD for Confirmed, 995.52/T76.02XA/T76.02XD for Suspected) are assigned based on the event occurring. The definition above serves as the criteria.
+
+*   **Child Psychological Abuse**
+    *   **Definition:** Child psychological abuse is nonaccidental verbal or symbolic acts by a child’s parent or caregiver that result, or have reasonable potential to result, in significant psychological harm to the child. (Physical and sexual abusive acts are not included in this category.)
+        *   *Examples:* berating, disparaging, or humiliating the child; threatening the child; harming/abandoning—or indicating that the alleged offender will harm/abandon—people or things that the child cares about; confining the child (as by tying a child’s arms or legs together or binding a child to furniture or another object, or confining a child to a small enclosed area [e.g., a closet]); egregious scapegoating of the child; coercing the child to inflict pain on himself or herself; and disciplining the child excessively (i.e., at an extremely high frequency or duration, even if not at a level of physical abuse) through physical or nonphysical means.
+    *   **Criteria for Confirmed/Suspected:** The codes (995.51/T74.32XA/T74.32XD for Confirmed, 995.51/T76.32XA/T76.32XD for Suspected) are assigned based on the event occurring. The definition above serves as the criteria.
+
+**Adult Maltreatment and Neglect Problems**
+
+*   **Spouse or Partner Violence, Physical**
+    *   **Criteria:** This category should be used when nonaccidental acts of physical force that result, or have reasonable potential to result, in physical harm to an intimate partner or that evoke significant fear in the partner have occurred during the past year.
+        *   *Nonaccidental acts of physical force include:* shoving, slapping, hair pulling, pinching, restraining, shaking, throwing, biting, kicking, hitting with the fist or an object, burning, poisoning, applying force to the throat, cutting off the air supply, holding the head under water, and using a weapon.
+        *   *Excluded:* Acts for the purpose of physically protecting oneself or one’s partner.
+    *   **Criteria for Confirmed/Suspected:** The codes (995.81/T74.11XA/T74.11XD for Confirmed, 995.81/T76.11XA/T76.11XD for Suspected) are assigned based on the event occurring. The definition above serves as the criteria.
+
+*   **Spouse or Partner Violence, Sexual**
+    *   **Criteria:** This category should be used when forced or coerced sexual acts with an intimate partner have occurred during the past year. Sexual violence may involve the use of physical force or psychological coercion to compel the partner to engage in a sexual act against his or her will, whether or not the act is completed. Also included in this category are sexual acts with an intimate partner who is unable to consent.
+    *   **Criteria for Confirmed/Suspected:** The codes (995.83/T74.21XA/T74.21XD for Confirmed, 995.83/T76.21XA/T76.21XD for Suspected) are assigned based on the event occurring. The definition above serves as the criteria.
+
+*   **Spouse or Partner Neglect**
+    *   **Criteria:** Partner neglect is any egregious act or omission in the past year by one partner that deprives a dependent partner of basic needs and thereby results, or has reasonable potential to result, in physical or psychological harm to the dependent partner. This category is used in the context of relationships in which one partner is extremely dependent on the other partner for care or for assistance in navigating ordinary daily activities—for example, a partner who is incapable of self-care owing to substantial physical, psychological/intellectual, or cultural limitations (e.g., inability to communicate with others and manage everyday activities due to living in a foreign culture).
+    *   **Criteria for Confirmed/Suspected:** The codes (995.85/T74.01XA/T74.01XD for Confirmed, 995.85/T76.01XA/T76.01XD for Suspected) are assigned based on the event occurring. The definition above serves as the criteria.
+
+*   **Spouse or Partner Abuse, Psychological**
+    *   **Criteria:** Partner psychological abuse encompasses nonaccidental verbal or symbolic acts by one partner that result, or have reasonable potential to result, in significant harm to the other partner. This category should be used when such psychological abuse has occurred during the past year.
+        *   *Acts of psychological abuse include:* berating or humiliating the victim; interrogating the victim; restricting the victim’s ability to come and go freely; obstructing the victim’s access to assistance (e.g., law enforcement; legal, protective, or medical resources); threatening the victim with physical harm or sexual assault; harming, or threatening to harm, people or things that the victim cares about; unwarranted restriction of the victim’s access to or use of economic resources; isolating the victim from family, friends, or social support resources; stalking the victim; and trying to make the victim think that he or she is crazy.
+    *   **Criteria for Confirmed/Suspected:** The codes (995.82/T74.31XA/T74.31XD for Confirmed, 995.82/T76.31XA/T76.31XD for Suspected) are assigned based on the event occurring. The definition above serves as the criteria.
+
+*   **Adult Abuse by Nonspouse or Nonpartner**
+    *   **Criteria:** These categories should be used when an adult has been abused by another adult who is not an intimate partner. Such maltreatment may involve acts of physical, sexual, or emotional abuse.
+        *   *Examples of adult abuse include:* nonaccidental acts of physical force (e.g., pushing/shoving, scratching, slapping, throwing something that could hurt, punching, biting) that have resulted—or have reasonable potential to result—in physical harm or have caused significant fear; forced or coerced sexual acts; and verbal or symbolic acts with the potential to cause psychological harm (e.g., berating or humiliating the person; interrogating the person; restricting the person’s ability to come and go freely; obstructing the person’s access to assistance; threatening the person; harming or threatening to harm people or things that the person cares about; restricting the person’s access to or use of economic resources; isolating the person from family, friends, or social support resources; stalking the person; trying to make the person think that he or she is crazy).
+        *   *Excluded:* Acts for the purpose of physically protecting oneself or the other person.
+    *   **Criteria for Confirmed/Suspected:** The codes (e.g., 995.81/T74.11XA/T74.11XD for Physical, 995.83/T74.21XA/T74.21XD for Sexual, 995.82/T74.31XA/T74.31XD for Psychological) are assigned based on the event occurring. The definition above serves as the criteria.
+
+**Educational and Occupational Problems**
+
+*   **V62.3 (Z55.9) Academic or Educational Problem**
+    *   **Criteria:** This category should be used when an academic or educational problem is the focus of clinical attention or has an impact on the individual’s diagnosis, treatment, or prognosis.
+        *   *Problems to be considered include:* illiteracy or low-level literacy; lack of access to schooling owing to unavailability or unattainability; problems with academic performance (e.g., failing school examinations, receiving failing marks or grades) or underachievement (below what would be expected given the individual’s intellectual capacity); discord with teachers, school staff, or other students; and any other problems related to education and/or literacy.
+
+*   **V62.21 (Z56.82) Problem Related to Current Military Deployment Status**
+    *   **Criteria:** This category should be used when an occupational problem directly related to an individual’s military deployment status is the focus of clinical attention or has an impact on the individual’s diagnosis, treatment, or prognosis. Psychological reactions to deployment are not included in this category; such reactions would be better captured as an adjustment disorder or another mental disorder.
+
+*   **V62.29 (Z56.9) Other Problem Related to Employment**
+    *   **Criteria:** This category should be used when an occupational problem is the focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+        *   *Areas to be considered include:* problems with employment or in the work environment, including unemployment; recent change of job; threat of job loss; job dissatisfaction; stressful work schedule; uncertainty about career choices; sexual harassment on the job; other discord with boss, supervisor, co-workers, or others in the work environment; uncongenial or hostile work environments; other psychosocial stressors related to work; and any other problems related to employment and/or occupation.
+
+**Housing and Economic Problems**
+
+*   **V60.0 (Z59.0) Homelessness**
+    *   **Criteria:** This category should be used when lack of a regular dwelling or living quarters has an impact on an individual’s treatment or prognosis. An individual is considered to be homeless if his or her primary nighttime residence is a homeless shelter, a warming shelter, a domestic violence shelter, a public space (e.g., tunnel, transportation station, mall), a building not intended for residential use (e.g., abandoned structure, unused factory), a cardboard box or cave, or some other ad hoc housing situation.
+
+*   **V60.1 (Z59.1) Inadequate Housing**
+    *   **Criteria:** This category should be used when lack of adequate housing has an impact on an individual’s treatment or prognosis.
+        *   *Examples of inadequate housing conditions include:* lack of heat (in cold temperatures) or electricity, infestation by insects or rodents, inadequate plumbing and toilet facilities, overcrowding, lack of adequate sleeping space, and excessive noise. It is important to consider cultural norms before assigning this category.
+
+*   **V60.89 (Z59.2) Discord With Neighbor, Lodger, or Landlord**
+    *   **Criteria:** This category should be used when discord with neighbors, lodgers, or a landlord is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V60.6 (Z59.3) Problem Related to Living in a Residential Institution**
+    *   **Criteria:** This category should be used when a problem (or problems) related to living in a residential institution is a focus of clinical attention or has an impact on the individual’s treatment or prognosis. Psychological reactions to a change in living situation are not included in this category; such reactions would be better captured as an adjustment disorder.
+
+*   **V60.2 (Z59.4) Lack of Adequate Food or Safe Drinking Water**
+    *   **Criteria:** This category should be used when this problem is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V60.2 (Z59.5) Extreme Poverty**
+    *   **Criteria:** This category should be used when this problem is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V60.2 (Z59.6) Low Income**
+    *   **Criteria:** This category should be used when this problem is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V60.2 (Z59.7) Insufficient Social Insurance or Welfare Support**
+    *   **Criteria:** This category should be used for individuals who meet eligibility criteria for social or welfare support but are not receiving such support, who receive support that is insufficient to address their needs, or who otherwise lack access to needed insurance or support programs.
+        *   *Examples include:* inability to qualify for welfare support owing to lack of proper documentation or evidence of address, inability to obtain adequate health insurance because of age or a preexisting condition, and denial of support owing to excessively stringent income or other requirements.
+
+*   **V60.9 (Z59.9) Unspecified Housing or Economic Problem**
+    *   **Criteria:** This category should be used when there is a problem related to housing or economic circumstances other than as specified above.
+
+**Other Problems Related to the Social Environment**
+
+*   **V62.89 (Z60.0) Phase of Life Problem**
+    *   **Criteria:** This category should be used when a problem adjusting to a life-cycle transition (a particular developmental phase) is the focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+        *   *Examples of such transitions include:* entering or completing school, leaving parental control, getting married, starting a new career, becoming a parent, adjusting to an “empty nest” after children leave home, and retiring.
+
+*   **V60.3 (Z60.2) Problem Related to Living Alone**
+    *   **Criteria:** This category should be used when a problem associated with living alone is the focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+        *   *Examples of such problems include:* chronic feelings of loneliness, isolation, and lack of structure in carrying out activities of daily living (e.g., irregular meal and sleep schedules, inconsistent performance of home maintenance chores).
+
+*   **V62.4 (Z60.3) Acculturation Difficulty**
+    *   **Criteria:** This category should be used when difficulty in adjusting to a new culture (e.g., following migration) is the focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V62.4 (Z60.4) Social Exclusion or Rejection**
+    *   **Criteria:** This category should be used when there is an imbalance of social power such that there is recurrent social exclusion or rejection by others.
+        *   *Examples of social rejection include:* bullying, teasing, and intimidation by others; being targeted by others for verbal abuse and humiliation; and being purposefully excluded from the activities of peers, workmates, or others in one’s social environment.
+
+*   **V62.4 (Z60.5) Target of (Perceived) Adverse Discrimination or Persecution**
+    *   **Criteria:** This category should be used when there is perceived or experienced discrimination against or persecution of the individual based on his or her membership (or perceived membership) in a specific category.
+        *   *Typically, such categories include:* gender or gender identity, race, ethnicity, religion, sexual orientation, country of origin, political beliefs, disability status, caste, social status, weight, and physical appearance.
+
+*   **V62.9 (Z60.9) Unspecified Problem Related to Social Environment**
+    *   **Criteria:** This category should be used when there is a problem related to the individual’s social environment other than as specified above.
+
+**Problems Related to Crime or Interaction With the Legal System**
+
+*   **V62.89 (Z65.4) Victim of Crime**
+    *   **Criteria:** This category should be used when being a victim of crime is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V62.5 (Z65.0) Conviction in Civil or Criminal Proceedings Without Imprisonment**
+    *   **Criteria:** This category should be used when this event is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V62.5 (Z65.1) Imprisonment or Other Incarceration**
+    *   **Criteria:** This category should be used when this event is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V62.5 (Z65.2) Problems Related to Release From Prison**
+    *   **Criteria:** This category should be used when problems related to release from prison are a focus of clinical attention or have an impact on the individual’s treatment or prognosis.
+
+*   **V62.5 (Z65.3) Problems Related to Other Legal Circumstances**
+    *   **Criteria:** This category should be used when problems related to other legal circumstances are a focus of clinical attention or have an impact on the individual’s treatment or prognosis.
+
+**Other Health Service Encounters for Counseling and Medical Advice**
+
+*   **V65.49 (Z70.9) Sex Counseling**
+    *   **Criteria:** This category should be used when the individual seeks counseling related to sex education, sexual behavior, sexual orientation, sexual attitudes (embarrassment, timidity), others’ sexual behavior or orientation (e.g., spouse, partner, child), sexual enjoyment, or any other sex-related issue.
+
+*   **V65.40 (Z71.9) Other Counseling or Consultation**
+    *   **Criteria:** This category should be used when counseling is provided or advice/consultation is sought for a problem that is not specified above or elsewhere in this chapter.
+        *   *Examples include:* spiritual or religious counseling, dietary counseling, and counseling on nicotine use.
+
+**Problems Related to Other Psychosocial, Personal, and Environmental Circumstances**
+
+*   **V62.89 (Z65.8) Religious or Spiritual Problem**
+    *   **Criteria:** This category can be used when the focus of clinical attention is a religious or spiritual problem.
+        *   *Examples include:* distressing experiences that involve loss or questioning of faith, problems associated with conversion to a new faith, or questioning of spiritual values that may not necessarily be related to an organized church or religious institution.
+
+*   **V61.7 (Z64.0) Problems Related to Unwanted Pregnancy**
+    *   **Criteria:** This category should be used when this problem is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V61.5 (Z64.1) Problems Related to Multiparity**
+    *   **Criteria:** This category should be used when this problem is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V62.89 (Z64.4) Discord With Social Service Provider, Including Probation Officer, Case Manager, or Social Services Worker**
+    *   **Criteria:** This category should be used when this problem is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V62.89 (Z65.4) Victim of Terrorism or Torture**
+    *   **Criteria:** This category should be used when being a victim of terrorism or torture is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V62.22 (Z65.5) Exposure to Disaster, War, or Other Hostilities**
+    *   **Criteria:** This category should be used when this exposure is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V62.89 (Z65.8) Other Problem Related to Psychosocial Circumstances**
+    *   **Criteria:** This category should be used when there is a problem related to psychosocial circumstances other than as specified above.
+
+*   **V62.9 (Z65.9) Unspecified Problem Related to Unspecified Psychosocial Circumstances**
+    *   **Criteria:** This category should be used when there is an unspecified problem related to unspecified psychosocial circumstances.
+
+**Other Circumstances of Personal History**
+
+*   **V15.49 (Z91.49) Other Personal History of Psychological Trauma**
+    *   **Criteria:** This category should be used when this history is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V15.59 (Z91.5) Personal History of Self-Harm**
+    *   **Criteria:** This category should be used when this history is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V62.22 (Z91.82) Personal History of Military Deployment**
+    *   **Criteria:** This category should be used when this history is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V15.89 (Z91.89) Other Personal Risk Factors**
+    *   **Criteria:** This category should be used when these risk factors are a focus of clinical attention or have an impact on the individual’s treatment or prognosis.
+
+*   **V69.9 (Z72.9) Problem Related to Lifestyle**
+    *   **Criteria:** This category should be used when a lifestyle problem is a specific focus of treatment or directly affects the course, prognosis, or treatment of a mental or other medical disorder.
+        *   *Examples of lifestyle problems include:* lack of physical exercise, inappropriate diet, high-risk sexual behavior, and poor sleep hygiene.
+        *   *Note:* A problem that is attributable to a symptom of a mental disorder should not be coded unless that problem is a specific focus of treatment or directly affects the course, prognosis, or treatment of the individual. In such cases, both the mental disorder and the lifestyle problem should be coded.
+
+*   **V71.01 (Z72.811) Adult Antisocial Behavior**
+    *   **Criteria:** This category can be used when the focus of clinical attention is adult antisocial behavior that is not due to a mental disorder (e.g., conduct disorder, antisocial personality disorder).
+        *   *Examples include:* the behavior of some professional thieves, racketeers, or dealers in illegal substances.
+
+*   **V71.02 (Z72.810) Child or Adolescent Antisocial Behavior**
+    *   **Criteria:** This category can be used when the focus of clinical attention is antisocial behavior in a child or adolescent that is not due to a mental disorder (e.g., intermittent explosive disorder, conduct disorder).
+        *   *Examples include:* isolated antisocial acts by children or adolescents (not a pattern of antisocial behavior).
+
+**Problems Related to Access to Medical and Other Health Care**
+
+*   **V63.9 (Z75.3) Unavailability or Inaccessibility of Health Care Facilities**
+    *   **Criteria:** This category should be used when this problem is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V63.8 (Z75.4) Unavailability or Inaccessibility of Other Helping Agencies**
+    *   **Criteria:** This category should be used when this problem is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+**Nonadherence to Medical Treatment**
+
+*   **V15.81 (Z91.19) Nonadherence to Medical Treatment**
+    *   **Criteria:** This category can be used when the focus of clinical attention is nonadherence to an important aspect of treatment for a mental disorder or another medical condition.
+        *   *Reasons for such nonadherence may include:* discomfort resulting from treatment (e.g., medication side effects), expense of treatment, personal value judgments or religious or cultural beliefs about the proposed treatment, age-related debility, and the presence of a mental disorder (e.g., schizophrenia, personality disorder).
+        *   *Note:* This category should be used only when the problem is sufficiently severe to warrant independent clinical attention and does not meet diagnostic criteria for psychological factors affecting other medical conditions.
+
+*   **278.00 (E66.9) Overweight or Obesity**
+    *   **Criteria:** This category may be used when overweight or obesity is a focus of clinical attention.
+
+*   **V65.2 (Z76.5) Malingering**
+    *   **Criteria:** The essential feature of malingering is the intentional production of false or grossly exaggerated physical or psychological symptoms, motivated by external incentives such as avoiding military duty, avoiding work, obtaining financial compensation, evading criminal prosecution, or obtaining drugs. Under some circumstances, malingering may represent adaptive behavior—for example, feigning illness while a captive of the enemy during wartime. Malingering should be strongly suspected if any combination of the following is noted:
+        1.  Medicolegal context of presentation (e.g., the individual is referred by an attorney to the clinician for examination, or the individual self-refers while litigation or criminal charges are pending).
+        2.  Marked discrepancy between the individual’s claimed stress or disability and the objective findings and observations.
+        3.  Lack of cooperation during the diagnostic evaluation and in complying with the prescribed treatment regimen.
+        4.  The presence of antisocial personality disorder.
+    *   *Note:* Malingering differs from factitious disorder in that the motivation for the symptom production in malingering is an external incentive, whereas in factitious disorder external incentives are absent. Malingering is differentiated from conversion disorder and somatic symptom–related mental disorders by the intentional production of symptoms and by the obvious external incentives associated with it. Definite evidence of feigning (such as clear evidence that loss of function is present during the examination but not at home) would suggest a diagnosis of factitious disorder if the individual’s apparent aim is to assume the sick role, or malingering if it is to obtain an incentive, such as money.
+
+*   **V40.31 (Z91.83) Wandering Associated With a Mental Disorder**
+    *   **Criteria:** This category is used for individuals with a mental disorder whose desire to walk about leads to significant clinical management or safety concerns. For example, individuals with major neurocognitive or neurodevelopmental disorders may experience a restless urge to wander that places them at risk for falls and causes them to leave supervised settings without needed accompaniment. This category excludes individuals whose intent is to escape an unwanted housing situation (e.g., children who are running away from home, patients who no longer wish to remain in the hospital) or those who walk or pace as a result of medication-induced akathisia.
+    *   *Coding note:* First code associated mental disorder (e.g., major neurocognitive disorder, autism spectrum disorder), then code V40.31 (Z91.83) wandering associated with [specific mental disorder].
+
+*   **V62.89 (R41.83) Borderline Intellectual Functioning**
+    *   **Criteria:** This category can be used when an individual’s borderline intellectual functioning is the focus of clinical attention or has an impact on the individual’s treatment or prognosis. Differentiating borderline intellectual functioning and mild intellectual disability (intellectual developmental disorder) requires careful assessment of intellectual and adaptive functions and their discrepancies, particularly in the presence of co-occurring mental disorders that may affect patient compliance with standardized testing procedures (e.g., schizophrenia or attention-deficit/hyperactivity disorder with severe impulsivity).
+
+---
+
+**SECTION III Emerging Measures and Models**
+
+**Alternative DSM-5 Model for Personality Disorders**
+
+*   **General Criteria for Personality Disorder**
+    *   **The essential features of a personality disorder are:**
+        A. Moderate or greater impairment in personality (self/interpersonal) functioning.
+        B. One or more pathological personality traits.
+        C. The impairments in personality functioning and the individual’s personality trait expression are relatively inflexible and pervasive across a broad range of personal and social situations.
+        D. The impairments in personality functioning and the individual’s personality trait expression are relatively stable across time, with onsets that can be traced back to at least adolescence or early adulthood.
+        E. The impairments in personality functioning and the individual’s personality trait expression are not better explained by another mental disorder.
+        F. The impairments in personality functioning and the individual’s personality trait expression are not solely attributable to the physiological effects of a substance or another medical condition (e.g., severe head trauma).
+        G. The impairments in personality functioning and the individual’s personality trait expression are not better understood as normal for an individual’s developmental stage or sociocultural environment.
+
+*   **Antisocial Personality Disorder**
+    *   **Proposed Diagnostic Criteria**
+        A. Moderate or greater impairment in personality functioning, manifested by characteristic difficulties in two or more of the following four areas:
+            1.  **Identity:** Egocentrism; self-esteem derived from personal gain, power, or pleasure.
+            2.  **Self-direction:** Goal setting based on personal gratification; absence of prosocial internal standards, associated with failure to conform to lawful or culturally normative ethical behavior.
+            3.  **Empathy:** Lack of concern for feelings, needs, or suffering of others; lack of remorse after hurting or mistreating another.
+            4.  **Intimacy:** Incapacity for mutually intimate relationships, as exploitation is a primary means of relating to others, including by deceit and coercion; use of dominance or intimidation to control others.
+        B. Six or more of the following seven pathological personality traits:
+            1.  **Manipulativeness** (an aspect of Antagonism): Frequent use of subterfuge to influence or control others; use of seduction, charm, glibness, or ingratiation to achieve one’s ends.
+            2.  **Callousness** (an aspect of Antagonism): Lack of concern for feelings or problems of others; lack of guilt or remorse about the negative or harmful effects of one’s actions on others; aggression; sadism.
+            3.  **Deceitfulness** (an aspect of Antagonism): Dishonesty and fraudulence; misrepresentation of self; embellishment or fabrication when relating events.
+            4.  **Hostility** (an aspect of Antagonism): Persistent or frequent angry feelings; anger or irritability in response to minor slights and insults; mean, nasty, or vengeful behavior.
+            5.  **Risk taking** (an aspect of Disinhibition): Engagement in dangerous, risky, and potentially self-damaging activities, unnecessarily and without regard for consequences; boredom proneness and thoughtless initiation of activities to counter boredom; lack of concern for one’s limitations and denial of the reality of personal danger.
+            6.  **Impulsivity** (an aspect of Disinhibition): Acting on the spur of the moment in response to immediate stimuli; acting on a momentary basis without a plan or consideration of outcomes; difficulty establishing and following plans.
+            7.  **Irresponsibility** (an aspect of Disinhibition): Disregard for—and failure to honor—financial and other obligations or commitments; lack of respect for—and lack of follow-through on—agreements and promises.
+        *   *Note:* The individual is at least 18 years of age.
+        *   *Specify if:* With psychopathic features.
+
+*   **Avoidant Personality Disorder**
+    *   **Proposed Diagnostic Criteria**
+        A. Moderate or greater impairment in personality functioning, manifest by characteristic difficulties in two or more of the following four areas:
+            1.  **Identity:** Low self-esteem associated with self-appraisal as socially inept, personally unappealing, or inferior; excessive feelings of shame.
+            2.  **Self-direction:** Unrealistic standards for behavior associated with reluctance to pursue goals, take personal risks, or engage in new activities involving interpersonal contact.
+            3.  **Empathy:** Preoccupation with, and sensitivity to, criticism or rejection, associated with distorted inference of others’ perspectives as negative.
+            4.  **Intimacy:** Reluctance to get involved with people unless being certain of being liked; diminished mutuality within intimate relationships because of fear of being shamed or ridiculed.
+        B. Three or more of the following four pathological personality traits, one of which must be (1) Anxiousness:
+            1.  **Anxiousness** (an aspect of Negative Affectivity): Intense feelings of nervousness, tenseness, or panic, often in reaction to social situations; worry about the negative effects of past unpleasant experiences and future negative possibilities; feeling fearful, apprehensive, or threatened by uncertainty; fears of embarrassment.
+            2.  **Withdrawal** (an aspect of Detachment): Reticence in social situations; avoidance of social contacts and activity; lack of initiation of social contact.
+            3.  **Anhedonia** (an aspect of Detachment): Lack of enjoyment from, engagement in, or energy for life’s experiences; deficits in the capacity to feel pleasure or take interest in things.
+            4.  **Intimacy avoidance** (an aspect of Detachment): Avoidance of close or romantic relationships, interpersonal attachments, and intimate sexual relationships.
+
+*   **Borderline Personality Disorder**
+    *   **Proposed Diagnostic Criteria**
+        A. Moderate or greater impairment in personality functioning, manifested by characteristic difficulties in two or more of the following four areas:
+            1.  **Identity:** Markedly impoverished, poorly developed, or unstable self-image, often associated with excessive self-criticism; chronic feelings of emptiness; dissociative states under stress.
+            2.  **Self-direction:** Instability in goals, aspirations, values, or career plans.
+            3.  **Empathy:** Compromised ability to recognize the feelings and needs of others associated with interpersonal hypersensitivity (i.e., prone to feel slighted or insulted); perceptions of others selectively biased toward negative attributes or vulnerabilities.
+            4.  **Intimacy:** Intense, unstable, and conflicted close relationships, marked by mistrust, neediness, and anxious preoccupation with real or imagined abandonment; close relationships often viewed in extremes of idealization and devaluation and alternating between overinvolvement and withdrawal.
+        B. Four or more of the following seven pathological personality traits, at least one of which must be (5) Impulsivity, (6) Risk taking, or (7) Hostility:
+            1.  **Emotional lability** (an aspect of Negative Affectivity): Unstable emotional experiences and frequent mood changes; emotions that are easily aroused, intense, and/or out of proportion to events and circumstances.
+            2.  **Anxiousness** (an aspect of Negative Affectivity): Intense feelings of nervousness, tenseness, or panic, often in reaction to interpersonal stresses; worry about the negative effects of past unpleasant experiences and future negative possibilities; feeling fearful, apprehensive, or threatened by uncertainty; fears of falling apart or losing control.
+            3.  **Separation insecurity** (an aspect of Negative Affectivity): Fears of rejection by—and/or separation from—significant others, based in a lack of confidence in one’s ability to care for oneself, both physically and emotionally.
+            4.  **Depressivity** (an aspect of Negative Affectivity): Frequent feelings of being down, miserable, and/or hopeless; difficulty recovering from such moods; pessimism about the future; pervasive shame; feelings of inferior self-worth; thoughts of suicide and suicidal behavior.
+            5.  **Impulsivity** (an aspect of Disinhibition): Acting on the spur of the moment in response to immediate stimuli; acting on a momentary basis without a plan or consideration of outcomes; difficulty establishing or following plans; a sense of urgency and self-harming behavior under emotional distress.
+            6.  **Risk taking** (an aspect of Disinhibition): Engagement in dangerous, risky, and potentially self-damaging activities, unnecessarily and without regard to consequences; lack of concern for one’s limitations and denial of the reality of personal danger.
+            7.  **Hostility** (an aspect of Antagonism): Persistent or frequent angry feelings; anger or irritability in response to minor slights and insults.
+
+*   **Narcissistic Personality Disorder**
+    *   **Proposed Diagnostic Criteria**
+        A. Moderate or greater impairment in personality functioning, manifested by characteristic difficulties in two or more of the following four areas:
+            1.  **Identity:** Excessive reference to others for self-definition and self-esteem regulation; exaggerated self-appraisal inflated or deflated, or vacillating between extremes; emotional regulation mirrors fluctuations in self-esteem.
+            2.  **Self-direction:** Goal setting based on gaining approval from others; personal standards unreasonably high in order to see oneself as exceptional, or too low based on a sense of entitlement; often unaware of own motivations.
+            3.  **Empathy:** Impaired ability to recognize or identify with the feelings and needs of others; excessively attuned to reactions of others, but only if perceived as relevant to self; over- or underestimate of own effect on others.
+            4.  **Intimacy:** Relationships largely superficial and exist to serve self-esteem regulation; mutuality constrained by little genuine interest in others’ experiences and predominance of a need for personal gain.
+        B. Both of the following pathological personality traits:
+            1.  **Grandiosity** (an aspect of Antagonism): Feelings of entitlement, either overt or covert; self-centeredness; firmly holding to the belief that one is better than others; condescension toward others.
+            2.  **Attention seeking** (an aspect of Antagonism): Excessive attempts to attract and be the focus of the attention of others; admiration seeking.
+
+*   **Obsessive-Compulsive Personality Disorder**
+    *   **Proposed Diagnostic Criteria**
+        A. Moderate or greater impairment in personality functioning, manifested by characteristic difficulties in two or more of the following four areas:
+            1.  **Identity:** Sense of self derived predominantly from work or productivity; constricted experience and expression of strong emotions.
+            2.  **Self-direction:** Difficulty completing tasks and realizing goals, associated with rigid and unreasonably high and inflexible internal standards of behavior; overly conscientious and moralistic attitudes.
+            3.  **Empathy:** Difficulty understanding and appreciating the ideas, feelings, or behaviors of others.
+            4.  **Intimacy:** Relationships seen as secondary to work and productivity; rigidity and stubbornness negatively affect relationships with others.
+        B. Three or more of the following four pathological personality traits, one of which must be (1) Rigid perfectionism:
+            1.  **Rigid perfectionism** (an aspect of extreme Conscientiousness [the opposite pole of Disinhibition]): Rigid insistence on everything being flawless, perfect, and without errors or faults, including one’s own and others’ performance; sacrificing of timeliness to ensure correctness in every detail; believing that there is only one right way to do things; difficulty changing ideas and/or viewpoint; preoccupation with details, organization, and order.
+            2.  **Perseveration** (an aspect of Negative Affectivity): Persistence at tasks long after the behavior has ceased to be functional or effective; continuance of the same behavior despite repeated failures.
+            3.  **Intimacy avoidance** (an aspect of Detachment): Avoidance of close or romantic relationships, interpersonal attachments, and intimate sexual relationships.
+            4.  **Restricted affectivity** (an aspect of Detachment): Little reaction to emotionally arousing situations; constricted emotional experience and expression; indifference or coldness.
+
+*   **Schizotypal Personality Disorder**
+    *   **Proposed Diagnostic Criteria**
+        A. Moderate or greater impairment in personality functioning, manifested by characteristic difficulties in two or more of the following four areas:
+            1.  **Identity:** Confused boundaries between self and others; distorted self-concept; emotional expression often not congruent with context or internal experience.
+            2.  **Self-direction:** Unrealistic or incoherent goals; no clear set of internal standards.
+            3.  **Empathy:** Pronounced difficulty understanding impact of own behaviors on others; frequent misinterpretations of others’ motivations and behaviors.
+            4.  **Intimacy:** Marked impairments in developing close relationships, associated with mistrust and anxiety.
+        B. Four or more of the following six pathological personality traits:
+            1.  **Cognitive and perceptual dysregulation** (an aspect of Psychoticism): Odd or unusual thought processes; vague, circumstantial, metaphorical, overelaborate, or stereotyped thought or speech; odd sensations in various sensory modalities.
+            2.  **Unusual beliefs and experiences** (an aspect of Psychoticism): Thought content and views of reality that are viewed by others as bizarre or idiosyncratic; unusual experiences of reality.
+            3.  **Eccentricity** (an aspect of Psychoticism): Odd, unusual, or bizarre behavior or appearance; saying unusual or inappropriate things.
+            4.  **Restricted affectivity** (an aspect of Detachment): Little reaction to emotionally arousing situations; constricted emotional experience and expression; indifference or coldness.
+            5.  **Withdrawal** (an aspect of Detachment): Preference for being alone to being with others; reticence in social situations; avoidance of social contacts and activity; lack of initiation of social contact.
+            6.  **Suspiciousness** (an aspect of Detachment): Expectations of—and heightened sensitivity to—signs of interpersonal ill-intent or harm; doubts about loyalty and fidelity of others; feelings of persecution.
+
+*   **Personality Disorder—Trait Specified**
+    *   **Proposed Diagnostic Criteria**
+        A. Moderate or greater impairment in personality functioning, manifested by difficulties in two or more of the following four areas:
+            1.  Identity
+            2.  Self-direction
+            3.  Empathy
+            4.  Intimacy
+        B. One or more pathological personality trait domains OR specific trait facets within domains, considering ALL of the following domains:
+            1.  **Negative Affectivity** (vs. Emotional Stability): Frequent and intense experiences of high levels of a wide range of negative emotions (e.g., anxiety, depression, guilt/shame, worry, anger), and their behavioral (e.g., self-harm) and interpersonal (e.g., dependency) manifestations.
+            2.  **Detachment** (vs. Extraversion): Avoidance of socioemotional experience, including both withdrawal from interpersonal interactions, ranging from casual, daily interactions to friendships to intimate relationships, as well as restricted affective experience and expression, particularly limited hedonic capacity.
+            3.  **Antagonism** (vs. Agreeableness): Behaviors that put the individual at odds with other people, including an exaggerated sense of self-importance and a concomitant expectation of special treatment, as well as a callous antipathy toward others, encompassing both unawareness of others’ needs and feelings, and a readiness to use others in the service of self-enhancement.
+            4.  **Disinhibition** (vs. Conscientiousness): Orientation toward immediate gratification, leading to impulsive behavior driven by current thoughts, feelings, and external stimuli, without regard for past learning or consideration of future consequences.
+            5.  **Psychoticism** (vs. Lucidity): Exhibiting a wide range of culturally incongruent odd, eccentric, or unusual behaviors and cognitions, including both process (e.g., perception, dissociation) and content (e.g., beliefs).
+
+---
+
+**Conditions for Further Study**
+
+*   **Attenuated Psychosis Syndrome**
+    *   **Proposed Criteria**
+        A. At least one of the following symptoms is present in attenuated form, with relatively intact reality testing, and is of sufficient severity or frequency to warrant clinical attention:
+            1.  Delusions.
+            2.  Hallucinations.
+            3.  Disorganized speech.
+        B. Symptom(s) must have been present at least once per week for the past month.
+        C. Symptom(s) must have begun or worsened in the past year.
+        D. Symptom(s) is sufficiently distressing and disabling to the individual to warrant clinical attention.
+        E. Symptom(s) is not better explained by another mental disorder, including a depressive or bipolar disorder with psychotic features, and is not attributable to the physiological effects of a substance or another medical condition.
+        F. Criteria for any psychotic disorder have never been met.
+
+*   **Depressive Episodes With Short-Duration Hypomania**
+    *   **Proposed Criteria**
+        **Lifetime experience of at least one major depressive episode meeting the following criteria:**
+        A. Five (or more) of the following criteria have been present during the same 2-week period and represent a change from previous functioning; at least one of the symptoms is either (1) depressed mood or (2) loss of interest or pleasure. (Note: Do not include symptoms that are clearly attributable to a medical condition.)
+            1.  Depressed mood most of the day, nearly every day, as indicated by either subjective report (e.g., feels sad, empty, or hopeless) or observation made by others (e.g., appears tearful). (Note: In children and adolescents, can be irritable mood.)
+            2.  Markedly diminished interest or pleasure in all, or almost all, activities most of the day, nearly every day (as indicated by either subjective account or observation).
+            3.  Significant weight loss when not dieting or weight gain (e.g., a change of more than 5% of body weight in a month), or decrease or increase in appetite nearly every day. (Note: In children, consider failure to make expected weight gain.)
+            4.  Insomnia or hypersomnia nearly every day.
+            5.  Psychomotor agitation or retardation nearly every day (observable by others, not merely subjective feelings of restlessness or being slowed down).
+            6.  Fatigue or loss of energy nearly every day.
+            7.  Feelings of worthlessness or excessive or inappropriate guilt (which may be delusional) nearly every day (not merely self-reproach or guilt about being sick).
+            8.  Diminished ability to think or concentrate, or indecisiveness, nearly every day (either by subjective account or as observed by others).
+            9.  Recurrent thoughts of death (not just fear of dying), recurrent suicidal ideation without a specific plan, or a suicide attempt or a specific plan for committing suicide.
+        B. The symptoms cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+        C. The disturbance is not attributable to the physiological effects of a substance or another medical condition.
+        D. The disturbance is not better explained by schizoaffective disorder and is not superimposed on schizophrenia, schizophreniform disorder, delusional disorder, or other specified or unspecified schizophrenia spectrum and other psychotic disorder.
+        **At least two lifetime episodes of hypomanic periods that involve the required criterion symptoms below but are of insufficient duration (at least 2 days but less than 4 consecutive days) to meet criteria for a hypomanic episode. The criterion symptoms are as follows:**
+        A. A distinct period of abnormally and persistently elevated, expansive, or irritable mood and abnormally and persistently increased goal-directed activity or energy.
+        B. During the period of mood disturbance and increased energy and activity, three (or more) of the following symptoms have persisted (four if the mood is only irritable), represent a noticeable change from usual behavior, and have been present to a significant degree:
+            1.  Inflated self-esteem or grandiosity.
+            2.  Decreased need for sleep (e.g., feels rested after only 3 hours of sleep).
+            3.  More talkative than usual or pressured to keep talking.
+            4.  Flight of ideas or subjective experience that thoughts are racing.
+            5.  Distractibility (i.e., attention too easily drawn to unimportant or irrelevant external stimuli), as reported or observed.
+            6.  Increase in goal-directed activity (either socially, at work or school, or sexually) or psychomotor agitation.
+            7.  Excessive involvement in activities that have a high potential for painful consequences (e.g., the individual engages in unrestrained buying sprees, sexual indiscretions, or foolish business investments).
+        C. The episode is associated with an unequivocal change in functioning that is uncharacteristic of the individual when not symptomatic.
+        D. The disturbance in mood and the change in functioning are observable by others.
+        E. The episode is not severe enough to cause marked impairment in social or occupational functioning or to necessitate hospitalization. If there are psychotic features, the episode is, by definition, manic.
+        F. The episode is not attributable to the physiological effects of a substance (e.g., a drug of abuse, a medication or other treatment).
+
+*   **Persistent Complex Bereavement Disorder**
+    *   **Proposed Criteria**
+        A. The individual experienced the death of someone with whom he or she had a close relationship.
+        B. Since the death, at least one of the following symptoms is experienced on more days than not and to a clinically significant degree and has persisted for at least 12 months after the death in the case of bereaved adults and 6 months for bereaved children:
+            1.  Persistent yearning/longing for the deceased. In young children, yearning may be expressed in play and behavior, including behaviors that reflect being separated from, and also reuniting with, a caregiver or other attachment figure.
+            2.  Intense sorrow and emotional pain in response to the death.
+            3.  Preoccupation with the deceased.
+            4.  Preoccupation with the circumstances of the death. In children, this preoccupation with the deceased may be expressed through the themes of play and behavior and may extend to preoccupation with possible death of others close to them.
+        C. Since the death, at least six of the following symptoms are experienced on more days than not and to a clinically significant degree, and have persisted for at least 12 months after the death in the case of bereaved adults and 6 months for bereaved children:
+            **Reactive distress to the death**
+            1.  Marked difficulty accepting the death. In children, this is dependent on the child’s capacity to comprehend the meaning and permanence of death.
+            2.  Experiencing disbelief or emotional numbness over the loss.
+            3.  Difficulty with positive reminiscing about the deceased.
+            4.  Bitterness or anger related to the loss.
+            5.  Maladaptive appraisals about oneself in relation to the deceased or the death (e.g., self-blame).
+            6.  Excessive avoidance of reminders of the loss (e.g., avoidance of individuals, places, or situations associated with the deceased; in children, this may include avoidance of thoughts and feelings regarding the deceased).
+            **Social/identity disruption**
+            7.  A desire to die in order to be with the deceased.
+            8.  Difficulty trusting other individuals since the death.
+            9.  Feeling alone or detached from other individuals since the death.
+            10. Feeling that life is meaningless or empty without the deceased, or the belief that one cannot function without the deceased.
+            11. Confusion about one’s role in life, or a diminished sense of one’s identity (e.g., feeling that a part of oneself died with the deceased).
+            12. Difficulty or reluctance to pursue interests since the loss or to plan for the future (e.g., friendships, activities).
+        D. The disturbance causes clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+        E. The bereavement reaction is out of proportion to or inconsistent with cultural, religious, or age-appropriate norms.
+        *   *Specify if:* With traumatic bereavement: Bereavement due to homicide or suicide with persistent distressing preoccupations regarding the traumatic nature of the death (often in response to loss reminders), including the deceased’s last moments, degree of suffering and mutilating injury, or the malicious or intentional nature of the death.
+
+*   **Caffeine Use Disorder**
+    *   **Proposed Criteria**
+        A problematic pattern of caffeine use leading to clinically significant impairment or distress, as manifested by at least the first three of the following criteria occurring within a 12-month period:
+        1.  A persistent desire or unsuccessful efforts to cut down or control caffeine use.
+        2.  Continued caffeine use despite knowledge of having a persistent or recurrent physical or psychological problem that is likely to have been caused or exacerbated by caffeine.
+        3.  Withdrawal, as manifested by either of the following:
+            a.  The characteristic withdrawal syndrome for caffeine.
+            b.  Caffeine (or a closely related) substance is taken to relieve or avoid withdrawal symptoms.
+        4.  Caffeine is often taken in larger amounts or over a longer period than was intended.
+        5.  Recurrent caffeine use resulting in a failure to fulfill major role obligations at work, school, or home (e.g., repeated tardiness or absences from work or school related to caffeine use or withdrawal).
+        6.  Continued caffeine use despite having persistent or recurrent social or interpersonal problems caused or exacerbated by the effects of caffeine (e.g., arguments with spouse about consequences of use, medical problems, cost).
+        7.  Tolerance, as defined by either of the following:
+            a.  A need for markedly increased amounts of caffeine to achieve desired effect.
+            b.  Markedly diminished effect with continued use of the same amount of caffeine.
+        8.  A great deal of time is spent in activities necessary to obtain caffeine, use caffeine, or recover from its effects.
+        9.  Craving or a strong desire or urge to use caffeine.
+
+*   **Internet Gaming Disorder**
+    *   **Proposed Criteria**
+        Persistent and recurrent use of the Internet to engage in games, often with other players, leading to clinically significant impairment or distress as indicated by five (or more) of the following in a 12-month period:
+        1.  Preoccupation with Internet games. (The individual thinks about previous gaming activity or anticipates playing the next game; Internet gaming becomes the dominant activity in daily life).
+            *   *Note:* This disorder is distinct from Internet gambling, which is included under gambling disorder.
+        2.  Withdrawal symptoms when Internet gaming is taken away. (These symptoms are typically described as irritability, anxiety, or sadness, but there are no physical signs of pharmacological withdrawal.)
+        3.  Tolerance—the need to spend increasing amounts of time engaged in Internet games.
+        4.  Unsuccessful attempts to control the participation in Internet games.
+        5.  Loss of interests in previous hobbies and entertainment as a result of, and with the exception of, Internet games.
+        6.  Continued excessive use of Internet games despite knowledge of psychosocial problems.
+        7.  Has deceived family members, therapists, or others regarding the amount of Internet gaming.
+        8.  Use of Internet games to escape or relieve a negative mood (e.g., feelings of helplessness, guilt, anxiety).
+        9.  Has jeopardized or lost a significant relationship, job, or educational or career opportunity because of participation in Internet games.
+        *   *Note:* Only nongambling Internet games are included in this disorder. Use of the Internet for required activities in a business or profession is not included; nor is the disorder intended to include other recreational or social Internet use. Similarly, sexual Internet sites are excluded.
+        *   *Specify current severity:* Internet gaming disorder can be mild, moderate, or severe depending on the degree of disruption of normal activities. Individuals with less severe Internet gaming disorder may exhibit fewer symptoms and less disruption of their lives. Those with severe Internet gaming disorder will have more hours spent on the computer and more severe loss of relationships or career or school opportunities.
+
+*   **Neurobehavioral Disorder Associated With Prenatal Alcohol Exposure**
+    *   **Proposed Criteria**
+        A. More than minimal exposure to alcohol during gestation, including prior to pregnancy recognition. Confirmation of gestational exposure to alcohol may be obtained from maternal self-report of alcohol use in pregnancy, medical or other records, or clinical observation.
+        B. Impaired neurocognitive functioning as manifested by one or more of the following:
+            1.  Impairment in global intellectual performance (i.e., IQ of 70 or below, or a standard score of 70 or below on a comprehensive developmental assessment).
+            2.  Impairment in executive functioning (e.g., poor planning and organization; inflexibility; difficulty with behavioral inhibition).
+            3.  Impairment in learning (e.g., lower academic achievement than expected for intellectual level; specific learning disability).
+            4.  Memory impairment (e.g., problems remembering information learned recently; repeatedly making the same mistakes; difficulty remembering lengthy verbal instructions).
+            5.  Impairment in visual-spatial reasoning (e.g., disorganized or poorly planned drawings or constructions; problems differentiating left from right).
+        C. Impaired self-regulation as manifested by one or more of the following:
+            1.  Impairment in mood or behavioral regulation (e.g., mood lability; negative affect or irritability; frequent behavioral outbursts).
+            2.  Attention deficit (e.g., difficulty shifting attention; difficulty sustaining mental effort).
+            3.  Impairment in impulse control (e.g., difficulty waiting turn; difficulty complying with rules).
+        D. Impairment in adaptive functioning as manifested by two or more of the following, one of which must be (1) or (2):
+            1.  Communication deficit (e.g., delayed acquisition of language; difficulty understanding spoken language).
+            2.  Impairment in social communication and interaction (e.g., overly friendly with strangers; difficulty reading social cues; difficulty understanding social consequences).
+            3.  Impairment in daily living skills (e.g., delayed toileting, feeding, or bathing; difficulty managing daily schedule).
+            4.  Impairment in motor skills (e.g., poor fine motor development; delayed attainment of gross motor milestones or ongoing deficits in gross motor function; deficits in coordination and balance).
+        E. Onset of the disorder (symptoms in Criteria B, C, and D) occurs in childhood.
+        F. The disturbance causes clinically significant distress or impairment in social, academic, occupational, or other important areas of functioning.
+        G. The disorder is not better explained by the direct physiological effects associated with postnatal use of a substance (e.g., a medication, alcohol or other drugs), a general medical condition (e.g., traumatic brain injury, delirium, dementia), another known teratogen (e.g., fetal hydantoin syndrome), a genetic condition (e.g., Williams syndrome, Down syndrome, Cornelia de Lange syndrome), or environmental neglect.
+
+*   **Suicidal Behavior Disorder**
+    *   **Proposed Criteria**
+        A. Within the last 24 months, the individual has made a suicide attempt.
+            *   *Note:* A suicide attempt is a self-initiated sequence of behaviors by an individual who, at the time of initiation, expected that the set of actions would lead to his or her own death. The “time of initiation” is the time when a behavior took place that involved applying the method.)
+        B. The act does not meet criteria for nonsuicidal self-injury—that is, it does not involve self-injury directed to the surface of the body undertaken to induce relief from a negative feeling/cognitive state or to achieve a positive mood state.
+        C. The diagnosis is not applied to suicidal ideation or to preparatory acts.
+        D. The act was not initiated during a state of delirium or confusion.
+        E. The act was not undertaken solely for a political or religious objective.
+        *   *Specify if:*
+            *   Current: Not more than 12 months since the last attempt.
+            *   In early remission: 12–24 months since the last attempt.
+
+*   **Nonsuicidal Self-Injury**
+    *   **Proposed Criteria**
+        A. In the last year, the individual has, on 5 or more days, engaged in intentional self-inflicted damage to the surface of his or her body of a sort likely to induce bleeding, bruising, or pain (e.g., cutting, burning, stabbing, hitting, excessive rubbing), with the expectation that the injury will lead to only minor or moderate physical harm (i.e., there is no suicidal intent).
+            *   *Note:* The absence of suicidal intent has either been stated by the individual or can be inferred by the individual’s repeated engagement in a behavior that the individual knows, or has learned, is not likely to result in death.
+        B. The individual engages in the self-injurious behavior with one or more of the following expectations:
+            1.  To obtain relief from a negative feeling or cognitive state.
+            2.  To resolve an interpersonal difficulty.
+            3.  To induce a positive feeling state.
+            *   *Note:* The desired relief or response is experienced during or shortly after the self-injury, and the individual may display patterns of behavior suggesting a dependence on repeatedly engaging in it.
+        C. The intentional self-injury is associated with at least one of the following:
+            1.  Interpersonal difficulties or negative feelings or thoughts, such as depression, anxiety, tension, anger, generalized distress, or self-criticism, occurring in the period immediately prior to the self-injurious act.
+            2.  Prior to engaging in the act, a period of preoccupation with the intended behavior that is difficult to control.
+            3.  Thinking about self-injury that occurs frequently, even when it is not acted upon.
+        D. The behavior is not socially sanctioned (e.g., body piercing, tattooing, part of a religious or cultural ritual) and is not restricted to picking a scab or nail biting.
+        E. The behavior or its consequences cause clinically significant distress or interference in interpersonal, academic, or other important areas of functioning.
+        F. The behavior does not occur exclusively during psychotic episodes, delirium, substance intoxication, or substance withdrawal. In individuals with a neurodevelopmental disorder, the behavior is not part of a pattern of repetitive stereotypies. The behavior is not better explained by another mental disorder or medical condition (e.g., psychotic disorder, autism spectrum disorder, intellectual disability, Lesch-Nyhan syndrome, stereotypic movement disorder with self-injury, trichotillomania [hair-pulling disorder], excoriation [skin-picking] disorder).
+
+---
+The extraction is complete. I have included the general descriptions for the "Other Conditions" chapter as they function as the criteria for when to use those codes. For the "Abuse and Neglect" sub-sections, the definitions provided are the criteria. For the "Alternative DSM-5 Model for Personality Disorders" and "Conditions for Further Study", I extracted the "Proposed Criteria" as requested.
+Here are the diagnostic criteria extracted from the provided text:
+
+---
+
+### 715 Other Conditions That May Be a Focus of Clinical Attention
+
+**General Criteria for Chapter Use:**
+A condition or problem in this chapter may be coded if it is a reason for the current visit or helps to explain the need for a test, procedure, or treatment. Conditions and problems in this chapter may also be included in the medical record as useful information on circumstances that may affect the patient’s care, regardless of their relevance to the current visit.
+
+#### Relational Problems
+
+*   **V61.20 (Z62.820) Parent-Child Relational Problem**
+    *   **Criteria:** This category should be used when the main focus of clinical attention is to address the quality of the parent-child relationship or when the quality of the parent-child relationship is affecting the course, prognosis, or treatment of a mental or other medical disorder. Typically, the parent-child relational problem is associated with impaired functioning in behavioral, cognitive, or affective domains.
+        *   *Examples of behavioral problems:* inadequate parental control, supervision, and involvement with the child; parental overprotection; excessive parental pressure; arguments that escalate to threats of physical violence; and avoidance without resolution of problems.
+        *   *Cognitive problems:* negative attributions of the other’s intentions, hostility toward or scapegoating of the other, and unwarranted feelings of estrangement.
+        *   *Affective problems:* feelings of sadness, apathy, or anger about the other individual in the relationship.
+        *   *Note:* Clinicians should take into account the developmental needs of the child and the cultural context.
+
+*   **V61.8 (Z62.891) Sibling Relational Problem**
+    *   **Criteria:** This category should be used when the focus of clinical attention is a pattern of interaction among siblings that is associated with significant impairment in individual or family functioning or with development of symptoms in one or more of the siblings, or when a sibling relational problem is affecting the course, prognosis, or treatment of a sibling’s mental or other medical disorder. This category can be used for either children or adults if the focus is on the sibling relationship. Siblings in this context include full, half-, step-, foster, and adopted siblings.
+
+*   **V61.8 (Z62.29) Upbringing Away From Parents**
+    *   **Criteria:** This category should be used when the main focus of clinical attention pertains to issues regarding a child being raised away from the parents or when this separate upbringing affects the course, prognosis, or treatment of a mental or other medical disorder. The child could be one who is under state custody and placed in kin care or foster care. The child could also be one who is living in a nonparental relative’s home, or with friends, but whose out-of-home placement is not mandated or sanctioned by the courts. Problems related to a child living in a group home or orphanage are also included. This category excludes issues related to V60.6 (Z59.3) children in boarding schools.
+
+*   **V61.29 (Z62.898) Child Affected by Parental Relationship Distress**
+    *   **Criteria:** This category should be used when the focus of clinical attention is the negative effects of parental relationship discord (e.g., high levels of conflict, distress, or disparagement) on a child in the family, including effects on the child’s mental or other medical disorders.
+
+#### Other Problems Related to Primary Support Group
+
+*   **V61.10 (Z63.0) Relationship Distress With Spouse or Intimate Partner**
+    *   **Criteria:** This category should be used when the major focus of the clinical contact is to address the quality of the intimate (spouse or partner) relationship or when the quality of that relationship is affecting the course, prognosis, or treatment of a mental or other medical disorder. Partners can be of the same or different genders. Typically, the relationship distress is associated with impaired functioning in behavioral, cognitive, or affective domains.
+        *   *Examples of behavioral problems:* conflict resolution difficulty, withdrawal, and overinvolvement.
+        *   *Cognitive problems:* chronic negative attributions of the other’s intentions or dismissals of the partner’s positive behaviors.
+        *   *Affective problems:* chronic sadness, apathy, and/or anger about the other partner.
+        *   *Note:* This category excludes clinical encounters for V61.1x (Z69.1x) mental health services for spousal or partner abuse problems and V65.49 (Z70.9) sex counseling.
+
+*   **V61.03 (Z63.5) Disruption of Family by Separation or Divorce**
+    *   **Criteria:** This category should be used when partners in an intimate adult couple are living apart due to relationship problems or are in the process of divorce.
+
+*   **V61.8 (Z63.8) High Expressed Emotion Level Within Family**
+    *   **Criteria:** This category should be used when a family’s high level of expressed emotion is the focus of clinical attention or is affecting the course, prognosis, or treatment of a family member’s mental or other medical disorder.
+
+*   **V62.82 (Z63.4) Uncomplicated Bereavement**
+    *   **Criteria:** This category can be used when the focus of clinical attention is a normal reaction to the death of a loved one. As part of their reaction to such a loss, some grieving individuals present with symptoms characteristic of a major depressive episode—for example, feelings of sadness and associated symptoms such as insomnia, poor appetite, and weight loss. The bereaved individual typically regards the depressed mood as “normal,” although the individual may seek professional help for relief of associated symptoms such as insomnia or anorexia. The duration and expression of “normal” bereavement vary considerably among different cultural groups. Further guidance in distinguishing grief from a major depressive episode is provided in the criteria for major depressive episode.
+
+#### Abuse and Neglect
+
+**General Description:** Maltreatment by a family member (e.g., caregiver, intimate adult partner) or by a nonrelative can be the area of current clinical focus, or such maltreatment can be an important factor in the assessment and treatment of patients with mental or other medical disorders. Because of the legal implications of abuse and neglect, care should be used in assessing these conditions and assigning these codes. Having a past history of abuse or neglect can influence diagnosis and treatment response in a number of mental disorders, and may also be noted along with the diagnosis.
+
+**Coding Note for ICD-10-CM Abuse and Neglect Conditions:** For T codes only, the 7th character should be coded as follows:
+*   **A (initial encounter)** —Use while the patient is receiving active treatment for the condition (e.g., surgical treatment, emergency department encounter, evaluation and treatment by a new clinician); or
+*   **D (subsequent encounter)** —Use for encounters after the patient has received active treatment for the condition and when he or she is receiving routine care for the condition during the healing or recovery phase (e.g., cast change or removal, removal of external or internal fixation device, medication adjustment, other aftercare and follow-up visits).
+
+**Child Maltreatment and Neglect Problems**
+
+*   **Child Physical Abuse**
+    *   **Criteria (Definition):** Child physical abuse is nonaccidental physical injury to a child—ranging from minor bruises to severe fractures or death—occurring as a result of punching, beating, kicking, biting, shaking, throwing, stabbing, choking, hitting (with a hand, stick, strap, or other object), burning, or any other method that is inflicted by a parent, caregiver, or other individual who has responsibility for the child. Such injury is considered abuse regardless of whether the caregiver intended to hurt the child. Physical discipline, such as spanking or paddling, is not considered abuse as long as it is reasonable and causes no bodily injury to the child.
+
+*   **Child Sexual Abuse**
+    *   **Criteria (Definition):** Child sexual abuse encompasses any sexual act involving a child that is intended to provide sexual gratification to a parent, caregiver, or other individual who has responsibility for the child. Sexual abuse includes activities such as fondling a child’s genitals, penetration, incest, rape, sodomy, and indecent exposure. Sexual abuse also includes noncontact exploitation of a child by a parent or caregiver—for example, forcing, tricking, enticing, threatening, or pressuring a child to participate in acts for the sexual gratification of others, without direct physical contact between child and abuser.
+
+*   **Child Neglect**
+    *   **Criteria (Definition):** Child neglect is defined as any confirmed or suspected egregious act or omission by a child’s parent or other caregiver that deprives the child of basic age-appropriate needs and thereby results, or has reasonable potential to result, in physical or psychological harm to the child. Child neglect encompasses abandonment; lack of appropriate supervision; failure to attend to necessary emotional or psychological needs; and failure to provide necessary education, medical care, nourishment, shelter, and/or clothing.
+
+*   **Child Psychological Abuse**
+    *   **Criteria (Definition):** Child psychological abuse is nonaccidental verbal or symbolic acts by a child’s parent or caregiver that result, or have reasonable potential to result, in significant psychological harm to the child. (Physical and sexual abusive acts are not included in this category.)
+        *   *Examples:* berating, disparaging, or humiliating the child; threatening the child; harming/abandoning—or indicating that the alleged offender will harm/abandon—people or things that the child cares about; confining the child (as by tying a child’s arms or legs together or binding a child to furniture or another object, or confining a child to a small enclosed area [e.g., a closet]); egregious scapegoating of the child; coercing the child to inflict pain on himself or herself; and disciplining the child excessively (i.e., at an extremely high frequency or duration, even if not at a level of physical abuse) through physical or nonphysical means.
+
+**Adult Maltreatment and Neglect Problems**
+
+*   **Spouse or Partner Violence, Physical**
+    *   **Criteria:** This category should be used when nonaccidental acts of physical force that result, or have reasonable potential to result, in physical harm to an intimate partner or that evoke significant fear in the partner have occurred during the past year.
+        *   *Nonaccidental acts of physical force include:* shoving, slapping, hair pulling, pinching, restraining, shaking, throwing, biting, kicking, hitting with the fist or an object, burning, poisoning, applying force to the throat, cutting off the air supply, holding the head under water, and using a weapon.
+        *   *Excluded:* Acts for the purpose of physically protecting oneself or one’s partner.
+
+*   **Spouse or Partner Violence, Sexual**
+    *   **Criteria:** This category should be used when forced or coerced sexual acts with an intimate partner have occurred during the past year. Sexual violence may involve the use of physical force or psychological coercion to compel the partner to engage in a sexual act against his or her will, whether or not the act is completed. Also included in this category are sexual acts with an intimate partner who is unable to consent.
+
+*   **Spouse or Partner Neglect**
+    *   **Criteria:** Partner neglect is any egregious act or omission in the past year by one partner that deprives a dependent partner of basic needs and thereby results, or has reasonable potential to result, in physical or psychological harm to the dependent partner. This category is used in the context of relationships in which one partner is extremely dependent on the other partner for care or for assistance in navigating ordinary daily activities—for example, a partner who is incapable of self-care owing to substantial physical, psychological/intellectual, or cultural limitations (e.g., inability to communicate with others and manage everyday activities due to living in a foreign culture).
+
+*   **Spouse or Partner Abuse, Psychological**
+    *   **Criteria:** Partner psychological abuse encompasses nonaccidental verbal or symbolic acts by one partner that result, or have reasonable potential to result, in significant harm to the other partner. This category should be used when such psychological abuse has occurred during the past year.
+        *   *Acts of psychological abuse include:* berating or humiliating the victim; interrogating the victim; restricting the victim’s ability to come and go freely; obstructing the victim’s access to assistance (e.g., law enforcement; legal, protective, or medical resources); threatening the victim with physical harm or sexual assault; harming, or threatening to harm, people or things that the victim cares about; unwarranted restriction of the victim’s access to or use of economic resources; isolating the victim from family, friends, or social support resources; stalking the victim; and trying to make the victim think that he or she is crazy.
+
+*   **Adult Abuse by Nonspouse or Nonpartner**
+    *   **Criteria:** These categories should be used when an adult has been abused by another adult who is not an intimate partner. Such maltreatment may involve acts of physical, sexual, or emotional abuse.
+        *   *Examples of adult abuse include:* nonaccidental acts of physical force (e.g., pushing/shoving, scratching, slapping, throwing something that could hurt, punching, biting) that have resulted—or have reasonable potential to result—in physical harm or have caused significant fear; forced or coerced sexual acts; and verbal or symbolic acts with the potential to cause psychological harm (e.g., berating or humiliating the person; interrogating the person; restricting the person’s ability to come and go freely; obstructing the person’s access to assistance; threatening the person; harming or threatening to harm people or things that the person cares about; restricting the person’s access to or use of economic resources; isolating the person from family, friends, or social support resources; stalking the person; trying to make the person think that he or she is crazy).
+        *   *Excluded:* Acts for the purpose of physically protecting oneself or the other person.
+
+#### Educational and Occupational Problems
+
+*   **V62.3 (Z55.9) Academic or Educational Problem**
+    *   **Criteria:** This category should be used when an academic or educational problem is the focus of clinical attention or has an impact on the individual’s diagnosis, treatment, or prognosis.
+        *   *Problems to be considered include:* illiteracy or low-level literacy; lack of access to schooling owing to unavailability or unattainability; problems with academic performance (e.g., failing school examinations, receiving failing marks or grades) or underachievement (below what would be expected given the individual’s intellectual capacity); discord with teachers, school staff, or other students; and any other problems related to education and/or literacy.
+
+*   **V62.21 (Z56.82) Problem Related to Current Military Deployment Status**
+    *   **Criteria:** This category should be used when an occupational problem directly related to an individual’s military deployment status is the focus of clinical attention or has an impact on the individual’s diagnosis, treatment, or prognosis. Psychological reactions to deployment are not included in this category; such reactions would be better captured as an adjustment disorder or another mental disorder.
+
+*   **V62.29 (Z56.9) Other Problem Related to Employment**
+    *   **Criteria:** This category should be used when an occupational problem is the focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+        *   *Areas to be considered include:* problems with employment or in the work environment, including unemployment; recent change of job; threat of job loss; job dissatisfaction; stressful work schedule; uncertainty about career choices; sexual harassment on the job; other discord with boss, supervisor, co-workers, or others in the work environment; uncongenial or hostile work environments; other psychosocial stressors related to work; and any other problems related to employment and/or occupation.
+
+#### Housing and Economic Problems
+
+*   **V60.0 (Z59.0) Homelessness**
+    *   **Criteria:** This category should be used when lack of a regular dwelling or living quarters has an impact on an individual’s treatment or prognosis. An individual is considered to be homeless if his or her primary nighttime residence is a homeless shelter, a warming shelter, a domestic violence shelter, a public space (e.g., tunnel, transportation station, mall), a building not intended for residential use (e.g., abandoned structure, unused factory), a cardboard box or cave, or some other ad hoc housing situation.
+
+*   **V60.1 (Z59.1) Inadequate Housing**
+    *   **Criteria:** This category should be used when lack of adequate housing has an impact on an individual’s treatment or prognosis.
+        *   *Examples of inadequate housing conditions include:* lack of heat (in cold temperatures) or electricity, infestation by insects or rodents, inadequate plumbing and toilet facilities, overcrowding, lack of adequate sleeping space, and excessive noise. It is important to consider cultural norms before assigning this category.
+
+*   **V60.89 (Z59.2) Discord With Neighbor, Lodger, or Landlord**
+    *   **Criteria:** This category should be used when discord with neighbors, lodgers, or a landlord is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V60.6 (Z59.3) Problem Related to Living in a Residential Institution**
+    *   **Criteria:** This category should be used when a problem (or problems) related to living in a residential institution is a focus of clinical attention or has an impact on the individual’s treatment or prognosis. Psychological reactions to a change in living situation are not included in this category; such reactions would be better captured as an adjustment disorder.
+
+*   **V60.2 (Z59.4) Lack of Adequate Food or Safe Drinking Water**
+    *   **Criteria:** This category should be used when this problem is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V60.2 (Z59.5) Extreme Poverty**
+    *   **Criteria:** This category should be used when this problem is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V60.2 (Z59.6) Low Income**
+    *   **Criteria:** This category should be used when this problem is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V60.2 (Z59.7) Insufficient Social Insurance or Welfare Support**
+    *   **Criteria:** This category should be used for individuals who meet eligibility criteria for social or welfare support but are not receiving such support, who receive support that is insufficient to address their needs, or who otherwise lack access to needed insurance or support programs.
+        *   *Examples include:* inability to qualify for welfare support owing to lack of proper documentation or evidence of address, inability to obtain adequate health insurance because of age or a preexisting condition, and denial of support owing to excessively stringent income or other requirements.
+
+*   **V60.9 (Z59.9) Unspecified Housing or Economic Problem**
+    *   **Criteria:** This category should be used when there is a problem related to housing or economic circumstances other than as specified above.
+
+#### Other Problems Related to the Social Environment
+
+*   **V62.89 (Z60.0) Phase of Life Problem**
+    *   **Criteria:** This category should be used when a problem adjusting to a life-cycle transition (a particular developmental phase) is the focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+        *   *Examples of such transitions include:* entering or completing school, leaving parental control, getting married, starting a new career, becoming a parent, adjusting to an “empty nest” after children leave home, and retiring.
+
+*   **V60.3 (Z60.2) Problem Related to Living Alone**
+    *   **Criteria:** This category should be used when a problem associated with living alone is the focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+        *   *Examples of such problems include:* chronic feelings of loneliness, isolation, and lack of structure in carrying out activities of daily living (e.g., irregular meal and sleep schedules, inconsistent performance of home maintenance chores).
+
+*   **V62.4 (Z60.3) Acculturation Difficulty**
+    *   **Criteria:** This category should be used when difficulty in adjusting to a new culture (e.g., following migration) is the focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V62.4 (Z60.4) Social Exclusion or Rejection**
+    *   **Criteria:** This category should be used when there is an imbalance of social power such that there is recurrent social exclusion or rejection by others.
+        *   *Examples of social rejection include:* bullying, teasing, and intimidation by others; being targeted by others for verbal abuse and humiliation; and being purposefully excluded from the activities of peers, workmates, or others in one’s social environment.
+
+*   **V62.4 (Z60.5) Target of (Perceived) Adverse Discrimination or Persecution**
+    *   **Criteria:** This category should be used when there is perceived or experienced discrimination against or persecution of the individual based on his or her membership (or perceived membership) in a specific category.
+        *   *Typically, such categories include:* gender or gender identity, race, ethnicity, religion, sexual orientation, country of origin, political beliefs, disability status, caste, social status, weight, and physical appearance.
+
+*   **V62.9 (Z60.9) Unspecified Problem Related to Social Environment**
+    *   **Criteria:** This category should be used when there is a problem related to the individual’s social environment other than as specified above.
+
+#### Problems Related to Crime or Interaction With the Legal System
+
+*   **V62.89 (Z65.4) Victim of Crime**
+    *   **Criteria:** This category should be used when being a victim of crime is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V62.5 (Z65.0) Conviction in Civil or Criminal Proceedings Without Imprisonment**
+    *   **Criteria:** This category should be used when this event is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V62.5 (Z65.1) Imprisonment or Other Incarceration**
+    *   **Criteria:** This category should be used when this event is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V62.5 (Z65.2) Problems Related to Release From Prison**
+    *   **Criteria:** This category should be used when problems related to release from prison are a focus of clinical attention or have an impact on the individual’s treatment or prognosis.
+
+*   **V62.5 (Z65.3) Problems Related to Other Legal Circumstances**
+    *   **Criteria:** This category should be used when problems related to other legal circumstances are a focus of clinical attention or have an impact on the individual’s treatment or prognosis.
+
+#### Other Health Service Encounters for Counseling and Medical Advice
+
+*   **V65.49 (Z70.9) Sex Counseling**
+    *   **Criteria:** This category should be used when the individual seeks counseling related to sex education, sexual behavior, sexual orientation, sexual attitudes (embarrassment, timidity), others’ sexual behavior or orientation (e.g., spouse, partner, child), sexual enjoyment, or any other sex-related issue.
+
+*   **V65.40 (Z71.9) Other Counseling or Consultation**
+    *   **Criteria:** This category should be used when counseling is provided or advice/consultation is sought for a problem that is not specified above or elsewhere in this chapter.
+        *   *Examples include:* spiritual or religious counseling, dietary counseling, and counseling on nicotine use.
+
+#### Problems Related to Other Psychosocial, Personal, and Environmental Circumstances
+
+*   **V62.89 (Z65.8) Religious or Spiritual Problem**
+    *   **Criteria:** This category can be used when the focus of clinical attention is a religious or spiritual problem.
+        *   *Examples include:* distressing experiences that involve loss or questioning of faith, problems associated with conversion to a new faith, or questioning of spiritual values that may not necessarily be related to an organized church or religious institution.
+
+*   **V61.7 (Z64.0) Problems Related to Unwanted Pregnancy**
+    *   **Criteria:** This category should be used when this problem is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V61.5 (Z64.1) Problems Related to Multiparity**
+    *   **Criteria:** This category should be used when this problem is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V62.89 (Z64.4) Discord With Social Service Provider, Including Probation Officer, Case Manager, or Social Services Worker**
+    *   **Criteria:** This category should be used when this problem is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V62.89 (Z65.4) Victim of Terrorism or Torture**
+    *   **Criteria:** This category should be used when being a victim of terrorism or torture is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V62.22 (Z65.5) Exposure to Disaster, War, or Other Hostilities**
+    *   **Criteria:** This category should be used when this exposure is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V62.89 (Z65.8) Other Problem Related to Psychosocial Circumstances**
+    *   **Criteria:** This category should be used when there is a problem related to psychosocial circumstances other than as specified above.
+
+*   **V62.9 (Z65.9) Unspecified Problem Related to Unspecified Psychosocial Circumstances**
+    *   **Criteria:** This category should be used when there is an unspecified problem related to unspecified psychosocial circumstances.
+
+#### Other Circumstances of Personal History
+
+*   **V15.49 (Z91.49) Other Personal History of Psychological Trauma**
+    *   **Criteria:** This category should be used when this history is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V15.59 (Z91.5) Personal History of Self-Harm**
+    *   **Criteria:** This category should be used when this history is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V62.22 (Z91.82) Personal History of Military Deployment**
+    *   **Criteria:** This category should be used when this history is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V15.89 (Z91.89) Other Personal Risk Factors**
+    *   **Criteria:** This category should be used when these risk factors are a focus of clinical attention or have an impact on the individual’s treatment or prognosis.
+
+*   **V69.9 (Z72.9) Problem Related to Lifestyle**
+    *   **Criteria:** This category should be used when a lifestyle problem is a specific focus of treatment or directly affects the course, prognosis, or treatment of a mental or other medical disorder.
+        *   *Examples of lifestyle problems include:* lack of physical exercise, inappropriate diet, high-risk sexual behavior, and poor sleep hygiene.
+        *   *Note:* A problem that is attributable to a symptom of a mental disorder should not be coded unless that problem is a specific focus of treatment or directly affects the course, prognosis, or treatment of the individual. In such cases, both the mental disorder and the lifestyle problem should be coded.
+
+*   **V71.01 (Z72.811) Adult Antisocial Behavior**
+    *   **Criteria:** This category can be used when the focus of clinical attention is adult antisocial behavior that is not due to a mental disorder (e.g., conduct disorder, antisocial personality disorder).
+        *   *Examples include:* the behavior of some professional thieves, racketeers, or dealers in illegal substances.
+
+*   **V71.02 (Z72.810) Child or Adolescent Antisocial Behavior**
+    *   **Criteria:** This category can be used when the focus of clinical attention is antisocial behavior in a child or adolescent that is not due to a mental disorder (e.g., intermittent explosive disorder, conduct disorder).
+        *   *Examples include:* isolated antisocial acts by children or adolescents (not a pattern of antisocial behavior).
+
+#### Problems Related to Access to Medical and Other Health Care
+
+*   **V63.9 (Z75.3) Unavailability or Inaccessibility of Health Care Facilities**
+    *   **Criteria:** This category should be used when this problem is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+*   **V63.8 (Z75.4) Unavailability or Inaccessibility of Other Helping Agencies**
+    *   **Criteria:** This category should be used when this problem is a focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+
+#### Nonadherence to Medical Treatment
+
+*   **V15.81 (Z91.19) Nonadherence to Medical Treatment**
+    *   **Criteria:** This category can be used when the focus of clinical attention is nonadherence to an important aspect of treatment for a mental disorder or another medical condition.
+        *   *Reasons for such nonadherence may include:* discomfort resulting from treatment (e.g., medication side effects), expense of treatment, personal value judgments or religious or cultural beliefs about the proposed treatment, age-related debility, and the presence of a mental disorder (e.g., schizophrenia, personality disorder).
+        *   *Note:* This category should be used only when the problem is sufficiently severe to warrant independent clinical attention and does not meet diagnostic criteria for psychological factors affecting other medical conditions.
+
+*   **278.00 (E66.9) Overweight or Obesity**
+    *   **Criteria:** This category may be used when overweight or obesity is a focus of clinical attention.
+
+*   **V65.2 (Z76.5) Malingering**
+    *   **Criteria:** The essential feature of malingering is the intentional production of false or grossly exaggerated physical or psychological symptoms, motivated by external incentives such as avoiding military duty, avoiding work, obtaining financial compensation, evading criminal prosecution, or obtaining drugs. Under some circumstances, malingering may represent adaptive behavior—for example, feigning illness while a captive of the enemy during wartime. Malingering should be strongly suspected if any combination of the following is noted:
+        1.  Medicolegal context of presentation (e.g., the individual is referred by an attorney to the clinician for examination, or the individual self-refers while litigation or criminal charges are pending).
+        2.  Marked discrepancy between the individual’s claimed stress or disability and the objective findings and observations.
+        3.  Lack of cooperation during the diagnostic evaluation and in complying with the prescribed treatment regimen.
+        4.  The presence of antisocial personality disorder.
+    *   *Note:* Malingering differs from factitious disorder in that the motivation for the symptom production in malingering is an external incentive, whereas in factitious disorder external incentives are absent. Malingering is differentiated from conversion disorder and somatic symptom–related mental disorders by the intentional production of symptoms and by the obvious external incentives associated with it. Definite evidence of feigning (such as clear evidence that loss of function is present during the examination but not at home) would suggest a diagnosis of factitious disorder if the individual’s apparent aim is to assume the sick role, or malingering if it is to obtain an incentive, such as money.
+
+*   **V40.31 (Z91.83) Wandering Associated With a Mental Disorder**
+    *   **Criteria:** This category is used for individuals with a mental disorder whose desire to walk about leads to significant clinical management or safety concerns. For example, individuals with major neurocognitive or neurodevelopmental disorders may experience a restless urge to wander that places them at risk for falls and causes them to leave supervised settings without needed accompaniment. This category excludes individuals whose intent is to escape an unwanted housing situation (e.g., children who are running away from home, patients who no longer wish to remain in the hospital) or those who walk or pace as a result of medication-induced akathisia.
+    *   *Coding note:* First code associated mental disorder (e.g., major neurocognitive disorder, autism spectrum disorder), then code V40.31 (Z91.83) wandering associated with [specific mental disorder].
+
+*   **V62.89 (R41.83) Borderline Intellectual Functioning**
+    *   **Criteria:** This category can be used when an individual’s borderline intellectual functioning is the focus of clinical attention or has an impact on the individual’s treatment or prognosis. Differentiating borderline intellectual functioning and mild intellectual disability (intellectual developmental disorder) requires careful assessment of intellectual and adaptive functions and their discrepancies, particularly in the presence of co-occurring mental disorders that may affect patient compliance with standardized testing procedures (e.g., schizophrenia or attention-deficit/hyperactivity disorder with severe impulsivity).
+
+---
+
+### Alternative DSM-5 Model for Personality Disorders
+
+#### General Criteria for Personality Disorder
+
+**The essential features of a personality disorder are:**
+A. Moderate or greater impairment in personality (self/interpersonal) functioning.
+B. One or more pathological personality traits.
+C. The impairments in personality functioning and the individual’s personality trait expression are relatively inflexible and pervasive across a broad range of personal and social situations.
+D. The impairments in personality functioning and the individual’s personality trait expression are relatively stable across time, with onsets that can be traced back to at least adolescence or early adulthood.
+E. The impairments in personality functioning and the individual’s personality trait expression are not better explained by another mental disorder.
+F. The impairments in personality functioning and the individual’s personality trait expression are not solely attributable to the physiological effects of a substance or another medical condition (e.g., severe head trauma).
+G. The impairments in personality functioning and the individual’s personality trait expression are not better understood as normal for an individual’s developmental stage or sociocultural environment.
+
+#### Specific Personality Disorders (Alternative Model)
+
+*   **Antisocial Personality Disorder**
+    *   **Proposed Diagnostic Criteria**
+        A. Moderate or greater impairment in personality functioning, manifested by characteristic difficulties in two or more of the following four areas:
+            1.  **Identity:** Egocentrism; self-esteem derived from personal gain, power, or pleasure.
+            2.  **Self-direction:** Goal setting based on personal gratification; absence of prosocial internal standards, associated with failure to conform to lawful or culturally normative ethical behavior.
+            3.  **Empathy:** Lack of concern for feelings, needs, or suffering of others; lack of remorse after hurting or mistreating another.
+            4.  **Intimacy:** Incapacity for mutually intimate relationships, as exploitation is a primary means of relating to others, including by deceit and coercion; use of dominance or intimidation to control others.
+        B. Six or more of the following seven pathological personality traits:
+            1.  **Manipulativeness** (an aspect of Antagonism): Frequent use of subterfuge to influence or control others; use of seduction, charm, glibness, or ingratiation to achieve one’s ends.
+            2.  **Callousness** (an aspect of Antagonism): Lack of concern for feelings or problems of others; lack of guilt or remorse about the negative or harmful effects of one’s actions on others; aggression; sadism.
+            3.  **Deceitfulness** (an aspect of Antagonism): Dishonesty and fraudulence; misrepresentation of self; embellishment or fabrication when relating events.
+            4.  **Hostility** (an aspect of Antagonism): Persistent or frequent angry feelings; anger or irritability in response to minor slights and insults; mean, nasty, or vengeful behavior.
+            5.  **Risk taking** (an aspect of Disinhibition): Engagement in dangerous, risky, and potentially self-damaging activities, unnecessarily and without regard for consequences; boredom proneness and thoughtless initiation of activities to counter boredom; lack of concern for one’s limitations and denial of the reality of personal danger.
+            6.  **Impulsivity** (an aspect of Disinhibition): Acting on the spur of the moment in response to immediate stimuli; acting on a momentary basis without a plan or consideration of outcomes; difficulty establishing and following plans.
+            7.  **Irresponsibility** (an aspect of Disinhibition): Disregard for—and failure to honor—financial and other obligations or commitments; lack of respect for—and lack of follow-through on—agreements and promises.
+        *   *Note:* The individual is at least 18 years of age.
+        *   *Specify if:* With psychopathic features.
+
+*   **Avoidant Personality Disorder**
+    *   **Proposed Diagnostic Criteria**
+        A. Moderate or greater impairment in personality functioning, manifest by characteristic difficulties in two or more of the following four areas:
+            1.  **Identity:** Low self-esteem associated with self-appraisal as socially inept, personally unappealing, or inferior; excessive feelings of shame.
+            2.  **Self-direction:** Unrealistic standards for behavior associated with reluctance to pursue goals, take personal risks, or engage in new activities involving interpersonal contact.
+            3.  **Empathy:** Preoccupation with, and sensitivity to, criticism or rejection, associated with distorted inference of others’ perspectives as negative.
+            4.  **Intimacy:** Reluctance to get involved with people unless being certain of being liked; diminished mutuality within intimate relationships because of fear of being shamed or ridiculed.
+        B. Three or more of the following four pathological personality traits, one of which must be (1) Anxiousness:
+            1.  **Anxiousness** (an aspect of Negative Affectivity): Intense feelings of nervousness, tenseness, or panic, often in reaction to social situations; worry about the negative effects of past unpleasant experiences and future negative possibilities; feeling fearful, apprehensive, or threatened by uncertainty; fears of embarrassment.
+            2.  **Withdrawal** (an aspect of Detachment): Reticence in social situations; avoidance of social contacts and activity; lack of initiation of social contact.
+            3.  **Anhedonia** (an aspect of Detachment): Lack of enjoyment from, engagement in, or energy for life’s experiences; deficits in the capacity to feel pleasure or take interest in things.
+            4.  **Intimacy avoidance** (an aspect of Detachment): Avoidance of close or romantic relationships, interpersonal attachments, and intimate sexual relationships.
+
+*   **Borderline Personality Disorder**
+    *   **Proposed Diagnostic Criteria**
+        A. Moderate or greater impairment in personality functioning, manifested by characteristic difficulties in two or more of the following four areas:
+            1.  **Identity:** Markedly impoverished, poorly developed, or unstable self-image, often associated with excessive self-criticism; chronic feelings of emptiness; dissociative states under stress.
+            2.  **Self-direction:** Instability in goals, aspirations, values, or career plans.
+            3.  **Empathy:** Compromised ability to recognize the feelings and needs of others associated with interpersonal hypersensitivity (i.e., prone to feel slighted or insulted); perceptions of others selectively biased toward negative attributes or vulnerabilities.
+            4.  **Intimacy:** Intense, unstable, and conflicted close relationships, marked by mistrust, neediness, and anxious preoccupation with real or imagined abandonment; close relationships often viewed in extremes of idealization and devaluation and alternating between overinvolvement and withdrawal.
+        B. Four or more of the following seven pathological personality traits, at least one of which must be (5) Impulsivity, (6) Risk taking, or (7) Hostility:
+            1.  **Emotional lability** (an aspect of Negative Affectivity): Unstable emotional experiences and frequent mood changes; emotions that are easily aroused, intense, and/or out of proportion to events and circumstances.
+            2.  **Anxiousness** (an aspect of Negative Affectivity): Intense feelings of nervousness, tenseness, or panic, often in reaction to interpersonal stresses; worry about the negative effects of past unpleasant experiences and future negative possibilities; feeling fearful, apprehensive, or threatened by uncertainty; fears of falling apart or losing control.
+            3.  **Separation insecurity** (an aspect of Negative Affectivity): Fears of rejection by—and/or separation from—significant others, based in a lack of confidence in one’s ability to care for oneself, both physically and emotionally.
+            4.  **Depressivity** (an aspect of Negative Affectivity): Frequent feelings of being down, miserable, and/or hopeless; difficulty recovering from such moods; pessimism about the future; pervasive shame; feelings of inferior self-worth; thoughts of suicide and suicidal behavior.
+            5.  **Impulsivity** (an aspect of Disinhibition): Acting on the spur of the moment in response to immediate stimuli; acting on a momentary basis without a plan or consideration of outcomes; difficulty establishing or following plans; a sense of urgency and self-harming behavior under emotional distress.
+            6.  **Risk taking** (an aspect of Disinhibition): Engagement in dangerous, risky, and potentially self-damaging activities, unnecessarily and without regard to consequences; lack of concern for one’s limitations and denial of the reality of personal danger.
+            7.  **Hostility** (an aspect of Antagonism): Persistent or frequent angry feelings; anger or irritability in response to minor slights and insults.
+
+*   **Narcissistic Personality Disorder**
+    *   **Proposed Diagnostic Criteria**
+        A. Moderate or greater impairment in personality functioning, manifested by characteristic difficulties in two or more of the following four areas:
+            1.  **Identity:** Excessive reference to others for self-definition and self-esteem regulation; exaggerated self-appraisal inflated or deflated, or vacillating between extremes; emotional regulation mirrors fluctuations in self-esteem.
+            2.  **Self-direction:** Goal setting based on gaining approval from others; personal standards unreasonably high in order to see oneself as exceptional, or too low based on a sense of entitlement; often unaware of own motivations.
+            3.  **Empathy:** Impaired ability to recognize or identify with the feelings and needs of others; excessively attuned to reactions of others, but only if perceived as relevant to self; over- or underestimate of own effect on others.
+            4.  **Intimacy:** Relationships largely superficial and exist to serve self-esteem regulation; mutuality constrained by little genuine interest in others’ experiences and predominance of a need for personal gain.
+        B. Both of the following pathological personality traits:
+            1.  **Grandiosity** (an aspect of Antagonism): Feelings of entitlement, either overt or covert; self-centeredness; firmly holding to the belief that one is better than others; condescension toward others.
+            2.  **Attention seeking** (an aspect of Antagonism): Excessive attempts to attract and be the focus of the attention of others; admiration seeking.
+
+*   **Obsessive-Compulsive Personality Disorder**
+    *   **Proposed Diagnostic Criteria**
+        A. Moderate or greater impairment in personality functioning, manifested by characteristic difficulties in two or more of the following four areas:
+            1.  **Identity:** Sense of self derived predominantly from work or productivity; constricted experience and expression of strong emotions.
+            2.  **Self-direction:** Difficulty completing tasks and realizing goals, associated with rigid and unreasonably high and inflexible internal standards of behavior; overly conscientious and moralistic attitudes.
+            3.  **Empathy:** Difficulty understanding and appreciating the ideas, feelings, or behaviors of others.
+            4.  **Intimacy:** Relationships seen as secondary to work and productivity; rigidity and stubbornness negatively affect relationships with others.
+        B. Three or more of the following four pathological personality traits, one of which must be (1) Rigid perfectionism:
+            1.  **Rigid perfectionism** (an aspect of extreme Conscientiousness [the opposite pole of Disinhibition]): Rigid insistence on everything being flawless, perfect, and without errors or faults, including one’s own and others’ performance; sacrificing of timeliness to ensure correctness in every detail; believing that there is only one right way to do things; difficulty changing ideas and/or viewpoint; preoccupation with details, organization, and order.
+            2.  **Perseveration** (an aspect of Negative Affectivity): Persistence at tasks long after the behavior has ceased to be functional or effective; continuance of the same behavior despite repeated failures.
+            3.  **Intimacy avoidance** (an aspect of Detachment): Avoidance of close or romantic relationships, interpersonal attachments, and intimate sexual relationships.
+            4.  **Restricted affectivity** (an aspect of Detachment): Little reaction to emotionally arousing situations; constricted emotional experience and expression; indifference or coldness.
+
+*   **Schizotypal Personality Disorder**
+    *   **Proposed Diagnostic Criteria**
+        A. Moderate or greater impairment in personality functioning, manifested by characteristic difficulties in two or more of the following four areas:
+            1.  **Identity:** Confused boundaries between self and others; distorted self-concept; emotional expression often not congruent with context or internal experience.
+            2.  **Self-direction:** Unrealistic or incoherent goals; no clear set of internal standards.
+            3.  **Empathy:** Pronounced difficulty understanding impact of own behaviors on others; frequent misinterpretations of others’ motivations and behaviors.
+            4.  **Intimacy:** Marked impairments in developing close relationships, associated with mistrust and anxiety.
+        B. Four or more of the following six pathological personality traits:
+            1.  **Cognitive and perceptual dysregulation** (an aspect of Psychoticism): Odd or unusual thought processes; vague, circumstantial, metaphorical, overelaborate, or stereotyped thought or speech; odd sensations in various sensory modalities.
+            2.  **Unusual beliefs and experiences** (an aspect of Psychoticism): Thought content and views of reality that are viewed by others as bizarre or idiosyncratic; unusual experiences of reality.
+            3.  **Eccentricity** (an aspect of Psychoticism): Odd, unusual, or bizarre behavior or appearance; saying unusual or inappropriate things.
+            4.  **Restricted affectivity** (an aspect of Detachment): Little reaction to emotionally arousing situations; constricted emotional experience and expression; indifference or coldness.
+            5.  **Withdrawal** (an aspect of Detachment): Preference for being alone to being with others; reticence in social situations; avoidance of social contacts and activity; lack of initiation of social contact.
+            6.  **Suspiciousness** (an aspect of Detachment): Expectations of—and heightened sensitivity to—signs of interpersonal ill-intent or harm; doubts about loyalty and fidelity of others; feelings of persecution.
+
+*   **Personality Disorder—Trait Specified**
+    *   **Proposed Diagnostic Criteria**
+        A. Moderate or greater impairment in personality functioning, manifested by difficulties in two or more of the following four areas:
+            1.  Identity
+            2.  Self-direction
+            3.  Empathy
+            4.  Intimacy
+        B. One or more pathological personality trait domains OR specific trait facets within domains, considering ALL of the following domains:
+            1.  **Negative Affectivity** (vs. Emotional Stability): Frequent and intense experiences of high levels of a wide range of negative emotions (e.g., anxiety, depression, guilt/shame, worry, anger), and their behavioral (e.g., self-harm) and interpersonal (e.g., dependency) manifestations.
+            2.  **Detachment** (vs. Extraversion): Avoidance of socioemotional experience, including both withdrawal from interpersonal interactions, ranging from casual, daily interactions to friendships to intimate relationships, as well as restricted affective experience and expression, particularly limited hedonic capacity.
+            3.  **Antagonism** (vs. Agreeableness): Behaviors that put the individual at odds with other people, including an exaggerated sense of self-importance and a concomitant expectation of special treatment, as well as a callous antipathy toward others, encompassing both unawareness of others’ needs and feelings, and a readiness to use others in the service of self-enhancement.
+            4.  **Disinhibition** (vs. Conscientiousness): Orientation toward immediate gratification, leading to impulsive behavior driven by current thoughts, feelings, and external stimuli, without regard for past learning or consideration of future consequences.
+            5.  **Psychoticism** (vs. Lucidity): Exhibiting a wide range of culturally incongruent odd, eccentric, or unusual behaviors and cognitions, including both process (e.g., perception, dissociation) and content (e.g., beliefs).
+
+---
+
+### Conditions for Further Study
+
+*   **Attenuated Psychosis Syndrome**
+    *   **Proposed Criteria**
+        A. At least one of the following symptoms is present in attenuated form, with relatively intact reality testing, and is of sufficient severity or frequency to warrant clinical attention:
+            1.  Delusions.
+            2.  Hallucinations.
+            3.  Disorganized speech.
+        B. Symptom(s) must have been present at least once per week for the past month.
+        C. Symptom(s) must have begun or worsened in the past year.
+        D. Symptom(s) is sufficiently distressing and disabling to the individual to warrant clinical attention.
+        E. Symptom(s) is not better explained by another mental disorder, including a depressive or bipolar disorder with psychotic features, and is not attributable to the physiological effects of a substance or another medical condition.
+        F. Criteria for any psychotic disorder have never been met.
+
+*   **Depressive Episodes With Short-Duration Hypomania**
+    *   **Proposed Criteria**
+        **Lifetime experience of at least one major depressive episode meeting the following criteria:**
+        A. Five (or more) of the following criteria have been present during the same 2-week period and represent a change from previous functioning; at least one of the symptoms is either (1) depressed mood or (2) loss of interest or pleasure. (Note: Do not include symptoms that are clearly attributable to a medical condition.)
+            1.  Depressed mood most of the day, nearly every day, as indicated by either subjective report (e.g., feels sad, empty, or hopeless) or observation made by others (e.g., appears tearful). (Note: In children and adolescents, can be irritable mood.)
+            2.  Markedly diminished interest or pleasure in all, or almost all, activities most of the day, nearly every day (as indicated by either subjective account or observation).
+            3.  Significant weight loss when not dieting or weight gain (e.g., a change of more than 5% of body weight in a month), or decrease or increase in appetite nearly every day. (Note: In children, consider failure to make expected weight gain.)
+            4.  Insomnia or hypersomnia nearly every day.
+            5.  Psychomotor agitation or retardation nearly every day (observable by others, not merely subjective feelings of restlessness or being slowed down).
+            6.  Fatigue or loss of energy nearly every day.
+            7.  Feelings of worthlessness or excessive or inappropriate guilt (which may be delusional) nearly every day (not merely self-reproach or guilt about being sick).
+            8.  Diminished ability to think or concentrate, or indecisiveness, nearly every day (either by subjective account or as observed by others).
+            9.  Recurrent thoughts of death (not just fear of dying), recurrent suicidal ideation without a specific plan, or a suicide attempt or a specific plan for committing suicide.
+        B. The symptoms cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+        C. The disturbance is not attributable to the physiological effects of a substance or another medical condition.
+        D. The disturbance is not better explained by schizoaffective disorder and is not superimposed on schizophrenia, schizophreniform disorder, delusional disorder, or other specified or unspecified schizophrenia spectrum and other psychotic disorder.
+        **At least two lifetime episodes of hypomanic periods that involve the required criterion symptoms below but are of insufficient duration (at least 2 days but less than 4 consecutive days) to meet criteria for a hypomanic episode. The criterion symptoms are as follows:**
+        A. A distinct period of abnormally and persistently elevated, expansive, or irritable mood and abnormally and persistently increased goal-directed activity or energy.
+        B. During the period of mood disturbance and increased energy and activity, three (or more) of the following symptoms have persisted (four if the mood is only irritable), represent a noticeable change from usual behavior, and have been present to a significant degree:
+            1.  Inflated self-esteem or grandiosity.
+            2.  Decreased need for sleep (e.g., feels rested after only 3 hours of sleep).
+            3.  More talkative than usual or pressured to keep talking.
+            4.  Flight of ideas or subjective experience that thoughts are racing.
+            5.  Distractibility (i.e., attention too easily drawn to unimportant or irrelevant external stimuli), as reported or observed.
+            6.  Increase in goal-directed activity (either socially, at work or school, or sexually) or psychomotor agitation.
+            7.  Excessive involvement in activities that have a high potential for painful consequences (e.g., the individual engages in unrestrained buying sprees, sexual indiscretions, or foolish business investments).
+        C. The episode is associated with an unequivocal change in functioning that is uncharacteristic of the individual when not symptomatic.
+        D. The disturbance in mood and the change in functioning are observable by others.
+        E. The episode is not severe enough to cause marked impairment in social or occupational functioning or to necessitate hospitalization. If there are psychotic features, the episode is, by definition, manic.
+        F. The episode is not attributable to the physiological effects of a substance (e.g., a drug of abuse, a medication or other treatment).
+
+*   **Persistent Complex Bereavement Disorder**
+    *   **Proposed Criteria**
+        A. The individual experienced the death of someone with whom he or she had a close relationship.
+        B. Since the death, at least one of the following symptoms is experienced on more days than not and to a clinically significant degree and has persisted for at least 12 months after the death in the case of bereaved adults and 6 months for bereaved children:
+            1.  Persistent yearning/longing for the deceased. In young children, yearning may be expressed in play and behavior, including behaviors that reflect being separated from, and also reuniting with, a caregiver or other attachment figure.
+            2.  Intense sorrow and emotional pain in response to the death.
+            3.  Preoccupation with the deceased.
+            4.  Preoccupation with the circumstances of the death. In children, this preoccupation with the deceased may be expressed through the themes of play and behavior and may extend to preoccupation with possible death of others close to them.
+        C. Since the death, at least six of the following symptoms are experienced on more days than not and to a clinically significant degree, and have persisted for at least 12 months after the death in the case of bereaved adults and 6 months for bereaved children:
+            **Reactive distress to the death**
+            1.  Marked difficulty accepting the death. In children, this is dependent on the child’s capacity to comprehend the meaning and permanence of death.
+            2.  Experiencing disbelief or emotional numbness over the loss.
+            3.  Difficulty with positive reminiscing about the deceased.
+            4.  Bitterness or anger related to the loss.
+            5.  Maladaptive appraisals about oneself in relation to the deceased or the death (e.g., self-blame).
+            6.  Excessive avoidance of reminders of the loss (e.g., avoidance of individuals, places, or situations associated with the deceased; in children, this may include avoidance of thoughts and feelings regarding the deceased).
+            **Social/identity disruption**
+            7.  A desire to die in order to be with the deceased.
+            8.  Difficulty trusting other individuals since the death.
+            9.  Feeling alone or detached from other individuals since the death.
+            10. Feeling that life is meaningless or empty without the deceased, or the belief that one cannot function without the deceased.
+            11. Confusion about one’s role in life, or a diminished sense of one’s identity (e.g., feeling that a part of oneself died with the deceased).
+            12. Difficulty or reluctance to pursue interests since the loss or to plan for the future (e.g., friendships, activities).
+        D. The disturbance causes clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+        E. The bereavement reaction is out of proportion to or inconsistent with cultural, religious, or age-appropriate norms.
+        *   *Specify if:* With traumatic bereavement: Bereavement due to homicide or suicide with persistent distressing preoccupations regarding the traumatic nature of the death (often in response to loss reminders), including the deceased’s last moments, degree of suffering and mutilating injury, or the malicious or intentional nature of the death.
+
+*   **Caffeine Use Disorder**
+    *   **Proposed Criteria**
+        A problematic pattern of caffeine use leading to clinically significant impairment or distress, as manifested by at least the first three of the following criteria occurring within a 12-month period:
+        1.  A persistent desire or unsuccessful efforts to cut down or control caffeine use.
+        2.  Continued caffeine use despite knowledge of having a persistent or recurrent physical or psychological problem that is likely to have been caused or exacerbated by caffeine.
+        3.  Withdrawal, as manifested by either of the following:
+            a.  The characteristic withdrawal syndrome for caffeine.
+            b.  Caffeine (or a closely related) substance is taken to relieve or avoid withdrawal symptoms.
+        4.  Caffeine is often taken in larger amounts or over a longer period than was intended.
+        5.  Recurrent caffeine use resulting in a failure to fulfill major role obligations at work, school, or home (e.g., repeated tardiness or absences from work or school related to caffeine use or withdrawal).
+        6.  Continued caffeine use despite having persistent or recurrent social or interpersonal problems caused or exacerbated by the effects of caffeine (e.g., arguments with spouse about consequences of use, medical problems, cost).
+        7.  Tolerance, as defined by either of the following:
+            a.  A need for markedly increased amounts of caffeine to achieve desired effect.
+            b.  Markedly diminished effect with continued use of the same amount of caffeine.
+        8.  A great deal of time is spent in activities necessary to obtain caffeine, use caffeine, or recover from its effects.
+        9.  Craving or a strong desire or urge to use caffeine.
+
+*   **Internet Gaming Disorder**
+    *   **Proposed Criteria**
+        Persistent and recurrent use of the Internet to engage in games, often with other players, leading to clinically significant impairment or distress as indicated by five (or more) of the following in a 12-month period:
+        1.  Preoccupation with Internet games. (The individual thinks about previous gaming activity or anticipates playing the next game; Internet gaming becomes the dominant activity in daily life).
+            *   *Note:* This disorder is distinct from Internet gambling, which is included under gambling disorder.
+        2.  Withdrawal symptoms when Internet gaming is taken away. (These symptoms are typically described as irritability, anxiety, or sadness, but there are no physical signs of pharmacological withdrawal.)
+        3.  Tolerance—the need to spend increasing amounts of time engaged in Internet games.
+        4.  Unsuccessful attempts to control the participation in Internet games.
+        5.  Loss of interests in previous hobbies and entertainment as a result of, and with the exception of, Internet games.
+        6.  Continued excessive use of Internet games despite knowledge of psychosocial problems.
+        7.  Has deceived family members, therapists, or others regarding the amount of Internet gaming.
+        8.  Use of Internet games to escape or relieve a negative mood (e.g., feelings of helplessness, guilt, anxiety).
+        9.  Has jeopardized or lost a significant relationship, job, or educational or career opportunity because of participation in Internet games.
+        *   *Note:* Only nongambling Internet games are included in this disorder. Use of the Internet for required activities in a business or profession is not included; nor is the disorder intended to include other recreational or social Internet use. Similarly, sexual Internet sites are excluded.
+        *   *Specify current severity:* Internet gaming disorder can be mild, moderate, or severe depending on the degree of disruption of normal activities. Individuals with less severe Internet gaming disorder may exhibit fewer symptoms and less disruption of their lives. Those with severe Internet gaming disorder will have more hours spent on the computer and more severe loss of relationships or career or school opportunities.
+
+*   **Neurobehavioral Disorder Associated With Prenatal Alcohol Exposure**
+    *   **Proposed Criteria**
+        A. More than minimal exposure to alcohol during gestation, including prior to pregnancy recognition. Confirmation of gestational exposure to alcohol may be obtained from maternal self-report of alcohol use in pregnancy, medical or other records, or clinical observation.
+        B. Impaired neurocognitive functioning as manifested by one or more of the following:
+            1.  Impairment in global intellectual performance (i.e., IQ of 70 or below, or a standard score of 70 or below on a comprehensive developmental assessment).
+            2.  Impairment in executive functioning (e.g., poor planning and organization; inflexibility; difficulty with behavioral inhibition).
+            3.  Impairment in learning (e.g., lower academic achievement than expected for intellectual level; specific learning disability).
+            4.  Memory impairment (e.g., problems remembering information learned recently; repeatedly making the same mistakes; difficulty remembering lengthy verbal instructions).
+            5.  Impairment in visual-spatial reasoning (e.g., disorganized or poorly planned drawings or constructions; problems differentiating left from right).
+        C. Impaired self-regulation as manifested by one or more of the following:
+            1.  Impairment in mood or behavioral regulation (e.g., mood lability; negative affect or irritability; frequent behavioral outbursts).
+            2.  Attention deficit (e.g., difficulty shifting attention; difficulty sustaining mental effort).
+            3.  Impairment in impulse control (e.g., difficulty waiting turn; difficulty complying with rules).
+        D. Impairment in adaptive functioning as manifested by two or more of the following, one of which must be (1) or (2):
+            1.  Communication deficit (e.g., delayed acquisition of language; difficulty understanding spoken language).
+            2.  Impairment in social communication and interaction (e.g., overly friendly with strangers; difficulty reading social cues; difficulty understanding social consequences).
+            3.  Impairment in daily living skills (e.g., delayed toileting, feeding, or bathing; difficulty managing daily schedule).
+            4.  Impairment in motor skills (e.g., poor fine motor development; delayed attainment of gross motor milestones or ongoing deficits in gross motor function; deficits in coordination and balance).
+        E. Onset of the disorder (symptoms in Criteria B, C, and D) occurs in childhood.
+        F. The disturbance causes clinically significant distress or impairment in social, academic, occupational, or other important areas of functioning.
+        G. The disorder is not better explained by the direct physiological effects associated with postnatal use of a substance (e.g., a medication, alcohol or other drugs), a general medical condition (e.g., traumatic brain injury, delirium, dementia), another known teratogen (e.g., fetal hydantoin syndrome), a genetic condition (e.g., Williams syndrome, Down syndrome, Cornelia de Lange syndrome), or environmental neglect.
+
+*   **Suicidal Behavior Disorder**
+    *   **Proposed Criteria**
+        A. Within the last 24 months, the individual has made a suicide attempt.
+            *   *Note:* A suicide attempt is a self-initiated sequence of behaviors by an individual who, at the time of initiation, expected that the set of actions would lead to his or her own death. The “time of initiation” is the time when a behavior took place that involved applying the method.)
+        B. The act does not meet criteria for nonsuicidal self-injury—that is, it does not involve self-injury directed to the surface of the body undertaken to induce relief from a negative feeling/cognitive state or to achieve a positive mood state.
+        C. The diagnosis is not applied to suicidal ideation or to preparatory acts.
+        D. The act was not initiated during a state of delirium or confusion.
+        E. The act was not undertaken solely for a political or religious objective.
+        *   *Specify if:*
+            *   Current: Not more than 12 months since the last attempt.
+            *   In early remission: 12–24 months since the last attempt.
+
+*   **Nonsuicidal Self-Injury**
+    *   **Proposed Criteria**
+        A. In the last year, the individual has, on 5 or more days, engaged in intentional self-inflicted damage to the surface of his or her body of a sort likely to induce bleeding, bruising, or pain (e.g., cutting, burning, stabbing, hitting, excessive rubbing), with the expectation that the injury will lead to only minor or moderate physical harm (i.e., there is no suicidal intent).
+            *   *Note:* The absence of suicidal intent has either been stated by the individual or can be inferred by the individual’s repeated engagement in a behavior that the individual knows, or has learned, is not likely to result in death.
+        B. The individual engages in the self-injurious behavior with one or more of the following expectations:
+            1.  To obtain relief from a negative feeling or cognitive state.
+            2.  To resolve an interpersonal difficulty.
+            3.  To induce a positive feeling state.
+            *   *Note:* The desired relief or response is experienced during or shortly after the self-injury, and the individual may display patterns of behavior suggesting a dependence on repeatedly engaging in it.
+        C. The intentional self-injury is associated with at least one of the following:
+            1.  Interpersonal difficulties or negative feelings or thoughts, such as depression, anxiety, tension, anger, generalized distress, or self-criticism, occurring in the period immediately prior to the self-injurious act.
+            2.  Prior to engaging in the act, a period of preoccupation with the intended behavior that is difficult to control.
+            3.  Thinking about self-injury that occurs frequently, even when it is not acted upon.
+        D. The behavior is not socially sanctioned (e.g., body piercing, tattooing, part of a religious or cultural ritual) and is not restricted to picking a scab or nail biting.
+        E. The behavior or its consequences cause clinically significant distress or interference in interpersonal, academic, or other important areas of functioning.
+        F. The behavior does not occur exclusively during psychotic episodes, delirium, substance intoxication, or substance withdrawal. In individuals with a neurodevelopmental disorder, the behavior is not part of a pattern of repetitive stereotypies. The behavior is not better explained by another mental disorder or medical condition (e.g., psychotic disorder, autism spectrum disorder, intellectual disability, Lesch-Nyhan syndrome, stereotypic movement disorder with self-injury, trichotillomania [hair-pulling disorder], excoriation [skin-picking] disorder).

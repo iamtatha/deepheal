@@ -1,0 +1,1206 @@
+329Feeding and
+Eating Disorders
+Feeding and eating  disorders are characterized by a persistent disturbance of eat-
+ing or eating-related behavior that results in the altered consumption or absorption of
+food and that significantly impairs physical he alth or psychosocial functioning. Diagnos-
+tic criteria are provid ed for pica, rumination disorder, avoidant/restrictive food intake
+disorder, anorexia nervosa, bulimia nervosa, and binge-eating disorder. 
+The diagnostic criteria for rumination diso rder, avoidant/restrictive food intake dis-
+order, anorexia nervosa,  bulimia nervosa, and binge-eating  disorder result in a classifica-
+tion scheme that is mutually ex clusive, so that during a sing le episode, only one of these
+diagnoses can be assigned. The rationale for this approach is that, despite a number of
+common psychological and behavioral features , the disorders differ substantially in clin-
+ical course, outcome, and treatment needs. A diagnosis of pica, however, may be assigned
+in the presence of any other feeding and eating disorder.
+Some individuals with disorders described in  this chapter report eating-related symp-
+toms resembling those typically endorsed by individuals with substance use disorders,
+such as craving and patterns of compulsive use. This resemblance may reflect the involve-
+ment of the same neural systems, including th ose implicated in regulatory self-control and
+reward, in both groups of disorders. Howeve r, the relative contributions of shared and
+distinct factors in the development and perp etuation of eating an d substance use disor-
+ders remain insuffic iently understood.
+Finally, obesity is not included in DSM-5 as  a mental disorder. Obesity (excess body fat)
+results from the long-term excess of energy in take relative to energy expenditure. A range
+of genetic, physiological, behavioral, and en vironmental factors that vary across individ-
+uals contributes to the development of obesit y; thus, obesity is not considered a mental
+disorder. However, there are ro bust associations between ob esity and a number of mental
+disorders (e.g., binge-eating disorder, depre ssive and bipolar disorders, schizophrenia).
+The side effects of some psychotropic medica tions contribute importantly to the develop-
+ment of obesity, and obesity may be a risk fa ctor for the development of some mental dis-
+orders (e.g., depr essive disorders).
+Pica
+Diagnostic Criteria
+A. Persistent eating of nonnutritive, nonfood substances over a period of at least 1 month.
+B. The eating of nonnutritive, nonfood substances is inappropriate to the developmental
+level of the individual. 
+C. The eating behavior is not part of a culturally  supported or socially normative practice.
+D. If the eating behavior occurs in the context of another mental disorder (e.g., intellectual
+disability [intellectual developmental disorder], autism spectrum disorder, schizophre-
+nia) or medical condition (including pregnancy), it is sufficiently severe to warrant ad-
+ditional clinical attention.
+330 Feeding and Eating Disorders
+Coding note:  The ICD-9-CM code for pica is 307.52 and is used for children or adults.
+The ICD-10-CM codes for pica are (F98.3)  in children and (F50.8)  in adults.
+Specify if:
+In remission:  After full criteria for pica were previously met, the criteria have not been
+met for a sustained period of time.
+Diagnostic Features
+The essential feature of pica is the eating of on e or more nonnutritive, nonfood substances on a
+persistent basis over a period of at least 1 month (Criterion A) that is severe enough to warrant
+clinical attention. Typical substances ingested te nd to vary with age and availability and might
+include paper, soap, cloth, hair , string, wool, soil, chalk, talc um powder, paint, gum, metal,
+pebbles, charcoal or coal, ash, clay, starch, or ice. The term nonfood  is included because the di-
+agnosis of pica does not apply to ingestion of diet products that have minimal nutritional con-
+tent. There is typically no aversion to food in general. The eating of nonnutritive, nonfood
+substances must be developmentally inappropriate (Criterion B)  and not part of a culturally
+supported or socially normativ e practice (Criterion C). A minimum age of 2 years is suggested
+for a pica diagnosis to exclude developmentally normal mouthing of objects by infants that re-
+sults in ingestion. The eating of nonnutritive, nonfood substances can be an associated feature
+of other mental disorders (e.g., intellectual disability [intellectual developmental disorder],
+autism spectrum disorder, schizo phrenia). If the eating behavior occurs exclusively in the con-
+text of another mental disorder, a separate diagnosis of pica should be made only if the eating
+behavior is sufficiently severe to warrant additional clinical attention (Criterion D).
+Associated Features Supporting Diagnosis
+Although deficiencies in vitamins or minerals (e .g., zinc, iron) have been reported in some
+instances, often no specific biological abnorm alities are found. In some cases, pica comes
+to clinical attention only following general medical complications (e.g., mechanical bowel
+problems; intestinal obstruction,  such as that resulting from  a bezoar; intestinal perfora-
+tion; infections such as toxoplasmosis and toxoca riasis as a result of ingesting feces or dirt;
+poisoning, such as by ingestion of lead-based paint).
+Prevalence
+The prevalence of pica is unclear. Among in dividuals with intellectual disability, the prev-
+alence of pica appears to increase with the severity of the condition.
+Development and Course
+Onset of pica can occur in childhood, adolesce nce, or adulthood, although childhood onset
+is most commonly reported. Pi ca can occur in otherwise normally developing children,
+whereas in adults, it appears more likely to o ccur in the context of intellectual disability or
+other mental disorders. The ea ting of nonnutritive, nonfood substances may also manifest
+in pregnancy, when specific cravings (e.g., chalk or ice) might occur. The diagnosis of pica
+during pregnancy is only appropriate if such  cravings lead to the ingestion of nonnutri-
+tive, nonfood substances to the extent that th e eating of these substances poses potential
+medical risks. The course of th e disorder can be protracted an d can result in medical emer-
+gencies (e.g., intestinal obstruction, acute weight loss, poisoning). The disorder can poten-
+tially be fatal depending on substances ingested.
+Risk and Prognostic Factors
+Environmental. Neglect, lack of supervision, and de velopmental delay can increase the
+risk for this condition.
+Pica 331
+Culture-Related Diagnostic Issues
+In some populations, the eating of earth or other seemingly nonn utritive substances is believed
+to be of spiritual, medicinal, or  other social value, or may be a culturally supported or socially
+normative practice. Such  behavior does not warrant a di agnosis of pica (Criterion C).
+Gender-Related Diagnostic Issues
+Pica occurs in both males and females. It ca n occur in females during pregnancy; however,
+little is known about the course of pica in the postpartum period. 
+Diagnostic Markers
+Abdominal flat plate radiography, ultrasound, and other scanning methods may reveal
+obstructions related to pica. Blood tests and other laboratory tests can be used to ascertain
+levels of poisoning or the nature of infection. 
+Functional Consequences of Pica
+Pica can significantly impair physical functioning,  but it is rarely the sole cause of impair-
+ment in social functioning. Pica often occu rs with other disorders associated with im-
+paired social functioning.
+Differential Diagnosis
+Eating of nonnutritive, nonfood substances may occur during the course of other mental
+disorders (e.g., autism spectr um disorder, schizophrenia) an d in Kleine-Levin syndrome.
+In any such instance, an additional diagnosis of pica should be given only if the eating be-
+havior is sufficiently persistent and severe to warrant additional clinical attention.
+Anorexia nervosa. Pica can usually be distinguished from the other feeding and eating
+disorders by the consumption of  nonnutritive, nonfoo d substances. It is important to note,
+however, that some presentations of anorexia nervosa include ingestion of nonnutritive,
+nonfood substances, such as paper tissues, as a means of attempting to control appetite. In
+such cases, when the eating of nonnutritive,  nonfood substances is primarily used as a
+means of weight control, anorexia ne rvosa should be the primary diagnosis. 
+Factitious disorder. Some individuals with factitious disorder may intentionally ingest
+foreign objects as part of the pattern of fals ification of physical symptoms. In such in-
+stances, there is an element of deception that is consistent with deliberate induction of in-
+jury or disease. 
+Nonsuicidal self-injury and nonsuicidal self -injury behaviors in personality disorders.
+Some individuals may swallow potentially harm ful items (e.g., pins, needles, knives) in
+the context of maladaptive be havior patterns associated with personality disorders or
+nonsuicidal self-injury. 
+Comorbidity
+Disorders most commonly comorb id with pica are autism spectrum disorder and intellec-
+tual disability (intellectual deve lopmental disorder), and, to a lesser degree, schizophrenia
+and obsessive-compulsive disorder. Pica can be associated with trichotillomania (hair-
+pulling disorder) and exco riation (skin-picking) disorder. In comorbid presentations, the
+hair or skin is typically ingested. Pica can al so be associated with av oidant/restrictive food
+intake disorder, particularly in individuals with a strong sensory component to their pre-
+sentation. When an individual is known to  have pica, assessment should include con-
+sideration of the possibility of gastrointestinal complications, poisoning, infection, and
+nutritional deficiency. 
+332 Feeding and Eating Disorders
+Rumination Disorder
+Diagnostic Criteria 307.53 (F98.21)
+A. Repeated regurgitation of food over a period of at least 1 month. Regurgitated food
+may be re-chewed, re-swallowed, or spit out.
+B. The repeated regurgitation is not attributable to an associated gastrointestinal or other
+medical condition (e.g., gastroesophageal reflux, pyloric stenosis).
+C. The eating disturbance does not occur exclusively during the course of anorexia nervosa,
+bulimia nervosa, binge-eating disorder, or avoidant/restrictive food intake disorder. 
+D. If the symptoms occur in the context of another mental disorder (e.g., intellectual dis-
+ability [intellectual developmental disorder ] or another neurodevelopmental disorder),
+they are sufficiently severe to warrant additional clinical attention. 
+Specify if:
+In remission:  After full criteria for rumination disorder were previously met, the criteria
+have not been met for a sustained period of time.
+Diagnostic Features
+The essential feature of rumina tion disorder is the repeated regurgitation of food occur-
+ring after feeding or eating over a period of at least 1 month (Criterion A). Previously swal-
+lowed food that may be partially digested is brought up into the mouth without apparent
+nausea, involuntary retching, or disgust. The food may be re-chewed and then ejected
+from the mouth or re-swallow ed. Regurgitation in ruminati on disorder should be fre-
+quent, occurring at least several times per we ek, typically daily. The behavior is not better
+explained by an associated gastrointestinal or other medical condition (e.g., gastroesoph-
+ageal reflux, pyloric stenosis) (Criterion B) and does not occur exclusively during the
+course of anorexia nervosa, bulimia nervosa, binge-eating disorder, or avoidant/restric-
+tive food intake disorder (Criterion C). If the symptoms occur in the context of another
+mental disorder (e.g., intellectual disability [intellectual developmen tal disorder], neuro-
+developmental disorder), they must be suffici ently severe to warrant additional clinical
+attention (Criterion D) and should represent a primary aspect of the individual’s presen-
+tation requiring intervention. The disorder may be diagnosed across the life span, par-
+ticularly in individuals who also have in tellectual disability. Many individuals with
+rumination disorder can be dire ctly observed engaging in the behavior by the clinician. In
+other instances diagnosis can be made on the basis of self-report or  corroborative informa-
+tion from parents or caregivers. Individuals may describe the behavior as habitual or out-
+side of their control.
+Associated Features Supporting Diagnosis
+Infants with rumination disorder display a characteristic position of straining and arching
+the back with the head held back, making  sucking movements with their tongue. They
+may give the impression of gaining satisfaction from the ac tivity. They ma y be irritable
+and hungry between episodes of regurgitation.  Weight loss and failu re to make expected
+weight gains are common features in infants with rumination disorder. Malnutrition may
+occur despite the infant’s appa rent hunger and the ingestion of relatively large amounts of
+food, particularly in severe cases, when regurgitation imme diately follows each feeding
+episode and regurgitated food is expelled. Malnutrition might also occur in older children
+and adults, particularly when the regurgitation is accompanied by restriction of intake.
+Adolescents and adults may attempt to disgui se the regurgitation behavior by placing a
+Rumination Disorder 333
+hand over the mouth or coughing. Some will a void eating with others because of the ac-
+knowledged social undesirability of the behavi or. This may extend to an avoidance of eat-
+ing prior to social situations, such as work or school (e.g., avoidi ng breakfast because it
+may be followed by regurgitation).
+Prevalence
+Prevalence data for rumination disorder ar e inconclusive, but the disorder is commonly
+reported to be higher in certain groups, such as individuals with intellectual disability.
+Development and Course
+Onset of rumination disorder can occur in in fancy, childhood, adolescence, or adulthood.
+The age at onset in infants is usually between ag es 3 and 12 months. In infants, the disorder
+frequently remits spontaneously, but its course can be protract ed and can result in medical
+emergencies (e.g., severe malnutrition). It can potentially be fatal, particularly in infancy.
+Rumination disorder can have an episodic course or occur continuously until treated. In
+infants, as well as in older individuals with intellectual disability (intellectual developmen-
+tal disorder) or other neurodevelopmental diso rders, the regurgitation and rumination be-
+havior appears to have a self-soothing or self-stimulating func tion, similar to that of other
+repetitive motor behaviors such as head banging. 
+Risk and Prognostic Factors 
+Environmental. Psychosocial problems such as lack of stimulation, neglect, stressful life
+situations, and problems in the parent-child relationship may be predisposing factors in
+infants and young children.
+Functional Consequences of Rumination Disorder
+Malnutrition secondary to repeated regurgit ation may be associated with growth delay
+and have a negative effect on development an d learning potential. Some older individuals
+with rumination disorder deliberately restrict their food intake because of the social un-
+desirability of regurgitation. They may therefore present with  weight loss or low weight.
+In older children, adolescents, and adults, soci al functioning is more likely to be adversely
+affected. 
+Differential Diagnosis
+Gastrointestinal conditions. It is important to differentiate regurgitation in rumination
+disorder from other conditions characterized by gastroesophageal re flux or vomiting. Con-
+ditions such as gastroparesis, pyloric stenosis, hiatal hernia, and Sandifer syndrome in in-
+fants should be ruled out by appropriate physical examinations and laboratory tests.
+Anorexia nervosa and bulimia nervosa. Individuals with anorexia nervosa and bulimia
+nervosa may also engage in regurgitation with subsequent spitting ou t of food as a means
+of disposing of ingested calories be cause of concerns about weight gain. 
+Comorbidity
+Regurgitation with associated rumination can occur in the context of a concurrent medical
+condition or another mental disorder (e.g., ge neralized anxiety disorder). When the regur-
+gitation occurs in  this context, a diagnosis of ruminati on disorder is appropriate only when
+the severity of the disturbance exceeds that routinely associated with such conditions or
+disorders and warrants additional clinical attention.
+334 Feeding and Eating Disorders
+Avoidant/Restrictive Food Intake Disorder
+Diagnostic Criteria 307.59 (F50.8)
+A. An eating or feeding disturbance (e.g., apparent lack of interest in eating or food; avoid-
+ance based on the sensory characteristics of food; concern about aversive conse-
+quences of eating) as manifested by persistent failure to meet appropriate nutritional
+and/or energy needs associated with one (or more) of the following:
+1. Significant weight loss (or failure to achieve expected weight gain or faltering
+growth in children).
+2. Significant nutritional deficiency.
+3. Dependence on enteral feeding or oral nutritional supplements.
+4. Marked interference with psychosocial functioning.
+B. The disturbance is not better explained by lack of available food or by an associated
+culturally sanctioned practice.
+C. The eating disturbance does not occur exclusively during the course of anorexia ner-
+vosa or bulimia nervosa, and there is no evidence of a disturbance in the way in which
+one’s body weight or shape is experienced.
+D. The eating disturbance is not attributable to a concurrent medical condition or not bet-
+ter explained by another mental disorder. When the eating disturbance occurs in the
+context of another condition or disorder, t he severity of the eating disturbance exceeds
+that routinely associated with the condition or disorder and warrants additional clinical
+attention.
+Specify if:
+In remission:  After full criteria for avoidant/restrictive food intake disorder were previ-
+ously met, the criteria have not been met for a sustained period of time.
+Diagnostic Features
+Avoidant/restrictive food intake disorder replaces and extends the DSM-IV diagnosis of
+feeding disorder of infancy or  early childhood. The main diagnostic feature of avoidant/
+restrictive food intake disorder is avoidance or restriction of food intake (Criterion A)
+manifested by clinically significant failure to  meet requirements for nutrition or insuffi-
+cient energy intake through oral intake of food. One or more of the following key features
+must be present: significant weight loss, si gnificant nutritional deficiency (or related
+health impact), dependence on enteral feedin g or oral nutritional supplements, or marked
+interference with psychosocial functioning.  The determination of whether weight loss is
+significant (Criterion A1) is a clinical judgme nt; instead of losing weight, children and ad-
+olescents who have not completed growth may not maintain weight or height increases
+along their developmental trajectory.
+Determination of significant nu tritional deficiency (Criterion A2) is also based on clin-
+ical assessment (e.g., assessment of dietary intake, physical examination, and laboratory
+testing), and related impact on physical health can be of a similar seve rity to that seen in
+anorexia nervosa (e.g., hypother mia, bradycardia, anemia). In severe cases, particularly in
+infants, malnutrition can be life threatening.  “Dependence” on enteral feeding or oral nu-
+tritional supplements (Criterion A3) means that  supplementary feeding is required to sus-
+tain adequate intake. Examples of individu als requiring supplementary feeding include
+infants with failure to thrive who require na sogastric tube feeding, children with neuro-
+developmental disorders who are dependent on  nutritionally complete supplements, and
+individuals who rely on gastrostomy tube feeding or complete oral nutrition supplements
+in the absence of an underlying medical condit ion. Inability to participate in normal social
+Avoidant/Restrictive Food Intake Disorder 335
+activities, such as eating with others, or to sustain relationsh ips as a result of the distur-
+bance would indicate marked interference wi th psychosocial functioning (Criterion A4).
+Avoidant/restrictive food intake disorder does not include avoidance or restriction of
+food intake related to lack of availability of food or to cultural practices (e.g., religious fast-
+ing or normal dieting) (Criterion B), nor does it include developmentally normal behaviors
+(e.g., picky eating in toddlers, reduced intake in older adults). The disturbance is not better
+explained by excessive concern about body weight  or shape (Criterion C) or by concurrent
+medical factors or mental disorders (Criterion D). 
+In some individuals, food av oidance or restriction may be based on the sensory char-
+acteristics of qualities of fo od, such as extreme sensitivity to appearance, color, smell,
+texture, temperature, or taste. Such behavior  has been described as  “restrictive eating,”
+“selective eating,” “choosy eating,” “perseverant eating,” “chronic food refusal,” and
+“food neophobia” and may manifest as refusal to  eat particular brands of foods or to tol-
+erate the smell of food being eaten by others . Individuals with heightened sensory sensi-
+tivities associated with autism  may show similar behaviors. 
+Food avoidance or restriction may also repr esent a conditioned negative response as-
+sociated with food intake following, or in an ticipation of, an aversive experience, such as
+choking; a traumatic investigation, usually invo lving the gastrointestinal tract (e.g., esoph-
+agoscopy); or repeated vomiting. The terms functional dysphagia and globus hystericus  have
+also been used for such conditions. 
+Associated Features Supporting Diagnosis 
+Several features may be associated with food avoidance or reduced food intake, including
+a lack of interest in eating or food, leading to weight loss or faltering growth. Very young
+infants may present as being too sleepy, distre ssed, or agitated to feed. Infants and young
+children may not engage with the primary ca regiver during feeding or communicate hun-
+ger in favor of other activities. In older child ren and adolescents, food  avoidance or restric-
+tion may be associated with more generali zed emotional difficulties that do not meet
+diagnostic criteria for an an xiety, depressive, or bipolar disorder, sometimes called “food
+avoidance emotional disorder.” 
+Development and Course
+Food avoidance or restriction associated with in sufficient intake or lack of interest in eat-
+ing most commonly develops in infancy or early childhood and may persist in adulthood.
+Likewise, avoidance based on sensory characterist ics of food tends to arise in the first de-
+cade of life but may persist into adulthood. Avoidance related to aversive consequences
+can arise at any age. The scant literature re garding long-term outcomes suggests that food
+avoidance or restriction based on sensory aspects is relatively stable and long-standing,
+but when persisting into adulthood, such avoidance/restriction can be associated with rel-
+atively normal functioning. There is currently insufficient evidence directly linking avoid-
+ant/restrictive food intake disorder and subsequent onset of an eating disorder. 
+Infants with avoidant/restrictive food intake  disorder may be irritable and difficult to
+console during feeding, or ma y appear apathetic and withdrawn. In some instances, par-
+ent-child interaction may contri bute to the infant’s feeding problem (e.g., presenting food
+inappropriately, or interpreting the infant’s be havior as an act of aggression or rejection).
+Inadequate nutritional intake may exacerbate the associated fe atures (e.g., irritability, de-
+velopmental lags) and further contribute to f eeding difficulties. Associated factors include
+infant temperament or developm ental impairments that reduce  an infant’s responsiveness
+to feeding. Coexisting parental psychopathology, or child abus e or neglect, is suggested if
+feeding and weight improve in response to ch anging caregivers. In infants, children, and
+prepubertal adolescents, avoidant/restrictive food intake di sorder may be associated with
+growth delay, and the resulting malnutrition  negatively affects development and learning
+336 Feeding and Eating Disorders
+potential. In older children, adolescents, an d adults, social functioning tends to be ad-
+versely affected. Regardless of the age, fami ly function may be affected, with heightened
+stress at mealtimes and in other feeding or ea ting contexts involving friends and relatives.
+Avoidant/restrictive food intake disorder  manifests more commonly in children than
+in adults, and there may be a long delay betw een onset and clinical presentation. Triggers
+for presentation vary considerably and includ e physical, social, and emotional difficulties.
+Risk and Prognostic Factors
+Temperamental. Anxiety disorders, autism spectrum disorder, obsessive-compulsive
+disorder, and attention-deficit/ hyperactivity disorder may in crease risk for avoidant or
+restrictive feeding or eating behavi or characteristic of the disorder. 
+Environmental. Environmental risk factors for avoida nt/restrictive f ood intake disor-
+der include familial anxiety. Higher rates of  feeding disturbances may occur in children of
+mothers with eating disorders. 
+Genetic and physiological. History of gastrointestinal co nditions, gastroesophageal re-
+flux disease, vomiting, and a range of othe r medical problems has been associated with
+feeding and eating behaviors characteristic of  avoidant/restrictive food intake disorder.
+Culture-Related Diagnostic Issues
+Presentations similar to avoidant/restrictive fo od intake disorder occur in various popu-
+lations, including in the United States, Cana da, Australia, and Euro pe. Avoidant/restrictive
+food intake disorder should not be diagnosed when avoidance of food intake is solely re-
+lated to specific religious or cultural practices.
+Gender-Related Diagnostic Issues
+Avoidant/restrictive food intake disorder is equally common in males and females in in-
+fancy and early childhood, but avoidant/restric tive food intake di sorder comorbid with
+autism spectrum disorder has a male predominance. Food avoidance or restriction related
+to altered sensory sensitivities can occur in some physiological conditions, most notably
+pregnancy, but is not usually extreme and does  not meet full criter ia for the disorder.
+Diagnostic Markers
+Diagnostic markers include malnutrition, low weight, growth delay, and the need for ar-
+tificial nutrition in the absence of any clear medical condition other than poor intake.
+Functional Consequences of Avoidant/Restrictive 
+Food Intake Disorder
+Associated developmental and fu nctional limitations include impairment of physical de-
+velopment and social difficulties that can have a significant negative impact on family
+function. 
+Differential Diagnosis
+Appetite loss preceding restricted intake is a nonspecific symptom that can accompany a
+number of mental diagnoses. Avoidant/restrictive food intake disorder can be diagnosed
+concurrently with the disorders below if all criteria are met, and the eating disturbance re-
+quires specific clinical attention. 
+Other medical conditions (e.g., gastrointest inal disease, food allergies and intoler-
+ances, occult malignancies). Restriction of food intake ma y occur in other medical condi-
+Avoidant/Restrictive Food Intake Disorder 337
+tions, especially those with on going symptoms such as vomiting, loss of appetite, nausea, ab-
+dominal pain, or diarrhea. A diag nosis of avoidant/restrictive food intake disorder requires
+that the disturbance of intake is beyond that directly accounted for by physical symptoms con-
+sistent with a medical condition; the eating d isturbance may also persis t after being triggered
+by a medical condition and following resolution of the medical condition. 
+Underlying medical or comorbid mental cond itions may complicate  feeding and eating.
+Because older individuals, postsurgical pati ents, and individuals receiving chemotherapy
+often lose their appetite, an additional diagno sis of avoidant/restric tive food intake dis-
+order requires that the eating disturbance is a primary focus for intervention. 
+Specific neurological/neuromuscular, structural, or congenital disorders and condi-
+tions associated with feeding difficulties. Feeding difficulties are common in a number
+of congenital and neurological conditions often related to problems with oral/esophageal/
+pharyngeal structure and function, such as hy potonia of musculature, tongue protrusion,
+and unsafe swallowing. Avoidant/restrictive food  intake disorder can be diagnosed in in-
+dividuals with such presentations as long as all diagnostic criteria are met.
+Reactive attachment disorder. Some degree of withdrawal is characteristic of reactive
+attachment disorder and can lead to a distur bance in the caregiver-child relationship that
+can affect feeding and the child’s intake. Avoi dant/restrictive food intake disorder should
+be diagnosed concurrently only if all criter ia are met for both di sorders and the feeding
+disturbance is a primary focus for intervention.
+Autism spectrum disorder. Individuals with autism spectr um disorder often present with
+rigid eating behaviors and heightened sensor y sensitivities. However, these features do
+not always result in the level of impairment  that would be required for a diagnosis of
+avoidant/restrictive food intake  disorder. Avoidant/restrictive  food intake disorder should
+be diagnosed concurrently only if all criteria  are met for both disorders and when the eat-
+ing disturbance requires  specific treatment.
+Specific phobia, social anxiety disorder (social phobia), and other anxiety disorders.
+Specific phobia, other type, specifies “situation s that may lead to choking or vomiting” and
+can represent the primary trigge r for the fear, anxiety, or avoidance required for diagnosis.
+Distinguishing specific phobia from avoidant/res trictive food intake disorder can be dif-
+ficult when a fear of choking or vomiting h as resulted in food avoidance. Although avoid-
+ance or restriction of food intake secondar y to a pronounced fear of choking or vomiting
+can be conceptualized as specific phobia, in  situations when the eating problem becomes
+the primary focus of clinical attention, avoidant/restrictive food intake disorder becomes
+the appropriate diagnosis. In social anxiety disorder, the individual  may present with a
+fear of being observed by others while eating , which can also occur in avoidant/restrictive
+food intake disorder. 
+Anorexia nervosa. Restriction of energy intake relati ve to requirements  leading to sig-
+nificantly low body weight is a core featur e of anorexia nervosa.  However, individuals
+with anorexia nervosa also display a fear of ga ining weight or of becoming fat, or persis-
+tent behavior that interferes with weight gain , as well as specific disturbances in relation to
+perception and experience of their own body weight and shape. These features are not
+present in avoidant/restrictive food intake disorder, and the two disorders should not be
+diagnosed concurrently. Differential diagnosis between avoidant/restrictive food intake
+disorder and anorexia nervosa may be difficult,  especially in late childhood and early ad-
+olescence, because these disorders may share a number of common symptoms (e.g., food
+avoidance, low weight). Differential diagnosis is also potentially difficult in individuals
+with anorex ia nervosa who deny any fear of fatness but nonetheless engage in persistent
+behaviors that prevent weight gain and who do not recognize the medical seriousness of
+their low weight—a presentation sometimes termed “non-fat phobic anorexia nervosa.”
+Full consideration of symptoms, course, and fa mily history is advised, and diagnosis may
+338 Feeding and Eating Disorders
+be best made in the context of a clinical rela tionship over time. In some individuals, avoid-
+ant/restrictive food intake disorder might precede the onset of anorexia nervosa.
+Obsessive-compulsive disorder. Individuals with obsessive-compulsive disorder may
+present with avoidance or restri ction of intake in relation to preoccupations with food or
+ritualized eating behavior. Avoidant/restrictive  food intake disorder  should be diagnosed
+concurrently only if all criteria are met for both disorders and when the aberrant eating is
+a major aspect of the clinical presenta tion requiring specific intervention.
+Major depressive disorder. In major depressive disorder, a ppetite might be affected to
+such an extent that individuals present with significantly restricted food intake, usually in
+relation to overall energy intake and often a ssociated with weight loss. Usually appetite
+loss and related reduction of intake abate wi th resolution of mood problems. Avoidant/
+restrictive food intake disorder should only be used concurrently if fu ll criteria are met for
+both disorders and when the eating d isturbance requires specific treatment.
+Schizophrenia spectrum disorders. Individuals with schizophrenia, delusional disor-
+der, or other psychotic disorders may exhibit odd eating behaviors, avoidance of specific
+foods because of delusional beliefs, or other ma nifestations of avoidant or restrictive in-
+take. In some cases, delusional beliefs may contribute to a concern about negative conse-
+quences of ingesting certain foods. Avoidant/r estrictive food intake disorder should be
+used concurrently only if all criteria are me t for both disorders and when the eating dis-
+turbance requires specific treatment.
+Factitious disorder or factitious disorder imposed on another. Avoidant/restrictive
+food intake disorder should be differentiated fr om factitious disorder or factitious disor-
+der imposed on another. In orde r to assume the sick role, so me individuals with factitious
+disorder may intentionally describe diets that  are much more restrictive than those they
+are actually able to consume, as well as comp lications of such behavior, such as a need for
+enteral feedings or nutritional supplements,  an inability to tolera te a normal range of
+foods, and/or an inability to participate normally in age-a ppropriate situations involving
+food. The presentation may be impressively dramatic and engaging, and the symptoms re-
+ported inconsistently. In factitious disorder  imposed on another, the caregive r describes
+symptoms consistent with avoidant/restric tive food intake di sorder and may induce
+physical symptoms such as failure to gain weig ht. As with any diagno sis of factitious dis-
+order imposed on another, the caregiver receives the diagnosis rather than the affected in-
+dividual, and diagnosis should be made only on the basis of a careful, comprehensive
+assessment of the affected individual, the caregiver, and their interaction. 
+Comorbidity
+The most commonly observed disorders comorb id with avoidant/restrictive food intake
+disorder are anxiety disorders, obsessive- compulsive disorder, and neurodevelopmental
+disorders (specifically autism spectrum disorder, attention-deficit/hyperactivity disor-
+der, and intellectual disability [int ellectual developm ental disorder]).
+Anorexia Nervosa
+Diagnostic Criteria
+A. Restriction of energy intake relative to requirements, leading to a significantly low body
+weight in the context of age, sex, developmental trajectory, and physical health.  Sig-
+nificantly low weight  is defined as a weight that is less than minimally normal or, for
+children and adolescents, less than that minimally expected.
+B. Intense fear of gaining weight or of becoming fat, or persistent behavior that interferes
+with weight gain, even though at a significantly low weight.
+Anorexia Nervosa 339
+C. Disturbance in the way in which one’s body weight or shape is experienced, undue in-
+fluence of body weight or shape on self-eval uation, or persistent lack of recognition of
+the seriousness of the current low body weight.
+Coding note:  The ICD-9-CM code for anorexia nervosa is 307.1,  which is assigned re-
+gardless of the subtype. The ICD-10-CM  code depends on the subtype (see below).
+Specify whether:
+(F50.01) Restricting type: During the last 3 months, the individual has not engaged in re-
+current episodes of binge eating or purging behavior (i.e., self-induced vomiting or the mis-
+use of laxatives, diuretics, or enemas). This subtype describes presentations in which
+weight loss is accomplished primarily through dieting, fasting, and/or excessive exercise.
+(F50.02) Binge-eating/purging type: During the last 3 months, the individual has en-
+gaged in recurrent episodes of binge eat ing or purging behavior (i.e., self-induced
+vomiting or the misuse of laxatives, diuretics, or enemas).
+Specify if:
+In partial remission: After full criteria for anorexia ne rvosa were previously met, Cri-
+terion A (low body weight) has not been met for a sustained period, but either Criterion
+B (intense fear of gaining weight or becoming fat or behavior that interferes with weight
+gain) or Criterion C (disturbances in self-perception of weight and shape) is still met.
+In full remission: After full criteria for anorexia ner vosa were previously met, none of
+the criteria have been met for a sustained period of time.
+Specify current severity:
+The minimum level of severity is based, for adults, on current body mass index (BMI) (see
+below) or, for children and adolescents, on BMI percentile. The ranges below are derived
+from World Health Organization categories for thinness in adults; for children and adoles-
+cents, corresponding BMI percentiles should be used. The level of severity may be in-
+creased to reflect clinical symptoms, the degree of functional disability, and the need for
+supervision.
+Mild:  BMI ≥ 17 kg/m2 
+Moderate: BMI 16–16.99 kg/m2 
+Severe:  BMI 15–15.99 kg/m2 
+Extreme:  BMI < 15 kg/m2
+Subtypes
+Most individuals with the binge-eating/purging type of anorexia nervosa who binge eat
+also purge through self-induced vomiting or th e misuse of laxatives, diuretics, or enemas.
+Some individuals with this subtype of anorexia nervosa do not binge eat but do regularly
+purge after the consumption of small amounts of food. 
+Crossover between the subtypes over the c ourse of the disorder is not uncommon;
+therefore, subtype description should be used to describe current symptoms rather than
+longitudinal course.
+Diagnostic Features
+There are three essential features of anorexia  nervosa: persistent en ergy intake restriction;
+intense fear of gaining weight or of becoming  fat, or persistent behavior that interferes
+with weight gain; and a disturbance in self-perceived weight or shape. The individual main-
+tains a body weight that is below a minimally normal level for age, sex, developmental tra-
+jectory, and physical health (Criterion A). In dividuals’ body weights frequently meet this
+criterion following a significant weight loss, but among children and adolescents, there
+may alternatively be failure to make expected weight gain or to maintain a normal devel-
+opmental trajectory (i.e., while grow ing in height) instead of weight loss.
+340 Feeding and Eating Disorders
+Criterion A requires that the individual’s weight be significantly low (i.e., less than
+minimally normal or, for children and adoles cents, less than that minimally expected).
+Weight assessment can be challenging because normal weight range differs among indi-
+viduals, and different thresholds have been published defining thinness or underweight
+status. Body mass index (BMI; calculated as weight in kilograms/height in meters2) is a
+useful measure to assess body weight for height. For adults, a BMI of 18.5 kg/m2 has been
+employed by the Centers for Disease Control and Prevention (CDC) and the World Health
+Organization (WHO) as the lower limit of normal body we ight. Therefore, most adults with
+a BMI greater than or  equal to 18.5 kg/m2 would not be considered to have a significantly
+low body weight. On the other ha nd, a BMI of lower than 17.0 kg/m2 has been considered
+by the WHO to indicate moderate or severe thinness; therefore, an individual with a BMI
+less than 17.0 kg/m2 would likely be considered to have a significantly low weight. An
+adult with a BMI between  17.0 and 18.5 kg/m2, or even above 18.5 kg/m2, might be consid-
+ered to have a significantly low weight if clinical history or other physiological informa-
+tion supports this judgment.
+For children and adolescents, de termining a BMI-for-age percentile is useful (see, e.g.,
+the CDC BMI percentile calculator for children and teenagers. As for adults, it is not pos-
+sible to provide definitive standards for judgin g whether a child’s or an adolescent’s weight
+is significantly low, and variations in deve lopmental trajectories among youth limit the
+utility of simple numerical guidelines. The CD C has used a BMI-for-age below the 5th per-
+centile as suggesting underweight; however,  children and adolesce nts with a BMI above
+this benchmark may be judged to be significantly underweight in light of failure to main-
+tain their expected growth trajectory. In su mmary, in determining whether Criterion A is
+met, the clinician should consider available numerical guidelines, as well as the individual’s
+body build, weight history, an d any physiological disturbances.
+Individuals with this disorder typically display an intense fear of gaining weight or of
+becoming fat (Criterion B). This intense fear of becoming fat is usually not alleviated by
+weight loss. In fact, concern about weight gain  may increase even as weight falls. Younger
+individuals with anorexia nervosa, as well as  some adults, may not recognize or acknowl-
+edge a fear of weight gain. In the absence of  another explanation for the significantly low
+weight, clinician inference drawn from collateral history, observatio nal data, physical and
+laboratory findings, or longitudinal course eith er indicating a fear of weight gain or sup-
+porting persistent behaviors that prevent it  may be used to es tablish Criterion B. 
+The experience and significance of body weight and shape are distorted in these indi-
+viduals (Criterion C). Some individuals feel globally overweight. Others realize that they
+are thin but are still concerned th at certain body parts, partic ularly the abdomen, buttocks,
+and thighs, are “too fat.” They may employ a variety of techniques to evaluate their body
+size or weight, including frequent weighing, obsessive measuring of body parts, and per-
+sistent use of a mirror to check for perceived areas of “fat.” The self-esteem of individuals
+with anorexia nervosa is highly dependent on their perceptions of body shape and weight.
+Weight loss is often viewed as an impressive ac hievement and a sign of extraordinary self-
+discipline, whereas weight gain is perceived as an unacceptable failure of self-control. Al-
+though some individuals with this disorder  may acknowledge being thin, they often do
+not recognize the serious medical implic ations of their malnourished state. 
+Often, the individual is brought to professional attention by family members after marked
+weight loss (or failure to make expected weight gains) has occurred. If individuals seek help
+on their own, it is usually because of dist ress over the somatic and psychological sequelae
+of starvation. It is rare for an individual with anorexia nervosa to complain of weight loss
+per se. In fact, individuals with anorexia nervos a frequently either lack insight into or deny
+the problem. It is therefore often important to obtain information from family members or
+other sources to evaluate the history of weight loss and other features of the illness.
+Anorexia Nervosa 341
+Associated Features Supporting Diagnosis
+The semi-starvation of anorex ia nervosa, and the purging behaviors sometimes associated
+with it, can result in significant and potentially life-threatening medical conditions. The
+nutritional compromise associated with this  disorder affects most  major organ systems
+and can produce a variety of disturbances. Ph ysiological disturbances, including amenor-
+rhea and vital sign abnormalities, are comm on. While most of the physiological distur-
+bances associated with malnutrition are reversible with nutritiona l rehabilitation, some,
+including loss of bone mineral density, are often not completely re versible. Behaviors such
+as self-induced vomiting and misuse of laxa tives, diuretics, and enemas may cause a num-
+ber of disturbances that lead to abnormal la boratory findings; howe ver, some individuals
+with anorexia nervosa exhibit no laboratory abnormalities. 
+When seriously underweight, ma ny individuals with anorex ia nervosa have depressive
+signs and symptoms such as depressed mood, so cial withdrawal, irrita bility, insomnia, and
+diminished interest in sex. Because these feat ures are also observed in individuals without
+anorexia nervosa who are significantly undern ourished, many of the depressive features
+may be secondary to the physiological sequelae of semi-starvation, although they may also
+be sufficiently severe to warr ant an additional diagnosis of major depressive disorder. 
+Obsessive-compulsive features, both related and unrelated to food, are often prominent.
+Most individuals with anorexia nervosa are pr eoccupied with thoughts of food. Some col-
+lect recipes or hoard food. Ob servations of behaviors associated with other forms of star-
+vation suggest that obsessions and compulsi ons related to food may be exacerbated by
+undernutrition. When individuals with anorexia nervosa exhibit obsessions and compul-
+sions that are not related to food, body shape, or weight, an additional diagnosis of obses-
+sive-compulsive disorder (OCD) may be warranted.
+Other features sometimes associated with anorexia nervosa incl ude concerns about
+eating in public, feelings of ineffectiveness, a strong desire  to control one’s environment,
+inflexible thinking, limited social spontaneity, and overly restrained emotional ex-
+pression. Compared with indivi duals with anorexia nervosa, restricting type, those with
+binge-eating/purging type have higher rates of impulsivity and are more likely to abuse
+alcohol and other drugs. 
+A subgroup of individuals with anorexia ne rvosa show excessive levels of physical ac-
+tivity. Increases in physical activity often precede onset of the disorder, and over the
+course of the disorder increased activity ac celerates weight loss. During treatment, exces-
+sive activity may be difficult to control,  thereby jeopardizing weight recovery.
+Individuals with anorexia nervosa may misu se medications, such as by manipulating
+dosage, in order to achieve we ight loss or avoid weight ga in. Individuals with diabetes
+mellitus may omit or reduce insulin doses in order to minimi ze carbohydrate  metabolism. 
+Prevalence
+The 12-month prevalence of anorexia nervosa among youn g females is approximately
+0.4%. Less is known about prevalence among ma les, but anorexia nerv osa is far less com-
+mon in males than in females, with clinical populations generally reflecting approximately
+a 10:1 female-to-male ratio. 
+Development and Course
+Anorexia nervosa commonly begins during adolescence or young adulthood. It rarely be-
+gins before puberty or after age 40, but cases of both early and late onset have been de-
+scribed. The onset of this disorder is often a ssociated with a stressful life event, such as
+leaving home for college. The course and outcom e of anorexia nervosa are highly variable.
+Younger individuals may manifest atypical features, including denying “fear of fat.” Older
+342 Feeding and Eating Disorders
+individuals more likely have a longer duration of illness, and their clinical presentation may
+include more signs and symptoms of long-stand ing disorder. Clinicians should not exclude
+anorexia nervosa from the differential diag nosis solely on the basis of older age.
+Many individuals have a period of changed ea ting behavior prior to full criteria for the
+disorder being met. Some individuals with anorexia nervosa recover fully after a single
+episode, with some ex hibiting a fluctuating pattern of weight gain followed by relapse,
+and others experiencing a chronic course over many years. Hospitalization may be re-
+quired to restore weight and to address medical complications. Most individuals with an-
+orexia nervosa experience remission within 5 years of presentation. Among individuals
+admitted to hospitals, overall remission rates may be lower. The crude mortality rate (CMR)
+for anorexia nervosa is approximately 5% pe r decade. Death most commonly results from
+medical complications associated with the disorder itself or from suicide.
+Risk and Prognostic Factors 
+Temperamental. Individuals who develop anxiety disorders or display obsessional
+traits in childhood are at increased risk of developing anorexia nervosa.
+Environmental. Historical and cross-cultural variab ility in the prevalence of anorexia
+nervosa supports its association with cultures and settings in which thinness is valued. Oc-
+cupations and avocations that encourage thinness, such as modeling and elite athletics, are
+also associated with increased risk. 
+Genetic and physiological. There is an increased risk of  anorexia nervosa and bulimia
+nervosa among first-degree biolog ical relatives of individuals with the disorder. An in-
+creased risk of bipolar and depressive diso rders has also been found among first-degree
+relatives of individuals with anorexia nervos a, particularly relati ves of individuals with
+the binge-eating/purging type. Concordance rates for anorexia nervosa in monozygotic
+twins are significantly higher than those for dizygotic twins. A range of brain abnormali-
+ties has been described in an orexia nervosa using functional imaging technologies (func-
+tional magnetic resonance imaging, positro n emission tomography).  The degree to which
+these findings reflect changes associated with  malnutrition versus primary abnormalities
+associated with the disorder is unclear.
+Culture-Related Diagnostic Issues
+Anorexia nervosa occurs across culturally and so cially diverse populations, although available
+evidence suggests cross-cultural variation in its occurrence and pres entation. Anorexia ner-
+vosa is probably most prevalent in post-industr ialized, high-income coun tries such as in the
+United States, many European c ountries, Australia, New Zealand,  and Japan, but its incidence
+in most low- and middle-income countries is uncertain. Whereas the prevalence of anorexia
+nervosa appears comparatively low among Latino s, African Americans, and Asians in the
+United States, clinicians should be aware that mental health service utilization among individ-
+uals with an eating disorder is significantly lo wer in these ethnic groups and that the low rates
+may reflect an ascertainment bias. The presenta tion of weight concer ns among individuals
+with eating and feeding disorders varies substa ntially across cultural contexts. The absence of
+an expressed intense fear of we ight gain, sometimes referred to  as “fat phobia,” appears to be
+relatively more common in popu lations in Asia, where the rati onale for dietary restriction is
+commonly related to a more culturally sanction ed complaint such as gastrointestinal discom-
+fort. Within the United States, presentations with out a stated intense fear of weight gain may
+be comparatively more common among Latino groups.
+Diagnostic Markers
+The following laboratory abnorm alities may be observed in anorexia nervosa; their pres-
+ence may serve to increase diagnostic confidence. 
+Anorexia Nervosa 343
+Hematology. Leukopenia is common, with the loss of all cell types but usually with ap-
+parent lymphocytosis. Mild anemia can occur,  as well as thrombocytopenia and, rarely,
+bleeding problems. 
+Serum chemistry. Dehydration may be reflected by an elevated blood urea nitrogen
+level. Hypercholesterolemia is common. Hepa tic enzyme levels may be elevated. Hypo-
+magnesemia, hypozincemia, hypophosphatemia, and hyperamylasemia are occasionally
+observed. Self-induced vomiting may lead to metabolic alkalosis (elevated serum bicarbon-
+ate), hypochloremia, and hypokalemia; laxative  abuse may cause a mild metabolic acidosis. 
+Endocrine. Serum thyroxine (T4) levels are usually in the low-normal rang e; triiodothy-
+ronine (T3) levels are decreased, while reverse T3 levels are elevated. Females have low se-
+rum estrogen levels, whereas males have  low levels of se rum testosterone.
+Electrocardiography. Sinus bradycardia is common, and,  rarely, arrhythmias are noted.
+Significant prolongation of the QTc interv al is observed in some individuals. 
+Bone mass. Low bone mineral density, with specific areas of osteopenia or osteoporo-
+sis, is often seen. The risk of fr acture is significantly elevated.
+Electroencephalography. Diffuse abnormalities, reflecting a metabolic encephalopa-
+thy, may result from significant fluid and electrolyte disturbances. 
+Resting energy expenditure. There is often a significant redu ction in resting energy ex-
+penditure.
+Physical signs and symptoms. Many of the physical sign s and symptoms of anorexia
+nervosa are attributable to starvation. Amen orrhea is commonly present and appears to
+be an indicator of physiological dysfunction. If present, amenorrhea is usually a conse-
+quence of the weight loss, but in a minority  of individuals it may actually precede the
+weight loss. In prepubertal females, menarche may be delayed. In addition to amenorrhea,
+there may be complaints of constipation, abdo minal pain, cold intole rance, lethargy, and
+excess energy.
+The most remarkable finding on physical ex amination is emaciation. Commonly, there
+is also significant hypotension, hypothermia, and bradycardia. Some individuals develop
+lanugo, a fine downy body hair. Some de velop peripheral edema, especially during
+weight restoration or upon cessation of laxa tive and diuretic abuse. Rarely, petechiae or
+ecchymoses, usually on the extremities, may indicate a bleeding diathesis. Some individ-
+uals evidence a yellowing of the skin associat ed with hypercarotenemia. As may be seen in
+individuals with bulimia nervosa, individu als with anorexia ne rvosa who self-induce
+vomiting may have hypertrophy of the salivary glands, particularly the parotid glands, as
+well as dental enamel erosion. Some individu als may have scars or calluses on the dorsal
+surface of the hand from repeated contac t with the teeth while inducing vomiting.
+Suicide Risk
+Suicide risk is elevated in anorexia nervosa,  with rates reported as 12 per 100,000 per year.
+Comprehensive evaluation of individuals wi th anorexia nervosa should include assess-
+ment of suicide-related ideation and behavior s as well as other risk factors for suicide, in-
+cluding a history of suicide attempt(s). 
+Functional Consequences  of Anorexia Nervosa
+Individuals with anorexia nervosa may exhibit a range of functional limitations associated
+with the disorder. While some individuals rema in active in social and professional func-
+tioning, others demonstrate significant social isolation and/or failure to fulfill academic or
+career potential. 
+344 Feeding and Eating Disorders
+Differential Diagnosis
+Other possible causes of either significantly low body weight or significant weight loss
+should be considered in the differential diagno sis of anorexia nervosa, especially when the
+presenting features are atypical (e.g., onset after age 40 years). 
+Medical conditions (e.g., gastrointestinal disease, hyperthyroidism, occult malignan-
+cies, and acquired immunodeficiency syndrome [AIDS]). Serious weight loss may oc-
+cur in medical conditions, but individuals with  these disorders usually do not also mani-
+fest a disturbance in the way their body weig ht or shape is experienced or an intense fear
+of weight gain or persist in behaviors that interfere with appropriate weight gain. Acute
+weight loss associated with a medical condition can occasionally be followed by the onset
+or recurrence of anorexia nervosa, which can initially be masked by the comorbid medical
+condition. Rarely, anorexia nervosa develo ps after bariatric surgery for obesity. 
+Major depressive disorder. In major depressive disorder, severe weight loss may occur,
+but most individuals with major depressive diso rder do not have either a desire for exces-
+sive weight loss or an inte nse fear of gaining weight. 
+Schizophrenia. Individuals with schizophrenia may exhibit odd eating behavior and oc-
+casionally experience significant weight loss, but they rarely show the fear of gaining
+weight and the body image disturbance requir ed for a diagnosis of anorexia nervosa. 
+Substance use disorders. Individuals with subs tance use disorders may experience low
+weight due to poor nutritional intake but gene rally do not fear gaining weight and do not
+manifest body image di sturbance. Individuals who abuse substances that reduce appetite
+(e.g., cocaine, stimulan ts) and who also endorse fear of weight gain should be carefully
+evaluated for the possibility of  comorbid anorexia nervosa, given that the substance use
+may represent a persistent behavior that inte rferes with weight gain (Criterion B).
+Social anxiety disorder (social phobia), ob sessive-compulsive disorder, and body dys-
+morphic disorder. Some of the features of anorexia ne rvosa overlap with the criteria for
+social phobia, OCD, and body dysmorphic diso rder. Specifically, individuals may feel hu-
+miliated or embarrassed to be seen eating in public, as in social phobia; may exhibit obses-
+sions and compulsions related to  food, as in OCD; or may be preoccupied with an imagined
+defect in bodily appearance, as in body dysmor phic disorder. If the in dividual with anorexia
+nervosa has social fears that are limited to eating behavior alone, the diagnosis of social pho-
+bia should not be made, but social fears unrelate d to eating behavior (e.g., excessive fear of
+speaking in public) may warrant an additional diagnosis of social phobia. Similarly, an ad-
+ditional diagnosis of OCD should be considered only if the individu al exhibits obsessions
+and compulsions unrelated to food (e.g., an ex cessive fear of contamination), and an addi-
+tional diagnosis of body dysmorphic disorder sh ould be considered only if the distortion is
+unrelated to body shape and size (e.g., preoccupation th at one’s nose is too big).
+Bulimia nervosa. Individuals with bulimia nervosa ex hibit recurrent ep isodes of binge
+eating, engage in inappropriat e behavior to avoid weight ga in (e.g., self-induced vomit-
+ing), and are overly concerned with body sh ape and weight. However, unlike individuals
+with anorexia nervosa, binge-eating/purging type, individuals with bulimia nervosa main-
+tain body weight at or ab ove a minimally normal level.
+Avoidant/restrictive food intake disorder. Individuals with this disorder may exhibit
+significant weight loss or significant nutritiona l deficiency, but they do not have a fear of
+gaining weight or of becoming fat, nor do th ey have a disturbance in the way they expe-
+rience their body shape and weight. 
+Comorbidity
+Bipolar, depressive, and anxiety disorders commonly co-occur with anorexia nervosa.
+Many individuals with anorexia nervosa report  the presence of either an anxiety disorder
+Bulimia Nervosa 345
+or symptoms prior to onset of their eating d isorder. OCD is described in some individuals
+with anorexia nervosa, especially those with the restricting type. Alcohol use disorder and
+other substance use disorders may also be co morbid with anorexia nervosa, especially
+among those with the binge-eating/purging type.
+Bulimia Nervosa
+Diagnostic Criteria 307.51 (F50.2)
+A. Recurrent episodes of binge eating. An episode of binge eating is characterized by
+both of the following:
+1. Eating, in a discrete period of time (e.g., within any 2-hour period), an amount of
+food that is definitely larger than what most individuals would eat in a similar period
+of time under similar circumstances.
+2. A sense of lack of control over eating during the episode (e.g., a feeling that one
+cannot stop eating or control what or how much one is eating).
+B. Recurrent inappropriate compensatory behaviors in order to prevent weight gain, such
+as self-induced vomiting; misuse of laxatives, diuretics, or other medications; fasting;
+or excessive exercise.
+C. The binge eating and inappropriate compensatory behaviors both occur, on average,
+at least once a week for 3 months.
+D. Self-evaluation is unduly influenced by body shape and weight.
+E. The disturbance does not occur exclusively during episodes of anorexia nervosa.
+Specify if:
+In partial remission:  After full criteria for bulimia nervosa were previously met, some,
+but not all, of the criteria have been met for a sustained period of time.
+In full remission:  After full criteria for bulimia nervosa were previously met, none of
+the criteria have been met for a sustained period of time.
+Specify current severity:
+The minimum level of severity is based on the frequency of inappropriate compensatory
+behaviors (see below). The level of severity may be increased to reflect other symptoms
+and the degree of functional disability.
+Mild:  An average of 1–3 episodes of inappropriate compensatory behaviors per week.
+Moderate: An average of 4–7 episodes of inappropriate compensatory behaviors per
+week.
+Severe:  An average of 8–13 episodes of inappropriate compensatory behaviors per
+week.
+Extreme:  An average of 14 or more episodes of inappropriate compensatory behav-
+iors per week.
+Diagnostic Features
+There are three essential features of bulimia nervosa: recurrent episodes of binge eating
+(Criterion A), recurrent inappropriate comp ensatory behaviors to prevent weight gain
+(Criterion B), and self-evaluat ion that is unduly influenced by body shape and weight
+(Criterion D). To qualify for the diagnosis, the binge eating and inappropriate compensa-
+tory behaviors must occur, on average, at least once per week for 3 months (Criterion C).
+An “episode of binge eating” is defined as  eating, in a discrete period of time, an
+amount of food that is definitely larger than  most individuals would eat in a similar period
+of time under similar circumstances (Criterion  A1). The context in which the eating occurs
+346 Feeding and Eating Disorders
+may affect the clinician’s esti mation of whether the intake is excessive. For example, a
+quantity of food that might be regarded as excessive for a typical meal might be consid-
+ered normal during a celebration or holiday me al. A “discrete period of time” refers to a
+limited period, usually less than  2 hours. A single episode of binge eating need not be re-
+stricted to one setting. For example, an individual may begin a binge in a restaurant and
+then continue to eat on re turning home. Continual snacki ng on small amounts of food
+throughout the day would not be considered an eating binge. 
+An occurrence of excessive food consumptio n must be accompanied by a sense of lack
+of control (Criterion A2) to be considered an episode of binge eating. An indicator of loss
+of control is the inability to refrain from eating  or to stop eating once started. Some indi-
+viduals describe a dissociative quality during , or following, the bing e-eating episodes. The
+impairment in control associated with binge eating may not be abso lute; for example, an
+individual may continue binge eating while the telephone is ringing but will cease if a
+roommate or spouse unexpected ly enters the room. Some in dividuals report that their
+binge-eating episodes are no longer characterize d by an acute feeling of  loss of control but
+rather by a more generalized pattern of uncont rolled eating. If individuals report that they
+have abandoned efforts to control their eati ng, loss of control should be considered as
+present. Binge eating can also be planned in some instances.
+The type of food co nsumed during binges varies both across individuals and for a
+given individual. Binge eating appears to be characterized more by an abnormality in the
+amount of food consumed than by a craving for a specific nutrient. However, during binges,
+individuals tend to eat foods they would otherwise avoid. 
+Individuals with bulimia nervosa are typica lly ashamed of their eating problems and
+attempt to conceal their symptoms. Binge eating  usually occurs in secrecy or as inconspic-
+uously as possible. The binge eating often cont inues until the individual is uncomfortably,
+or even painfully, full. The most common antecedent of binge eating is negative affect.
+Other triggers include interpersonal stressors; dietary restraint; negative feelings related
+to body weight, body shape, and food; and boredom. Binge eating may minimize or mit-
+igate factors that precipitated  the episode in the short-term, but negative self-evaluation
+and dysphoria often are the delayed consequences.
+Another essential feature of bulimia nervosa is the recurrent use of inappropriate com-
+pensatory behaviors to prevent weight gain, collectively referred to as purge behaviors or
+purging  (Criterion B). Many individuals with bulimia nervosa employ  several methods to
+compensate for binge eating. Vomiting is the most common inappropriate compensatory
+behavior. The immediate effects of vomiting include relief from physical discomfort and re-
+duction of fear of gaining weight. In some cases, vomiting becomes a goal in itself, and the
+individual will binge eat in orde r to vomit or will vomit after eating a small amount of food.
+Individuals with bulimia nervosa may use a vari ety of methods to induce vomiting, includ-
+ing the use of fingers or instruments to stimulate the gag reflex. Individuals generally
+become adept at inducing vomit ing and are eventually able to  vomit at will. Rarely, indi-
+viduals consume syrup of ipecac to induce vomiting. Other purging behaviors include the
+misuse of laxatives and diuretics. A number  of other compensatory methods may also be
+used in rare cases. Individuals with bulim ia nervosa may misuse enemas following epi-
+sodes of binge eating, but this is seldom th e sole compensatory method employed. Individ-
+uals with this disorder may take thyroid ho rmone in an attempt to avoid weight gain.
+Individuals with diabetes mellitus and bulimia nervosa may omit or reduce insulin doses in
+order to reduce the metabolism of food cons umed during eating bi nges. Individuals with
+bulimia nervosa may fast for a da y or more or exercise excessive ly in an attempt to prevent
+weight gain. Exercise may be considered excessi ve when it significantly interferes with im-
+portant activities, when it occurs at inappr opria te times or in i nappropriate settings, or
+when the individual continues to exercise despite injury or  other medical complications.
+Individuals with bulimia nervosa place an ex cessive emphasis on body shape or weight
+in their self-evaluation, and these factors ar e typically extremely important in determining
+Bulimia Nervosa 347
+self-esteem (Criterion D). Individuals with this disorder may closely resemble those with
+anorexia nervosa in their fear of gaining weight, in their desire to lose weight, and in the
+level of dissatisfaction with their bodies. Ho wever, a diagnosis of bulimia nervosa should
+not be given when the disturbance occurs only  during episodes of anorexia nervosa (Cri-
+terion E).
+Associated Features Supporting Diagnosis
+Individuals with bulimia nervosa typically ar e within the normal weight or overweight
+range (body mass index [BMI] ≥ 18.5 and < 30 in adults). The disorder occurs but is un-
+common among obese individuals. Between eati ng binges, individuals with bulimia ner-
+vosa typically restrict their to tal caloric consumption and preferentially select low-calorie
+(“diet”) foods while avoiding foods that they pe rceive to be fattening or likely to trigger a
+binge.
+Menstrual irregularity or amenorrhea ofte n occurs among females with bulimia ner-
+vosa; it is uncertain whether su ch disturbances are related to weight fluctuations, to nu-
+tritional deficiencies, or to emotional dist ress. The fluid and electrolyte disturbances
+resulting from the purging behavior are some times sufficiently severe to constitute med-
+ically serious problems. Rare but potentially fatal complications include esophageal tears,
+gastric rupture, and cardiac arrhythmias. Serious cardiac and skeletal myopathies have
+been reported among individual s following repeated use of syrup of ipecac to induce vom-
+iting. Individuals who chronically abuse laxatives may become dependent on their use to
+stimulate bowel movements. Gastrointestin al symptoms are commonly associated with
+bulimia nervosa, and rectal prolapse has also  been reported among individuals with this
+disorder.
+Prevalence
+Twelve-month prevalence of bulimia ner vosa among young female s is 1%–1.5%. Point
+prevalence is highest among young adults si nce the disorder peaks in older adolescence
+and young adulthood. Less is known about th e point prevalence of bulimia nervosa in
+males, but bulimia nervosa is far less common in  males than it is in females, with an ap-
+proximately 10:1 female-to-male ratio. 
+Development and Course
+Bulimia nervosa commonly begins in adolesce nce or young adulthood. Onset before pu-
+berty or after age 40 is uncommon. The binge eating frequently begins during or after an
+episode of dieting to lose weight. Experiencing  multiple stressful lif e events also can pre-
+cipitate onset of bulimia nervosa.
+Disturbed eating behavior persists for at least several years in a high percentage of
+clinic samples. The course may be chronic or intermittent, with periods of remission
+alternating with recurrences of binge eating. However, over longer -term follow-up, the
+symptoms of many individuals appear to diminish with or without treatment, although
+treatment clearly impacts outcome. Periods of remission longer than 1 year are associated
+with better long-term outcome.
+Significantly elevated risk fo r mortality (all-cause and suic ide) has been reported for
+individuals with bulimia nervosa. The CMR (c rude mortality rate) for bulimia nervosa is
+nearly 2% per decade. 
+Diagnostic cross-over from initial bulimia ne rvosa to anorexia nervosa occurs in a mi-
+nority of cases (10%–15%). Individuals who do experience cross-over to anorexia nervosa
+commonly will revert back to bulimia nervosa or have multiple occurrences of cross-overs
+between these disorders. A subset of individu als with bulimia nervosa continue to binge
+eat but no longer engage in inappropriate compensatory behaviors, and therefore their
+348 Feeding and Eating Disorders
+symptoms meet criteria for binge-eating disord er or other specified eating disorder. Diag-
+nosis should be based on the current (i.e.,  past 3 months) clinical presentation.
+Risk and Prognostic Factors 
+Temperamental. Weight concerns, low self-esteem, de pressive symptoms, social anxi-
+ety disorder, and overanxious d isorder of childhood are associated with increased risk for
+the development of bulimia nervosa. 
+Environmental. Internalization of a thin body ideal has been found to increase risk for
+developing weight concerns, which in turn increase risk for the development of bulimia
+nervosa. Individuals who experienced childhood  sexual or physical abuse are at increased
+risk for developing bulimia nervosa. 
+Genetic and physiological. Childhood obesity and early pubertal maturation increase
+risk for bulimia nervosa. Familial transmission of bulimia ne rvosa may be present, as well
+as genetic vulnerabilities for the disorder.
+Course modifiers. Severity of psychiatric comorbidity predicts worse long-term outcome
+of bulimia nervosa.
+Culture-Related Diagnostic Issues
+Bulimia nervosa has been reported to occur wi th roughly similar frequencies in most in-
+dustrialized countries, including the United  States, Canada, many European countries,
+Australia, Japan, New Zealand, and South Afri ca. In clinical studies of bulimia nervosa in
+the United States, individuals presenting with  this disorder are pr imarily white. However,
+the disorder also occurs in ot her ethnic groups and with prevalence comparable to esti-
+mated prevalences observed in white samples.
+Gender-Related Diagnostic Issues
+Bulimia nervosa is far more common in females than in males. Males are especially under-
+represented in treatment-seeking samples, for reasons that have not yet been systemati-
+cally examined.
+Diagnostic Markers
+No specific diagnostic test for bulimia nerv osa currently exists. However, several labora-
+tory abnormalities may occur as a conseque nce of purging and may increase diagnostic
+certainty. These include fluid and electrolyte abnormalities, such as hypokalemia (which
+can provoke cardiac arrhythmias), hypochloremia, and hyponatremia. The loss of gastric
+acid through vomiting may prod uce a metabolic alkalosis (elevated serum bicarbonate),
+and the frequent induction of diarrhea or de hydration through laxative and diuretic abuse
+can cause metabolic acidosis. Some individual s with bulimia nervosa exhibit mildly ele-
+vated levels of serum amylase, pr obably reflecting an increase in the salivary isoenzyme.
+Physical examination usually yields no physical findings. However, inspection of the
+mouth may reveal significant and permanent loss of dental enamel, especially from lin-
+gual surfaces of the front teeth due to recurrent vomiting. These teeth may become
+chipped and appear ragged and “moth-eaten.” There may also be an increased frequency
+of dental caries. In some individuals, the salivary glands, particularly the parotid glands,
+may become notably enlarged. Individuals who induce vomiting by manually stimulating
+the gag reflex may develop calluses or scars on the dorsal surface of the hand from re-
+peated contact with the teeth. Serious cardia c and skeletal myopathies have been reported
+among individuals following repeated use of  syrup of ipecac to induce vomiting.
+Bulimia Nervosa 349
+Suicide Risk
+Suicide risk is elevated in bu limia nervosa. Comprehensive ev aluation of individuals with
+this disorder should include assessment of su icide-related ideation and behaviors as well
+as other risk factors for suicide, including a history of suicide attempts.
+Functional Consequences  of Bulimia Nervosa
+Individuals with bulimia nervosa may exhibit a range of functional limitations associated
+with the disorder. A minority of individuals report severe role impairment, with the so-
+cial-life domain most likely to be ad versely affected by  bulimia nervosa. 
+Differential Diagnosis
+Anorexia nervosa, binge-eating/purging type. Individuals whose bi nge-eating behav-
+ior occurs only during episodes of anorexia  nervosa are given the diagnosis anorexia ner-
+vosa, binge-eating/purging type, and should  not be given the additional diagnosis of
+bulimia nervosa. For individuals with an init ial diagnosis of anorexia nervosa who binge
+and purge but whose presentation no longer meets the full criteria for anorexia nervosa,
+binge-eating/purging type (e.g., when weight  is normal), a diagnosis of bulimia ner-
+vosa should be given only when all criteria for bulimia nervosa have been met for at least
+3m o n t h s .  
+Binge-eating disorder. Some individuals binge eat but do  not engage in regular inap-
+propriate compensatory behaviors. In these ca ses, the diagnosis of binge-eating disorder
+should be considered.
+Kleine-Levin syndrome. In certain neurological or other medical conditions, such as
+Kleine-Levin syndrome, there is disturbed eating behavior, but the characteristic psycho-
+logical features of bulimia nervosa, such as overconcern with body shape and weight, are
+not present. 
+Major depressive disorder, with atypical features. Overeating is common in major de-
+pressive disorder, with atypical  features, but individuals with this disorder do not engage
+in inappropriate compensatory behaviors an d do not exhibit the excessive concern with
+body shape and weight characteristic of bulimia  nervosa. If criteria for both disorders are
+met, both diagnoses should be given. 
+Borderline personality disorder. Binge-eating behavior is included in the impulsive be-
+havior criterion that is part of the definition  of borderline personality disorder. If the cri-
+teria for both borderline personality disorder and bulimia nervosa are met, both diagnoses
+should be given.
+Comorbidity 
+Comorbidity with mental diso rders is common in individuals with bulimia nervosa, with
+most experiencing at least on e other mental disorder and many experiencing multiple co-
+morbidities. Comorbidity is not limited to any particular su bset but rather occurs across a
+wide range of mental disorders. There is an  increased frequency of depressive symptoms
+(e.g., low self-esteem) and bipo lar and depressive disorders (particularly depressive dis-
+orders) in individuals with bu limia nervosa. In many indivi duals, the mood disturbance
+begins at the same time as or following th e development of bulimia nervosa, and individ-
+uals often ascribe their mood disturbances to  the bulimia nervosa. However, in some in-
+dividuals, the mood disturbance clearly precedes the development of bulimia nervosa.
+There may also be an increased frequency of anxiety symptoms (e.g., fear of social situa-
+tions) or anxiety disorders. These mood and anxiety disturbances fr equently remit follow-
+350 Feeding and Eating Disorders
+ing effective treatment of the bulimia nervosa. The lifetime prevalence of substance use,
+particularly alcohol or stimulant use, is at least 30% among individuals with bulimia ner-
+vosa. Stimulant use often begins in an attempt to control appetite and weight. A substan-
+tial percentage of individuals with bulimia nervosa also have personality features that
+meet criteria for one or more personality diso rders, most frequently  borderline personality
+disorder.
+Binge-Eating Disorder
+Diagnostic Criteria 307.51 (F50.8)
+A. Recurrent episodes of binge eating. An episode of binge eating is characterized
+by both of the following:
+1. Eating, in a discrete period of time (e.g., within any 2-hour period), an amount of
+food that is definitely larger than what most people would eat in a similar period of
+time under similar circumstances.
+2. A sense of lack of control over eating during the episode (e.g., a feeling that one
+cannot stop eating or control what or how much one is eating).
+B. The binge-eating episodes are associated with three (or more) of the following:
+1. Eating much more rapidly than normal.
+2. Eating until feeling uncomfortably full.
+3. Eating large amounts of food when not feeling physically hungry.
+4. Eating alone because of feeling embarrassed by how much one is eating.
+5. Feeling disgusted with oneself, depressed, or very guilty afterward.
+C. Marked distress regarding binge eating is present.
+D. The binge eating occurs, on average, at least once a week for 3 months.
+E. The binge eating is not associated with the recurrent use of inappropriate compensa-
+tory behavior as in bulimia nervosa and does not occur exclusively during the course
+of bulimia nervosa or anorexia nervosa.
+Specify if:
+In partial remission:  After full criteria for binge-eating disorder were previously met,
+binge eating occurs at an average frequency of less than one episode per week for a
+sustained period of time. 
+In full remission: After full criteria for binge-eating disorder were previously met, none
+of the criteria have been met for a sustained period of time.
+Specify current severity:
+The minimum level of severity is based on the frequency of episodes of binge eating (see
+below). The level of severity may be increased to reflect other symptoms and the degree
+of functional disability.
+Mild:  1–3 binge-eating episodes per week.
+Moderate: 4–7 binge-eating episodes per week.
+Severe:  8–13 binge-eating episodes per week.
+Extreme:  14 or more binge-eating episodes per week.
+Diagnostic Features
+The essential feature of binge-eating disorder is recurrent episodes of binge eating that
+must occur, on average, at le ast once per week for 3 months (Criterion D). An “episode of
+binge eating” is defined as eating, in a discrete pe riod of time, an amount of food that is defi-
+Binge-Eating Disorder 351
+nitely larger than most people would eat in a similar period of time under similar circum-
+stances (Criterion A1). The context in which the eating occurs may affect the clinician’s
+estimation of whether the intake is excessive. For example, a quantity of food that might be
+regarded as excessive for a typical meal migh t be considered normal  during a celebration
+or holiday meal. A “discrete period of time” refers to a limited pe riod, usually less than
+2 hours. A single episode of binge eating need not be restricted to one setting. For example,
+an individual may begin a binge in a restaurant and then continue to eat on returning
+home. Continual snacking on small amounts of  food throughout the day would not be con-
+sidered an eating binge. 
+An occurrence of excessive food consumptio n must be accompanie d by a sense of lack
+of control (Criterion A2) to be considered an episode of binge eating. An indicator of loss
+of control is the inability to refrain from eating  or to stop eating once started. Some indi-
+viduals describe a dissociative quality during , or following, the bing e-eating episodes. The
+impairment in control associated with binge eating may not be abso lute; for example, an
+individual may continue binge eating while the telephone is ringing but will cease if a
+roommate or spouse unexpected ly enters the room. Some in dividuals report that their
+binge-eating episodes are no longer characterize d by an acute feeling of loss of control but
+rather by a more generalized pattern of uncont rolled eating. If individuals report that they
+have abandoned efforts to control their eating , loss of control may still be considered as
+present. Binge eating can also be planned in some instances.
+The type of food consumed during binges varies both across individuals and for a given
+individual. Binge eating appears to be characterized more by an abnormality in the amount
+of food consumed than by a cr aving for a specific nutrient.
+Binge eating must be characterized by marked  distress (Criterion C) and at least three
+of the following features: eating much more rapidly than normal; eating until feeling un-
+comfortably full; eating large amounts of food when not feeling physically hungry; eating
+alone because of feeling embarrassed by how much one is eating; and feeling disgusted
+with oneself, depressed, or very  guilty afterward (Criterion B).
+Individuals with binge-eating disorder are typically ashamed of their eating problems
+and attempt to conceal their symptoms. Binge ea ting usually occurs in secrecy or as incon-
+spicuously as possible. The most common antece dent of binge eating is negative affect.
+Other triggers include interpersonal stressors; dietary restraint; negative feelings related
+to body weight, body shape, and food; and boredom. Binge eating may minimize or mit-
+igate factors that precipitated the episode in  the short-term, but negative self-evaluation
+and dysphoria often are the delayed consequences.
+Associated Features Supporting Diagnosis
+Binge-eating disorder occurs in normal-weight/ overweight and obese individuals. It is re-
+liably associated with overweight and obes ity in treatment-seekin g individuals. Never-
+theless, binge-eating disorder is distinct from obesity. Most obese individuals do not
+engage in recurrent binge eating. In addition, compared with weight-matched obese indi-
+viduals without binge-eating disorder, those with the disorder consume more calories in
+laboratory studies of eating behavior and ha ve greater functional impairment, lower qual-
+ity of life, more subjective distress,  and greater psychiatric comorbidity.
+Prevalence
+Twelve-month prevalence of binge-eating disorder among U.S. adult (age 18 or older) fe-
+males and males is 1.6% and 0.8%, respectively. The gender ratio is far less skewed in binge-
+eating disorder than in bulimia nervosa. Bing e-eating disorder is as prevalent among fe-
+males from racial or ethnic minority groups as has been reported for white females. The
+disorder is more prevalent among individual s seeking weight-loss treatment than in the
+general population. 
+352 Feeding and Eating Disorders
+Development and Course
+Little is known about the deve lopment of binge-eating disorder. Both binge eating and
+loss-of-control eating without objectively ex cessive consumption occur in children and are
+associated with increased body fat, weight gain, and increases in psychological symptoms.
+Binge eating is common in adolescent and college-age samples. Loss -of-control eating or
+episodic binge eating may represent a prodroma l phase of eating disorders for some indi-
+viduals. 
+Dieting follows the development of binge eating in many indi viduals with binge-
+eating disorder. (This is in contrast to bu limia nervosa, in which dysfunctional dieting
+usually precedes the onset of binge eating.) Binge-eating disorder typically begins in ad-
+olescence or young adulthood but can begin in later adulthood. In dividuals with binge-
+eating disorder who seek treatment usually ar e older than individuals with either bulimia
+nervosa or anorexia nerv osa who seek treatment.
+Remission rates in both natural course an d treatment outcome studies are higher for
+binge-eating disorder than fo r bulimia nervosa or anorexia nervosa. Binge-eating disorder
+appears to be relatively persistent, and the cour se is comparable to that of bulimia nervosa
+in terms of severity and duration. Crossover from binge-eating diso rder to other eating
+disorders is uncommon.
+Risk and Prognostic Factors 
+Genetic and physiological. Binge-eating disorder appears to run in families, which may
+reflect additive genetic influences. 
+Culture-Related Diagnostic Issues
+Binge-eating disorder occurs with roughly similar frequencies in most industrialized
+countries, including the United States, Cana da, many European countries, Australia, and
+New Zealand. In the United States, the prevalence of binge-eating disorder appears com-
+parable among non-Latino whites, Latinos, Asians, and African Americans.
+Functional Consequences of Binge-Eating Disorder
+Binge-eating disorder is associated with a ra nge of functional consequences, including so-
+cial role adjustment problems, impaired health-related quality of life and life satisfaction,
+increased medical morbidity and mortality, an d associated increased health care utiliza-
+tion compared with body mass index (BMI)–ma tched control subjects. It may also be as-
+sociated with an increased risk for weig ht gain and the development of obesity.
+Differential Diagnosis
+Bulimia nervosa. Binge-eating disorder has recurrent binge eating in common with bu-
+limia nervosa but differs from the latter disord er in some fundamental respects. In terms of
+clinical presentation, the recurrent inapprop riate compensatory behavior (e.g., purging,
+driven exercise) seen in bulim ia nervosa is absent in binge-eating disorder. Unlike in-
+dividuals with bulimia nervosa, individuals wi th binge-eating disorder typically do not
+show marked or sustained dietary restriction designed to influence body weight and
+shape between binge-eating episodes. They may, however, report frequent attempts at
+dieting. Binge-eating disorder al so differs from bulimia nervosa in terms of response to treat-
+ment. Rates of improvement ar e consistently higher among individuals with binge-eating
+disorder than among those with bulimia nervosa.
+Obesity. Binge-eating disorder is associated  with overweight and obesity but has
+several key features that are distinct from ob esity. First, levels of overvaluation of body
+Other Specified Feeding or Eating Disorder 353
+weight and shape are higher in obese individuals with the disorder than in those without
+the disorder. Second, rates of psychiatric comorbidity are significantly higher among
+obese individuals with the disorder compared with those without the disorder. Third, the
+long-term successful outcome of evidence-based psychological treatments for binge-
+eating disorder can be contrasted with the absence of effective long-term treatments for
+obesity.
+Bipolar and depressive disorders. Increases in appetite and weight gain are included
+in the criteria for major depressive episode an d in the atypical features specifiers for de-
+pressive and bipolar disorders. Increased eati ng in the context of a major depressive epi-
+sode may or may not be associated with loss of control. If the full crit eria for both disorders
+are met, both diagnoses can be given. Binge eating and other symptoms of disordered eat-
+ing are seen in association with bipolar disorder . If the full criteria for both disorders are
+met, both diagnoses should be given.
+Borderline personality disorder. Binge eating is included in  the impulsive behavior cri-
+terion that is part of the definition of border line personality disorder. If the full criteria for
+both disorders are met, both  diagnoses should be given.
+Comorbidity 
+Binge-eating disorder is associated with si gnificant psychiatric comorbidity that is com-
+parable to that of bulimia ne rvosa and anorexia nervosa. Th e most common comorbid dis-
+orders are bipolar disorders, depressive disorders, anxiety disorders, and, to a lesser
+degree, substance use disorders. The psychiat ric comorbidity is linked to the severity of
+binge eating and not to the degree of obesity.
+Other Specified Feeding or Eating Disorder
+307.59 (F50.8)
+This category applies to presentations in wh ich symptoms characteristic of a feeding and
+eating disorder that cause clinically significant distress or impairment in social, occupation-
+al, or other important areas of functioning predominate but do not meet the full criteria for
+any of the disorders in the feeding and eating disorders diagnostic class. The other spec-
+ified feeding or eating disorder category is used in situations in which the clinician chooses
+to communicate the specific reason that the presentation does not meet the criteria for any
+specific feeding and eating disorder. This is done by recording “other specified feeding or
+eating disorder” followed by the specific reason (e.g., “bulimia nervosa of low frequency”).
+Examples of presentations that can be specified using the “other specified” designation
+include the following:
+1.Atypical anorexia nervosa: All of the criteria for anorexia nervosa are met, except
+that despite significant weight loss, the indi vidual’s weight is within or above the normal
+range.
+2.Bulimia nervosa (of low freque ncy and/or limited duration):  All of the criteria for
+bulimia nervosa are met, except that the binge eating and inappropriate compensatory
+behaviors occur, on average, less than once a week and/or for less than 3 months.
+3.Binge-eating disorder (of low frequency and/ or limited duration):  All of the criteria
+for binge-eating disorder are met, except that the binge eating occurs, on average, less
+than once a week and/or for less than 3 months.
+4.Purging disorder:  Recurrent purging behavior to influence weight or shape (e.g., self-
+induced vomiting; misuse of laxatives, diur etics, or other medications) in the absence
+of binge eating.
+354 Feeding and Eating Disorders
+5.Night eating syndrome:  Recurrent episodes of night eating, as manifested by eating
+after awakening from sleep or by excessive food consumption after the evening meal.
+There is awareness and recall of the eating. The night eating is not better explained by
+external influences such as changes in the individual’s sleep-wake cycle or by local so-
+cial norms. The night eating causes significant distress and/or impairment in function-
+ing. The disordered pattern of eating is not better explained by binge-eating disorder
+or another mental disorder, including substance use, and is not attributable to another
+medical disorder or to an effect of medication.
+Unspecified Feeding or Eating Disorder
+307.50 (F50.9)
+This category applies to presentations in which symptoms characteristic of a feeding and
+eating disorder that cause clinically significant distress or impairment in social, occupation-
+al, or other important areas of functioning predominate but do not meet the full criteria for
+any of the disorders in the feeding and eating disorders diagnostic class. The unspecified
+feeding or eating disorder category is used in situations in which the clinician chooses not
+to specify the reason that the criteria are not met for a specific feeding and eating disorder,
+and includes presentations in which there is insufficient information to make a more spe-
+cific diagnosis (e.g., in emergency room settings). 

@@ -1,0 +1,302 @@
+[
+    {
+        "disorder": "Parent-Child Relational Problem",
+        "criteria": "Focus of clinical attention is the quality of the parent-child relationship or when it affects the course, prognosis, or treatment of a mental or other medical disorder. Associated with impaired functioning in behavioral (e.g., inadequate parental control, overprotection, excessive pressure, escalating arguments), cognitive (e.g., negative attributions, hostility, scapegoating, estrangement), or affective domains (e.g., sadness, apathy, anger). Consider developmental needs and cultural context."
+    },
+    {
+        "disorder": "Sibling Relational Problem",
+        "criteria": "Pattern of interaction among siblings associated with significant impairment in individual or family functioning or development of symptoms in siblings, or when it affects the course, prognosis, or treatment of a sibling’s mental or other medical disorder."
+    },
+    {
+        "disorder": "Upbringing Away From Parents",
+        "criteria": "Issues regarding a child being raised away from parents or when this affects the course, prognosis, or treatment of a mental or other medical disorder. Includes children under state custody, kin care, foster care, living with nonparental relatives or friends, group homes, or orphanages."
+    },
+    {
+        "disorder": "Child Affected by Parental Relationship Distress",
+        "criteria": "Focus on negative effects of parental relationship discord (e.g., conflict, distress, disparagement) on a child, including effects on child’s mental or other medical disorders."
+    },
+    {
+        "disorder": "Relationship Distress With Spouse or Intimate Partner",
+        "criteria": "Focus on quality of intimate partner relationship or when it affects the course, prognosis, or treatment of a mental or other medical disorder. Associated with impaired functioning in behavioral (e.g., conflict resolution difficulty, withdrawal, overinvolvement), cognitive (e.g., chronic negative attributions, dismissals), or affective domains (e.g., chronic sadness, apathy, anger)."
+    },
+    {
+        "disorder": "Disruption of Family by Separation or Divorce",
+        "criteria": "Partners living apart due to relationship problems or in process of divorce."
+    },
+    {
+        "disorder": "High Expressed Emotion Level Within Family",
+        "criteria": "Family’s high level of expressed emotion (hostility, emotional overinvolvement, criticism) directed toward a family member who is an identified patient, affecting course, prognosis, or treatment."
+    },
+    {
+        "disorder": "Uncomplicated Bereavement",
+        "criteria": "Normal reaction to death of a loved one with symptoms characteristic of major depressive episode (e.g., sadness, insomnia, poor appetite, weight loss), regarded as normal by individual, duration and expression vary culturally."
+    },
+    {
+        "disorder": "Child Physical Abuse",
+        "criteria": "Nonaccidental physical injury to a child caused by punching, beating, kicking, biting, shaking, throwing, stabbing, choking, hitting, burning, or other methods inflicted by a parent, caregiver, or responsible individual. Physical discipline without injury is excluded."
+    },
+    {
+        "disorder": "Child Sexual Abuse",
+        "criteria": "Any sexual act involving a child intended to provide sexual gratification to a parent, caregiver, or responsible individual. Includes fondling, penetration, incest, rape, sodomy, indecent exposure, and noncontact exploitation (e.g., forcing or pressuring child)."
+    },
+    {
+        "disorder": "Child Neglect",
+        "criteria": "Confirmed or suspected egregious act or omission by a parent or caregiver depriving the child of basic age-appropriate needs resulting or potentially resulting in physical or psychological harm. Includes abandonment, lack of supervision, failure to provide emotional needs, education, medical care, nourishment, shelter, or clothing."
+    },
+    {
+        "disorder": "Child Psychological Abuse",
+        "criteria": "Nonaccidental verbal or symbolic acts by a parent or caregiver resulting or potentially resulting in significant psychological harm. Includes berating, humiliating, threatening, harming or abandoning people/things child cares about, confining child, scapegoating, coercing self-harm, excessive discipline."
+    },
+    {
+        "disorder": "Spouse or Partner Violence, Physical",
+        "criteria": "Nonaccidental acts of physical force resulting or potentially resulting in physical harm or significant fear in an intimate partner during the past year. Includes shoving, slapping, hair pulling, pinching, restraining, shaking, throwing, biting, kicking, hitting, burning, poisoning, choking, holding head underwater, weapon use. Excludes acts for physical self-protection."
+    },
+    {
+        "disorder": "Spouse or Partner Violence, Sexual",
+        "criteria": "Forced or coerced sexual acts with an intimate partner during the past year, involving physical force or psychological coercion, including acts with a partner unable to consent."
+    },
+    {
+        "disorder": "Spouse or Partner Neglect",
+        "criteria": "Egregious act or omission by one partner depriving a dependent partner of basic needs, resulting or potentially resulting in physical or psychological harm, in relationships with extreme dependence due to physical, psychological, intellectual, or cultural limitations."
+    },
+    {
+        "disorder": "Spouse or Partner Abuse, Psychological",
+        "criteria": "Nonaccidental verbal or symbolic acts by one partner resulting or potentially resulting in significant harm to the other partner during the past year. Includes berating, humiliating, interrogating, restricting freedom, obstructing access to assistance, threatening harm, harming or threatening people/things victim cares about, restricting economic resources, isolating, stalking, and inducing belief of insanity."
+    },
+    {
+        "disorder": "Adult Abuse by Nonspouse or Nonpartner",
+        "criteria": "Abuse of an adult by another adult who is not an intimate partner, involving physical, sexual, or emotional abuse with potential or actual physical harm or psychological harm, excluding acts for physical self-protection."
+    },
+    {
+        "disorder": "Academic or Educational Problem",
+        "criteria": "Academic or educational problem impacting diagnosis, treatment, or prognosis. Includes illiteracy, lack of access to schooling, poor academic performance, underachievement, discord with teachers, staff, or students."
+    },
+    {
+        "disorder": "Problem Related to Current Military Deployment Status",
+        "criteria": "Occupational problem directly related to military deployment status impacting diagnosis, treatment, or prognosis. Psychological reactions to deployment are excluded."
+    },
+    {
+        "disorder": "Other Problem Related to Employment",
+        "criteria": "Occupational problem impacting treatment or prognosis including unemployment, job change, threat of job loss, job dissatisfaction, stressful schedule, career uncertainty, sexual harassment, discord with coworkers or supervisors, hostile work environment, or other work-related psychosocial stressors."
+    },
+    {
+        "disorder": "Homelessness",
+        "criteria": "Lack of regular dwelling impacting treatment or prognosis. Defined as primary nighttime residence in homeless shelter, warming shelter, domestic violence shelter, public space, abandoned structure, or other ad hoc housing."
+    },
+    {
+        "disorder": "Inadequate Housing",
+        "criteria": "Lack of adequate housing impacting treatment or prognosis. Includes lack of heat, electricity, infestation, inadequate plumbing, overcrowding, inadequate sleeping space, excessive noise. Cultural norms considered."
+    },
+    {
+        "disorder": "Discord With Neighbor, Lodger, or Landlord",
+        "criteria": "Discord with neighbors, lodgers, or landlord impacting treatment or prognosis."
+    },
+    {
+        "disorder": "Problem Related to Living in a Residential Institution",
+        "criteria": "Problem related to living in a residential institution impacting treatment or prognosis. Psychological reactions to change in living situation excluded."
+    },
+    {
+        "disorder": "Lack of Adequate Food or Safe Drinking Water",
+        "criteria": "Problem related to inadequate food or safe drinking water impacting treatment or prognosis."
+    },
+    {
+        "disorder": "Extreme Poverty",
+        "criteria": "Problem related to extreme poverty impacting treatment or prognosis."
+    },
+    {
+        "disorder": "Low Income",
+        "criteria": "Problem related to low income impacting treatment or prognosis."
+    },
+    {
+        "disorder": "Insufficient Social Insurance or Welfare Support",
+        "criteria": "Problem related to insufficient social insurance or welfare support impacting treatment or prognosis."
+    },
+    {
+        "disorder": "Phase of Life Problem",
+        "criteria": "Problem adjusting to life-cycle transition impacting treatment or prognosis. Examples include school transitions, marriage, career start, parenthood, empty nest, retirement."
+    },
+    {
+        "disorder": "Problem Related to Living Alone",
+        "criteria": "Problem associated with living alone impacting treatment or prognosis. Includes chronic loneliness, isolation, lack of structure in daily activities."
+    },
+    {
+        "disorder": "Acculturation Difficulty",
+        "criteria": "Difficulty adjusting to a new culture impacting treatment or prognosis."
+    },
+    {
+        "disorder": "Social Exclusion or Rejection",
+        "criteria": "Recurrent social exclusion or rejection by others due to imbalance of social power. Includes bullying, teasing, intimidation, verbal abuse, humiliation, purposeful exclusion."
+    },
+    {
+        "disorder": "Target of (Perceived) Adverse Discrimination or Persecution",
+        "criteria": "Perceived or experienced discrimination or persecution based on membership in specific categories (e.g., gender, race, ethnicity, religion, sexual orientation, country of origin, political beliefs, disability, social status, weight, appearance)."
+    },
+    {
+        "disorder": "Victim of Crime",
+        "criteria": "Individual identified as victim of crime impacting treatment or prognosis."
+    },
+    {
+        "disorder": "Conviction in Civil or Criminal Proceedings Without Imprisonment",
+        "criteria": "Individual with conviction in civil or criminal proceedings without imprisonment impacting treatment or prognosis."
+    },
+    {
+        "disorder": "Imprisonment or Other Incarceration",
+        "criteria": "Individual currently imprisoned or incarcerated impacting treatment or prognosis."
+    },
+    {
+        "disorder": "Problems Related to Release From Prison",
+        "criteria": "Problems related to release from prison impacting treatment or prognosis."
+    },
+    {
+        "disorder": "Problems Related to Other Legal Circumstances",
+        "criteria": "Problems related to other legal circumstances impacting treatment or prognosis."
+    },
+    {
+        "disorder": "Sex Counseling",
+        "criteria": "Counseling related to sex education, sexual behavior, sexual orientation, sexual attitudes, sexual enjoyment, or related issues."
+    },
+    {
+        "disorder": "Other Counseling or Consultation",
+        "criteria": "Counseling or consultation for problems not specified elsewhere, including spiritual, dietary, or nicotine use counseling."
+    },
+    {
+        "disorder": "Religious or Spiritual Problem",
+        "criteria": "Religious or spiritual problem impacting clinical attention. Includes distress from loss or questioning of faith, problems with conversion, or questioning spiritual values."
+    },
+    {
+        "disorder": "Problems Related to Unwanted Pregnancy",
+        "criteria": "Problems related to unwanted pregnancy impacting clinical attention."
+    },
+    {
+        "disorder": "Problems Related to Multiparity",
+        "criteria": "Problems related to having multiple births impacting clinical attention."
+    },
+    {
+        "disorder": "Discord With Social Service Provider",
+        "criteria": "Discord with probation officer, case manager, or social services worker impacting clinical attention."
+    },
+    {
+        "disorder": "Victim of Terrorism or Torture",
+        "criteria": "Individual identified as victim of terrorism or torture impacting clinical attention."
+    },
+    {
+        "disorder": "Exposure to Disaster, War, or Other Hostilities",
+        "criteria": "Exposure to disaster, war, or hostilities impacting clinical attention."
+    },
+    {
+        "disorder": "Other Problem Related to Psychosocial Circumstances",
+        "criteria": "Other psychosocial, personal, or environmental problems impacting clinical attention."
+    },
+    {
+        "disorder": "Unspecified Problem Related to Unspecified Psychosocial Circumstances",
+        "criteria": "Unspecified psychosocial problems impacting clinical attention."
+    },
+    {
+        "disorder": "Other Personal History of Psychological Trauma",
+        "criteria": "History of psychological trauma impacting clinical attention."
+    },
+    {
+        "disorder": "Personal History of Self-Harm",
+        "criteria": "History of self-harm behavior impacting clinical attention."
+    },
+    {
+        "disorder": "Personal History of Military Deployment",
+        "criteria": "History of military deployment impacting clinical attention."
+    },
+    {
+        "disorder": "Other Personal Risk Factors",
+        "criteria": "Other personal risk factors impacting clinical attention."
+    },
+    {
+        "disorder": "Problem Related to Lifestyle",
+        "criteria": "Lifestyle problem impacting treatment or prognosis. Examples include lack of exercise, inappropriate diet, high-risk sexual behavior, poor sleep hygiene."
+    },
+    {
+        "disorder": "Adult Antisocial Behavior",
+        "criteria": "Adult antisocial behavior not due to a mental disorder, including behavior of professional thieves, racketeers, or illegal substance dealers."
+    },
+    {
+        "disorder": "Child or Adolescent Antisocial Behavior",
+        "criteria": "Isolated antisocial acts by children or adolescents not due to a mental disorder."
+    },
+    {
+        "disorder": "Nonadherence to Medical Treatment",
+        "criteria": "Nonadherence to treatment for mental or medical disorder severe enough to warrant clinical attention, excluding psychological factors affecting other medical conditions."
+    },
+    {
+        "disorder": "Malingering",
+        "criteria": "Intentional production of false or grossly exaggerated physical or psychological symptoms motivated by external incentives such as avoiding duty, obtaining compensation, evading prosecution, or obtaining drugs. Suspected if medicolegal context, marked discrepancy between claimed and observed symptoms, lack of cooperation, or presence of antisocial personality disorder."
+    },
+    {
+        "disorder": "Wandering Associated With a Mental Disorder",
+        "criteria": "Mental disorder with desire to walk about leading to clinical management or safety concerns, excluding intent to escape housing or medication-induced akathisia."
+    },
+    {
+        "disorder": "Borderline Intellectual Functioning",
+        "criteria": "Borderline intellectual functioning impacting clinical attention or treatment."
+    },
+    {
+        "disorder": "General Criteria for Personality Disorder (Alternative DSM-5 Model)",
+        "criteria": "A. Moderate or greater impairment in personality (self/interpersonal) functioning. B. One or more pathological personality traits. C. Impairments and traits are relatively inflexible and pervasive across personal and social situations. D. Impairments and traits are relatively stable across time, with onset traced to adolescence or early adulthood. E. Not better explained by another mental disorder. F. Not solely attributable to substance or medical condition. G. Not better understood as normal for developmental stage or sociocultural environment."
+    },
+    {
+        "disorder": "Antisocial Personality Disorder (Alternative DSM-5 Model)",
+        "criteria": "A. Moderate or greater impairment in personality functioning with difficulties in two or more areas: 1. Identity: egocentrism; self-esteem from personal gain, power, or pleasure. 2. Self-direction: goal setting based on personal gratification; absence of prosocial internal standards; failure to conform to lawful or normative behavior. 3. Empathy: lack of concern for others; lack of remorse. 4. Intimacy: incapacity for mutually intimate relationships; exploitation, deceit, coercion, dominance. B. Six or more pathological personality traits: manipulativeness, callousness, deceitfulness, hostility, risk taking, impulsivity, irresponsibility. Individual at least 18 years old."
+    },
+    {
+        "disorder": "Avoidant Personality Disorder (Alternative DSM-5 Model)",
+        "criteria": "A. Moderate or greater impairment in personality functioning with difficulties in two or more areas: 1. Identity: low self-esteem; feelings of shame. 2. Self-direction: unrealistic standards limiting goal pursuit. 3. Empathy: preoccupation with criticism or rejection; distorted inference of others’ perspectives. 4. Intimacy: reluctance to get involved unless certain of being liked; diminished mutuality due to fear of shame. B. Three or more pathological personality traits, one must be anxiousness: anxiousness, withdrawal, anhedonia, intimacy avoidance."
+    },
+    {
+        "disorder": "Borderline Personality Disorder (Alternative DSM-5 Model)",
+        "criteria": "A. Moderate or greater impairment in personality functioning with difficulties in two or more areas: 1. Identity: unstable self-image; chronic emptiness; dissociative states. 2. Self-direction: instability in goals and values. 3. Empathy: compromised recognition of others’ feelings; interpersonal hypersensitivity. 4. Intimacy: intense, unstable relationships marked by mistrust and fear of abandonment. B. Four or more pathological personality traits, at least one of impulsivity, risk taking, or hostility: emotional lability, anxiousness, separation insecurity, depressivity, impulsivity, risk taking, hostility."
+    },
+    {
+        "disorder": "Narcissistic Personality Disorder (Alternative DSM-5 Model)",
+        "criteria": "A. Moderate or greater impairment in personality functioning with difficulties in two or more areas: 1. Identity: excessive reference to others for self-definition; fluctuating self-esteem. 2. Self-direction: goal setting based on gaining approval; unreasonable personal standards. 3. Empathy: impaired ability to recognize feelings and needs of others. 4. Intimacy: superficial relationships serving self-esteem regulation. B. Both pathological personality traits: grandiosity and attention seeking."
+    },
+    {
+        "disorder": "Obsessive-Compulsive Personality Disorder (Alternative DSM-5 Model)",
+        "criteria": "A. Moderate or greater impairment in personality functioning with difficulties in two or more areas: 1. Identity: sense of self derived from work; constricted emotional expression. 2. Self-direction: difficulty completing tasks; rigid internal standards. 3. Empathy: difficulty understanding others’ ideas or feelings. 4. Intimacy: relationships secondary to work; rigidity affecting relationships. B. Three or more pathological personality traits, one must be rigid perfectionism: rigid perfectionism, perseveration, intimacy avoidance, restricted affectivity."
+    },
+    {
+        "disorder": "Schizotypal Personality Disorder (Alternative DSM-5 Model)",
+        "criteria": "A. Moderate or greater impairment in personality functioning with difficulties in two or more areas: 1. Identity: confused boundaries; distorted self-concept. 2. Self-direction: unrealistic or incoherent goals. 3. Empathy: difficulty understanding impact on others; frequent misinterpretations. 4. Intimacy: marked impairments in close relationships; mistrust and anxiety. B. Four or more pathological personality traits: cognitive and perceptual dysregulation, unusual beliefs and experiences, eccentricity, restricted affectivity, withdrawal, suspiciousness."
+    },
+    {
+        "disorder": "Personality Disorder — Trait Specified (PD-TS) (Alternative DSM-5 Model)",
+        "criteria": "A. Moderate or greater impairment in personality functioning with difficulties in two or more areas: identity, self-direction, empathy, intimacy. B. One or more pathological personality trait domains or facets among Negative Affectivity, Detachment, Antagonism, Disinhibition, Psychoticism."
+    },
+    {
+        "disorder": "Attenuated Psychosis Syndrome",
+        "criteria": "A. At least one attenuated psychotic symptom (delusions, hallucinations, disorganized speech) with relatively intact reality testing, of sufficient severity or frequency to warrant clinical attention. B. Symptoms present at least once per week for past month. C. Symptoms began or worsened in past year. D. Symptoms cause distress or disability warranting clinical attention. E. Not better explained by another mental disorder or medical condition. F. Criteria for any psychotic disorder never met."
+    },
+    {
+        "disorder": "Depressive Episodes With Short-Duration Hypomania",
+        "criteria": "A. Lifetime major depressive episode with five or more symptoms over same 2-week period including depressed mood or loss of interest. B. At least two lifetime hypomanic episodes lasting 2-3 days (less than 4 days required for hypomanic episode). C. Hypomanic episodes involve elevated, expansive, or irritable mood and increased goal-directed activity or energy, with at least three (four if irritable) symptoms such as inflated self-esteem, decreased need for sleep, pressured speech, flight of ideas, distractibility, increased activity, or risky behavior. D. Episodes cause noticeable change in functioning and are observable by others. E. Episodes not severe enough to cause marked impairment or hospitalization. F. Not attributable to substance or medical condition."
+    },
+    {
+        "disorder": "Persistent Complex Bereavement Disorder",
+        "criteria": "A. Death of a close person. B. Since death, at least one symptom (yearning, intense sorrow, preoccupation with deceased or death circumstances) present most days for at least 12 months (6 months in children). C. At least six additional symptoms (difficulty accepting death, disbelief, bitterness, maladaptive self-appraisals, avoidance, desire to die, trust issues, feeling alone, life meaningless, identity confusion, difficulty pursuing interests) present most days for same duration. D. Distress or impairment clinically significant. E. Reaction out of proportion or inconsistent with cultural norms."
+    },
+    {
+        "disorder": "Caffeine Use Disorder",
+        "criteria": "A problematic pattern of caffeine use leading to clinically significant impairment or distress, manifested by at least three of the following within 12 months: 1) persistent desire or unsuccessful efforts to cut down; 2) continued use despite physical or psychological problems caused or worsened by caffeine; 3) withdrawal symptoms or use to avoid withdrawal; 4) caffeine taken in larger amounts or longer than intended; 5) recurrent use causing failure to fulfill major role obligations; 6) continued use despite social or interpersonal problems; 7) tolerance; 8) much time spent obtaining, using, or recovering from caffeine; 9) craving."
+    },
+    {
+        "disorder": "Internet Gaming Disorder",
+        "criteria": "Persistent and recurrent use of the Internet to engage in games, often with others, leading to clinically significant impairment or distress, as indicated by five or more of the following within 12 months: 1) preoccupation with gaming; 2) withdrawal symptoms when gaming is taken away; 3) tolerance; 4) unsuccessful attempts to control participation; 5) loss of interests in previous hobbies; 6) continued excessive use despite problems; 7) deception about gaming amount; 8) use to escape or relieve negative mood; 9) jeopardized or lost significant relationship, job, or educational opportunity."
+    },
+    {
+        "disorder": "Neurobehavioral Disorder Associated With Prenatal Alcohol Exposure",
+        "criteria": "A. More than minimal alcohol exposure during gestation. B. Impaired neurocognitive functioning in one or more areas: global intellectual performance (IQ ≤70), executive functioning, learning, memory, visual-spatial reasoning. C. Impaired self-regulation in mood/behavior, attention deficit, or impulse control. D. Impaired adaptive functioning in two or more areas including communication deficit, social communication and interaction, daily living skills, motor skills. E. Onset in childhood. F. Causes clinically significant distress or impairment. G. Not better explained by postnatal substance use, medical condition, genetic condition, or environmental neglect."
+    },
+    {
+        "disorder": "Suicidal Behavior Disorder",
+        "criteria": "A. Suicide attempt within last 24 months. B. Act does not meet criteria for nonsuicidal self-injury. C. Diagnosis not applied to suicidal ideation or preparatory acts. D. Act not initiated during delirium or confusion. E. Act not undertaken solely for political or religious objective."
+    },
+    {
+        "disorder": "Nonsuicidal Self-Injury",
+        "criteria": "A. Intentional self-inflicted damage to body surface on 5 or more days in last year likely to induce bleeding, bruising, or pain without suicidal intent. B. Behavior engaged in to obtain relief from negative feelings, resolve interpersonal difficulty, or induce positive feeling. C. Associated with at least one of: interpersonal difficulties or negative feelings immediately prior, preoccupation with behavior difficult to control, frequent thoughts about self-injury. D. Behavior not socially sanctioned or restricted to picking scabs or nail biting. E. Causes clinically significant distress or interference. F. Not exclusively during psychotic episodes, delirium, substance intoxication or withdrawal, or part of repetitive stereotypies in neurodevelopmental disorders."
+    }
+]

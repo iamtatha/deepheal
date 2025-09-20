@@ -1,0 +1,38 @@
+[
+    {
+        "disorder": "Obsessive-Compulsive Disorder",
+        "criteria": "A. Presence of obsessions, compulsions, or both: Obsessions are defined by (1) recurrent and persistent thoughts, urges, or images that are intrusive and unwanted causing marked anxiety or distress; (2) attempts to ignore, suppress, or neutralize them. Compulsions are defined by (1) repetitive behaviors or mental acts driven to perform in response to an obsession or rigid rules; (2) behaviors aimed at preventing or reducing anxiety or distress or preventing a dreaded event, but are not realistically connected or are excessive. B. Obsessions or compulsions are time-consuming (more than 1 hour per day) or cause clinically significant distress or impairment. C. Symptoms are not due to substance effects or another medical condition. D. Disturbance is not better explained by another mental disorder. Specify if: With good or fair insight, With poor insight, With absent insight/delusional beliefs, Tic-related."
+    },
+    {
+        "disorder": "Body Dysmorphic Disorder",
+        "criteria": "A. Preoccupation with one or more perceived defects or flaws in physical appearance that are not observable or appear slight to others. B. At some point, repetitive behaviors (e.g., mirror checking, grooming, skin picking, reassurance seeking) or mental acts (e.g., comparing appearance with others) in response to appearance concerns. C. Preoccupation causes clinically significant distress or impairment. D. Appearance preoccupation not better explained by concerns with body fat or weight in an eating disorder. Specify if: With muscle dysmorphia. Specify degree of insight: good or fair, poor, absent/delusional beliefs."
+    },
+    {
+        "disorder": "Hoarding Disorder",
+        "criteria": "A. Persistent difficulty discarding or parting with possessions, regardless of actual value. B. Difficulty due to perceived need to save items and distress associated with discarding. C. Difficulty results in accumulation that congests/clutters active living areas and substantially compromises their use. D. Hoarding causes clinically significant distress or impairment (including safety). E. Not attributable to another medical condition. F. Not better explained by another mental disorder. Specify if: With excessive acquisition. Specify insight: good or fair, poor, absent/delusional beliefs."
+    },
+    {
+        "disorder": "Trichotillomania (Hair-Pulling Disorder)",
+        "criteria": "A. Recurrent pulling out of one's hair, resulting in hair loss. B. Repeated attempts to decrease or stop hair pulling. C. Hair pulling causes clinically significant distress or impairment. D. Hair pulling or hair loss not attributable to another medical condition. E. Not better explained by another mental disorder (e.g., body dysmorphic disorder)."
+    },
+    {
+        "disorder": "Excoriation (Skin-Picking) Disorder",
+        "criteria": "A. Recurrent skin picking resulting in skin lesions. B. Repeated attempts to decrease or stop skin picking. C. Skin picking causes clinically significant distress or impairment. D. Skin picking not attributable to physiological effects of a substance or another medical condition. E. Not better explained by another mental disorder (e.g., psychotic disorder, body dysmorphic disorder, stereotypic movement disorder, nonsuicidal self-injury)."
+    },
+    {
+        "disorder": "Substance/Medication-Induced Obsessive-Compulsive and Related Disorder",
+        "criteria": "A. Obsessions, compulsions, skin picking, hair pulling, or other symptoms characteristic of obsessive-compulsive and related disorders predominate. B. Evidence from history, exam, or labs of (1) symptoms developed during or soon after substance intoxication, withdrawal, or medication exposure; (2) substance/medication capable of producing symptoms. C. Disturbance not better explained by a non-substance/medication-induced disorder (e.g., symptoms precede substance use or persist >1 month after withdrawal). D. Disturbance does not occur exclusively during delirium. E. Causes clinically significant distress or impairment. Specify if: with onset during intoxication, withdrawal, or after medication use."
+    },
+    {
+        "disorder": "Obsessive-Compulsive and Related Disorder Due to Another Medical Condition",
+        "criteria": "A. Obsessions, compulsions, preoccupations with appearance, hoarding, skin picking, hair pulling, or other related symptoms predominate. B. Evidence from history, exam, or labs that disturbance is direct pathophysiological consequence of another medical condition. C. Disturbance not better explained by another mental disorder. D. Disturbance does not occur exclusively during delirium. E. Causes clinically significant distress or impairment. Specify if: with OCD-like symptoms, appearance preoccupations, hoarding symptoms, hair-pulling symptoms, or skin-picking symptoms."
+    },
+    {
+        "disorder": "Other Specified Obsessive-Compulsive and Related Disorder",
+        "criteria": "Symptoms characteristic of obsessive-compulsive and related disorders cause clinically significant distress or impairment but do not meet full criteria for any specific disorder. Clinician specifies reason (e.g., body dysmorphic-like disorder with actual flaws, body dysmorphic-like disorder without repetitive behaviors, body-focused repetitive behavior disorder, obsessional jealousy, shubo-kyofu, koro, jikoshu-kyofu)."
+    },
+    {
+        "disorder": "Unspecified Obsessive-Compulsive and Related Disorder",
+        "criteria": "Symptoms characteristic of obsessive-compulsive and related disorders cause clinically significant distress or impairment but do not meet full criteria for any specific disorder and clinician chooses not to specify the reason or there is insufficient information to make a more specific diagnosis."
+    }
+]

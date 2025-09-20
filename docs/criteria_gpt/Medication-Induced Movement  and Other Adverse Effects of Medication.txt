@@ -1,0 +1,50 @@
+Here are the diagnostic criteria extracted from the provided text:
+
+---
+
+**Neuroleptic-Induced Parkinsonism / Other Medication-Induced Parkinsonism**
+*   Parkinsonian tremor, muscular rigidity, akinesia (i.e., loss of movement or difficulty initiating movement), or bradykinesia (i.e., slowing movement) developing within a few weeks of starting or raising the dosage of a medication (e.g., a neuroleptic) or after reducing the dosage of a medication used to treat extrapyramidal symptoms.
+
+**Neuroleptic Malignant Syndrome**
+*   **Exposure:** Patients have generally been exposed to a dopamine antagonist within 72 hours prior to symptom development.
+*   **Hyperthermia:** >100.4° F or >38.0°C on at least two occasions, measured orally, associated with profuse diaphoresis. Extreme elevations in temperature are more likely to support the diagnosis.
+*   **Generalized Rigidity:** Described as “lead pipe” in its most severe form and usually unresponsive to antiparkinsonian agents. May be associated with other neurological symptoms (e.g., tremor, sialorrhea, akinesia, dystonia, trismus, myoclonus, dysarthria, dysphagia, rhabdomyolysis).
+*   **Creatine Kinase Elevation:** At least four times the upper limit of normal.
+*   **Changes in Mental Status:** Characterized by delirium or altered consciousness ranging from stupor to coma. Often an early sign. Affected individuals may appear alert but dazed and unresponsive, consistent with catatonic stupor.
+*   **Autonomic Activation and Instability:** Manifested by tachycardia (rate >25% above baseline), diaphoresis, blood pressure elevation (systolic or diastolic ≥25% above baseline) or fluctuation (≥20 mmHg diastolic change or ≥25 mmHg systolic change within 24 hours), urinary incontinence, and pallor.
+*   **Tachypnea:** Rate >50% above baseline.
+*   **Exclusion:** A workup, including laboratory investigation, to exclude other infectious, toxic, metabolic, and neuropsychiatric etiologies or complications is essential.
+
+**Medication-Induced Acute Dystonia**
+*   Abnormal and prolonged contraction of the muscles of the eyes (oculogyric crisis), head, neck (torticollis or retrocollis), limbs, or trunk developing within a few days of starting or raising the dosage of a medication (such as a neuroleptic) or after reducing the dosage of a medication used to treat extrapyramidal symptoms.
+
+**Medication-Induced Acute Akathisia**
+*   Subjective complaints of restlessness, often accompanied by observed excessive movements (e.g., fidgety movements of the legs, rocking from foot to foot, pacing, inability to sit or stand still), developing within a few weeks of starting or raising the dosage of a medication (such as a neuroleptic) or after reducing the dosage of a medication used to treat extrapyramidal symptoms.
+
+**Tardive Dyskinesia**
+*   Involuntary athetoid or choreiform movements (lasting at least a few weeks) generally of the tongue, lower face and jaw, and extremities (but sometimes involving the pharyngeal, diaphragmatic, or trunk muscles) developing in association with the use of a neuroleptic medication for at least a few months.
+*   Symptoms may develop after a shorter period of medication use in older persons.
+*   Movements may appear after discontinuation, or after change or reduction in dosage, of neuroleptic medications (neuroleptic withdrawal-emergent dyskinesia). Dyskinesia that persists beyond the usual time-limited window of withdrawal-emergent dyskinesia (less than 4–8 weeks) is considered tardive dyskinesia.
+
+**Tardive Dystonia / Tardive Akathisia**
+*   Tardive syndrome involving other types of movement problems, such as dystonia or akathisia, which are distinguished by their late emergence in the course of treatment and their potential persistence for months to years, even in the face of neuroleptic discontinuation or dosage reduction.
+
+**Medication-Induced Postural Tremor**
+*   Fine tremor (usually in the range of 8–12 Hz) occurring during attempts to maintain a posture and developing in association with the use of medication (e.g., lithium, antidepressants, valproate).
+
+**Other Medication-Induced Movement Disorder**
+*   This is a category for medication-induced movement disorders not captured by the specific disorders listed above. Examples include presentations resembling neuroleptic malignant syndrome associated with medications other than neuroleptics and other medication-induced tardive conditions.
+
+**Antidepressant Discontinuation Syndrome**
+*   **Onset:** A set of symptoms that can occur after an abrupt cessation (or marked reduction in dose) of an antidepressant medication that was taken continuously for at least 1 month. Symptoms generally begin within 2–4 days.
+*   **Symptoms:** Typically include specific sensory, somatic, and cognitive-emotional manifestations. Frequently reported sensory and somatic symptoms include flashes of lights, “electric shock” sensations, nausea, and hyperresponsivity to noises or lights. Nonspecific anxiety and feelings of dread may also be reported. For SSRIs (e.g., paroxetine), symptoms such as dizziness, ringing in the ears, “electric shocks in the head,” an inability to sleep, and acute anxiety are described.
+*   **Alleviation:** Symptoms are alleviated by restarting the same medication or starting a different medication that has a similar mechanism of action.
+*   **Exclusions:**
+    *   Symptoms should not have been present before the antidepressant dosage was reduced.
+    *   Symptoms are not better explained by another mental disorder (e.g., manic or hypomanic episode, substance intoxication, substance withdrawal, somatic symptom disorder).
+    *   The antidepressant use prior to discontinuation must not have incurred hypomania or euphoria (i.e., not a result of fluctuations in mood stability).
+    *   Not related to the reinforcing effects of an antidepressant.
+    *   Not stimulant withdrawal symptoms if stimulant augmentation was used.
+
+**Other Adverse Effect of Medication**
+*   This is a category for coding side effects of medication (other than movement symptoms) when these adverse effects become a main focus of clinical attention. It does not list specific diagnostic criteria for a single condition but rather provides a coding option for various adverse effects (e.g., severe hypotension, cardiac arrhythmias, priapism).

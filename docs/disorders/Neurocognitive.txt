@@ -1,0 +1,2519 @@
+591Neurocognitive
+ Disorders
+The neurocognitive disorders  (NCDs) (referred to in  DSM-IV as “Dementia,
+Delirium, Amnestic, and Other Cognitive Di sorders”) begin with delirium, followed by
+the syndromes of major NCD, mild NCD, an d their etiological su btypes. The major or
+mild NCD subtypes are NCD due to Alzheimer’s disease; vascular NCD; NCD with Lewy
+bodies; NCD due to Parkinso n’s disease; frontotemporal NCD; NCD due to traumatic
+brain injury; NCD due to HIV infection; su bstance/medication-induced NCD; NCD due
+to Huntington’s disease; NC D due to prion disease; NCD du e to another medical condi-
+tion; NCD due to multiple etiologies; and unspecified NCD. The NCD category encom-
+passes the group of disorders in which the primar y clinical deficit is in cognitive function,
+and that are acquired rather than developmental. Although cognitive deficits are present
+in many if not all mental disorders (e.g., schizophrenia, bipolar diso rders), only disorders
+whose core features are cognitive are includ ed in the NCD category. The NCDs are those
+in which impaired cognition has not been present since birth or very early life, and thus
+represents a decline from a previou sly attained level of functioning.
+The NCDs are unique among DSM-5 categories in that these are syndromes for which
+the underlying pathology, and frequently the etiology as well, can potentially be deter-
+mined. The various underlying disease entities  have all been the subject of extensive re-
+search, clinical experience, and expert consen sus on diagnostic crit eria. The DSM-5 criteria
+for these disorders have  been developed in close consultation with the expert groups for
+each of the disease entities and align as closely as possible with the current consensus cri-
+teria for each of them. The potential utility of  biomarkers is also discussed in relation to
+diagnosis. Dementia is subsumed under the newly named entity major neurocognitive dis-
+order , although the term dementia  is not precluded from use in the etiological subtypes in
+which that term is standard. Furthermore, DSM-5 recognizes a less severe level of cogni-
+tive impairment, mild neurocognitive disorder,  which can also be a focus of care, and which
+in DSM-IV was subsumed under “Cognitive Disorder Not Otherwise Specified.” Diagnos-
+tic criteria are provided for both these synd romic entities, followed by diagnostic criteria
+for the different etiological subtypes. Several of the NCDs frequently coexist with one an-
+other, and their relationships may be multip ly characterized under different chapter sub-
+headings, including “Differential Diagnosis” (e.g., NCD due to Alzheimer’s disease vs.
+vascular NCD), “Risk and Prognostic Factors”  (e.g., vascular path ology increasing the
+clinical expression of Alzheimer’s disease), and/or “Comorbidity” (e.g., mixed Alzhei-
+mer’s disease–vascular pathology). 
+The term dementia  is retained in DSM-5 for contin uity and may be used in settings
+where physicians and patients are accustomed to this term. Although dementia is the cus-
+tomary term for disorders like the degenerative  dementias that usually affect older adults,
+the term neurocognitive disorder  is widely used and often preferred for conditions affect-
+ing younger individuals, such as impairment secondary to traumatic brain injury or HIV
+infection. Furthermore, the major NCD definition is some what broader than the term
+dementia,  in that individuals with substantial decline in a single domain can receive this di-
+agnosis, most notably the DSM-IV category of “Amnestic Disorder,” which would now be
+diagnosed as major NCD due to another medical condition and for which the term demen-
+tia would not be used.
+592 Neurocognitive Disorders
+Neurocognitive Domains
+The criteria for the various NCDs are all base d on defined cognitive domains. Table 1 pro-
+vides for each of the key domains a working definition, examples of  symptoms or obser-
+vations regarding impairments in everyday activities, and examples of assessments. The
+domains thus defined, along with guidelines  for clinical thresholds, form the basis on
+which the NCDs, their levels, and their subtypes may be diagnosed.
+Neurocognitive Disorders 593TABLE 1 Neurocognitive domains
+Cognitive domain Examples of symptoms or  observations Examples of assessments 
+Complex attention 
+(sustained attention, 
+divided attention, 
+selective attention, 
+processing speed)Major:  Has increased difficulty in environments with multiple 
+stimuli (TV, radio, conversation); is easily distracted by compet-
+ing events in the environment. Is unable to attend unless input is 
+restricted and simplified. Has difficulty holding new information 
+in mind, such as recalling phone numbers or addresses just given, 
+or reporting what was just said. Is unable to perform mental cal-
+culations. All thinking takes longer than usual, and components 
+to be processed must be simplified to one or a few.
+Mild:  Normal tasks take longer than previously. Begins to find 
+errors in routine task s; finds work needs more double-checking 
+than previously. Thinking is ea sier when not competing with 
+other things (radio, TV, other conversations, cell phone, driving).Sustained attention:  Maintenance of attention over time (e.g., pressing 
+a button every time a tone is heard, and over a period of time). 
+Selective attention:  Maintenance of attention despite competing stim-
+uli and/or distractors: hearing nu mbers and letters read and asked 
+to count only letters.
+Divided attention:  Attending to two tasks within the same time 
+period: rapidly tapping while lear ning a story being read. Process-
+ing speed can be quantified on any task by timing it (e.g., time to 
+put together a design of blocks; time to match symbols with num-
+bers; speed in responding, such as counting speed or serial 3 
+speed). 
+Executive function 
+(planning, decision 
+making, working 
+memory, respond-
+ing to feedback/
+error correction, 
+overriding habits/
+inhibition, mental 
+flexibility)Major:  Abandons complex projects. Needs to focus on one task 
+at a time. Needs to rely on othe rs to plan instrumental activi-
+ties of daily living or make decisions. 
+Mild:  Increased effort required to complete multistage projects. 
+Has increased difficulty multitasking or difficulty resuming a 
+task interrupted by a visitor or phone call. May complain of 
+increased fatigue from the extra effort required to organize, 
+plan, and make decisions. May repo rt that large social gather-
+ings are more taxing or less enjoyable because of increased 
+effort required to follow shifting conversations.Planning:  Ability to find the exit to a maze; interpret a sequential pic-
+ture or object arrangement.
+Decision making:  Performance of tasks that assess process of deciding 
+in the face of competing alternat ives (e.g., simulated gambling).
+Working memory:  Ability to hold information for a brief period and to 
+manipulate it (e.g., adding up a lis t of numbers or repeating a series 
+of numbers or words backward).
+Feedback/error utilization:  Ability to benefit from feedback to infer the 
+rules for solving a problem.
+Overriding habits/inhibition:  Ability to choose a more complex and 
+effortful solution to be correct (e.g., looking away from the direc-
+tion indicated by an arrow; naming the color of a word’s font rather 
+than naming the word).
+Mental/cognitive flexibility:  Ability to shift between two concepts, 
+tasks, or response rules (e.g., from  number to letter, from verbal to 
+key-press response, from adding numbers to ordering numbers, 
+from ordering objects by si ze to ordering by color).
+594 Neurocognitive DisordersLearning and mem-
+ory (immediate 
+memory, recent 
+memory [including 
+free recall, cued 
+recall, and recogni-
+tion memory], 
+very-long-term 
+memory [semantic; 
+autobiographical], 
+implicit learning) Major:  Repeats self in conversation, often within the same con-
+versation. Cannot keep track of short list of items when shop-
+ping or of plans for the day. Requires frequent reminders to 
+orient to task at hand.
+Mild:  Has difficulty recalling recent  events, and relies increas-
+ingly on list making or calendar. Needs occasional reminders 
+or re-reading to keep track of characters in a movie or novel. 
+Occasionally may repeat self over a few weeks to the same per-
+son. Loses track of whether bills have already been paid.
+Note:  Except in severe forms of major neurocognitive disorder, 
+semantic, autobiographical, an d implicit memory are rela-
+tively preserved, compar ed with recent memory. Immediate memory span: Ability to repeat a list of words or digits. 
+Note:  Immediate memory sometimes subsumed under “working 
+memory” (see “Executive Function”).
+Recent memory:  Assesses the process of encoding new information 
+(e.g., word lists, a short story, or diagrams). The aspects of recent 
+memory that can be tested include 1) free recall (the person is asked 
+to recall as many words, diagrams, or elements of a story as possi-
+ble); 2) cued recall (examiner aids recall by providing semantic cues 
+such as “List all the food items on the list” or “Name all of the chil-
+dren from the story”); and 3) re cognition memory (examiner asks 
+about specific items—e.g., “Was ’apple’ on the list?”  or “Did you 
+see this diagram or figure?”). Othe r aspects of memory that can be 
+assessed include semantic memory (memory for facts), autobio-
+graphical memory (memory for pers onal events or people), and 
+implicit (procedural) learning (u nconscious learning of skills).
+Language (expres-
+sive language 
+[including nam-
+ing, word finding, 
+fluency, and gram-
+mar, and syntax] 
+and receptive 
+language)Major:  Has significant difficulties with expressive or receptive 
+language. Often uses general-use phrases such as “that thing” 
+and “you know what I mean,” and prefers general pronouns 
+rather than names. With seve re impairment, may not even 
+recall names of closer friends and family. Idiosyncratic word 
+usage, grammatical errors, and spontaneity of output and 
+economy of utterances occur. Stereotypy of speech occurs; 
+echolalia and automatic speec h typically precede mutism.
+Mild:  Has noticeable word-finding difficulty. May substitute 
+general for specific terms. May avoid use of specific names of 
+acquaintances. Grammatical errors involve subtle omission or 
+incorrect use of articles, prepos itions, auxiliary verbs, etc. Expressive language:  Confrontational naming (identification of objects 
+or pictures); fluency (e.g., name  as many items as possible in a 
+semantic [e.g., animals] or phonemic [e.g., words starting with “f”] 
+category in 1 minute).
+Grammar and syntax  (e.g., omission or incorrect use of articles, prep-
+ositions, auxiliary verbs): Errors observed during naming and flu-
+ency tests are compared with norm s to assess frequency of errors 
+and compare with normal slips of the tongue.
+Receptive language:  Comprehension (word definition and object-
+pointing tasks involving animate and inanimate stimuli): perfor-
+mance of actions/activities according to verbal command.TABLE 1 Neurocognitive domains (continued)
+Cognitive domain Examples of symptoms or  observations Examples of assessments 
+Neurocognitive Disorders 595Perceptual-motor 
+(includes abilities 
+subsumed under 
+the terms visual 
+perception,  visuo-
+constructional,  
+perceptual-motor,  
+praxis,  and gnosis ) Major:  Has significant difficulties with previously familiar activ-
+ities (using tools, driving motor vehicle), navigating in familiar 
+environments; is often more confused at dusk, when shadows 
+and lowering levels of light change perceptions. 
+Mild:  May need to rely more on maps or others for directions. 
+Uses notes and follows others to get to a new place. May find 
+self lost or turned around when not concentrating on task. Is 
+less precise in parking. Needs to  expend greater effort for spa-
+tial tasks such as carpentry, assembly, sewing, or knitting.Visual perception: Line bisection tasks can be used to detect basic 
+visual defect or attentional neglect. Motor-free perceptual tasks 
+(including facial recognition) require the identification and/or 
+matching of figures—best when task s cannot be verbally mediated 
+(e.g., figures are not objects); some require the decision of whether 
+a figure can be “real” or no t based on dimensionality.  
+Visuoconstructional:  Assembly of items requiring hand-eye coordina-
+tion, such as drawing, copying, and block assembly. 
+Perceptual-motor:  Integrating perception with purposeful movement 
+(e.g., inserting blocks into a form board without visual cues; rap-
+idly inserting pegs into a slotted board).
+Praxis:  Integrity of learned movements, such as ability to imitate 
+gestures (wave goodbye) or pant omime use of objects to command 
+(“Show me how you would use a hammer”).
+Gnosis:  Perceptual integrity of awaren ess and recognition, such as 
+recognition of faces and colors.
+Social cognition 
+(recognition of 
+emotions, theory 
+of mind)Major:  Behavior clearly out of acceptable social range; shows 
+insensitivity to social standards of modesty in dress or of polit-
+ical, religious, or sexual topics of conversation. Focuses exces-
+sively on a topic despite group’s disinterest or direct feedback. 
+Behavioral intention without regard to family or friends. 
+Makes decisions without regard to safety (e.g., inappropriate 
+clothing for weather or social setting). Typically, has little 
+insight into these changes.
+Mild:  Has subtle changes in behavior or attitude, often described 
+as a change in personality, such as less ability to recognize 
+social cues or read facial expressions, decreased empathy, 
+increased extraversion or introversion, decreased inhibition, 
+or subtle or episodic apathy or restlessness.Recognition of emotions:  Identification of emot ion in images of faces 
+representing a variety of both positive and negative emotions.
+Theory of mind:  Ability to consider another person’s mental state 
+(thoughts, desires, intentions) or experience—story cards with 
+questions to elicit information about the mental stat e of the individ-
+uals portrayed, such as “Where will the girl look for the lost bag?” 
+or “Why is the boy sad?”  TABLE 1 Neurocognitive domains (continued)
+Cognitive domain Examples of symptoms or  observations Examples of assessments 
+596 Neurocognitive Disorders
+Delirium
+Diagnostic Criteria    
+A. A disturbance in attention (i.e., reduced ability to direct, focus, sustain, and shift atten-
+tion) and awareness (reduced orientation to the environment).
+B. The disturbance develops over a short period of time (usually hours to a few days), rep-
+resents a change from baseline attention and awareness, and tends to fluctuate in se-
+verity during the course of a day.
+C. An additional disturbance in cognition (e.g., memory deficit, disorientation, language,
+visuospatial ability, or perception). 
+D. The disturbances in Criteria A and C are not better explained by another preexisting,
+established, or evolving neurocognitive disorder and do not occur in the context of a
+severely reduced level of arousal, such as coma.
+E. There is evidence from the history, physical examination, or laboratory findings that the
+disturbance is a direct physiological consequence of another medical condition, sub-
+stance intoxication or withdrawal (i.e., due to a drug of abuse or to a medication), or
+exposure to a toxin, or is due to multiple etiologies.
+Specify whether:
+Substance intoxication delirium:  This diagnosis should be made instead of sub-
+stance intoxication when the symptoms in Criteria A and C predominate in the clinical
+picture and when they are sufficiently severe to warrant clinical attention.
+Coding note: The ICD-9-CM and ICD-10-CM codes for the [specific substance] in-
+toxication delirium are indicated in the table below. Note that the ICD-10-CM code
+depends on whether or not there is a comorbid substance use disorder present for
+the same class of substance. If a mild substance use disorder is comorbid with the
+substance intoxication delirium, the 4th position character is “1,” and the clinician
+should record “mild [substance] use disorder” before the substance intoxication de-
+lirium (e.g., “mild cocaine use disorder with cocaine intoxication delirium”). If a mod-
+erate or severe substance use disorder is comorbid with the substance intoxication
+delirium, the 4th position character is “2,” and the clinician should record “moderate
+[substance] use disorder” or “severe [substance] use disorder,” depending on the
+severity of the comorbid substance use disorder. If there is no comorbid substance
+use disorder (e.g., after a one-time heavy use of the substance), then the 4th posi-
+tion character is “9,” and the clinician should record only the substance intoxication
+delirium.
+ICD-10-CM
+ICD-9-CMWith use 
+disorder, 
+mildWith use 
+disorder, 
+moderate or 
+severeWithout use 
+disorder
+Alcohol 291.0 F10.121 F10.221 F10.921
+Cannabis 292.81 F12.121 F12.221 F12.921
+Phencyclidine 292.81 F16.121 F16.221 F16.921
+Other hallucinogen 292.81 F16.121 F16.221 F16.921
+Inhalant 292.81 F18.121 F18.221 F18.921
+Opioid 292.81 F11.121 F11.221 F11.921
+Delirium 597
+Substance withdrawal delirium:  This diagnosis should be made instead of sub-
+stance withdrawal when the symptoms in Criteria A and C predominate in the clinical
+picture and when they are sufficiently severe to warrant clinical attention.
+Code  [specific substance] withdrawal delirium: 291.0 (F10.231)  alcohol; 292.0
+(F11.23)  opioid; 292.0 (F13.231)  sedative, hypnotic, or anxiolytic; 292.0 (F19.231)
+other (or unknown) substance/medication.
+Medication-induced delirium:  This diagnosis applies when the symptoms in Criteria
+A and C arise as a side effect of a medication taken as prescribed.
+Coding note:  The ICD-9-CM code for [specific medication]-induced delirium is
+292.81. The ICD-10-CM code depends on the type of medication. If the medication
+is an opioid taken as prescribed, the code is F11.921.  If the medication is a seda-
+tive, hypnotic, or anxiolytic taken as prescribed, the code is F13.921.  If the medica-
+tion is an amphetamine-type or other stimulant taken as prescribed, the code is
+F15.921.  For medications that do not fit into any of the classes (e.g., dexametha-
+sone) and in cases in which a substance is judged to be an etiological factor but the
+specific class of substance is unknown, the code is F19.921.
+293.0 (F05) Delirium due to another medical condition:  There is evidence from the
+history, physical examination, or laboratory findings that the disturbance is attributable
+to the physiological consequences of another medical condition.
+Coding note: Include the name of the other medical condition in the name of the
+delirium (e.g., 293.0 [F05] delirium due to hepatic encephalopathy). The other med-
+ical condition should also be coded and listed separately immediately before the
+delirium due to another medical condition (e.g., 572.2 [K72.90] hepatic encepha-
+lopathy; 293.0 [F05] delirium due to hepatic encephalopathy).
+293.0 (F05) Delirium due to  multiple etiologies:  There is evidence from the history,
+physical examination, or laboratory findings that the delirium has more than one etiol-
+ogy (e.g., more than one etiological medical condition; another medical condition plus
+substance intoxication or medication side effect).
+Coding note:  Use multiple separate codes reflecting specific delirium etiologies
+(e.g., 572.2 [K72.90] hepatic encephalopathy, 293.0 [F05] delirium due to hepatic
+failure; 291.0 [F10.231] alcohol withdrawal de lirium). Note that the etiological med-
+ical condition both appears as a separate code that precedes the delirium code and
+is substituted into the delirium due to another medical condition rubric. 
+Specify if:
+Acute:  Lasting a few hours or days.
+Persistent:  Lasting weeks or months.Sedative, hypnotic, or anxioly tic 292.81 F13.121 F13.221 F13.921
+Amphetamine (or other 
+stimulant)292.81 F15.121 F15.221 F15.921
+Cocaine 292.81 F14.121 F14.221 F14.921
+Other (or unknown) substance 292.81 F19.121 F19.221 F19.921ICD-10-CM
+ICD-9-CMWith use 
+disorder, 
+mildWith use 
+disorder, 
+moderate or 
+severeWithout use 
+disorder
+598 Neurocognitive Disorders
+Specify if:
+Hyperactive:  The individual has a hyperactive level of psychomotor activity that may be
+accompanied by mood lability, agitation, and/or refusal to cooperate with medical care.
+Hypoactive:  The individual has a hypoactive level of psychomotor activity that may be
+accompanied by sluggishness and lethargy that approaches stupor.
+Mixed level of activity: The individual has a normal level of psychomotor activity even
+though attention and awareness are disturbed. Also includes individuals whose activity
+level rapidly fluctuates.
+Recording Procedures
+Substance intoxication delirium
+ICD-9-CM. The name of the substance/medication intoxication delirium begins with
+the specific substance (e.g., co caine, dexamethasone) that is  presumed to be causing the
+delirium. The diagnostic code is  selected from the table includ ed in the criteria set, which
+is based on the drug class. For substances that do not fit into any of the classes (e.g., dexa-
+methasone), the code for “other substance” should be used; and in cases in which a sub-
+stance is judged to be an etiological factor but the specific class of substance is unknown,
+the category “unknown substance” should be used.
+The name of the disorder is followed by the course (i.e., acute, persistent), followed by
+the specifier indicating level of psychomotor activity (i.e., hyperactive, hypoactive, mixed
+level of activity). Unlike the recording proc edures for ICD-10-CM, which combine the sub-
+stance/medication intoxication delirium and subs tance use disorder into a single code, for
+ICD-9-CM a separate diagnostic code is give n for the substance use disorder. For example,
+in the case of acute hyperactive intoxication delirium occurring in a man with a severe co-
+caine use disorder, the diagnosis is 292.81 cocaine intoxication delirium, acute, hyperac-
+tive. An additional diagnosis of 304.20 severe cocaine use disorder is also given. If the
+intoxication delirium occurs without a comorbid substance use disorder (e.g., after a one-
+time heavy use of the substance), no accompan ying substance use disorder is noted (e.g.,
+292.81 phencyclidine intoxication delirium, acute, hypoactive).
+ICD-10-CM. The name of the substance/ medication intoxication de lirium begins with the
+specific substance (e.g., cocaine,  dexamethasone) that is presumed to be causing the delirium.
+The diagnostic code is selected from the table in cluded in the criteria set, which is based on the
+drug class and presence or absence of a comorbid substance use disorder. For substances that
+do not fit into any of the classes (e.g., dexamethasone), the code for “other substance” should
+be used; and in cases in which a substance is judg ed to be an etiological factor but the specific
+class of substance is unknown, the category “unknown substance” should be used.
+When recording the name of the disorder, the comorbid substance use disorder (if any) is
+listed first, followed by the word “with,” foll owed by the name of th e substance intoxication
+delirium, followed by the course (i.e., acute, persistent), follo wed by the specifier indicating
+level of psychomotor activity (i.e., hyperactive, hypoactive, mixed level of activity). For exam-
+ple, in the case of acute hyperactive intoxication  delirium occurring in a man with a severe co-
+caine use disorder, the diagnosis is F14.221 severe cocaine use disorder with cocaine
+intoxication delirium, acute, hy peractive. A separate diagnosis of the comorbid severe cocaine
+use disorder is not given. If the intoxication delirium occurs without a comorbid substance use
+disorder (e.g., after a one-time  heavy use of the substance), no accompanying substance use
+disorder is noted (e.g., F16.921 phencyclidine intoxication delirium, acute, hypoactive). 
+Substance withdrawal delirium
+ICD-9-CM. The name of the substance/medication withdrawal delirium  begins with the
+specific substance (e.g., alcohol) that is presumed to be causing the withdrawal delirium. The
+diagnostic code is selected from substance-spec ific codes included in the coding note included
+Delirium 599
+in the criteria set. The name of the disorder is fo llowed by the course (i.e., acute, persistent), fol-
+lowed by the specifier indicating level of psycho motor activity (i.e., hy peractive, hypoactive,
+mixed level of activity). Unlike the recording procedures for ICD-10-CM, which combine the
+substance/medication withdrawal delirium and su bstance use disorder into a single code, for
+ICD-9-CM a separate diagnostic code is given for the substance use disorder. For example, in
+the case of acute hyperactive withdrawal delirium  occurring in a man with a severe alcohol use
+disorder, the diagnosis is 291.0 alcohol withdrawal  delirium, acute, hyperactive. An additional
+diagnosis of 303.90 severe alcohol use disorder is also given.
+ICD-10-CM. The name of the substa nce/medication withdrawal delirium begins with
+the specific substance (e.g., al cohol) that is presumed to be causing the withdrawal delir-
+ium. The diagnostic code is selected from su bstance-specific codes included in the coding
+note included in the criteria set. When re cording the name of the disorder, the comorbid
+moderate or severe substance use disorder (if any) is listed first, followed by the word
+“with,” followed by the substance withdrawal delirium, followed by the course (i.e., acute,
+persistent), followed by the specifier indicating  level of psychomotor activity (i.e., hyper-
+active, hypoactive, mixed level of activity). Fo r example, in the case of acute hyperactive
+withdrawal delirium occurring in a man with a severe alcohol use disorder, the diagnosis
+is F10.231 severe alcohol use disorder with alcohol withdrawal delirium, acute, hyperac-
+tive. A separate diagnosis of the comorbid severe alcohol use disorder is not given. 
+Medication-induced delirium. The name of the medication-induced delirium begins
+with the specific substance (e.g., dexamethasone) that is presumed to be causing the de-
+lirium. The name of the disorder is followed by the course (i.e., acute,  persistent), followed
+by the specifier indicating le vel of psychomotor activity (i.e., hyperactive, hypoactive,
+mixed level of activity). For example, in th e case of acute hyperactive medication-induced
+delirium occurring in a man using dexamethasone as prescribed, the diagnosis is 292.81
+(F19.921) dexamethasone-induced delirium, acute, hyperactive.
+Specifiers
+Regarding course, in hospital settings, delirium usually lasts about 1 week, but some
+symptoms often persist even after indivi duals are discharged from the hospital. 
+Individuals with delirium may rapidly switch between hyperactive and hypoactive
+states. The hyperactive state may be more common or more frequently recognized and
+often is associated with medication side effe cts and drug withdrawal . The hypoactive state
+may be more frequent in older adults.
+Diagnostic Features
+The essential feature of deliriu m is a disturbance of attention or awareness that is accom-
+panied by a change in baseline cognition that  cannot be better explained by a preexisting
+or evolving neurocognitive disorder (NCD). The disturbance in attention (Criterion A) is
+manifested by reduced ability to direct, focus, sustain, and shift attention. Questions must
+be repeated because the individual’s attentio n wanders, or the individual may perseverate
+with an answer to a previous question rather  than appropriately shift attention. The indi-
+vidual is easily distracted by irrelevant st imuli. The disturbance in awareness is mani-
+fested by a reduced orientation to the environment or at times even to oneself.
+The disturbance develops over a short period  of time, usually hours to a few days, and
+tends to fluctuate during the course of the day, often with worsen ing in the evening and
+night when external orienting stimuli decrease  (Criterion B). There is evidence from the
+history, physical examination, or laboratory findings that the disturbance is a physiologi-
+cal consequence of an underlying medical condition, substance intoxication or with-
+drawal, use of a medication, or a toxin ex posure, or a combinat ion of these factors
+(Criterion E). The etiology should be coded a ccording to the etiologically appropriate sub-
+type (i.e., substance or medication intoxica tion, substance withdr awal, another medical
+600 Neurocognitive Disorders
+condition, or multiple etiologi es). Delirium often occurs in  the context of an underlying
+NCD. The impaired brain function of individuals with mild and major NCD renders them
+more vulnerable to delirium.
+There is an accompanying change in at le ast one other area that may include memory
+and learning (particularly recent memory), diso rientation (particularly to time and place),
+alteration in language, or perceptual distorti on or a perceptual-motor disturbance (Crite-
+rion C). The perceptual dist urbances accompanying delirium include misinterpretations,
+illusions, or hallucinations; these disturbances are typically visual, but may occur in other
+modalities as well, and range from simple an d uniform to highly complex. Normal atten-
+tion/arousal, delirium, and coma lie on a cont inuum, with coma defined as the lack of any
+response to verbal stimuli. The ability to evaluate cognition to diagnose delirium depends
+on there being a level of arousal sufficient for response to verbal stim ulation; hence, delir-
+ium should not be diagnosed in the context of coma (Criterion D). Many noncomatose pa-
+tients have a reduced level of arousal. Those patients who show only minimal responses to
+verbal stimulation are incapable of engaging with attempts at standardized testing or even
+interview. This inability to engage should be  classified as severe inattention. Low-arousal
+states (of acute onset) should be recognized as indicating severe inattention and cognitive
+change, and hence delirium. They are clinically indistinguishable from delirium diag-
+nosed on the basis of inattentio n or cognitive change elicited through cognitive testing and
+interview. 
+Associated Features Supporting Diagnosis
+Delirium is often associated with a disturbanc e in the sleep-wake cycl e. This disturbance
+can include daytime sleepiness, nighttime ag itation, difficulty falling asleep, excessive
+sleepiness throughout the day, or wakefulnes s throughout the night.  In some cases, com-
+plete reversal of the night-day sleep-wake cy cle can occur. Sleep-wake cycle disturbances
+are very common in delirium and have been proposed as a core criterion for the diagnosis.
+The individual with deliri um may exhibit emotional di sturbances, such as anxiety,
+fear, depression, irritability, anger, euphori a, and apathy. There may be rapid and unpre-
+dictable shifts from one emot ional state to another. The di sturbed emotional state may also
+be evident in calling out, screaming, cursin g, muttering, moaning, or making other
+sounds. These behaviors are especially prevalent at nigh t and under conditions in which
+stimulation and environmen tal cues are lacking. 
+Prevalence
+The prevalence of delirium is highest amon g hospitalized older individuals and varies
+depending on the individuals’ characteristics, setting of care, and se nsitivity of the detec-
+tion method. The prevalence of delirium in the community overall is low (1%–2%) but in-
+creases with age, rising to 14% among individuals older than 85 years. The prevalence is
+10%–30% in older individuals presenting to emergency departments, where the delirium
+often indicates a medical illness. 
+The prevalence of delirium when individuals are admitted to the hospital ranges from
+14% to 24%, and estimates of the incidence of delirium arising du ring hospitalization
+range from 6% to 56% in general hospital populations. Delirium occurs in 15%–53% of
+older individuals postoperatively and in 70% –87% of those in intensive care. Delirium oc-
+curs in up to 60% of individuals in nursing ho mes or post–acute care settings and in up to
+83% of all individuals at the end of life.
+Development and Course
+While the majority of individuals with deli rium have a full recovery with or without
+treatment, early recognition and intervention usually shortens the duration of the delir-
+Delirium 601
+ium. Delirium may progress to stupor, coma, seizures, or death, particularly if the under-
+lying cause remains untreated. Mortality amon g hospitalized individuals with delirium is
+high, and as many as 40% of individuals with  delirium, particularly those with malignan-
+cies and other significant underlying medical illness, die within a year after diagnosis. 
+Risk and Prognostic Factors 
+Environmental. Delirium may be increased in the cont ext of functional impairment, im-
+mobility, a history of falls, low levels of activity, and use of drugs and medications with
+psychoactive properties (particularly alcohol and anticholinergics).
+Genetic and physiological. Both major and mild NCDs can increase the risk for delir-
+ium and complicate the course. Older individu als are especially susceptible to delirium
+compared with younger adults. Susceptibilit y to delirium in infancy and through child-
+hood may be greater than in early and mi ddle adulthood. In ch ildhood, delirium may be
+related to febrile illnesses and certain medications (e.g., anticholinergics).
+Diagnostic Markers
+In addition to laboratory find ings characteristic of underlying medical conditions (or in-
+toxication or withdrawal states), there is often generalized slowing on electroencephalog-
+raphy, and fast activity is oc casionally found (e.g., in some cases of alcohol withdrawal
+delirium). However, electroence phalography is insufficiently sensitive and specific for di-
+agnostic use.
+Functional Consequences of Delirium 
+Delirium itself is associated with increased functional decline and risk of institutional
+placement. Hospitalized individuals 65 years or older with delirium have three times the
+risk of nursing home placemen t and about three times the func tional decline as hospital-
+ized patients without delirium at both discharge and 3 months postdischarge. 
+Differential Diagnosis 
+Psychotic disorders and bipolar and depre ssive disorders with psychotic features.
+Delirium that is characterized by vivid hallucinations, delusions, language disturbances,
+and agitation must be distinguished from br ief psychotic disorder, schizophrenia, schizo-
+phreniform disorder, and other psychotic disord ers, as well as from bipolar and depres-
+sive disorders with psychotic features.
+Acute stress disorder. Delirium associated with fear, an xiety, and dissociative symptoms,
+such as depersonalization, must be distingu ished from acute stress disorder, which is pre-
+cipitated by exposure to a severely traumatic event.
+Malingering and factitious disorder. Delirium can be distinguished from these disor-
+ders on the basis of the often atypical presen tation in malingering and factitious disorder
+and the absence of another medical condition or substance that is etiologically related to
+the apparent cognitive disturbance.
+Other neurocognitive disorders. The most common differential diagnostic issue when
+evaluating confusion in older adults is dise ntangling symptoms of delirium and dementia.
+The clinician must determine whether the in dividual has delirium; a delirium superim-
+posed on a preexisting NCD, such as that due to Alzheimer’s disease; or an NCD without
+delirium. The traditional distinction between delirium and dementia according to acute-
+ness of onset and temporal course is particularly difficult in those elderly individuals who
+had a prior NCD that may not have been reco gnized, or who develop persistent cognitive
+impairment following an episode of delirium. 
+602 Neurocognitive Disorders
+Other Specified Delirium
+780.09 (R41.0)
+This category applies to presentations in which symptoms characteristic of delirium that
+cause clinically significant distress or impairm ent in social, occupational, or other impor-
+tant areas of functioning predominate but do not meet the full criteria for delirium or any of
+the disorders in the neurocognitive disorders diagnostic class. The other specified delirium
+category is used in situations in which the clinician chooses to communicate the specific
+reason that the presentation does not meet the criteria for delirium or any specific neuro-
+cognitive disorder. This is done by recording “other specified delirium” followed by the spe-
+cific reason (e.g., “attenuated delirium syndrome”).
+An example of a presentation that can be specified using the “other specified” desig-
+nation is the following:
+Attenuated delirium syndrome:  This syndrome applies in cases of delirium in which
+the severity of cognitive impairment falls short of that required for the diagnosis, or in
+which some, but not all, diagnostic criteria for delirium are met.
+Unspecified Delirium
+780.09 (R41.0)
+This category applies to presentations in which symptoms characteristic of delirium that
+cause clinically significant distress or impairm ent in social, occupational, or other impor-
+tant areas of functioning predominate but do not meet the full criteria for delirium or any of
+the disorders in the neurocognitive disorder s diagnostic class. The unspecified delirium
+category is used in situations in which the clinician chooses not to specify the reason that
+the criteria are not met for delirium, and includes presentations for which there is insuffi-
+cient information to make a more specific diagnosis (e.g., in emergency room settings).
+Major and Mild Neurocognitive Disorders
+Major Neurocognitive Disorder
+Diagnostic Criteria
+A. Evidence of significant cognitive decline from a previous level of performance in one
+or more cognitive domains (complex attent ion, executive function, learning and mem-
+ory, language, perceptual-motor, or social cognition) based on:
+1. Concern of the individual, a knowledgeable informant, or the clinician that there has
+been a significant decline in cognitive function; and
+2. A substantial impairment in cognitive performance, preferably documented by stan-
+dardized neuropsychological testing or, in its absence, another quantified clinical
+assessment.
+B. The cognitive deficits interfere with independence in everyday activities (i.e., at a min-
+imum, requiring assistance with complex instrumental activities of daily living such as
+paying bills or managing medications).
+C. The cognitive deficits do not occur e xclusively in the context of a delirium.
+Major and Mild Neurocognitive Disorders 603
+D. The cognitive deficits are not better explai ned by another mental disorder (e.g., major
+depressive disorder, schizophrenia).
+Specify whether due to:
+Alzheimer’s disease  (pp. 611–614)
+Frontotemporal lobar degeneration  (pp. 614–618)
+Lewy body disease (pp. 618–621)
+Vascular disease (pp. 621–624)
+Traumatic brain injury  (pp. 624–627)
+Substance/medication use  (pp. 627–632)
+HIV infection  (pp. 632–634)
+Prion disease  (pp. 634–636)
+Parkinson’s disease (pp. 636–638)
+Huntington’s disease (pp. 638–641)
+Another medical condition  (pp. 641–642)
+Multiple etiologies (pp. 642–643)
+Unspecified  (p. 643)
+Coding note: Code based on medical or substance etiology. In some cases, there is need
+for an additional code for the etiological medi cal condition, which must immediately pre-
+cede the diagnostic code for major neurocognitive disorder, as follows: 
+Etiological subtypeAssociated etiological 
+medical code for major 
+neurocognitive disorderaMajor neurocogni-
+tive disorder codebMild neurocogni-
+tive disorder codec
+Alzheimer’s 
+diseaseProbable: 331.0 (G30.9)
+Possible: no additional 
+medical codeProbable: 294.1x 
+(F02.8x)
+Possible: 331.9 
+(G31.9)c331.83 (G31.84)
+(Do not use addi-
+tional code for 
+Alzheimer’s 
+disease.)
+Frontotemporal 
+lobar degeneration Probable: 331.19 
+(G31.09)
+Possible: no additional 
+medical codeProbable: 294.1x 
+(F02.8x)
+Possible: 331.9 
+(G31.9)c331.83 (G31.84) 
+(Do not use addi-
+tional code for 
+frontotemporal 
+disease.)
+Lewy body disease Probable: 331.82 
+(G31.83)
+Possible: no additional 
+medical codeProbable: 294.1x 
+(F02.8x)
+Possible: 331.9 
+(G31.9)c331.83 (G31.84) 
+(Do not use addi-
+tional code for 
+Lewy body disease.)
+Vascular disease No additional medical 
+codeProbable: 290.40 
+(F01.5x)
+Possible: 331.9 
+(G31.9)c331.83 (G31.84) 
+(Do not use addi-
+tional code for the 
+vascular disease.)
+Traumatic brain 
+injury907.0 (S06.2X9S) 294.1x (F02.8x) 331.83 (G31.84)
+(Do not use additional 
+code for the trau-
+matic brain injury.)
+Substance/
+medication-
+inducedNo additional medical 
+codeCode based on the 
+type of substance 
+causing the major 
+neurocognitive 
+disorderc, dCode based on the 
+type of substance 
+causing the mild 
+neurocognitive 
+disorderd
+604 Neurocognitive Disorders
+HIV infection 042 (B20) 294.1x (F02.8x) 331.83 (G31.84) 
+(Do not use addi-
+tional code for HIV 
+infection.)
+Prion disease 046.79 (A81.9) 294.1x (F02.8x) 331.83 (G31.84)
+(Do not use addi-
+tional code for 
+prion disease.)
+Parkinson’s 
+diseaseProbable: 332.0 (G20)
+Possible: No additional 
+medical codeProbable: 294.1x 
+(F02.8x)
+Possible: 331.9 
+(G31.9)c331.83 (G31.84) 
+(Do not use addi-
+tional code for 
+Parkinson’s 
+disease.)
+Huntington’s 
+disease333.4 (G10) 294.1x (F02.8x) 331.83 (G31.84)
+(Do not use addi-
+tional code for 
+Huntington’s 
+disease.)
+Due to another 
+medical conditionCode the other medical 
+condition first 
+(e.g., 340 [G35] 
+multiple sclerosis)294.1x (F02.8x) 331.83 (G31.84)
+(Do not use addi-
+tional codes for the 
+presumed etiologi-
+cal medical condi-
+tions.)
+Due to multiple 
+etiologiesCode all of the etiological 
+medical conditions first 
+(with the exception of 
+vascular disease) 294.1x (F02.8x) 
+(Plus the code for 
+the relevant sub-
+stance/medication-
+induced major neu-
+rocognitive disor-
+ders if substances 
+or medications 
+play a role in the 
+etiology.)331.83 (G31.84) 
+(Plus the code for 
+the relevant sub-
+stance/medication-
+induced mild neuro-
+cognitive disor-
+ders if substances 
+or medications play 
+a role in the etiol-
+ogy. Do not use ad-
+ditional codes for 
+the presumed 
+etiological medical 
+conditions.)
+Unspecified neuro-
+cognitive disorderNo additional medical 
+code799.59 (R41.9) 799.59 (R41.9)
+aCode first, before code for major neurocognitive disorder.
+bCode fifth character based on symptom specifier: .x0 without behavioral disturbance; .x1 with be-
+havioral disturbance (e.g., psychotic symptoms, mo od disturbance, agitatio n, apathy, or other be-
+havioral symptoms).
+cNote:  Behavioral disturbance specifier cannot be coded but should still be indicated in writing.
+dSee “Substance/Medication-Induced Majo r or Mild Neurocognitive Disorder.”Etiological subtypeAssociated etiological 
+medical code for major 
+neurocognitive disorderaMajor neurocogni-
+tive disorder codebMild neurocogni-
+tive disorder codec
+Major and Mild Neurocognitive Disorders 605
+Specify: 
+Without behavioral disturbance:  If the cognitive disturbance is not accompanied by
+any clinically significant behavioral disturbance.
+With behavioral disturbance  (specify disturbance): If the cognitive disturbance is ac-
+companied by a clinically significant behavioral disturbance (e.g., psychotic symptoms,
+mood disturbance, agitation, apathy, or other behavioral symptoms).
+Specify current severity:
+Mild:  Difficulties with instrumental activities  of daily living (e.g., housework, managing
+money).
+Moderate: Difficulties with basic activities of daily living (e.g., feeding, dressing).
+Severe:  Fully dependent.
+Mild Neurocognitive Disorder
+Diagnostic Criteria
+A. Evidence of modest cognitive decline from a previous level of performance in one or
+more cognitive domains (complex attention, executive function, learning and memory,
+language, perceptual-motor, or social cognition) based on:
+1. Concern of the individual, a knowledgeable informant, or the clinician that there has
+been a mild decline in cognitive function; and
+2. A modest impairment in cognitive per formance, preferably documented by stan-
+dardized neuropsychological testing or, in its absence, another quantified clinical
+assessment.
+B. The cognitive deficits do not interfere with capacity for independence in everyday
+activities (i.e., complex instrumental activities of daily living such as paying bills or
+managing medications are preserved, but gr eater effort, compensatory strategies, or
+accommodation may be required).
+C. The cognitive deficits do not occur e xclusively in the context of a delirium.
+D. The cognitive deficits are not better explai ned by another mental disorder (e.g., major
+depressive disorder, schizophrenia).
+Specify whether due to:
+Alzheimer’s disease  (pp. 611–614)
+Frontotemporal lobar degeneration  (pp. 614–618)
+Lewy body disease (pp. 618–621)
+Vascular disease (pp. 621–624)
+Traumatic brain injury  (pp. 624–627)
+Substance/medication use  (pp. 627–632)
+HIV infection  (pp. 632–634)
+Prion disease  (pp. 634–636)
+Parkinson’s disease  (pp. 636–638)
+Huntington’s disease (pp. 638–641)
+Another medical condition  (pp. 641–642)
+Multiple etiologies (pp. 642–643)
+Unspecified  (p. 643)
+Coding note: For mild neurocognitive disorder due to any of the medical etiologies listed
+above, code 331.83 (G31.84).  Do not  use additional codes for the presumed etiological
+medical conditions. For substance/medicati on-induced mild neurocognitive disorder, code
+based on type of substance; see “Substance/ Medication-Induced Major or Mild Neurocog-
+nitive Disorder.” For unspecified mild neurocognitive disorder, code 799.59 (R41.9).  
+606 Neurocognitive Disorders
+Specify: 
+Without behavioral disturbance:  If the cognitive disturbance is not accompanied by
+any clinically significant behavioral disturbance.
+With behavioral disturbance  (specify disturbance): If the cognitive disturbance is ac-
+companied by a clinically significant behavioral disturbance (e.g., psychotic symptoms,
+mood disturbance, agitation, apathy, or other behavioral symptoms).
+Subtypes
+Major and mild neurocognitive disorders (NCD s) are primarily subtyped according to the
+known or presumed etiological/pa thological entity or entities  underlying the cognitive de-
+cline. These subtypes are distin guished on the basis of a combin ation of time course, charac-
+teristic domains affected, and associated sy mptoms. For certain etio logical subtypes, the
+diagnosis depends substantially on the presence of a potentially causative entity, such as Par-
+kinson’s or Huntington’s disease, or a traumati c brain injury or stroke in the appropriate time
+period. For other etiological subt ypes (generally the neurodegenerative diseases like Alzhei-
+mer’s disease, frontotemporal lobar degenerati on, and Lewy body disease), the diagnosis is
+based primarily on the cognitive, behavioral, an d functional symptoms. Typically, the differ-
+entiation among these syndromes that lack an independently recognized etiological entity is
+clearer at the level of major NCD than at the level of mild NCD, but sometimes characteristic
+symptoms and associated features are present at the mild level as well. 
+NCDs are frequently managed by clinicians  in multiple disciplines. For many sub-
+types, multidisciplinary international expert groups have developed specialized consen-
+sus criteria based on clinicopathological corr elation with underlying brain pathology. The
+subtype criteria here have been harm onized with those expert criteria.
+Specifiers
+Evidence for distinct be havioral features in NCDs has been recognized, particularly in the
+areas of psychotic symptoms and depression . Psychotic features are common in many
+NCDs, particularly at the mild-to-moderate stage of major NCDs due to Alzheimer’s dis-
+ease, Lewy body disease, an d frontotemporal lobar degene ration. Paranoia and other
+delusions are common features, and often a persecutory theme may be a prominent aspect
+of delusional ideation. In contrast to psychotic disorders with onset in earlier life (e.g.,
+schizophrenia), disorganized speech and diso rganized behavior are not characteristic of
+psychosis in NCDs. Hallucinations may occur in any modality, although visual hallucina-
+tions are more common in NCDs than in de pressive, bipolar, or psychotic disorders.
+Mood disturbances, including depression, anxiety, and elat ion, may occur. Depression
+is common early in the course (including at the mild NCD level) of NCD due to Alzhei-
+mer’s disease and Parkinson’s disease, while elation may occur more commonly in fron-
+totemporal lobar degeneration. When a full a ffective syndrome meetin g diagnostic criteria
+for a depressive or bipolar disorder is pres ent, that diagnosis should be coded as well.
+Mood symptoms are increasingly recognized to be a significant feature in the earliest stages
+of mild NCDs such that clinical recogn ition and intervention may be important.
+Agitation is common in a wide variety of NCDs, particularly in major NCD of moder-
+ate to severe severity, and often occurs in th e setting of confusion or frustration. It may
+arise as combative behaviors, particularly in the context of resisting caregiving duties such
+as bathing and dressing. Agitation is characte rized as disruptive motor or vocal activity
+and tends to occur with advanced stages of cognitive impairment across all of the NCDs.
+Individuals with NCD can present with a wi de variety of behavioral symptoms that
+are the focus of treatment. Sleep disturbance is a common symptom that can create a need
+for clinical attention and may include symptoms of insomnia, hypersomnia, and circadian
+rhythm disturbances.
+Major and Mild Neurocognitive Disorders 607
+Apathy is common in mild and mild major NCD. It is observed particularly in NCD due
+to Alzheimer’s disease and ma y be a prominent feature of NCD due to frontotemporal
+lobar degeneration. Apathy is typically char acterized by diminished motivation and re-
+duced goal-directed behavior  accompanied by decreased emotional responsiveness.
+Symptoms of apathy may manifest early in the course of NCDs when a loss of motivation
+to pursue daily activities or hobbies may be observed.
+Other important behavioral symptoms include wandering, disinhibition, hyperpha-
+gia, and hoarding. Some of these symptoms are characteristic of specific disorders, as dis-
+cussed in the relevant sections. When more th an one behavioral disturbance is observed,
+each type should be noted in writing with the specifier “with behavioral symptoms.” 
+Diagnostic Features
+Major and mild NCDs exist on a spectrum of cognitive and functional impairment. Major
+NCD corresponds to the conditio n referred to in DSM-IV as dementia,  retained as an alter-
+native in this volume. The co re feature of NCDs is acquir ed cognitive decline in one or
+more cognitive domains (Criterion A) based on  both 1) a concern about cognition on the
+part of the individual, a knowledgeable informant, or the clinician, and 2) performance on
+an objective assessment that falls below the expected level or that has been observed to de-
+cline over time. Both a concer n and objective evidence are re quired because they are com-
+plementary. When there is an  exclusive focus on objectiv e testing, a disorder may go
+undiagnosed in high-functioning individuals whose currently “normal” performance ac-
+tually represents a substantial decline in abilities, or an illness may be incorrectly diag-
+nosed in individuals whose currently “low” performance does not represent a change
+from their own baseline or is a result of extraneous factors li ke test conditions or a passing
+illness. Alternatively, excessive focus on subj ective symptoms may fail to diagnose illness
+in individuals with poor insigh t, or whose informants deny or fail to notice their symptoms,
+or it may be overly sensitiv e in the so-called worried well.
+A cognitive concern differs from a complaint in that it may or may not be voiced spon-
+taneously. Rather, it may need to be elicited  by careful questioning about specific symp-
+toms that commonly occur in individuals wi th cognitive deficits (see Table 1 in the
+introduction to this chapter). For example, memory concerns include difficulty remember-
+ing a short grocery list or keeping track of the plot of a television program; executive con-
+cerns include difficulty resuming a task wh en interrupted, organizing tax records, or
+planning a holiday meal. At the mild NCD level,  the individual is likely to describe these
+tasks as being more difficult or as requiring ex tra time or effort or compensatory strategies.
+At the major NCD level, such tasks may on ly be completed with assistance or may be
+abandoned altogether. At the mild NCD level, individuals and their families may not no-
+tice such symptoms or may view them as norm al, particularly in the elderly; thus, careful
+history taking is of paramount importance. The difficulties must represent changes rather
+than lifelong patterns: the individual or info rmant may clarify this i ssue, or the clinician
+can infer change from prior experience with the patient or from occupational or other
+clues. It is also critical to determine that the difficulties are related to cognitive loss rather
+than to motor or sensory limitations. 
+Neuropsychological testing,  with performance compared with norms appropriate to
+the patient’s age, educational attainment, and cultural background, is part of the standard
+evaluation of NCDs and is part icularly critical in the evaluation of mild NCD. For major
+NCD, performance is typically 2 or more standard deviations below appropriate norms
+(3rd percentile or below). For mild NCD, performance typically lies in the 1–2 standard de-
+viation range (between the 3rd and 16th perc entiles). However, neur opsychological test-
+ing is not available in all settings, and neuropsychological thresholds are sensitive to the
+specific test(s) and norms employed, as well as to test conditions, sensory limitations, and
+intercurrent illness. A variety of brief office-based or “bedside” asse ssments, as described
+608 Neurocognitive Disorders
+in Table 1, can also supply objective data in settings where such testing is unavailable or
+infeasible. In any case, as with cognitive co ncerns, objective perfor mance must be inter-
+preted in light of the individual’s prior pe rformance. Optimally, this information would
+be available from a prior administration of the same test, but often it must be inferred
+based on appropriate norms, along with the individual’s educational history, occupation,
+and other factors. Norms are more challenging to interpret in individuals with very high
+or very low levels of education and in indivi duals being tested outside their own language
+or cultural background. 
+Criterion B relates to the individual’s leve l of independence in everyday functioning.
+Individuals with major NCD will have impairment  of sufficient severity so as to interfere
+with independence, such that others will have to take over tasks that the individuals were
+previously able to complete on their own. Individuals with mild NCD will have preserved
+independence, although there may be subtle in terference with function or a report that
+tasks require more effort or take more time than previously. 
+The distinction between major and mild NCD is inherently arbitrary, and the disorders
+exist along a continuum. Precis e thresholds are therefore difficult to determine. Careful
+history taking, observation, and integration wi th other findings are required, and the im-
+plications of diagnosis should be considered when an individual’s clinical manifestations
+lie at a boundary.
+Associated Features Supporting Diagnosis
+Typically the associated features that suppo rt a diagnosis of major or mild NCD will be
+specific to the etiological subtype (e.g., neur oleptic sensitivity and visual hallucinations in
+NCD due to Lewy body disease). Diagnostic features specific to each of the subtypes are
+found in the relevant sections.
+Prevalence
+The prevalence of NCD varies widely by ag e and by etiological su btype. Overall preva-
+lence estimates are generally only availabl e for older population s. Among individuals
+older than 60 years, prevalence increases steep ly with age, so prev alence estimates are
+more accurate for narrow age bands than for br oad categories such as “over 65” (where the
+mean age can vary greatly with the life expect ancy of the given population). For those eti-
+ological subtypes occurring across the lifespa n, prevalence estimates for NCD are likely to
+be available, if at all, only  as the fraction of individuals who develop NCD among those
+with the relevant condition (e.g., tr aumatic brain injury, HIV infection).
+Overall prevalence estimates for dementia (which is largely congruent with major
+NCD) are approximately 1%–2% at age 65 years and as high as 30% by age 85 years. The
+prevalence of mild NCD is very sensitive to th e definition of the di sorder, particularly in
+community settings, where evaluations are less de tailed. In addition, in contrast with clin-
+ical settings, where cognitive concern must be high to seek and locate care, there may be a
+less clear decline from baseline functioning. Es timates of the prevalence of mild cognitive
+impairment (which is substantially congruent with mild NCD) among older individuals
+are fairly variable, ranging from 2% to 10% at age 65 and 5% to 25% by age 85.
+Development and Course 
+The course of NCD varies acro ss etiological subtypes, and this variation can be useful in
+differential diagnosis. Some subtypes (e.g., those related to traumatic brain injury or
+stroke) typically begin at a specific time and (at least after initial symptoms related to in-
+flammation or swelling subside) remain stat ic. Others may fluctuate over time (although
+if this occurs, the possibility  of delirium superimposed on  NCD should be considered).
+NCDs due to neurodegenerative diseases like Alzheimer’s disease or frontotemporal
+lobar degeneration typically are marked by insidious onset and gradual progression, and
+Major and Mild Neurocognitive Disorders 609
+the pattern of onset of cognitive deficits and associated features helps to distinguish among
+them. 
+NCDs with onset in childhood and adolescence may have broad repercussions for so-
+cial and intellectual development, and in th is setting intellectual disability (intellectual
+developmental disorder) and/or other neurod evelopmental disorders may also be diag-
+nosed to capture the full diagnostic picture and ensure the provision of a broad range of
+services. In older individuals, NCDs often occu r in the setting of medical illnesses, frailty,
+and sensory loss, which complicate the clin ical picture for diagnosis and treatment. 
+When cognitive loss occurs in youth to midlife, individuals and families are likely to
+seek care. NCDs are typically easiest to identify at younger ages, although in some settings
+malingering or other factitious disorders may be a concern. Very late in life, cognitive
+symptoms may not cause concern or may go unnoticed. In late life, mild NCD must also be
+distinguished from the more mo dest deficits associated with “normal aging,” although a
+substantial fraction of what has been ascribe d to normal aging likely represents prodromal
+phases of various NCDs. In addition, it beco mes harder to recognize mild NCD with age
+because of the increasing prevalence of me dical illness and sensory deficits. It becomes
+harder to differentiate among subtypes with ag e because there are multiple potential sources
+of neurocognitive decline.
+Risk and Prognostic Factors 
+Risk factors vary not only by etiological subtype but also by age at onset within etiological
+subtypes. Some subtypes are distributed thro ughout the lifespan, whereas others occur
+exclusively or primarily in late  life. Even within the NCDs of aging, the relative prevalence
+varies with age: Alzheimer’s disease is unco mmon before age 60 years, and the prevalence
+increases steeply thereafter, while the overa ll less common frontotemporal lobar degener-
+ation has earlier onset and represents a progre ssively smaller fraction of NCDs with age. 
+Genetic and physiological. The strongest risk factor for major and mild NCDs is age,
+primarily because age increases the risk of  neurodegenerative and cerebrovascular dis-
+ease. Female gender is associat ed with higher prevalence of dementia overall, and especially
+Alzheimer’s disease, but this difference is larg ely, if not wholly, attr ibutable to greater lon-
+gevity in females. 
+Culture-Related Diagnostic Issues
+Individuals’ and families’ level of awareness and concern about neurocognitive symp-
+toms may vary across ethnic and occupational groups. Neurocognitive symptoms are
+more likely to be noticed, particularly at the mild level, in individuals who engage in com-
+plex occupational, domestic, or recreational activities. In addition , norms for neuropsy-
+chological testing tend to be available only for broad populations, and thus they may not
+be easily applicable to individuals with less  than high school ed ucation or those being
+evaluated outside their primary language or culture. 
+Gender-Related Diagnostic Issues
+Like age, culture, and occupa tion, gender issues may affect the level of concern and aware-
+ness of cognitive symptoms. In addition, for la te-life NCDs, females are likely to be older,
+to have more medical comorbidity, and to liv e alone, which can complicate evaluation and
+treatment. In addition, there are gender differ ences in the frequency of some of the etio-
+logical subtypes.
+Diagnostic Markers
+In addition to a careful history, neuropsych ological assessments are the key measures for
+diagnosis of NCDs, particularly at the mild level, where functional changes are minimal
+610 Neurocognitive Disorders
+and symptoms more subtle. Ideally, individu als will be referred for formal neuropsycho-
+logical testing, which will provide a quantitative assessment of all relevant domains and
+thus help with diagnosis; provide guidance to the family on areas where the individual
+may require more support; and serve as a be nchmark for further decline or response to
+therapies. When such testing is  unavailable or not feasible, the brief assessments in Table 1
+can provide insight into each domain. More glob al brief mental status tests may be helpful
+but may be insensitive, particul arly to modest changes in a single domain or in those with
+high premorbid abilities, and may be overly sensitive in those with low premorbid abilities.
+In distinguishing among etiological subtypes, additional diagnostic markers may
+come into play, particularly neuroimaging studies such as magnetic resonance imaging
+scans and positron emission tomography scans. In addition, specific markers may be in-
+volved in the assessment of specific subtypes  and may become more important as addi-
+tional research findings accumulate over time, as discussed in the relevant sections. 
+Functional Consequences of 
+Major and Mild Neurocognitive Disorders 
+By definition, major and mild NCDs affect func tioning, given the central role of cognition in
+human life. Thus, the criteria for the disorder s, and the threshold for differentiating mild
+from major NCD, are based in part on functi onal assessment. Within major NCD there is a
+broad range of functional impairment, as implem ented in the severity specifiers. In addition,
+the specific functions that are compromised can help identify the cognitive domains affected,
+particularly when neuropsychological testing is  not available or is difficult to interpret. 
+Differential Diagnosis
+Normal cognition. The differential diagnosis between  normal cognition and mild NCD,
+as between mild and major NCD, is challenging because the boundaries are inherently ar-
+bitrary. Careful history taking and objective as sessment are critical to  these distinctions. A
+longitudinal evaluation using quantified a ssessments may be key in detecting mild NCD.
+Delirium. Both mild and major NCD may be difficult to distinguish from a persistent de-
+lirium, which can co-occur. Careful assessment  of attention and arou sal will help to make
+the distinction.
+Major depressive disorder. The distinction between mild NCD and major depressive
+disorder, which may co-occur with NCD, can also be challenging. Specific patterns of cog-
+nitive deficits may be helpfu l. For example, consistent memory and executive function
+deficits are typical of Alzheimer’s disease, whereas nonspecific or more variable perfor-
+mance is seen in major depression. Alternat ively, treatment of the depressive disorder
+with repeated observation over time may be required to make the diagnosis.
+Specific learning disorder and other neurodevelopmental disorders. A careful clari-
+fication of the individual’s baseline status will help distinguish an NCD from a specific
+learning disorder or other neurodevelopmental disorders.  Additional issues may enter the
+differential for specific etiological subtypes, as described in the relevant sections.
+Comorbidity 
+NCDs are common in older individuals and thus  often co-occur with a wide variety of age-
+related diseases that may co mplicate diagnosis or treatme nt. Most notable of these is
+delirium, for which NCD increases the risk. In  older individuals, a delirium during hos-
+pitalization is, in many cases, the first time that an NCD is noticed, although a careful his-
+tory will often reveal evidence  of earlier decline. Mixed NC Ds are also common in older
+individuals, as many etiological entities incre ase in prevalence with age. In younger indi-
+viduals, NCD often co-occurs with neurodevelop mental disorders; for example, a head in-
+Major or Mild Neurocognitive Disorder Due to Alzheimer’s Disease 611
+jury in a preschool child may also lead to significant developmental and learning issues.
+Additional comorbidity of NCD is often relate d to the etiological subtype, as discussed in
+the relevant sections. 
+Major or Mild Neurocognitive Disorder
+ Due to Alzheimer’s Disease
+Diagnostic Criteria  
+A. The criteria are met for major or mild neurocognitive disorder.
+B. There is insidious onset and gradual progression of impairment in one or more cognitive
+domains (for major neurocognitive disorder, at least two domains must be impaired).
+C. Criteria are met for either probable or possible Alzheimer’s disease as follows:
+For major neurocognitive disorder:
+Probable Alzheimer’s disease is diagnosed if either of the following is present; oth-
+erwise, possible Alzheimer’s disease  should be diagnosed.
+1. Evidence of a causative Alzheimer’s disease genetic mutation from family history
+or genetic testing. 
+2. All three of the following are present:
+a. Clear evidence of decline in memory and learning and at least one other cogni-
+tive domain (based on detailed history or serial neuropsychological testing).
+b. Steadily progressive, gradual decline in cognition, without extended plateaus.
+c. No evidence of mixed etiology (i.e., absence of other neurodegenerative or
+cerebrovascular disease, or another neurological, mental, or systemic disease
+or condition likely contributing to cognitive decline).
+For mild neurocognitive disorder:
+Probable Alzheimer’s disease  is diagnosed if there is evidence of a causative Alz-
+heimer’s disease genetic mutation from either genetic testing or family history.
+Possible Alzheimer’s disease  is diagnosed if there is no evidence of a causative Alz-
+heimer’s disease genetic mutation from either genetic testing or family history, and all
+three of the following are present:
+1. Clear evidence of decline in memory and learning.
+2. Steadily progressive, gradual decline in cognition, without extended plateaus.
+3. No evidence of mixed etiology (i.e., absence of other neurodegenerative or cere-
+brovascular disease, or another neurologica l or systemic disease or condition likely
+contributing to cognitive decline).
+D. The disturbance is not better explained by cerebrovascular disease, another neurode-
+generative disease, the effects of a substance, or another mental, neurological, or sys-
+temic disorder.
+Coding note: For probable major neurocognitive disorder due to Alzheimer’s disease,
+with behavioral disturbance, code first 331.0 (G30.9)  Alzheimer’s disease, followed by
+294.11 (F02.81)  major neurocognitive disorder due to Alzheimer’s disease. For probable
+neurocognitive disorder due to Alzheimer’s disease, without behavioral disturbance, code
+first 331.0 (G30.9)  Alzheimer’s disease, followed by 294.10 (F02.80)  major neurocognitive
+disorder due to Alzheimer’s disease, without behavioral disturbance.
+For possible major neurocognitive disor der due to Alzheimer’s disease, code 331.9
+(G31.9)  possible major neurocognitive disorder due to Alzheimer’s disease. ( Note:  Do not
+use the additional code for Alzheimer’s disease. Behavioral disturbance cannot be coded
+but should still be indicated in writing.)
+612 Neurocognitive Disorders
+For mild neurocognitive disorder due to Alzheimer’s disease, code 331.83 (G31.84).
+(Note:  Do not  use the additional code for Alzheimer’s disease. Behavioral disturbance
+cannot be coded but should still be indicated in writing.)
+Diagnostic Features 
+Beyond the neurocognitive disorder (NCD) syndro me (Criterion A), the core features of ma-
+jor or mild NCD due to Alzheimer’s disease include an insidious onset and gradual pro-
+gression of cognitive and beha vioral symptoms (Criterion B) . The typical presentation is
+amnestic (i.e., with impairment in memory  and learning). Unusual nonamnestic presen-
+tations, particularly visuospa tial and logopenic aphasic vari ants, also exist. At the mild
+NCD phase, Alzheimer’s disease manifests typically with impairment in memory and learn-
+ing, sometimes accompanied by deficits in executive function. At the major NCD phase,
+visuoconstructional/perceptual -motor ability and language w ill also be impaired, partic-
+ularly when the NCD is moderate to severe. Social cognition tends to be preserved until
+late in the course of the disease. 
+A level of diagnostic certainty must be sp ecified denoting Alzheimer’s disease as the
+“probable” or “possible” etiology (Criterion C). Probable Alzheimer’s disease  is diagnosed in
+both major and mild NCD if there is evidence  of a causative Alzheimer’s disease gene, ei-
+ther from genetic testing or from an autosomal dominant family history coupled with au-
+topsy confirmation or a genetic test in an affected family member. For major NCD, a
+typical clinical picture, without extended plat eaus or evidence of mixed etiology, can also
+be diagnosed as due to probab le Alzheimer’s disease. For mild NCD, given the lesser de-
+gree of certainty that the deficits will prog ress, these features are only sufficient for a
+possible  Alzheimer’s etiology. If the etiology appe ars mixed, mild NCD due to multiple eti-
+ologies should be diagnosed. In any case, for both mild and major NCD due to Alzhei-
+mer’s disease, the clinical features must no t suggest another primary etiology for the NCD
+(Criterion D). 
+Associated Features Supporting Diagnosis
+In specialty clinical settings, approximately 80% of individuals with major NCD due to
+Alzheimer’s disease have behavioral and psyc hological manifestations; these features are
+also frequent at the mild NCD stage of impa irment. These symptoms are as or more dis-
+tressing than cognitive manifestations and ar e frequently the reason that health care is
+sought. At the mild NCD stage or the mildest level of majo r NCD, depression and/or ap-
+athy are often seen. With moderately severe major NCD, psychotic fe atures, irritability,
+agitation, combativeness, and wandering are common. Late in the illness, gait distur-
+bance, dysphagia, incontinence, myoc lonus, and seizures are observed.
+Prevalence
+The prevalence of overall deme ntia (major NCD) rises steeply with age. In high-income
+countries, it ranges from 5% to 10% in the seventh decade to  at least 25% thereafter. U.S.
+census data estimates suggest that approxim ately 7% of individuals diagnosed with Alz-
+heimer’s disease are between ages 65 and 74 years, 53% are between ages 75 and 84 years,
+and 40% are 85 years and older. The percentage  of dementias attributable to Alzheimer’s
+disease ranges from about 60% to over 90%, depending on the setting and diagnostic cri-
+teria. Mild NCD due to Alzheimer’s disease is likely to represent a substantial fraction of
+mild cognitive impairment (MCI) as well.
+Development and Course
+Major or mild NCD due to Alzheimer’s disease progresses gradually, sometimes with
+brief plateaus, through severe dementia to death. The mean duration of survival after di-
+Major or Mild Neurocognitive Disorder Due to Alzheimer’s Disease 613
+agnosis is approximately 10 years, reflecting th e advanced age of the majority of individ-
+uals rather than the course of the disease; some individuals can live with the disease for as
+long as 20 years. Late-stage individuals are eventually mute and bedbound. Death most
+commonly results from aspiration in those who survive through the full course. In mild
+NCD due to Alzheimer’s disease, impairments increase over time, and functional status
+gradually declines until symptoms reach the threshold for the diagnosis of major NCD. 
+The onset of symptoms is usually in the eighth and ninth decades; early-onset forms
+seen in the fifth and sixth decades are often related to known causative mutations. Symp-
+toms and pathology do not differ markedly at different onset ages. However, younger in-
+dividuals are more likely to survive the full course of the disease, while older individuals
+are more likely to have numerous medical co morbidities that affect the course and man-
+agement of the illness. Diagnostic complexity is  higher in older adults because of the in-
+creased likelihood of comorbid me dical illness and mixed pathology.
+Risk and Prognostic Factors
+Environmental. Traumatic brain injury increases risk  for major or mild NCD due to Alz-
+heimer’s disease.
+Genetic and physiological. Age is the strongest risk factor for Alzheimer’s disease. The
+genetic susceptibility polymorphism apolipoprotein E4 increases risk and decreases age
+at onset, particularly in homozygous individu als. There are also extremely rare causative
+Alzheimer’s disease genes. Individuals with Down’s syndrome (trisomy 21) develop Alz-
+heimer’s disease if they survive to midlife. Multiple vascular risk factors influence risk for
+Alzheimer’s disease and may act by increasing  cerebrovascular pathology or also through
+direct effects on Alzheimer pathology. 
+Culture-Related Diagnostic Issues
+Detection of an NCD may be more difficult in  cultural and socioeconomic settings where
+memory loss is considered normal in old age, where older adults face fewer cognitive de-
+mands in everyday life, or where very low educational levels pose greater challenges to
+objective cognitive assessment.
+Diagnostic Markers
+Cortical atrophy, amyloid-predominant neuritic plaques, and tau-predominant neurofibril-
+lary tangles are hallmarks of the pathological diagnosis of Alzheimer’s disease and may be
+confirmed via postmortem histopathological examination. For early-onset cases with auto-
+somal dominant inheritance, a mutation in on e of the known causative Alzheimer’s disease
+genes—amyloid precursor protein (APP), presen ilin 1 (PSEN1), or presenilin 2 (PSEN2)—
+may be involved, and genetic testing for such mutations is commercially available, at least
+for PSEN1. Apolipoprotein E4 cannot serve as a diagnostic marker because it is only a risk
+factor and neither necessary nor sufficient for disease occurrence.
+Since amyloid beta-42 deposition in the br ain occurs early in the pathophysiological
+cascade, amyloid-based diagnostic tests such  as amyloid imaging on brain positron emis-
+sion tomography (PET) scans and reduced leve ls of amyloid beta-42 in the cerebrospinal
+fluid (CSF) may have diagnostic value. Signs of neuronal injury, such as hippocampal and
+temporoparietal cortical atrophy on a magnetic resonance image scan, temporoparietal
+hypometabolism on a fluorodeoxyglucose PET sc an, and evidence for elevated total tau
+and phospho-tau levels in CSF,  provide evidence of neuronal  damage but are less specific
+for Alzheimer’s disease. At present, these biomarkers are not fully validated, and many
+are available only in tertiary care settings. However, some of them, along with novel bio-
+markers, will likely move into wider clinical practice in the coming years. 
+614 Neurocognitive Disorders
+Functional Consequences of Major or Mild 
+Neurocognitive Disorder Du e to Alzheimer’s Disease
+The prominence of memory loss can cause significant difficulties relatively early in the
+course. Social cognition (and thus social func tioning) and procedural memory (e.g., danc-
+ing, playing musical instruments) may be relatively preserved for extended periods.
+Differential Diagnosis
+Other neurocognitive disorders. Major and mild NCDs due to other neurodegenera-
+tive processes (e.g., Lewy body disease, fron totemporal lobar degene ration) share the in-
+sidious onset and gradual decline caused by Alzheimer’s disease but have distinctive core
+features of their own. In major or mild vascular NCD, th ere is typically history of stroke
+temporally related to the onset of cognitive impairment, and infarcts or white matter hy-
+perintensities are judged sufficient to accoun t for the clinical picture. However, particu-
+larly when there is no clear hi story of stepwise decline, ma jor or mild vascular NCD can
+share many clinical features with Alzheimer’s disease. 
+Other concurrent, active neurological or systemic illness. Other neurological or sys-
+temic illness should be considered if there is an appropriate temporal relationship and
+severity to account for the clinical picture. At the mild NCD level, it may be difficult to dis-
+tinguish an Alzheimer’s disease etiology from that of another medical condition (e.g., thy-
+roid disorders, vitamin B12 deficiency). 
+Major depressive disorder. Particularly at the mild NCD level, the differential diagnosis
+also includes major depression. The presence of depression may be associated with re-
+duced daily functioning and poor concentration that may resemble an NCD, but improve-
+ment with treatment of depression may be  useful in making the distinction. 
+Comorbidity
+Most individuals with Alzheimer’s disease are elderly and have multiple medical conditions
+that can complicate diagnosis and influence th e clinical course. Major or mild NCD due to
+Alzheimer’s disease commonly co-occurs with cerebrovascular disease, which contributes
+to the clinical picture. When a comorbid condition contribute s to the NCD in an individual
+with Alzheimer’s disease, then NCD due to multiple etiologies should be diagnosed.
+Major or Mild Frontotemporal
+Neurocognitive Disorder
+Diagnostic Criteria  
+A. The criteria are met for major or mild neurocognitive disorder.
+B. The disturbance has insidious onset and gradual progression.
+C. Either (1) or (2):
+1. Behavioral variant:
+a. Three or more of the following behavioral symptoms:
+i. Behavioral disinhibition.
+ii. Apathy or inertia.
+iii. Loss of sympathy or empathy.
+iv. Perseverative, stereotyped or compulsive/ritualistic behavior.
+v. Hyperorality and dietary changes.
+b. Prominent decline in social cognition and/or executive abilities.
+Major or Mild Frontotemporal Neurocognitive Disorder 615
+2. Language variant:
+a. Prominent decline in language ability, in the form of speech production, word
+finding, object naming, grammar, or word comprehension.
+D. Relative sparing of learning and memory and perceptual-motor function.
+E. The disturbance is not better explained by cerebrovascular disease, another neurode-
+generative disease, the effects of a substance, or another mental, neurological, or sys-
+temic disorder.
+Probable frontotemporal neurocognitive disorder  is diagnosed if either of the following
+is present; otherwise, possible frontotemporal neurocognitive disorder  should be di-
+agnosed: 
+1. Evidence of a causative frontotemporal neur ocognitive disorder genetic mutation, from
+either family history or genetic testing.
+2. Evidence of disproportionate frontal and/or temporal lobe involvement from neuroim-
+aging.
+Possible frontotemporal neurocognitive disorder  is diagnosed if there is no evidence
+of a genetic mutation, and neuroimaging has not been performed.
+Coding note: For probable major neurocognitive disorder due to frontotemporal lobar de-
+generation, with behavioral disturbance, code first 331.19 (G31.09) frontotemporal dis-
+ease, followed by 294.11 (F02.81)  probable major neurocognitive disorder due to
+frontotemporal lobar degeneration, with behavioral disturbance. For probable major neu-
+rocognitive disorder due to frontotemporal  lobar degeneration, without behavioral distur-
+bance, code first 331.19 (G31.09) frontotemporal disease, followed by 294.10 (F02.80)
+probable major neurocognitive disorder due to frontotemporal lobar degeneration, without
+behavioral disturbance.
+For possible major neurocognitive disorder due to frontotemporal lobar degeneration, code
+331.9 (G31.9)  possible major neurocognitive disorder due to frontotemporal lobar degen-
+eration. ( Note:  Do not use the additional code for frontote mporal disease. Behavioral distur-
+bance cannot be coded but should still be indicated in writing.)
+For mild neurocognitive disorder due to frontotemporal lobar degeneration, code 331.83
+(G31.84).  (Note:  Do not use the additional code for frontotemporal disease. Behavioral
+disturbance cannot be coded but should still be indicated in writing.)
+Diagnostic Features
+Major or mild frontotemporal neurocognitive  disorder (NCD) comprises a number of syn-
+dromic variants characterized by the progressi ve development of behavioral and personality
+change and/or language impairment. The behavioral variant and three language variants (se-
+mantic, agrammatic/nonfluent, and logopenic) ex hibit distinct patterns of brain atrophy and
+some distinctive neuropathology. The criteria must be met for either the behavioral or the lan-
+guage variant to make the diagnosis, but many  individuals present with features of both.
+Individuals with behavioral-variant major or mild frontotemporal NCD present with
+varying degrees of apathy or disinhibition. They may lose interest in socialization, self-
+care, and personal responsibilities, or displa y socially inappropriate behaviors. Insight is
+usually impaired, and this often delays medical consultation. The first referral is often to a
+psychiatrist. Individuals may develop changes in  social style, and in religious and political
+beliefs, with repetitive movements, hoarding, changes in ea ting behavior, and hyperoral-
+ity. In later stages, loss of sphincter contro l may occur. Cognitive decline is less prominent,
+and formal testing may show relatively few deficits in the early stages. Common neuro-
+cognitive symptoms are lack of planning and organization, distractib ility, and poor judg-
+ment. Deficits in executive function, such  as poor performance on tests of mental
+616 Neurocognitive Disorders
+flexibility, abstract reasoning, and response inhibition, are present, but learning and mem-
+ory are relatively spared, and perceptual-mot or abilities are almost always preserved in
+the early stages. 
+Individuals with language-variant major or mild frontotemporal NCD present with pri-
+mary progressive aphasia with gradual onse t, with three subtypes commonly described:
+semantic variant, agrammatic/n onfluent variant, and logopenic variant, and each variant
+has distinctive features and corresponding neuropathology.
+“Probable” is distinguished from “possibl e” frontotemporal NCD by the presence of
+causative genetic factors (e.g., mutations in the gene coding for microtubule-associated pro-
+tein tau) or by the presence of distinctive at rophy or reduced activity in frontotemporal re-
+gions on structural or functional imaging. 
+Associated Features Supporting Diagnosis
+Extrapyramidal features may be prominent in  some cases, with an overlap with syn-
+dromes such as progressive supranuclear pa lsy and corticobasal dege neration. Features of
+motor neuron disease may be present in some  cases (e.g., muscle atrophy, weakness). A
+subset of individuals develop visual hallucinations.
+Prevalence
+Major or mild frontotemporal NCD is a common  cause of early-onset NCD in individuals
+younger than 65 years. Population prevalen ce estimates are in th e range of 2–10 per
+100,000. Approximately 20%–25% of cases of  frontotemporal NCD occur in individuals
+older than 65 years. Frontotemporal NCD accoun ts for about 5% of all cases of dementia in
+unselected autopsy series. Prevalence estima tes of behavioral variant and semantic lan-
+guage variant are higher among males, and prevalence estimates of nonfluent language
+variant are higher among females. 
+Development and Course
+Individuals with major or m ild frontotemporal NCD commonly present in the sixth de-
+cade of life, although the age at onset varies from the third to the ninth decades. The dis-
+ease is gradually progressive, with median  survival being 6–11 years after symptom onset
+and 3–4 years after diagnosis. Survival is shorter and decline is faster in major or mild fron-
+totemporal NCD than in typical Alzheimer’s disease. 
+Risk and Prognostic Factors
+Genetic and physiological. Approximately 40% of individuals with major or mild fron-
+totemporal NCD have a family history of early-onset NCD, and approximately 10% show an
+autosomal dominant inheritance pattern. A number of genetic factors have been identified,
+such as mutations in the gene  encoding the microtubule asso ciated protein tau (MAPT), the
+granulin gene (GRN), and the C9ORF72 gene. A number of families with causative muta-
+tions have been identified (see the section “D iagnostic Markers” for th is disorder), but many
+individuals with known familial transmission do not have a known mutation. The presence
+of motor neuron disease is associated  with a more rapi d deterioration. 
+Diagnostic Markers
+Computed tomography (CT) or structural magnetic resonance imaging (MRI) may show
+distinct patterns of atrophy. In behavioral-variant major or mild  frontotemporal NCD,
+both frontal lobes (especially the medial frontal lobes) and the anterior temporal lobes are
+atrophic. In semantic language–variant majo r or mild frontotemporal NCD, the middle,
+inferior, and anterior temporal lobes are at rophic bilaterally but asymmetrically, with the
+Major or Mild Frontotemporal Neurocognitive Disorder 617
+left side usually being more affected. Nonfluent la nguage–variant major or mild fronto-
+temporal NCD is associated with predominantly left posterior fr ontal-insular atrophy.
+The logopenic variant of major or mild fron totemporal NCD is associated with predomi-
+nantly left posterior perisylvian or parietal atrophy. Functional imaging demonstrates hy-
+poperfusion and/or cortical hypometabolism in the corresponding brain regions, which
+may be present in the early stages in the abse nce of structural abno rmality. Emerging bio-
+markers for Alzheimer’s disease (e.g., cerebrospinal fluid amyl oid-beta and tau levels, and
+amyloid imaging) may help in the differential  diagnosis, but the dist inction from Alzhei-
+mer’s disease can remain difficult (the logopeni c variant is in fact often a manifestation of
+Alzheimer’s disease).
+In familial cases of frontotemporal NCD, the identification of genetic mutations may
+help confirm the diagnosis. Mutations associated with frontote mporal NCD include
+the genes encoding microtubule-associated protein tau (MAPT) and granulin (GRN),
+C9ORF72, transactive response DNA-binding  protein of 43 kDa (TDP-43, or TARDBP),
+valosin-containing protein (V CP), chromatin modifying protein 2B (CHMP2B), and fused
+in sarcoma protein (FUS). 
+Functional Consequences of Major or Mild 
+Frontotemporal Neurocognitive Disorder
+Because of the relative early age at onset of the disorder, the disorder oftens affects work-
+place and family life. Because of the involvem ent of language and/or behavior, function is
+often more severely impaired relatively early in the course . For individuals with the be-
+havioral variant, prior to diagnostic clarific ation there may be significant family disrup-
+tion, legal involvement, and problems in the workplace because of socially inappropriate
+behaviors. The functional impairment due to  behavioral change and language dysfunc-
+tion, which can include hyperorality, impuls ive wandering, and other dishinhibited be-
+haviors, may far exceed that due to the co gnitive disturbance and may lead to nursing
+home placement or institutionalization. Thes e behaviors can be severely disruptive, even
+in structured care settings, particularly wh en the individuals are otherwise healthy, non-
+frail, and free of othe r medical comorbidities. 
+Differential Diagnosis
+Other neurocognitive disorders. Other neurodegenerative diseases may be distinguished
+from major or mild frontotemporal NCD by th eir characteristic features. In major or mild
+NCD due to Alzheimer’s disease, decline in learning and memory is an early feature.
+However, 10%–30% of patients presenting with  a syndrome suggestive of major or mild
+frontotemporal NCD are found at  autopsy to have Alzheimer’s disease pathology. This oc-
+curs more frequently in individuals who present with progressi ve dysexecutive syn-
+dromes in the absence of behavioral changes or movement disorder or in those with the
+logopenic variant.
+In major or mild NCD with Lewy bodies, co re and suggestive features of Lewy bodies
+must be present. In major or mild NCD due to Parkinson’s disease, spontaneous parkin-
+sonism emerges well befo re the cognitive decline. In majo r or mild vascular NCD, depend-
+ing on affected brain regions, there may also  be loss of executive ability and behavioral
+changes such as apathy, and this disorder should  be considered in the differential diagno-
+sis. However, history of a cerebrovascular event is temporally related to the onset of cog-
+nitive impairment in major or mild vascular NCD, and neuroimaging reveals infarctions
+or white matter lesions sufficient to account for the clinical picture. 
+Other neurological conditions. Major or mild frontotemporal NCD overlaps with pro-
+gressive supranuclear palsy, corticobasal  degeneration, and motor neuron disease
+clinically as well as pathologically. Progressive supranuclear palsy is characterized by
+618 Neurocognitive Disorders
+supranuclear gaze palsies and axial-predominant parkinsoni sm. Pseudobulbar signs may
+be present, and retropulsion is often prom inent. Neurocognitive assessment shows psy-
+chomotor slowing, poor working memory, and executive dysfunction. Corticobasal degen-
+eration presents with asymmetr ic rigidity, limb apraxia, postural instability, myoclonus,
+alien limb phenomenon, and cortical sensory loss. Many individuals wi th behavioral-variant
+major or mild frontotemporal NCD show features of motor neuron disease, which tend to
+be mixed upper and predominantly lower motor neuron disease. 
+Other mental disorders and medical conditions. Behavioral-variant major or mild fron-
+totemporal NCD may be mistaken for a primary mental disorder, such as major depression,
+bipolar disorders, or schizophrenia, and individuals with this variant often present initially
+to psychiatry. Over time, the development of  progressive neurocognitive difficulties will
+help to make the distinction. A careful medi cal evaluation will help to exclude treatable
+causes of NCDs, such as meta bolic disturbances, nutritional deficiencies, and infections. 
+Major or Mild Neurocognitive Disorder
+With Lewy Bodies
+Diagnostic Criteria  
+A. The criteria are met for major or mild neurocognitive disorder.
+B. The disorder has an insidious onset and gradual progression.
+C. The disorder meets a combination of core diagnostic features and suggestive diagnos-
+tic features for either probable or possibl e neurocognitive disorder with Lewy bodies.
+For probable major or mild neurocognitive disorder with Lewy bodies,  the indi-
+vidual has two core features, or one suggestive  feature with one or more core features.
+For possible major or mild neurocognitive disorder with Lewy bodies,  the individ-
+ual has only one core feature, or one or more suggestive features.
+1. Core diagnostic features: 
+a. Fluctuating cognition with pronounced variations in attention and alertness.
+b. Recurrent visual hallucinations that are well formed and detailed.
+c. Spontaneous features of parkinsonism, with onset subsequent to the develop-
+ment of cognitive decline.
+2. Suggestive diagnostic features:
+a. Meets criteria for rapid eye movement sleep behavior disorder.
+b. Severe neuroleptic sensitivity.
+D. The disturbance is not better explained by cerebrovascular disease, another neurode-
+generative disease, the effects of a substance, or another mental, neurological, or sys-
+temic disorder.
+Coding note:  For probable major neurocognitive disorder with Lewy bodies, with behav-
+ioral disturbance, code first 331.82 (G31.83) Lewy body disease, followed by 294.11
+(F02.81)  probable major neurocognitive disorder with Lewy bodies, with behavioral distur-
+bance. For probable major neurocognitive disorder with Lewy bodies, without behavioral
+disturbance, code first 331.82 (G31.83)  Lewy body disease, followed by 294.10 (F02.80)
+probable major neurocognitive disorder with Lewy bodies, without behavioral disturbance.
+For possible major neurocognitive disorder with Lewy bodies, code 331.9 (G31.9)  possible
+major neurocognitive disorder with Lewy bodies. ( Note:  Do not use the additional code for
+Lewy body disease. Behavioral disturbance cannot be coded but should still be indicated
+in writing.)
+Major or Mild Neurocognitive Disorder With Lewy Bodies 619
+For mild neurocognitive disorder with Lewy bodies, code 331.83 (G31.84). ( Note:  Do not
+use the additional code for Lewy body disease. Behavioral disturbance cannot be coded
+but should still be indicated in writing.)
+Diagnostic Features
+Major or mild neurocognitive disorder with Lewy bodies (NCDLB), in the case of major
+neurocognitive disorder (NCD), corresponds  to the condition known as dementia with
+Lewy bodies (DLB). The disorder includes  not only progressive cognitive impairment
+(with early changes in complex attention and ex ecutive function rather than learning and
+memory) but also recurrent complex visual hallucinations; and concurrent symptoms of
+rapid eye movement (REM) sleep behavior diso rder (which can be a very early manifes-
+tation); as well as hallucinations in other sensory modalities, depression, and delusions.
+The symptoms fluctuate in a pattern that can resemble a delirium, but no adequate under-
+lying cause can be found. The variable pres entation of NCDLB symptoms reduces the like-
+lihood of all symptoms being observed in a brief clinic visit and necessitates a thorough
+assessment of caregive r observations. The use of assessment scales specifically designed to
+assess fluctuation may aid in diagnosis. Anot her core feature is spontaneous parkinson-
+ism, which must begin after the onset of cognit ive decline; by convention, major cognitive
+deficits are observed at least 1 year befo re the motor symptoms. The parkinsonism must
+also be distinguished from neuroleptic-induce d extrapyramidal signs.  Accurate diagnosis
+is essential to safe treatment planning, as up  to 50% of individuals with NCDLB have se-
+vere sensitivity to neuroleptic drugs, and these medications should be used with extreme
+caution in managing the psychotic manifestations.
+The diagnosis of mild NCDLB is appropriate for individuals who present with the core
+or suggestive features at a stage when cognitive or functional impairments are not of suf-
+ficient severity to fulfill criteria for major NC D. However, as for all mild NCDs, there will
+often be insufficient ev idence to justify any si ngle etiology, and use of the unspecified di-
+agnosis is most appropriate.
+Associated Features Supporting Diagnosis
+Individuals with NCDLB frequently experience  repeated falls and syncope and transient
+episodes of unexplained loss of consciousness. Autonomic dysfunction, such as ortho-
+static hypotension and urinary incontinen ce, may be observed. Auditory and other
+nonvisual hallucinations are common, as are sy stematized delusions, delusional misiden-
+tification, and depression.
+Prevalence
+The few population-based prev alence estimates for NCDLB available range from 0.1% to
+5% of the general elderly popu lation, and from 1.7% to 30.5 % of all dementia cases. In
+brain bank (autopsy) series, the pathological lesions known as Lewy bodies are present in
+20%–35% of cases of dementia. The male-to- female ratio is approximately 1.5:1. 
+Development and Course 
+NCDLB is a gradually progressive disorder with  insidious onset. However, there is often
+a prodromal history of confusional episodes (delirium) of acute onset, often precipitated
+by illness or surgery. The distinction between NCDLB, in which Lewy bodies are primar-
+ily cortical in location, and major or mild NC D due to Parkinson’s disease, in which the pa-
+thology is primarily in the basal ganglia, is  the order in which th e cognitive and motor
+symptoms emerge. In NCDLB, th e cognitive decline is manifest ed early in the course of ill-
+ness, at least a year before the onset of mo tor symptoms (see the section “Differential Di-
+620 Neurocognitive Disorders
+agnosis” for this disorder). Disease course may be characterized by occasional plateaus
+but eventually progresses through severe deme ntia to death. Average duration of survival
+is 5–7 years in clinical series. Onset of symptoms is typically observed from the sixth
+through the ninth decades of life, with most cases having their onset when affected indi-
+viduals are in their mid-70s.
+Risk and Prognostic Factors 
+Genetic and physiological. Familial aggregation may occur, and several risk genes have
+been identified, but in most cases of NCDLB, there is no family history.
+Diagnostic Markers
+The underlying neurodegenerative disease is  primarily a synucleinopathy due to alpha-
+synuclein misfolding and aggregation. Cognitiv e testing beyond the use of a brief screen-
+ing instrument may be necessary to define de ficits clearly. Assessment scales developed to
+measure fluctuation can be useful. The associated condition REM sl eep behavior disorder
+may be diagnosed through a formal sleep study or identified by questioning the patient or
+informant about relevant symptoms. Neurolep tic sensitivity (challenge) is not recom-
+mended as a diagnostic marker but raises suspicion of NCDLB if it occurs. A diagnosti-
+cally suggestive feature is low striatal dopa mine transporter uptake on single photon
+emission computed tomography  (SPECT) or positron emission tomography (PET) scan.
+Other clinically useful markers potentially include relative preservation of medial tempo-
+ral structures on computed tomography (C T)/magnetic resonance imaging (MRI) brain
+scan; reduced striatal dopamine transporter uptake on SPECT/PET scan; generalized low
+uptake on SPECT/PET perfusion scan with re duced occipital activity; abnormal (low up-
+take) MIBG myocardial scintigraphy suggest ing sympathetic denervation; and prominent
+slow-wave activity on the electroencephalo gram with temporal lobe transient waves.
+Functional Consequences of Major or Mild 
+Neurocognitive Disord er With Lewy Bodies
+Individuals with NCDLB are more  functionally impaired than would be expected for their
+cognitive deficits when contrasted to individuals with other neurodegenerative diseases,
+such as Alzheimer’s disease. This is largely a result of motor and autonomic impairments,
+which cause problems with toileting, transfer ring, and eating. Sleep disorders and prom-
+inent psychiatric symptoms may also add to functional di fficulties. Consequently, the qual-
+ity of life of individuals with NCDLB is often significantly worse than that of individuals
+with Alzheimer’s disease.
+Differential Diagnosis 
+Major or mild neurocognitive diso rder due to Parkinson’s disease. A key differenti-
+ating feature in clinical diagnosis is the tempor al sequence in which the parkinsonism and
+the NCD appear. For NCD due to Parkinson’s disease, the individual must develop cog-
+nitive decline in the context of established Parkinson’s disease; by convention, the decline
+should not reach the stage of major NCD until at least 1 year after Parkinson’s is diagnosed.
+If less than a year has passed since the onset of motor symptoms, the diagnosis is NCDLB.
+This distinction is clearer at the major NCD level than at the mild NCD level. 
+The timing and sequence of parkinsonism an d mild NCD may be more difficult to de-
+termine because the onset and clinical presentation can be ambiguous, and unspecified
+mild NCD should be diagnosed if the othe r core and suggestive features are absent.
+Major or Mild Vascular Neurocognitive Disorder 621
+Comorbidity 
+Lewy body pathology frequent ly coexists with Alzheimer’s disease and cerebrovascular
+disease pathology, particularly among the olde st age groups. In Alzheimer’s disease, there
+is concomitant synuclein pathology in 60% of cases (if amygdala-restricted cases are in-
+cluded). In general, there is a higher rate of Lewy body pathology in individuals with de-
+mentia than in older individuals without dementia. 
+Major or Mild Vascular Neurocognitive Disorder
+Diagnostic Criteria  
+A. The criteria are met for major or mild neurocognitive disorder.
+B. The clinical features are consistent with a vascular etiology, as suggested by either of
+the following: 
+1. Onset of the cognitive deficits is temporally related to one or more cerebrovascular
+events.
+2. Evidence for decline is prominent in complex attention (including processing
+speed) and frontal-executive function.
+C. There is evidence of the presence of cere brovascular disease from history, physical
+examination, and/or neuroimaging consider ed sufficient to account for the neurocog-
+nitive deficits. 
+D. The symptoms are not better explained by another brain disease or systemic disorder.
+Probable vascular neurocognitive disorder  is diagnosed if one of the following is pres-
+ent; otherwise possible vascular neurocognitive disorder  should be diagnosed:
+1. Clinical criteria are supported by neuroimaging evidence of significant parenchymal in-
+jury attributed to cerebrovascula r disease (neuroimaging-supported).
+2. The neurocognitive syndrome is temporally related to one or more documented cere-
+brovascular events.
+3. Both clinical and genetic (e.g., cerebral aut osomal dominant arteriopathy with subcortical
+infarcts and leukoencephalopathy) evidence of cerebrovascular disease is present.
+Possible vascular neuroc ognitive disorder  is diagnosed if the clinical criteria are met
+but neuroimaging is not available and the tem poral relationship of the neurocognitive syn-
+drome with one or more cerebrovascular events is not established.
+Coding note:  For probable major vascular neurocognitive disorder, with behavioral dis-
+turbance, code 290.40 (F01.51). For probable major vascular neurocognitive disorder,
+without behavioral disturbance, code 290.40 (F01.50). For possible major vascular neuro-
+cognitive disorder, with or without behavioral disturbance, code 331.9 (G31.9).  An addi-
+tional medical code for the cerebrovascular disease is not needed.
+For mild vascular neurocognitive disorder, code 331.83 (G31.84). ( Note:  Do not use an
+additional code for the vascular disease. Behavioral disturbance cannot be coded but
+should still be indicated in writing.)
+Diagnostic Features
+The diagnosis of major or mild  vascular neurocognitive diso rder (NCD) requires the es-
+tablishment of an NCD (Criterion A) and the determination that cere brovascular disease is
+the dominant if not exclusive pathology that accounts for the cognitive deficits (Criteria B
+and C). Vascular etiology may range from large vessel stroke to micr ovascular disease; the
+622 Neurocognitive Disorders
+presentation is therefore very heterogeneous, stemming from the types of vascular lesions
+and their extent and location. The lesions may be focal, multifocal, or diffuse and occur in
+various combinations. 
+Many individuals with major or mild vascul ar NCD present with multiple infarctions,
+with an acute stepwise or fluctuating dec line in cognition, and intervening periods of
+stability and even some improvement. Others may have gradual onset with slow pro-
+gression, a rapid development of deficits follo wed by relative stabilit y, or another complex
+presentation. Major or mild vascular NCD wi th a gradual onset an d slow progression is
+generally due to small vessel disease leading to lesions in the white matter, basal ganglia,
+and/or thalamus. The gradual progression in these cases is often punctuated by acute
+events that leave subtle neurological deficits. The cognitive deficits in these cases can be at-
+tributed to disruption of cortical-subcortical  circuits, and complex attention, particularly
+speed of information processing, and exec utive ability are likely to be affected.
+Assessing for the presence of sufficient cerebrovascular disease relies on history, phys-
+ical examination, and neuroimaging (Criterion  C). Etiological certainty requires the dem-
+onstration of abnormalities on neuroimaging. The lack of neuroimaging can result in
+significant diagnostic inaccuracy by overlooking “silent” brain infarction and white mat-
+ter lesions. However, if the neurocognitive im pairment is temporally associated with one
+or more well-documented  strokes, a probable diagnosis can be made in the absence of neu-
+roimaging. Clinical evidence of cerebrovascular disease includes documented history of
+stroke, with cognitive decline temporally assoc iated with the event, or physical signs con-
+sistent with stroke (e.g., hemi paresis; pseudobulbar syndrome , visual field defect). Neuro-
+imaging (magnetic resonance imaging [MRI] or computed tomography [CT]) evidence of
+cerebrovascular disease comprises one or more of the following: one or more large vessel
+infarcts or hemorrhages, a strategically placed  single infarct or hemorrhage (e.g., in angu-
+lar gyrus, thalamus, basal forebrain), two or mo re lacunar infarcts outside the brain stem,
+or extensive and confluent white matter lesions. The latter is often termed small vessel dis-
+ease or subcortical ischemic changes  on clinical neuroimaging evaluations.
+For mild vascular NCD, history of a single stroke or extensive white matter disease is gen-
+erally sufficient. For major vascular NCD, two or more strokes, a strate gically placed stroke,
+or a combination of white matter disease and one or more lacunes is  generally necessary.
+The disorder must not be better explained by another disorder. For example, promi-
+nent memory deficit early in the course mi ght suggest Alzheimer' s disease, early and
+prominent parkinsonian features would suggest Parkinson's disease, and a close associa-
+tion between onset and depression would suggest depression.
+Associated Features Supporting Diagnosis
+A neurological assessmen t often reveals history of stroke  and/or transient ischemic epi-
+sodes, and signs indicative of brain infarctions. Also commonly associated are personality
+and mood changes, abulia, depression, and emotional lability. The development of late-
+onset depressive symptoms accompanied by psychomotor slowing and executive dys-
+function is a common presentation among olde r adults with progressive small vessel isch-
+emic disease (“vascular depression”).
+Prevalence
+Major or mild vascular NCD is the second most common cause of NCD after Alzheimer’s
+disease. In the United States, population prevalence estimates for vascular dementia range
+from 0.2% in the 65–70 years age group to 16%  in individuals 80 years and older. Within
+3 months following stroke, 20%–30% of individuals are diagnosed with dementia. In neu-
+ropathology series, the prevalence of vascular  dementia increases from 13% at age 70 years
+to 44.6% at age 90 years or older, in comp arison with Alzheimer’s disease (23.6%–51%) and
+combined vascular dementia and Alzheimer’s disease (2%–46.4%). Higher prevalence has
+Major or Mild Vascular Neurocognitive Disorder 623
+been reported in African Americans compared with Caucasians, and in East Asian countries
+(e.g., Japan, China). Prevalence is  higher in males than in females.
+Development and Course
+Major or mild vascular NCD can occur at an y age, although the prevalence increases ex-
+ponentially after age 65 years. In older indivi duals, additional pathologies may partly ac-
+count for the neurocognitive de ficits. The course may vary fr om acute onset with partial
+improvement to stepwise decline to progressive decline, with fluctuations and plateaus of
+varying durations. Pure subcortical major or  mild vascular NCD can have a slowly pro-
+gressive course that simulates major or mild NCD due to Alzheimer’s disease.
+Risk and Prognostic Factors
+Environmental. The neurocognitive outcomes of vascular brain injury are influenced by
+neuroplasticity factors such as education, physical exercise, and mental activity.
+Genetic and physiological. The major risk factors for major or mild vascular NCD are the
+same as those for cerebrovascular disease, incl uding hypertension, diab etes, smoking, obesity,
+high cholesterol levels, high homocysteine levels, other risk factors for atherosclerosis and ar-
+teriolosclerosis, atrial fibrillati on, and other conditions increasing  the risk of cerebral emboli.
+Cerebral amyloid angiopathy is an important risk factor in which amyloid deposits occur
+within arterial vessels. Another key risk factor is the hereditary condition cerebral autosomal
+dominant arteriopathy with subcortical infarcts and leukoencephalopathy, or CADASIL.
+Diagnostic Markers
+Structural neuroimaging, using MRI or CT, ha s an important role in the diagnostic pro-
+cess. There are no other established biomar kers of major or mild vascular NCD. 
+Functional Consequences of 
+Major or Mild Vascular Neurocognitive Disorder
+Major or mild vascular NCD is commonly asso ciated with physical deficits that cause ad-
+ditional disability. 
+Differential Diagnosis 
+Other neurocognitive disorders. Since incidental brain infarctions and white matter le-
+sions are common in older individuals, it is important to consider other possible etiologies
+when an NCD is present. A history of memory  deficit early in the course, and progressive
+worsening of memory, language, executive function, and perceptual-motor abilities in the
+absence of corresponding focal lesions on br ain imaging, are suggestive of Alzheimer’s
+disease as the primary diagnosis. Potential bi omarkers currently being validated for Alz-
+heimer’s disease, such as cerebrospinal fluid levels of beta-amyloid and phosphorylated
+tau, and amyloid imaging, may prove to be helpful in the differential diagnosis. NCD with
+Lewy bodies is distinguished fr om major or mild vascular NCD by its core features of fluc-
+tuating cognition, visual hallu cinations, and spontaneous parkinsonism. While deficits in
+executive function and language occur in majo r or mild vascular NC D, the insidious onset
+and gradual progression of behavioral features or language impairment are characteristic
+of frontotemporal NCD and are no t typical of vascular etiology.
+Other medical conditions. A diagnosis of major or mild vascular NCD is not made if
+other diseases (e.g., brain tumor, multiple sc lerosis, encephalitis, toxic or metabolic disor-
+ders) are present and are of su fficient severity to account for the cognitive impairment.
+624 Neurocognitive Disorders
+Other mental disorders. A diagnosis of major or mild vascular NCD is inappropriate if
+the symptoms can be entirely attributed to  delirium, although delirium may sometimes be
+superimposed on a preexisting major or mild vascular NCD, in which case both diagnoses
+can be made. If the criteria for major depressive disorder are met and the cognitive impair-
+ment is temporally related to the likely onse t of the depression, major or mild vascular
+NCD should not be diagnosed. However, if the NCD preceded the development of the de-
+pression, or the severity of the cognitive impairment is out of proportion to the severity of
+the depression, both should be diagnosed. 
+Comorbidity
+Major or mild NCD due to Alzheimer’s dise ase commonly co-occurs with major or mild
+vascular NCD, in which case both diagnoses should be made. Major or mild vascular NCD
+and depression frequently co-occur. 
+Major or Mild Neurocognitive Disorder
+Due to Traumatic Brain Injury
+Diagnostic Criteria  
+A. The criteria are met for major or mild neurocognitive disorder.
+B. There is evidence of a traumatic brain injury—that is, an impact to the head or other
+mechanisms of rapid movement or displacement of the brain within the skull, with one
+or more of the following: 
+1. Loss of consciousness.
+2. Posttraumatic amnesia.
+3. Disorientation and confusion.
+4. Neurological signs (e.g., neuroimaging demonstrating injury; a new onset of sei-
+zures; a marked worsening of a preexisting seizure disorder; visual field cuts; an-
+osmia; hemiparesis).
+C. The neurocognitive disorder presents imm ediately after the occurrence of the trau-
+matic brain injury or immediately after recovery of consciousness and persists past the
+acute post-injury period.
+Coding note:  For major neurocognitive disorder due to traumatic brain injury, with behavioral
+disturbance: For ICD-9-CM, first code 907.0 late effect of intracranial injury without skull frac-
+ture, followed by 294.11 major neurocognitive disorder due to traumatic brain injury, with be-
+havioral disturbance. For ICD-10-CM, first code S06.2X9S  diffuse traumatic brain injury with
+loss of consciousness of unspecified duration, sequela; followed by F02.81  major neurocog-
+nitive disorder due to traumatic brain injury, with behavioral disturbance.
+For major neurocognitive disorder due to traumatic brain injury, without behavioral distur-
+bance: For ICD-9-CM, first code 907.0 late effect of intracranial injury without skull fracture,
+followed by 294.10 major neurocognitive disorder due to traumatic brain injury, without be-
+havioral disturbance. For ICD-10-CM, first code S06.2X9S  diffuse traumatic brain injury with
+loss of consciousness of unspecified duration, sequela; followed by F02.80  major neurocog-
+nitive disorder due to traumatic brain injury, without behavioral disturbance.
+For mild neurocognitive disorder due to traumatic brain injury, code 331.83 (G31.84).
+(Note:  Do not use the additional code for traumatic brain injury. Behavioral disturbance
+cannot be coded but should still be indicated in writing.)
+Major or Mild Neurocognitive Disorder Due to Traumatic Brain Injury 625
+Specifiers
+Rate the severity of the neuroc ognitive disorder (NCD), not the underlying traumatic brain
+injury (see the section “Development and Course” for this disorder).
+Diagnostic Features
+Major or mild NCD due to traumatic brain injury (TBI) is caused by an impact to the head,
+or other mechanisms of rapid movement or di splacement of the brain within the skull, as
+can happen with blast injuries. Traumatic brain injury  is defined as brain trauma with spe-
+cific characteristics that include at least one of the following: loss of consciousness, post-
+traumatic amnesia, diso rientation and confusion, or, in more severe cases, neurological
+signs (e.g., positive neuroimaging, a new onset of seizures or a marked worsening of a pre-
+existing seizure disorder, visual field cuts, anosmia, hemiparesi s) (Criterion B). To be at-
+tributable to TBI, the NCD must  present either immediately after the brain injury occurs or
+immediately after the individu al recovers consciousness afte r the injury and persist past
+the acute post-injury period (Criterion C). 
+The cognitive presentation is variable. Difficulties in the domains of complex attention,
+executive ability, learning, an d memory are common as well as slowing in speed of infor-
+mation processing and disturbances in social cognition. In more seve re TBI in which there
+is brain contusion, intracranial hemorrhage, or  penetrating injury, there may be additional
+neurocognitive deficits, such as aphasia, neglect, and constructional dyspraxia.
+Associated Features Supporting Diagnosis
+Major or mild NCD due to TBI may be accompanied by disturbances in emotional function
+(e.g., irritability, easy frus tration, tension and anxiety, affective lability); personality
+changes (e.g., disinhibition, apathy, suspic iousness, aggression); physical disturbances
+(e.g., headache, fatigue, slee p disorders, vertigo or dizziness, tinnitus or hyperacusis, pho-
+tosensitivity, anosmia, reduced tolerance to psychotropic medication s); and, particularly
+in more severe TBI, neurolog ical symptoms and signs (e.g., seizures, hemiparesis, visual
+disturbances, cranial nerve deficits) an d evidence of orthopedic injuries.
+Prevalence
+In the United States, 1.7 million TBIs occur a nnually, resulting in 1.4 million emergency de-
+partment visits, 275,000 hospitalizations, and 52,000 deaths. About 2% of the population
+lives with TBI-associated disabi lity. Males account for 59% of TBIs in the United States.
+The most common etiologies of TBI in the Unit ed States are falls, vehicular accidents, and
+being struck on the head. Collisions and blows to the head that occur in the course of con-
+tact sports are increasingly re cognized as sources of mild TB I, with a concern that repeated
+mild TBI may have cumulatively persisting sequelae.
+Development and Course
+The severity of a TBI is rated at the time of injury/initial assessment as mild, moderate, or
+severe according to the thresholds in Table 2.
+The severity rating of the TBI itself does not necessarily correspon d to the severity of
+the resulting NCD. The course of recovery fr om TBI is variable, depending not only on the
+specifics of the injury but also  on cofactors, such as age, prior history of brain damage, or
+substance abuse, that may favor or impede recovery. 
+626 Neurocognitive Disorders
+Neurobehavioral symptoms tend to be most severe in the immediate aftermath of the
+TBI. Except in the case of severe TBI, the typi cal course is that of complete or substantial
+improvement in associated neurocognitive, neurological, and psyc hiatric symptoms and
+signs. Neurocognitive symptoms associated with mild TBI tend to resolve within days to
+weeks after the injury with complete resoluti on typical by 3 months. Other symptoms that
+may potentially co-occur with the neurological  symptoms (e.g., depression, irritability,
+fatigue, headache, photosensitivity, sleep dist urbance) also tend to resolve in the weeks
+following mild TBI. Substantial subsequent deterioration in these areas should trigger con-
+sideration of additional diagnoses. However,  repeated mild TBI may be associated with
+persisting neurocognitive disturbance. 
+With moderate and severe TBI, in addition to persistence of neurocognitive deficits,
+there may be associated neurophysiological, emotional, and behavi oral complications.
+These include seizures (particula rly in the first year), photosen sitivity, hyperacu sis, irritabil-
+ity, aggression, depression, sl eep disturbance, fatigue, apat hy, inability to resume occu-
+pational and social functioning at pre-injury level, and deterioration in interpersonal
+relationships. Moderate and seve re TBI have been associated with increased risk of depres-
+sion, aggression, and possibly  neurodegenerative diseases such as Alzheimer’s disease.
+The features of persisting majo r or mild NCD due to TBI will vary by age, specifics of
+the injury, and cofactors. Persisting TBI-related impairment in an infant or child may be re-
+flected in delays in reaching developmental mi lestones (e.g., language acquisition), worse
+academic performance, and possibly impaired  social development. Among older teenag-
+ers and adults, persisting symptoms may incl ude various neurocognitive deficits, irrita-
+bility, hypersensitivity to light and sound, e asy fatigability, and mood changes, including
+depression, anxiety, hostility, or apathy. In older individuals with depleted cognitive re-
+serve, mild TBI is more  likely to result in incomplete recoveries.
+Risk and Prognostic Factors 
+Risk factors for traumatic brain injury. Traumatic brain injury rates vary by age, with
+the highest prevalence among individuals younge r than 4 years, older adolescents, and in-
+dividuals older than 65 years. Falls are the mo st common cause of TBI, with motor vehicle
+accidents being second. Sports concussions are frequent causes of TBI in older children,
+teenagers, and young adults.
+Risk factors for neurocognitive disorder after traumatic brain injury. Repeated con-
+cussions can lead to persistent NCD and neur opathological evidence of traumatic enceph-
+alopathy. Co-occurring intoxication with a substance may incr ease the severity of a TBI
+from a motor vehicle accident, but whether into xication at the time of injury worsens neu-
+rocognitive outcome is unknown.
+Course modifiers. Mild TBI generally resolves within a few weeks to months, although res-
+olution may be delayed or incomplete in the context of repeated TB I. Worse outcome fromTABLE 2 Severity ratings for tr aumatic brain injury
+Injury characteristic Mild TBI Moderate TBI Severe TBI
+Loss of consciousness <30 min 30 minutes–24 hours >24 hours
+Posttraumatic amnesia <24 ho urs 24 hours–7 days >7 days
+Disorientation and confusion 
+at initial assessment 
+(Glasgow Coma Scale 
+Score)13–15 (not below 13 
+at 30 minutes)9–12 3–8
+Substance/Medication-Induced Major or Mild Neurocognitive Disorder 627
+moderate to severe TBI is associated with older ag e (older than 40 years) and initial clinical pa-
+rameters, such as low Glasgow Coma Scale score; worse motor function; pupillary nonreac-
+tivity; and computed tomography (CT) evidence of brain injury (e.g., petechial hemorrhages,
+subarachnoid hemorrhage, midline shift, obliteration of third ventricle).
+Diagnostic Markers
+Beyond neuropsycholog ical testing, CT scanning may reveal petechial hemorrhages,
+subarachnoid hemorrhage, or evidence of contusion. Magn etic resonance image scanning
+may also reveal hyperintensities suggestive of microhemorrhages. 
+Functional Consequences of Major or Mild 
+Neurocognitive Disorder Due to Traumatic Brain Injury 
+With mild NCD due to TBI, individuals may re port reduced cognitive efficiency, difficulty
+concentrating, and lessened abilit y to perform usual activities. With major NCD due to TBI, an
+individual may have di fficulty in independent living an d self-care. Prominent neuromotor
+features, such as severe incoordination, ataxia , and motor slowing, may be present in major
+NCD due to TBI and may add to functional diffi culties. Individuals with TBI histories report
+more depressive symptoms, and these can amp lify cognitive complaints and worsen func-
+tional outcome. Additionally, loss of emotional control, including aggre ssive or inappropriate
+affect and apathy, may be present after more se vere TBI with greater neurocognitive impair-
+ment. These features may compound difficulti es with independent living and self-care.
+Differential Diagnosis
+In some instances, severity of neurocognitive symptoms ma y appear to be inconsistent
+with the severity of the TBI. After previously  undetected neurologic al complications (e.g.,
+chronic hematoma) are excluded , the possibility of diagnoses such as somatic symptom
+disorder or factitious disorder need to be considered. Posttraumatic stress disorder (PTSD)
+can co-occur with the NCD and have overlappi ng symptoms (e.g., difficulty concentrat-
+ing, depressed mood, aggressiv e behavioral disinhibition).
+Comorbidity
+Among individuals with substa nce use disorders, the neurocognitive effects of the sub-
+stance contribute to or compound the TBI-as sociated neurocognitive change. Some symp-
+toms associated with TBI may overlap with sy mptoms found in cases of PTSD, and the two
+disorders may co-occur, especia lly in military populations. 
+Substance/Medication-Induced
+ Major or Mild Neurocognitive Disorder
+Diagnostic Criteria
+A. The criteria are met for major or mild neurocognitive disorder.
+B. The neurocognitive impairments do not occur exclusively during the course of a delir-
+ium and persist beyond the usual duration of intoxication and acute withdrawal.
+C. The involved substance or medication and duration and extent of use are capable of
+producing the neurocognitive impairment.
+D. The temporal course of the neurocognitive deficits is consistent with the timing of sub-
+stance or medication use and abstinence (e.g., the deficits remain stable or improve
+after a period of abstinence).
+628 Neurocognitive Disorders
+E. The neurocognitive disorder is not attributable to another medical condition or is not
+better explained by another mental disorder.
+Coding note:  The ICD-9-CM and ICD-10-CM codes for the [specific substance/medica-
+tion]-induced neurocognitive disorders are indi cated in the table below. Note that the ICD-
+10-CM code depends on whether or not there is a comorbid substance use disorder present
+for the same class of substance. If a mild substance use disorder is comorbid with the sub-
+stance-induced neurocognitive disorder, the 4th position character is “1,” and the clinician
+should record “mild [substance] use disorder” before the substance-induced neurocognitive
+disorder (e.g., “mild inhalant use disorder wi th inhalant-induced major neurocognitive disor-
+der”). If a moderate or severe  substance use disorder is comorbid with the substance-
+induced neurocognitive disorder, the 4th position character is “2,” and the clinician should
+record “moderate [substance] use disorder” or “severe [substance] use disorder,” depending
+on the severity of the comorbid substance use disorder. If there is no comorbid substance
+use disorder, then the 4th position character is “9,” and the clinician should record only the
+substance-induced neurocognitive disorder. For some classes of substances (i.e., alcohol;
+sedatives, hypnotics, anxiolytics), it is not permissible to code a comorbid mild substance
+use disorder with a substance-induced neurocog nitive disorder; only a comorbid moderate
+or severe substance use disorder, or no substance use disorder, can be diagnosed. Behav-
+ioral disturbance cannot be coded but should still be indicated in writing.
+ICD-10-CM
+ICD-9-CMWith use 
+disorder, 
+mildWith use 
+disorder, 
+moderate or 
+severeWithout use 
+disorder
+Alcohol (major neurocognitive 
+disorder), nonamnestic- 
+confabulatory type291.2 NA F10.27 F10.97
+Alcohol (major neurocognitive 
+disorder), amnestic- 
+confabulatory type291.1 NA F10.26 F10.96
+Alcohol (mild neurocognitive 
+disorder)291.89 NA F10.288 F10.988
+Inhalant (major neurocognitive 
+disorder)292.82 F18.17 F18.27 F18.97
+Inhalant (mild neurocognitive 
+disorder)292.89 F18.188 F18.288 F18.988
+Sedative, hypnotic, or anxiolytic 
+(major neurocognitive disorder)292.82 NA F13.27 F13.97
+Sedative, hypnotic, or anxiolytic 
+(mild neurocognitive disorder)292.89 NA F13.288 F13.988
+Other (or unknown) substance 
+(major neurocognitive disorder)292.82 F19.17 F19.27 F19.97
+Other (or unknown) substance 
+(mild neurocognitive disorder)292.89 F19.188 F19.288 F19.988
+Substance/Medication-Induced Major or Mild Neurocognitive Disorder 629
+Specify if: 
+Persistent:  Neurocognitive impairment continues to be significant after an extended
+period of abstinence.
+Recording Procedures
+ICD-9-CM. The name of the substance/medication-i nduced neurocogniti ve disorder be-
+gins with the specific substance/medication (e.g ., alcohol) that is presumed to be causing
+the neurocognitive symptoms. Th e diagnostic code is selected from the table included in
+the criteria set, which is based on the drug clas s. For substances that do not fit into any of
+the classes, the code for “other substance” should be used; and in cases in which a substance
+is judged to be an etiological factor but the sp ecific class of substance is unknown, the cat-
+egory “unknown substance” should be used.
+The name of the disorder (i.e., [specific su bstance]-induced major neurocognitive dis-
+order or [specific substance]-induced mild neurocognitive disorder) is followed by the
+type in the case of alcohol (i.e., nonamnestic-confabulatory type, amnestic-confabulatory
+type), followed by specification of duration (i .e., persistent). Unlike the recording procedures
+for ICD-10-CM, which combine the substanc e/medication-induced disorder and sub-
+stance use disorder into a single code, for ICD-9-CM a separate diagnostic code is given for
+the substance use disorder. For example, in th e case of persistent amnestic-confabulatory
+symptoms in a man with a severe alcohol use disorder, the diagnosis is 291.1 alcohol-
+induced major neurocognitive d isorder, amnestic-confabulatory type, persistent. An addi-
+tional diagnosis of 303.90 severe alcohol use diso rder is also given. If the substance/medi-
+cation-induced neurocognitive disorder occurs without a comorbid substance use disorder
+(e.g., after a sporadic heavy use of inhalants) , no accompanying substance use disorder is
+noted (e.g., 292.82 inhalant-induced mild neurocognitive disorder). 
+ICD-10-CM. The name of the substance/medicati on-induced neurocognitive disorder
+begins with the specific substance (e.g., alcoho l) that is presumed to be causing the neuro-
+cognitive symptoms. The diagnostic code is sele cted from the table included in the criteria
+set, which is based on the drug class and pres ence or absence of a comorbid substance use
+disorder. For substances that do  not fit into any of the cla sses, the code for “other sub-
+stance” should be used; and in cases in which a substance is judged to be an etiological fac-
+tor but the specific class of substance is unknown, the category “unknown substance”
+should be used.
+When recording the name of the disorder, the comorbid substa nce use disorder (if any) is
+listed first, followed by the word “with,” followe d by the name of the disorder (i.e., [specific
+substance]-induced major neurocognitive diso rder or [specific substance]-induced mild
+neurocognitive disorder), follow ed by the type in the case of  alcohol (i.e., nonamnestic-con-
+fabulatory type, amnestic-confabulatory type),  followed by specification of duration (i.e.,
+persistent). For example, in the case of pers istent amnestic-confabulatory symptoms in a
+man with a severe alcohol use disorder, the di agnosis is F10.26 severe alcohol use disorder
+with alcohol-induced major neur ocognitive disorder, amnestic -confabulatory type, persis-
+tent. A separate diagnosis of the comorbid severe  alcohol use disorder is not given. If the
+substance-induced neurocognitive disorder occurs without a comorbid substance use dis-
+order (e.g., after a sporadic heavy use of inha lants), no accompanying substance use disor-
+der is noted (e.g., F18.98 8 inhalant-induced mild neurocognitive disorder).
+Diagnostic Features 
+Substance/medication-induced major or mild  NCD is characterized by neurocognitive
+impairments that persist beyond the usual du ration of intoxication and acute withdrawal
+(Criterion B). Initially, these manifestations can reflect slow recovery of brain functions
+from a period of prolonged su bstance use, and improvements in neurocognitive as well as
+630 Neurocognitive Disorders
+brain imaging indicators may be seen over ma ny months. If the diso rder continues for an
+extended period, persistent  should be specified. The give n substance and its use must be
+known to be capable of causing the observed impairments (Criterion C). While nonspecific
+decrements in a range of cognitive abilities can occur with nearly any substance of abuse
+and a variety of medications, some patterns occur more frequently  with selected drug
+classes. For example, NCD due to sedative, hypno tic, or anxiolytic drugs (e.g., benzodiaz-
+epines, barbiturates) ma y show greater disturbances in memory than in other cognitive
+functions. NCD induced by alcohol frequently  manifests with a co mbination of impair-
+ments in executive-function and memory and learning domains. Th e temporal course of
+the substance-induced NCD must be consistent  with that of use of the given substance
+(Criterion D). In alcohol-induced amnestic confabulatory (Korsakoff ’s) NCD, the features
+include prominent amnesia (severe difficulty learning new information with rapid forget-
+ting) and a tendency to confabulate. These ma nifestations may co-occur with signs of thi-
+amine encephalopathy (Wernicke’s encephalopathy) with associated features such as
+nystagmus and ataxia. Ophthalmoplegia of Wernicke’s encephalopathy is typically charac-
+terized by a lateral gaze paralysis.
+In addition to or independent of the mo re common neurocognitive symptoms related
+to methamphetamine use (e.g., difficulties wi th learning and memory; executive func-
+tion), methamphetamine use can also be associat ed with evidence of vascular injury (e.g.,
+focal weakness, unilateral incoordination, as ymmetrical reflexes). The most common neu-
+rocognitive profile approximates that seen in vascular NCD. 
+Associated Features Supporting Diagnosis
+Intermediate-duration NC D induced by drugs with central nervous system depressant effects
+may manifest with added symptoms of increased irritability, anxiety, sleep disturbance, and
+dysphoria. Intermediate-duration NCD induced by stimulant drugs may manifest with re-
+bound depression, hypersomnia, and apathy. In severe forms of substance/medication-
+induced major NCD (e.g., associ ated with long-term alcohol use), there may be prominent
+neuromotor features, such as incoordination, ataxia, and motor slowing. There may also be
+loss of emotional control, including aggres sive or inappropriat e affect, or apathy.
+Prevalence
+The prevalence of these conditions is not know n. Prevalence figures for substance abuse are
+available, and substance/medica tion-induced major or mild NCDs are more likely in those
+who are older, have longer use, and have other risk factors such as nutritional deficits.
+For alcohol abuse, the rate of mild NCD of intermediate duration is approximately 30%–
+40% in the first 2 months of abstinence. Mild NCD may persist, particularly in those who do
+not achieve stable abstinence until after age 50 years. Major NCD is rare and may result from
+concomitant nutritional deficits, as in al cohol-induced amnestic  confabulatory NCD.
+For individuals quitting cocaine, metham phetamine, opioids, phencyclidine, and sed-
+ative, hypnotics, or anxiolytics, substance/medication-induced mild NCD of intermediate
+duration may occur in one-third or more, and there is some evidence that these substances
+may also be associated with persistent mild  NCD. Major NCD associated with these sub-
+stances is rare, if it occurs at  all. In the case of methamph etamine, cerebr ovascular disease
+can also occur, resulting in diffuse or focal brain injury that  can be of mild or major neu-
+rocognitive levels. Solvent expo sure has been linked to both major and mild NCD of both
+intermediate and persistent duration. 
+The presence of NCD induced by cannabis and various hallucinogens is controversial.
+With cannabis, intoxication is  accompanied by various neur ocognitive disturbances, but
+these tend to clear with abstinence. 
+Substance/Medication-Induced Major or Mild Neurocognitive Disorder 631
+Development and Course
+Substance use disorders tend to commence du ring adolescence and peak in the 20s and
+30s. Although longer history of severe substa nce use disorder is associated with greater
+likelihood of NCD, the relationships are not straightforward, with substantial and even
+complete recovery of neurocognitive func tions being common among individuals who
+achieve stable abstinence prior to age 50 ye ars. Substance/medication-induced major or
+mild NCD is most likely to become persistent in individuals who continue abuse of sub-
+stances past age 50 years, presumably becaus e of a combination of lessened neural plas-
+ticity and beginnings of other age-related br ain changes. Earlier commencement of abuse,
+particularly of alcohol, may lead to defects in later neural development (e.g., later stages of
+maturation of frontal circuitries), which may have effects on social cognition as well as
+other neurocognitive abilities.  For alcohol-induced NCD, there may be an additive effect
+of aging and alcohol-induced brain injury.
+Risk and Prognostic Factors
+Risk factors for substance/medication-induced  NCDs include older age, longer use, and
+persistent use past age 50 years. In additi on, for alcohol-induced NCD, long-term nutri-
+tional deficiencies, liver disease, vascular r isk factors, and cardiovascular and cerebrovas-
+cular disease may contribute to risk. 
+Diagnostic Markers
+Magnetic resonance imaging (MRI) of individuals with chronic alcohol abuse frequently
+reveals cortical thinning, white matter loss, and enlargement of sulci and ventricles. While
+neuroimaging abnormalities are more common in  those with NCDs, it is possible to ob-
+serve NCDs without neuroimaging abnormalitie s, and vice versa. Specialized techniques
+(e.g., diffusion tensor imaging) may reveal damage to specific white matter tracts. Mag-
+netic resonance spectroscopy may reveal reduction in N-acetylaspartate, and increase in
+markers of inflammation (e.g., myoinositol) or white matter injury (e.g., choline). Many of
+these brain imaging changes and neurocogniti ve manifestations reverse following suc-
+cessful abstinence. In individuals with meth amphetamine use disorder, MRI may also re-
+veal hyperintensities suggestive of microhem orrhages or larger areas of infarction.
+Functional Consequences of Substance/Medication-
+Induced Major or Mild Neurocognitive Disorder
+The functional consequences of substance/ medication-induced mild NCD are sometimes
+augmented by reduced cognitive efficiency an d difficulty concentrating beyond that seen
+in many other NCDs. In addition, at both major and mild levels, substance/medication-
+induced NCDs may have associated motor syndro mes that increase the level of functional
+impairment. 
+Differential Diagnosis
+Individuals with substance use disorders, substance intoxica tion, and substance withdrawal
+are at increased risk for othe r conditions that may independently, or through a compounding
+effect, result in neurocognitive  disturbance. These include hi story of traumatic brain injury
+and infections that can accompany substance use disorder (e.g., HIV, hepatitis C virus, syph-
+ilis). Therefore, presence of substance/medi cation-induced major or mild NCD should be
+differentiated from NCDs arising outside the co ntext of substance use, intoxication, and with-
+drawal, including these accompanying cond itions (e.g., traumatic brain injury).
+632 Neurocognitive Disorders
+Comorbidity
+Substance use disorders, substance intoxicati on, and substance withdrawal are highly co-
+morbid with other mental disorders. Comorb id posttraumatic stre ss disorder, psychotic
+disorders, depressive and bi polar disorders, and neurodev elopmental disorders can con-
+tribute to neurocognitive impairment in substance users. Traumatic brain injury occurs
+more frequently with substance use, complicati ng efforts to determine the etiology of NCD
+in such cases. Severe, long-term alcohol use disorder can be associated with major organ
+system disease, including cerebrovascular disease and cirrhosis. Amphetamine-induced
+NCD may be accompanied by major or mild vascular NCD, also secondary to amphet-
+amine use.
+Major or Mild Neurocognitive Disorder
+ Due to HIV Infection
+Diagnostic Criteria  
+A. The criteria are met for major or mild neurocognitive disorder.
+B. There is documented infection with human immunodeficiency virus (HIV).
+C. The neurocognitive disorder is not bette r explained by non-HIV conditions, including
+secondary brain diseases such as progre ssive multifocal leukoencephalopathy or
+cryptococcal meningitis.
+D. The neurocognitive disorder is not attribut able to another medical condition and is not
+better explained by a mental disorder.
+Coding note: For major neurocognitive disorder due to HIV infection, with behavioral dis-
+turbance, code first 042 (B20)  HIV infection, followed by 294.11 (F02.81)  major neurocog-
+nitive disorder due to HIV infection, with behavioral disturbance. For major neurocognitive
+disorder due to HIV infection, without behavioral disturbance, code first 042 (B20)  HIV in-
+fection, followed by 294.10 (F02.80)  major neurocognitive disorder due to HIV infection,
+without behavioral disturbance.
+For mild neurocognitive disorder due to HIV infection, code 331.83 (G31.84).  (Note:  Do
+not use the additional code for HIV infection. Behavioral disturbance cannot be coded but
+should still be indicated in writing.)
+Diagnostic Features 
+HIV disease is caused by infection with hu man immunodeficiency virus type-1 (HIV-1),
+which is acquired through exposure to bodily fluids of an infected person through injection
+drug use, unprotected sexual contact, or acci dental or iatrogenic exposure (e.g., contami-
+nated blood supply, needle puncture injury to medical personnel). HIV infects several types
+of cells, most particularly immune cells. Over time, the infection can cause severe depletion
+of “T-helper” (CD4) lymphocytes, resulting in severe immunocompromise, often leading to
+opportunistic infections and neoplasms. This  advanced form of HIV infection is termed
+acquired immune deficiency syndrome  (AIDS). Diagnosis of HIV is confirmed by established
+laboratory methods such as enzyme-linked immunosorbent assay for HIV antibody with
+Western blot confirmation and/or polymera se chain reaction–based assays for HIV. 
+Some individuals with HIV infection deve lop an NCD, which generally shows a “sub-
+cortical pattern” with prominently impaired executive function, slowing of processing
+speed, problems with more demanding attentio nal tasks, and difficulty in learning new
+information, but fewer problems with recall of  learned information. In major NCD, slow-
+ing may be prominent. Language difficulties , such as aphasia, are uncommon, although
+reductions in fluency may be observed. HIV pathogenic proc esses can affect any part of
+the brain; therefore, other patterns are possible. 
+Major or Mild Neurocognitive Disorder Due to HIV Infection 633
+Associated Features Supporting Diagnosis
+Major or mild NCD due to HIV infection is usually more prevalent in individuals with
+prior episodes of severe immunosuppression, high viral loads in the cerebrospinal fluid,
+and indicators of advanced HIV disease such as anemia and hypoalbuminemia. Individ-
+uals with advanced NCD may experience prom inent neuromotor features such as severe
+incoordination, ataxia, and moto r slowing. There may be loss of emotional control, includ-
+ing aggressive or inappropriate affect or apathy. 
+Prevalence
+Depending on stage of HIV disease, approx imately one-third to over one-half of HIV-
+infected individuals have at least mild neuroc ognitive disturbance, but some of these dis-
+turbances may not meet the full criteria for mild NCD. An estimated 25% of individuals
+with HIV will have signs and symptoms that meet criteria for mild NCD, and in fewer than
+5% would criteria for major NCD be met. 
+Development and Course 
+An NCD due to HIV infection can resolve, improve, slowly worsen, or have a fluctuating
+course. Rapid progression to profound neur ocognitive impairment is uncommon in the
+context of currently available combination antiviral treatment; co nsequently, an abrupt
+change in mental status in an individual with HIV may prompt an evaluation of other
+medical sources for the cognitive change, incl uding secondary infections. Because HIV in-
+fection preferentially affects subcortical regi ons over the course of  illness, including deep
+white matter, the progression of the disorder follows a “subcortical ” pattern. Since HIV
+can affect a variety of brain regions, and the illness can take on many different trajectories
+depending on associated comorbidities and cons equences of HIV, the overall course of an
+NCD due to HIV infection has considerable heterogeneity. A subc ortical neurocognitive
+profile may interact with age over the life course, when psychomo tor slowing and motor
+impairments such as slowed gait may occur as a consequence of other age-related condi-
+tions so that the overall progression ma y appear more pronounced in later life. 
+In developed countries, HIV disease is primar ily a condition of adults, with acquisition
+via risky behaviors (e.g., unprotected sex, inje ction drug use) beginning in late adolescence
+and peaking during young and middle adulth ood. In developing countries, particularly
+sub-Saharan Africa, where HIV testing and an tiretroviral treatments for pregnant women
+are not readily available, perinatal transmis sion is common. The NCD in such infants and
+children may present primarily as neurodevelopment al delay. As individuals treated for
+HIV survive into older age, additive and in teractive neurocognitive effects of HIV and
+aging, including other NCDs (e .g., due to Alzheimer’s dise ase, due to Parkinson’s dis-
+ease), are possible. 
+Risk and Prognostic Factors
+Risk and prognostic factors for HIV infection. Risk factors for HIV infection include injec-
+tion drug use, unprotected sex, and unprotecte d blood supply and othe r iatrogenic factors. 
+Risk and prognostic factors for major or mild neurocognitive disorder due to HIV in-
+fection. Paradoxically, NCD due to HIV infection ha s not declined significantly with the
+advent of combined antiretrov iral therapy, although the most  severe presentations (con-
+sistent with the diagnosis of major NCD) ha ve decreased sharply. Contributory factors
+may include inadequate control of HIV in the central nervous system (CNS), the evolution
+of drug-resistant viral strains, the effects of  chronic long-term systemic and brain inflam-
+mation, and the effects of comorb id factors such as aging, drug  abuse, past history of CNS
+trauma, and co-infections, such as with the hepatitis C virus. Chronic exposure to antiret-
+roviral drugs also raises the po ssibility of neurotoxicity, alth ough this has not been defin-
+itively established. 
+634 Neurocognitive Disorders
+Diagnostic Markers
+Serum HIV testing is required for the diagnosis.  In addition, HIV charac terization of the cere-
+brospinal fluid may be helpful if it reveals a disp roportionately high viral load in cerebrospinal
+fluid versus in the plasma. Neuroimaging (i.e.,  magnetic resonance im aging [MRI]) may reveal
+reduction in total brain volume, cortical thi nning, reduction in white matter volume, and
+patchy areas of abnormal white matter (hyper intensities). MRI or lumbar puncture may be
+helpful to exclude a specific medical condition such as cryptococcus infection or herpes en-
+cephalitis that may contribute to CNS changes in the context of AIDS. Specialized techniques
+such as diffusion tensor imaging may reveal  damage to specific white matter tracts. 
+Functional Consequences of Major or Mild 
+Neurocognitive Disorder  Due to HIV Infection
+Functional consequences of ma jor or mild NCD due to HIV infection are variable across
+individuals. Thus, impaired executive abiliti es and slowed information processing may
+substantially interfere with the complex dise ase management decisions required for ad-
+herence to the combined antire troviral therapy regimen. The likelihood of comorbid dis-
+ease may further create functional challenges. 
+Differential Diagnosis
+In the presence of comorbidities, such as other infections (e.g., hepati tis C virus, syphilis),
+drug abuse (e.g., methamphetamine abuse), or  prior head injury or neurodevelopmental
+conditions, major or mild NCD due to HIV infe ction can be diagnosed provided there is ev-
+idence that infection with HIV has worsened any NCDs due to such preexisting or comorbid
+conditions. Among older adults, onset of neur ocognitive decline rela ted to cerebrovascular
+disease or neurodegeneration (e.g., major or mild NCD due to Alzheimer’s disease) may
+need to be differentiated. In general, stable, fluctuating (without progression) or improving
+neurocognitive status would favor an HIV et iology, whereas steady or stepwise deter-
+ioration would suggest neurodeg enerative or vascular etiolo gy. Because more severe im-
+munodeficiency can result in opportunistic in fections of the brain (e.g., toxoplasmosis;
+cryptococcosis) and neoplasia (e.g., CNS lymphoma), sudden onset of an NCD or sudden
+worsening of that disorder demands acti ve investigation of non-HIV etiologies.
+Comorbidity
+HIV disease is accompanied by chronic systemic  and neuro-inflammation that can be as-
+sociated with cerebrovascular disease and metabolic syndrome. These complications can
+be part of the pathogenesis of major or mild NCD due to HIV infectio n. HIV frequently co-
+occurs with conditions such as substance use disorders when the substance has been in-
+jected and other sexually  transmitted disorders. 
+Major or Mild Neurocognitive Disorder
+ Due to Prion Disease
+Diagnostic Criteria  
+A. The criteria are met for major or mild neurocognitive disorder.
+B. There is insidious onset, and rapid progression of impairment is common.
+C. There are motor features of prion disease, such as myoclonus or ataxia, or biomarker
+evidence.
+Major or Mild Neurocognitive Disorder Due to Prion Disease 635
+D. The neurocognitive disorder is not attribut able to another medical condition and is not
+better explained by another mental disorder.
+Coding note:  For major neurocognitive disorder due to prion disease, with behavioral dis-
+turbance, code first 046.79 (A81.9)  prion disease, followed by 294.11 (F02.81)  major
+neurocognitive disorder due to prion disease,  with behavioral disturbance. For major neu-
+rocognitive disorder due to prion disease, without behavioral disturbance, code first
+046.79 (A81.9)  prion disease, followed by 294.10 (F02.80)  major neurocognitive disorder
+due to prion disease, without behavioral disturbance.
+For mild neurocognitive disorder due to prion disease, code 331.83 (G31.84).  (Note:  Do
+not use the additional code for prion disease. Behavioral disturbance cannot be coded but
+should still be indicated in writing.)
+Diagnostic Features
+The classification of major or mild neurocogni tive disorder (NCD) due to prion disease in-
+cludes NCDs due to a group of subacute sp ongiform encephalopathies (including Creutz-
+feldt-Jakob disease, variant Creutzfeldt-Jakob disease, kuru, Gerstmann-Sträussler-
+Scheinker syndrome, and fatal insomnia) ca used by transmissible agents known as prions.
+The most common type is sporadic Creutzfeld t-Jakob disease, typically referred to as
+Creutzfeldt-Jakob disease (CJD). Variant CJD is  much rarer and is associated with trans-
+mission of bovine spongiform encephalopathy,  also called “mad cow disease.” Typically,
+individuals with CJD present with neurocognitive deficits , ataxia, and abnormal move-
+ments such as myoclonus, chorea, or dystonia; a startle reflex is also common. Typically,
+the history reveals rapid progression to major NCD over as little as 6 months, and thus the
+disorder is typically seen only at the major le vel. However, many individuals with the dis-
+order may have atypical presentations, and the disease can be confirmed only by biopsy or
+at autopsy. Individuals with variant CJD may present with a greater preponderance of
+psychiatric symptoms, characterized a by lo w mood, withdrawal, and anxiety. Prion dis-
+ease is typically not diagnosed without at le ast one of the characteristic biomarker fea-
+tures: recognized lesions on magnetic resonance imaging with DWI (diffusion-weighted
+imaging) or FLAIR (flu id-attenuated inversion recovery), tau or 14-3-3 protein in cerebro-
+spinal fluid, characteristic triphasic waves on electroencephalogram, or, for rare familial
+forms, family history or genetic testing. 
+Prevalence
+The annual incidence of sporadic CJD is a pproximately one or two cases per million peo-
+ple. Prevalence is unknown but ve ry low given the short survival.
+Development and Course
+Prion disease may develop at any age in adults—the peak age for the sporadic CJD is ap-
+proximately 67 years—although it has been report ed to occur in individuals spanning the
+teenage years to late life. Prodromal symptoms  of prion disease may include fatigue, anx-
+iety, problems with appetite or sleeping, or difficulties with concentration. After several
+weeks, these symptoms may be followed by incoordination, altered vision, or abnormal
+gait or other movements that may be myoclonic,  choreoathetoid, or ballistic, along with a
+rapidly progressive dementia. The disease typi cally progresses very rapidly to the major
+level of impairment over several months. More rarely, it can progress over 2 years and ap-
+pear similar in its course to other NCDs.
+636 Neurocognitive Disorders
+Risk Factors and Prognosis
+Environmental. Cross-species transmission  of prion infections, with agents that are
+closely related to the human form, has been demonstrated (e.g., the outbreak of bovine
+spongiform encephalopathy inducing variant CJD in the United Kingdom during the mid-
+1990s). Transmission by corneal transplantation and by human growth factor injection has
+been documented, and anecdotal cases of tran smission to health care workers have been
+reported.
+Genetic and physiological. There is a genetic component in up to 15% of cases, associ-
+ated with an autosoma l dominant mutation.
+Diagnostic Markers
+Prion disease can be definitively confirmed only by biopsy or at autopsy. Although there are
+no distinctive findings on cerebrospinal fluid analysis across the prion diseases, reliable bio-
+markers are being developed and include 14-3-3 protein (particularly for sporadic CJD) as
+well as tau protein. Magnetic resonance brain imaging is currently considered the most sen-
+sitive diagnostic test when DWI is performed, with the most common finding being multi-
+focal gray matter hyperintensities in subcortical and cortical regions. In some individuals,
+the electroencephalogram reve als periodic sharp, often triphasic and synchronous dis-
+charges at a rate of 0.5–2 Hz at some point during the course of the disorder. 
+Differential Diagnosis
+Other major neurocognitive disorders. Major NCD due to prion disease may appear
+similar in its course to other NCDs, but prio n diseases are typically distinguished by their
+rapid progression and prominent cerebellar and motor symptoms.
+Major or Mild Neurocognitive Disorder
+Due to Parkinson’s Disease
+Diagnostic Criteria  
+A. The criteria are met for major or mild neurocognitive disorder.
+B. The disturbance occurs in the setting of established Parkinson’s disease.
+C. There is insidious onset and gradual progression of impairment.
+D. The neurocognitive disorder is not attribut able to another medical condition and is not
+better explained by another mental disorder.
+Major or mild neurocognitive disorder  probably due to Parkinson’s disease  should
+be diagnosed if 1 and 2 are both met. Major or mild neurocognitive disorder possibly
+due to Parkinson’s disease should be diagnosed if 1 or 2 is met:
+1. There is no evidence of mixed etiology (i.e., absence of other neurodegenerative or
+cerebrovascular disease or another neurological, mental, or systemic disease or con-
+dition likely contributing to cognitive decline).
+2. The Parkinson’s disease clearly precedes the onset of the neurocognitive disorder.
+Coding note: For major neurocognitive disorder probably due to Parkinson’s disease,
+with behavioral disturbance, code first 332.0 (G20)  Parkinson’s disease, followed by
+294.11 (F02.81)  major neurocognitive disorder probably due to Parkinson’s disease, with
+behavioral disturbance. For major neurocognitive disorder probably due to Parkinson’s
+disease, without behavioral disturbance, code first 332.0 (G20)  Parkinson’s disease, fol-
+Major or Mild Neurocognitive Disorder Due to Parkinson’s Disease 637
+lowed by 294.10 (F02.80)  major neurocognitive disorder probably due to Parkinson’s dis-
+ease, without behavioral disturbance.
+For major neurocognitive disorder possibly due to Parkinson’s disease, code 331.9
+(G31.9)  major neurocognitive disorder possibly due to Parkinson’s disease. ( Note:  Do not
+use the additional code for Parkinson’s disease. Behavioral disturbance cannot be coded
+but should still be indicated in writing.)
+For mild neurocognitive disorder due to Parkinson’s disease, code 331.83 (G31.84).
+(Note:  Do not  use the additional code for Parkinson’s disease. Behavioral disturbance
+cannot be coded but should still be indicated in writing.)
+Diagnostic Features
+The essential feature of major or mild neurocognitive disorder (NCD) due to Parkinson’s
+disease is cognitive decline following the onset of Parkinson’s disease. The disturbance
+must occur in the setting of established Parkinson’s disease (Criterion B), and deficits must
+have developed gradually (Criterion C). The NCD is viewed as probably due to Parkinson’s
+disease when there is no evidence of another disorder that might be contributing to the
+cognitive decline and when the Parkinson’s disease clearly precedes onset of the NCD. The
+NCD is considered possibly due to Parkinson’s disease either  when there is no evidence of
+another disorder that might be contributing to the cognitive decline or when the Parkin-
+son’s disease precedes onset of the NCD, but not both.
+Associated Features Supporting Diagnosis
+Frequently present features include apathy , depressed mood, anxious mood, hallucina-
+tions, delusions, personality changes, rapid eye movement sleep behavior disorder, and
+excessive daytime sleepiness. 
+Prevalence 
+The prevalence of Parkinson’s disease in the United States steadily increases with age from
+approximately 0.5% between ages 65 and 69 to  3% at age 85 years and older. Parkinson’s
+disease is more common in males than in females. Among individuals with Parkinson’s
+disease, as many as 75% will develop a major NC D sometime in the course of their disease.
+The prevalence of mild NCD in Parkinso n’s disease has been estimated at 27%. 
+Development and Course
+Onset of Parkinson’s disease is typically betw een the sixth and ninth decades of life, with
+most expression in the early 60s. Mild NCD ofte n develops relatively early in the course of
+Parkinson’s disease, whereas major impairme nt typically does not occur until late. 
+Risk and Prognostic Factors
+Environmental. Risk factors for Parkinson’s disease include exposure to herbicides and
+pesticides.
+Genetic and physiological. Potential risk factors for NC D among individuals with Par-
+kinson’s disease include older age at diseas e onset and increasing duration of disease. 
+Diagnostic Markers
+Neuropsychological testing, with a focus on test s that do not rely on motor function, is crit-
+ical in detecting the core cogn itive deficits, particularly at the mild NCD phase. Structural
+neuroimaging and dopamine transporter scans, such as DaT scans, may differentiate
+Lewy body–related dementias (Parkinson’s and dementia wi th Lewy bodies) from non–
+638 Neurocognitive Disorders
+Lewy body–related dementias (e.g., Alzheimer’s disease) and can sometimes be helpful in
+the evaluation of major or mild  NCD due to Parkinson’s disease.
+Differential Diagnosis
+Major or mild neurocognitive disorder with Lewy bodies. This distinction is based sub-
+stantially on the timing and sequence of mo tor and cognitive symptoms. For NCD to be at-
+tributed to Parkinson’s diseas e, the motor and other symptoms  of Parkinson’s disease must
+be present well before (by convention, at leas t 1 year prior) cognit ive decline has reached
+the level of major NCD, whereas in major or mild NCD with Lewy bodies, cognitive symp-
+toms begin shortly before, or concurrent wi th, motor symptoms. For mild NCD, the timing
+is harder to establish because the diagnosis itse lf is less clear and th e two disorders exist on
+a continuum. Unless Parkinson’s disease has been established for some time prior to the
+onset of cognitive decline, or typical features  of major or mild NCD with Lewy bodies are
+present, it is preferable to diagnose unspecified mild NCD.
+Major or mild neurocognitive disorder due to Alzheimer’s disease. The motor features
+are the key to distinguishing major or mild NCD due to Parkinson’s disease from major or
+mild NCD due to Alzheimer’s disease. However, the two disorders can co-occur.
+Major or mild vascular neurocognitive disorder. Major or mild vascular NCD may pre-
+sent with parkinsonian features such as psychomotor slowing that may occur as a conse-
+quence of subcortical small vessel disease. However, the parkinsonian features typically
+are not sufficient for a diagnosis of Parkinson’s disease, and the course of the NCD usually
+has a clear association with cerebrovascular changes.
+Neurocognitive disorder due to another medical condition (e.g., neurodegenerative
+disorders). When a diagnosis of major or mild NC D due to Parkinson’s disease is being
+considered, the distinction must also be made from other brain diso rders, such as progres-
+sive supranuclear palsy, corticobasal degeneration, multiple system atrophy, tumors, and
+hydrocephalus. 
+Neuroleptic-induced parkinsonism. Neuroleptic-induced parkinsonism can occur in
+individuals with other NCDs, particularly when dopamine-blocking drugs are prescribed
+for the behavioral manifest ations of such disorders
+Other medical conditions. Delirium and NCDs due to side effects of dopamine-blocking
+drugs and other medical conditio ns (e.g., sedation or impair ed cognition, severe hypothy-
+roidism, B12 deficiency) must al so be ruled out. 
+Comorbidity 
+Parkinson’s disease may coexist with Alzheimer’ s disease and cerebrovascular disease, espe-
+cially in older individuals. The compounding of  multiple pathological features may diminish
+the functional abilities of individuals with Pa rkinson’s disease. Moto r symptoms and frequent
+co-occurrence of depression or apathy can make functional impairment worse.
+Major or Mild Neurocognitive Disorder
+ Due to Huntington’s Disease
+Diagnostic Criteria  
+A. The criteria are met for major or mild neurocognitive disorder.
+B. There is insidious onset and gradual progression.
+C. There is clinically established Huntington’ s disease, or risk for Huntington’s disease
+based on family history or genetic testing.
+Major or Mild Neurocognitive Disorder Due to Huntington’s Disease 639
+D. The neurocognitive disorder is not attribut able to another medical condition and is not
+better explained by another mental disorder.
+Coding note:  For major neurocognitive disorder due to Huntington’s disease, with behav-
+ioral disturbance, code first 333.4 (G10)  Huntington’s disease, followed by 294.11
+(F02.81)  major neurocognitive disorder due to Huntington’s disease, with behavioral dis-
+turbance. For major neurocognitive disorder due to Huntington’s disease, without behav-
+ioral disturbance, code first 333.4 (G10)  Huntington’s disease, followed by 294.10 (F02.80)
+major neurocognitive disorder due to Huntington’s disease, without behavioral disturbance.
+For mild neurocognitive disorder due to Huntington’s disease, code 331.83 (G31.84).
+(Note:  Do not use the additional code for Huntington’s disease. Behavioral disturbance
+cannot be coded but should still be indicated in writing.)
+Diagnostic Features
+Progressive cognitive impairment is a core feature of Huntington ’s disease, with early changes
+in executive function (i.e., processing speed, organization, and planni ng) rather than learn-
+ing and memory. Cognitive and associated beha vioral changes often precede the emergence
+of the typical motor abnormalities of bradykinesia (i.e., slowing of voluntary movement)
+and chorea (i.e., involuntary jerking movements). A diagnosis of definite Huntington’s dis-
+ease is given in the presence of unequivocal,  extrapyramidal motor ab normalities in an in-
+dividual with either a family history of Huntington’s disease or genetic testing showing a
+CAG trinucleotide repeat expansion in the HTT gene, located on chromosome 4.
+Associated Features Supporting Diagnosis
+Depression, irritability, anxiety, obsessive -compulsive symptoms, and apathy are fre-
+quently, and psychosis more rarely, associat ed with Huntington’s disease and often pre-
+cede the onset of motor symptoms.
+Prevalence
+Neurocognitive deficits are an eventual ou tcome of Huntington’s disease; the worldwide
+prevalence is estimated to be 2.7 per 100,000.  The prevalence of Huntington’s disease in
+North America, Europe, and Australia is 5.7 pe r 100,000, with a much lower prevalence of
+0.40 per 100,000 in Asia. 
+Development and Course
+The average age at diagnosis of Huntington’s disease is approximately 40 years, although
+this varies widely. Age at onset is inversely correlated with CAG expansion length. Juve-
+nile Huntington’s disease (ons et before age 20) may present more commonly with brady-
+kinesia, dystonia, and rigidity than with the choreic movements characteristic of the adult-
+onset disorder. The disease is gradually progre ssive, with median survival approximately
+15 years after motor symptom diagnosis.
+Phenotypic expression of Huntington’s diseas e varies by presence of motor, cognitive,
+and psychiatric symptoms. Psychiatric and co gnitive abnormalities can predate the motor
+abnormality by at least 15 years. Initial symp toms requiring care often include irritabity,
+anxiety, or depressed mood. Other behavioral  disturbances may include pronounced ap-
+athy, disinhibition, impulsivit y, and impaired insight, with apathy often becoming more
+progressive over time. Early movement symptoms may involve the appearance of fidget-
+iness of the extremitie s as well as mild apraxia  (i.e., difficulty with purposeful movements),
+particularly with fine motor tasks. As the disorder progre sses, other motor problems in-
+clude impaired gait (ataxia ) and postural instability. Motor impairment eventually affects
+speech production ( dysarthria ) such that the speech becomes very difficult to understand,
+640 Neurocognitive Disorders
+which may result in significant distress resu lting from the communication barrier in the
+context of comparatively intact cognition. Advanced motor disease severely affects gait
+with progressive ataxia. Eventually individuals become nonambulatory. End-stage motor
+disease impairs motor control of eating and swallowing, typically a major contributor to
+the death of the individual from aspiration pneumonia.
+Risk and Prognostic Factors 
+Genetic and physiological. The genetic basis of Huntington’s disease is a fully penetrant
+autosomal dominant expansion of th e CAG trincleotide, often called a CAG repeat  in the
+huntingtin gene. A repeat length of 36 or more  is invariably associated with Huntington’s
+disease, with longer repeat lengths associated  with early age at onset. A CAG repeat length
+of 36 or more is invariably asso ciated with Huntington’s disease.
+Diagnostic Markers
+Genetic testing is the primary laboratory test  for the determination of Huntington’s dis-
+ease, which is an autosomal dominant disord er with complete penetrance. The trinucleo-
+tide CAG is observed to have a repeat ex pansion in the gene that encodes huntingtin
+protein on chromosome 4. A di agnosis of Huntington’s disease is not made in the presence
+of the gene expansion alone, but the diagno sis is made only after symptoms become man-
+ifest. Some individuals with a positive family  history request genetic testing in a presymp-
+tomatic stage. Associat ed features may also include neur oimaging changes; volume loss in
+the basal ganglia, particularly the caudate nu cleus and putamen, is well known to occur
+and progresses over the course of illness. Other structural and functional changes have
+been observed in brain imagin g but remain research measures.
+Functional Consequences of Major or Mild 
+Neurocognitive Disorder Du e to Huntington’s Disease
+In the prodromal phase of illness and at early diagnosis, occupational decline is most com-
+mon, with most individuals repo rting some loss of ability to engage in their typical work.
+The emotional, behavioral, and cognitive aspects of Huntington’s disease, such as disin-
+hibition and personality changes, are highly associated with functional decline. Cognitive
+deficits that contribute most to functional decline may incl ude speed of processing, initi-
+ation, and attention rather th an memory impairment. Given that Huntington’s disease on-
+set occurs in productive years of life, it may have a very disruptive effect on performance
+in the work setting as well as social and fam ily life. As the disease progresses, disability
+from problems such as impair ed gait, dysarthria, and impulsive or irritable behaviors may
+substantially add to the level of impairment and daily care needs, over and above the care
+needs attributable to the cognitive decline.  Severe choreic moveme nts may substantially
+interfere with provision of care such  as bathing, dressing, and toileting.
+Differential Diagnosis
+Other mental disorders. Early symptoms of Huntington’s disease may include instabil-
+ity of mood, irritability, or compulsive behaviors that may suggest another mental disor-
+der. However, genetic testing or the develo pment of motor symptoms  will distinguish the
+presence of Huntington’s disease.
+Other neurocognitive disorders. The early symptoms of Huntington’s disease, particu-
+larly symptoms of executive dysfunction an d impaired psychomotor speed, may resemble
+other neurocognitive disorders (NCDs), such as major or mild vascular NCD.
+Major or Mild Neurocognitive Disorder Due to Another Medical Condition 641
+Other movement disorders. Huntington’s disease must also be differentiated from other
+disorders or conditions associated with chorea, such as Wilson’s disease, drug-induced
+tardive dyskinesia, Sydenham’s chorea, systemic  lupus erythematosus, or senile chorea.
+Rarely, individuals may present with a course similar to that of Huntington’s disease but
+without positive genetic testin g; this is considered to be  a Huntington’s disease pheno-
+copy that results from a variet y of potential genetic factors.
+Major or Mild Neurocognitive Disorder
+ Due to Another Medical Condition
+Diagnostic Criteria  
+A. The criteria are met for major or mild neurocognitive disorder.
+B. There is evidence from the history, physical examination, or laboratory findings that the
+neurocognitive disorder is the pathophysi ological consequence of another medical
+condition. 
+C. The cognitive deficits are not better explained by another mental disorder or another
+specific neurocognitive disorder (e.g., Alzheimer’s disease, HIV infection).
+Coding note: For major neurocognitive disorder due  to another medical condition, with
+behavioral disturbance, code first the other medical condition, followed by the major neu-
+rocognitive disorder due to another medical condition, with behavioral disturbance (e.g.,
+340 [G35] multiple sclerosis, 294.11 [F02.81]  major neurocognitive disorder due to multi-
+ple sclerosis, with behavioral disturbance). For major neurocognitive disorder due to an-
+other medical condition, without behavioral disturbance, code first the other medical
+condition, followed by the major neurocognitive disorder due to another medical condition,
+without behavioral disturbance (e.g., 340 [G35] multiple sclerosis, 294.10 [F02.80]  major
+neurocognitive disorder due to multiple sclerosis, without behavioral disturbance).
+For mild neurocognitive disorder due to another medical condition, code 331.83 (G31.84).
+(Note:  Do not  use the additional code for the other medical condition. Behavioral distur-
+bance cannot be coded but should still be indicated in writing.)
+Diagnostic Features
+A number of other medical co nditions can cause neurocognitive disorders (NCDs). These
+conditions include structural lesions (e.g., primary or secondary brain tumors, subdural
+hematoma, slowly progressive or normal-press ure hydrocephalus), hypoxia related to hy-
+poperfusion from heart failure, endocrine co nditions (e.g., hypothyroidism, hypercalce-
+mia, hypoglycemia), nutritional conditions (e.g., deficiencies of thiamine or niacin), other
+infectious conditions (e.g., neurosyphilis, cryptococcosis), im mune disorders (e.g., tempo-
+ral arteritis, systemic lupus erythematosus), hepatic or rena l failure, metabolic conditions
+(e.g., Kufs’ disease, adrenoleukodystrophy, metachromatic leukodystrophy, other storage
+diseases of adulthood and childhood), and ot her neurological conditions (e.g., epilepsy,
+multiple sclerosis). Unusual causes of central nervous system injury, such as electrical
+shock or intracranial radiation, are generally evident from the history. The temporal asso-
+ciation between the onset or exacerbation of  the medical condition and the development of
+the cognitive deficit offers the greatest supp ort that the NCD is induced by the medical
+condition. Diagnostic certainty regarding this relationship may be increased if the neuro-
+cognitive deficits ameliorate partially or stab ilize in the context of treatment of the medical
+condition. 
+642 Neurocognitive Disorders
+Development and Course
+Typically the course of the NCD progresses in a manner that is commensurate with progres-
+sion of the underlying medical disorder. In ci rcumstances where the medical disorder is treat-
+able (e.g., hypothyroidism), th e neurocognitive deficit may im prove or at least not progress.
+When the medical condition has a deteriorative course (e.g., secondary progressive multiple
+sclerosis), the neurocognitive deficits will progre ss along with the tempor al course of illness.
+Diagnostic Markers
+Associated physical examinatio n and laboratory findings and other clinical features de-
+pend on the nature and severity of the medical condition. 
+Differential Diagnosis
+Other major or mild neurocognitive disorder. The presence of an attributable medical
+condition does not entirely exclude the possibility of another major or mild NCD. If cog-
+nitive deficits persist following successful treatment of an associated medical condition,
+then another etiology may be responsible for the cognitive decline.
+Major or Mild Neurocognitive Disorder
+ Due to Multiple Etiologies
+Diagnostic Criteria  
+A. The criteria are met for major or mild neurocognitive disorder.
+B. There is evidence from the history, physical examination, or laboratory findings that the
+neurocognitive disorder is the pathophysiological consequence of more than one etio-
+logical process, excluding substances (e.g., neurocognitive disorder due to Alzhei-
+mer’s disease with subsequent development of vascular neurocognitive disorder).
+Note:  Please refer to the diagnostic criteria for the various neurocognitive disorders due
+to specific medical conditions for guidance  on establishing the pa rticular etiologies. 
+C. The cognitive deficits are not better ex plained by another mental disorder and do not
+occur exclusively during the course of a delirium.
+Coding note: For major neurocognitive disorder due to multiple etiologies, with behavioral
+disturbance, code 294.11 (F02.81) ; for major neurocognitive disorder due to multiple etiolo-
+gies, without behavioral disturbance, code 294.10 (F02.80). All of the etiological medical
+conditions (with the exception of  vascular disease) should be coded and listed separately
+immediately before major neurocognitive diso rder due to multiple etiologies (e.g., 331.0
+[G30.9]  Alzheimer’s disease; 331.82 [G31.83]  Lewy body disease; 294.11 [F02.81]  major
+neurocognitive disorder due to multiple  etiologies, with behavioral disturbance).
+When a cerebrovascular etiology is contributin g to the neurocognitive disorder, the diagno-
+sis of vascular neurocognitive disorder should be listed in addition to major neurocognitive
+disorder due to multiple etiologies. For example, for a presentation of major neurocognitive
+disorder due to both Alzheimer’s disease and va scular disease, with behavioral disturbance,
+code the following: 331.0 (G30.9) Alzheimer’s disease; 294.11 (F02.81)  major neurocogni-
+tive disorder due to multiple etiologies, with behavioral disturbance; 290.40 (F01.51)  major
+vascular neurocognitive disorder, with behavioral disturbance.
+For mild neurocognitive disorder due to multiple etiologies, code 331.83 (G31.84).  (Note:
+Do not use the additional codes for the etiologies. Behavioral disturbance cannot be coded
+but should still be indicated in writing.)
+Unspecified Neurocognitive Disorder 643
+This category is included to cover the clinical presentation of a neurocognitive disorder (NCD)
+for which there is evidence that multiple medical conditions have played a probable role in the
+development of the NCD. In addition to evidence indicative of the presence of multiple med-
+ical conditions that are known to cause NCD (i .e., findings from the hi story and physical ex-
+amination, and laboratory findings), it may be he lpful to refer to the diag nostic criteria and text
+for the various medical etiologies (e.g., NCD du e to Parkinson’s disease) for more information
+on establishing the etiological connection  for that particular medical condition.
+Unspecified Neurocognitive Disorder
+799.59 (R41.9)
+This category applies to presentations in which symptoms characteristic of a neurocogni-
+tive disorder that cause clinically significant distress or impairment in social, occupational,
+or other important areas of functioning predominate but do not meet the full criteria for any
+of the disorders in the neurocognitive diso rders diagnostic class. The unspecified neuro-
+cognitive disorder category is used in situations in which the precise etiology cannot be
+determined with sufficient certainty to make an etiological attribution.
+Coding note:  For unspecified major or mild neurocognitive disorder, code 799.59 (R41.9).
+(Note:  Do not use additional codes for any presumed etiological medical conditions. Be-
+havioral disturbance cannot be coded but may be indicated in writing.)
+This page intentionally left blank 

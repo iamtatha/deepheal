@@ -1,0 +1,1920 @@
+645Personality
+ Disorders
+This chapter begins  with a general definition of personality disorder that applies
+to each of the 10 specific  personality disorders. A personality disorder  is an enduring pattern
+of inner experience and behavior  that deviates markedly from the expectations of the in-
+dividual’s culture, is pervasive and inflexible , has an onset in adolescence or early adult-
+hood, is stable over time, and lead s to distress or impairment. 
+With any ongoing review process, especially  one of this complexity, different view-
+points emerge, and an effort was made to accommodate them. Thus, personality disorders
+are included in both Sections II and III. The material in Section II represents an update of
+text associated with the same criteria foun d in DSM-IV-TR, whereas Section III includes
+the proposed research model for personality disorder diagnosis and conceptualization de-
+veloped by the DSM-5 Personality and Persona lity Disorders Work Group. As this field
+evolves, it is hoped that both versions will serve clinical practice and research initiatives,
+respectively.
+The following personality disorders are included in this chapter.
+•Paranoid personality disorder  is a pattern of distrust and suspiciousness such that oth-
+ers’ motives are interp reted as malevolent.
+•Schizoid personality disorder  is a pattern of detachment fr om social relationships and
+a restricted range of emotional expression.
+•Schizotypal personality disorder  is a pattern of acute discomfort in close relationships,
+cognitive or perceptual distortions,  and eccentricities of behavior.
+•Antisocial personality disorder  is a pattern of disregard for,  and violation of, the rights
+of others.
+•Borderline personality disorder  is a pattern of instability in interpersonal relation-
+ships, self-image, and affects, and marked impulsivity.
+•Histrionic personality disorder  is a pattern of excessive emotionality and attention
+seeking.
+•Narcissistic personality disorder  is a pattern of grandiosity, need for admiration, and
+lack of empathy.
+•Avoidant personality disorder  is a pattern of social inhibition, feelings of inadequacy,
+and hypersensitivity to negative evaluation.
+•Dependent personality disorder is a pattern of submissive and clinging behavior re-
+lated to an excessive need  to be taken care of.
+•Obsessive-compulsive personality disorder  is a pattern of preoccupation with order-
+liness, perfectionism, and control.
+•Personality change due to another medical condition  is a persistent personality dis-
+turbance that is judged to be due to the direct physiological effects of a medical condi-
+tion (e.g., frontal lobe lesion).
+•Other specified personality disorder and unspecified personality disorder  is a cate-
+gory provided for two situations: 1) the individual’s personality pattern meets the gen-
+eral criteria for a personality disorder, an d traits of several different personality
+disorders are present, but the criteria for any specific pers onality disorder  are not met;
+646 Personality Disorders
+or 2) the individual’s personality pattern m eets the general criteria  for a personality dis-
+order, but the individual is considered to have a personality disorder that is not in-
+cluded in the DSM-5 classification (e.g., passive-aggressive personality disorder).
+The personality disorders are grouped into thre e clusters based on descriptive similarities.
+Cluster A includes paranoid, schizoid, and schi zotypal personality diso rders. Individuals with
+these disorders often appear odd or eccentric. Cluster B includes antisocial, borderline, histri-
+onic, and narcissistic personality disorders. In dividuals with these disorders often appear dra-
+matic, emotional, or erratic. Cluster C in cludes avoidant, dependent, and obsessive-
+compulsive personality disorders. Individuals with these disorders often appear anxious or
+fearful. It should be noted that this clustering system, although useful in some research and ed-
+ucational situations, has serious limitations and has not been consistently validated. 
+Moreover, individuals freque ntly present with co-occu rring personality disorders
+from different clusters. Prevalence estimates fo r the different clusters suggest 5.7% for dis-
+orders in Cluster A, 1.5% for disorders in Cl uster B, 6.0% for disorders in Cluster C, and
+9.1% for any personality disorder, indicating frequent co-occurrence of disorders from dif-
+ferent clusters. Data from the 2001–2002 National Epidemiologic Survey on Alcohol and
+Related Conditions suggest that  approximately 15% of U.S. adults have at least one per-
+sonality disorder.
+Dimensional Models for Personality Disorders
+The diagnostic approach used in this manual  represents the categorical perspective that
+personality disorders are qualit atively distinct clinical synd romes. An alternative to the
+categorical approach is the dimensional perspective that personality disorders represent
+maladaptive variants of personality traits that merge imperceptibly into normality and
+into one another. See Section III for a full description of a dimensional model for person-
+ality disorders. The DSM-IV personality disord er clusters (i.e., odd-eccentric, dramatic-
+emotional, and anxious- fearful) may also be viewed as dimensions representing spectra of
+personality dysfunction on a continuum with other mental disorders. The alternative di-
+mensional models have much in common and together appear to cover the important ar-
+eas of personality dysfunction. Their integration, clinical utility, and relationship with the
+personality disorder diagnostic categories and various aspects of personality dysfunction
+are under active investigation.
+General Personality Disorder
+Criteria
+A. An enduring pattern of inner experience and behavior that deviates markedly from the
+expectations of the individual’s culture. This pattern is manifested in two (or more) of
+the following areas:
+1. Cognition (i.e., ways of perceiving and interpreting self, other people, and events).
+2. Affectivity (i.e., the range, intensity, lability, and appropriateness of emotional re-
+sponse).
+3. Interpersonal functioning.
+4. Impulse control.
+B. The enduring pattern is inflexible and per vasive across a broad range of personal and
+social situations.
+C. The enduring pattern leads to clinically signi ficant distress or impairment in social, oc-
+cupational, or other important areas of functioning.
+General Personality Disorder 647
+D. The pattern is stable and of long duration, and its onset can be traced back at least to
+adolescence or early adulthood.
+E. The enduring pattern is not better explained as a manifestation or consequence of an-
+other mental disorder.
+F. The enduring pattern is not attributable to the physiological effects of a substance (e.g.,
+a drug of abuse, a medication) or another  medical condition (e.g., head trauma).
+Diagnostic Features
+Personality traits  are enduring patterns of perceiving, relating to, and thinking about the en-
+vironment and oneself that are exhibited in a wide range of social and personal contexts.
+Only when personality traits are inflexible and maladaptive and cause significant func-
+tional impairment or subjective distress do th ey constitute personality disorders. The essen-
+tial feature of a personality disorder is an en during pattern of inner experience and behavior
+that deviates markedly from the expectations of the individual’s culture and is manifested
+in at least two of the following areas: cognition, affectivity, interpersonal functioning, or im-
+pulse control (Criterion A). This  enduring pattern is inflexib le and pervasive across a broad
+range of personal and social sit uations (Criterion B) and leads to clinically significant dis-
+tress or impairment in social, occupational, or  other important areas of functioning (Crite-
+rion C). The pattern is stable and of long duration, and its onset can be traced back at least
+to adolescence or early adulthood (Criterion D). The pattern is not better explained as a
+manifestation or consequence of another mental disorder (Criterion E) and is not attribut-
+able to the physiological effects of a substanc e (e.g., a drug of abuse, a medication, exposure
+to a toxin) or another medical condition (e.g., head trauma) (Criterion F). Specific diagnostic
+criteria are also provided for each of the pe rsonality disorders included in this chapter. 
+The diagnosis of personality disorders requires an evaluation of the individual’s long-
+term patterns of functioning, and the partic ular personality features must be evident by
+early adulthood. The personality traits that define these disorders must also be distin-
+guished from characteristics th at emerge in response to sp ecific situational stressors or
+more transient mental states (e .g., bipolar, depressive, or an xiety disorders; substance in-
+toxication). The clinician should assess the stability of pers onality traits over time and
+across different situations. Although a single interview with the in dividual is sometimes
+sufficient for making the diagnosis, it is of ten necessary to conduct more than one inter-
+view and to space these over time. Assessment ca n also be complicated by the fact that the
+characteristics that define a personality di sorder may not be considered problematic by
+the individual (i.e., the traits are often ego-sy ntonic). To help overcome this difficulty, sup-
+plementary information from other informants may be helpful.
+Development and Course
+The features of a personality disorder usually become recogn izable during adolescence or
+early adult life. By definition, a personality disorder is an enduring pattern of thinking,
+feeling, and behaving that is relatively stable  over time. Some types of personality disorder
+(notably, antisocial and borderli ne personality disorders) tend to become less evident or to
+remit with age, whereas this appears to be less true for some other types (e.g., obsessive-
+compulsive and schizotypal personality disorders).
+Personality disorder categories may be app lied with children or adolescents in those
+relatively unusual instances in which the individual’s particular maladaptive personality
+traits appear to be pervasive, persistent, an d unlikely to be limited to a particular devel-
+opmental stage or another mental disorder. It sh ould be recognized that the traits of a per-
+sonality disorder that appear in childhood will often not persist unchanged into adult life.
+For a personality disorder to be diagnosed in an individual younger than 18 years, the fea-
+tures must have been present fo r at least 1 year. The one exception to this is antisocial per-
+648 Personality Disorders
+sonality disorder, which cannot be diagnosed in individuals younger than 18 years. Al-
+though, by definition, a personality disorder requires an onset no later than early
+adulthood, individuals may not come to clinical attention until relatively late in life. A per-
+sonality disorder may be exacer bated following the loss of significant supporting persons
+(e.g., a spouse) or previously stabilizing social situations (e.g ., a job). However, the devel-
+opment of a change in person ality in middle adulthood or later life warrants a thorough
+evaluation to determine the possible presence of a personality change due to another med-
+ical condition or an unrecogn ized substance use disorder.
+Culture-Related Diagnostic Issues
+Judgments about personality functioning must take into account the in dividual’s ethnic, cul-
+tural, and social background. Personality disord ers should not be confused with problems as-
+sociated with acculturation following immigratio n or with the expressi on of habits, customs,
+or religious and political values professed by the individual’s culture of origin. It is useful for
+the clinician, especially when evaluating some one from a different background, to obtain ad-
+ditional information from informants who are fa miliar with the person’s cultural background.
+Gender-Related Diagnostic Issues
+Certain personality disorders (e.g., antisocial personality disorder) are diagnosed more
+frequently in males. Others (e.g., borderline, histrionic, and dependent personality disor-
+ders) are diagnosed more freque ntly in females. Although these differences in prevalence
+probably reflect real gender differences in the presence of such patterns, clinicians must be
+cautious not to overdiagnose or underdiagnos e certain personality disorders in females or
+in males because of social stereotypes about typical gender roles and behaviors.
+Differential Diagnosis
+Other mental disorders and personality traits. Many of the specific criteria for the per-
+sonality disorders describe features (e.g., su spiciousness, dependency, insensitivity) that
+are also characteristic of episo des of other mental disorders. A personality disorder should
+be diagnosed only when the defining characte ristics appeared before  early adulthood, are
+typical of the individual’s long-term function ing, and do not occur exclusively during an
+episode of another mental diso rder. It may be particularly difficult (and not particularly
+useful) to distinguish personality disorders from persistent mental disorders such as per-
+sistent depressive disorder that have an ea rly onset and an enduring, relatively stable
+course. Some personality diso rders may have a “spectrum” relationship to other mental
+disorders (e.g., schizotypal personality disord er with schizophrenia; avoidant personality
+disorder with social anxiety disorder [social phobia]) based on phe nomenological or bio-
+logical similarities or familial aggregation.
+Personality disorders must be distinguished from personality traits that do not reach
+the threshold for a personality disorder. Person ality traits are diagnosed as a personality
+disorder only when they are inflexible, maladaptive, and persisting and cause significant
+functional impairment or subjective distress.
+Psychotic disorders. For the three personality disorders that may be related to the psy-
+chotic disorders (i.e., paranoid, schizoid, and schizotypal), there is an exclusion criterion
+stating that the pattern of behavior must no t have occurred exclusively during the course
+of schizophrenia, a bipolar or depressive disorder with psycho tic features, or another psy-
+chotic disorder. When an individual has a pers istent mental disorder  (e.g., schizophrenia)
+that was preceded by a preexisting personalit y disorder, the personality disorder should
+also be recorded, followed by “premorbid” in parentheses.
+Anxiety and depressive disorders. The clinician must be cautious in diagnosing per-
+sonality disorders during an episode of a depressive disorder or an  anxiety disorder, be-
+Paranoid Personality Disorder 649
+cause these conditions may have cross-sectio nal symptom features that mimic personality
+traits and may make it more difficult to evaluate retrospectively the individual’s long-term
+patterns of functioning. 
+Posttraumatic stress disorder. When personality changes emerge and persist after an
+individual has been exposed to  extreme stress, a diagnosis of  posttraumatic stress disorder
+should be considered. 
+Substance use disorders. When an individual has a substance use disorder, it is impor-
+tant not to make a personality disorder diag nosis based solely on behaviors that are con-
+sequences of substance intoxication or withdraw al or that are associated with activities in
+the service of sustaining substance use (e.g., antisocial behavior). 
+Personality change due to another medical condition. When enduring changes in per-
+sonality arise as a result of the physiological effects of another medical condition (e.g.,
+brain tumor), a diagnosis of personality chan ge due to another medical condition should
+be considered.
+Cluster A Personality Disorders
+Paranoid Personality Disorder
+Diagnostic Criteria 301.0 (F60.0)
+A. A pervasive distrust and suspiciousness of others such that their motives are inter-
+preted as malevolent, beginning by early adulthood and present in a variety of con-
+texts, as indicated by four (or more) of the following:
+1. Suspects, without sufficient basis, that others are exploiting, harming, or deceiving
+him or her.
+2. Is preoccupied with unjustified doubts about the loyalty or trustworthiness of friends
+or associates.
+3. Is reluctant to confide in others because of unwarranted fear that the information
+will be used maliciously against him or her.
+4. Reads hidden demeaning or threatening meanings into benign remarks or events.
+5. Persistently bears grudges (i.e., is unforgiving of insults, injuries, or slights).
+6. Perceives attacks on his or her character or reputation that are not apparent to oth-
+ers and is quick to react angrily or to counterattack.
+7. Has recurrent suspicions, without justification, regarding fidelity of spouse or sexual
+partner.
+B. Does not occur exclusively during the course of schizophrenia, a bipolar disorder or
+depressive disorder with psychotic features, or another psychotic disorder and is not
+attributable to the physiological effects of another medical condition.
+Note: If criteria are met prior to the onset of schizophrenia, add “premorbid,” i.e., “paranoid
+personality disorder (premorbid).”
+Diagnostic Features
+The essential feature of parano id personality disorder is a pattern of pervasive distrust
+and suspiciousness of others such that their motives are interpreted as malevolent. This
+pattern begins by early adulthood and is present in a variety of contexts.
+650 Personality Disorders
+Individuals with this disorder assume that other people will exploit, harm, or deceive
+them, even if no evidence exists to support th is expectation (Criterion A1). They suspect on
+the basis of little or no eviden ce that others are plotting against them and may attack them
+suddenly, at any time and without reason. They often feel that they have been deeply and
+irreversibly injured by another person or persons even when there is no objective evidence
+for this. They are preoccupied with unjustifie d doubts about the loyalty or trustworthiness
+of their friends and associates, whose actions are minutely scrutinize d for evidence of hos-
+tile intentions (Criterion A2). Any perceived deviation from trustworthiness or loyalty
+serves to support their underlying assumptions. They are so amazed when a friend or as-
+sociate shows loyalty that they cannot trust or believe it. If they get into trouble, they ex-
+pect that friends and associates w ill either attack or ignore them.
+Individuals with paranoid personality disord er are reluctant to confide in or become
+close to others because they fear that the information they share will be used against them
+(Criterion A3). They may refuse to answer personal questions, saying that the information
+is “nobody’s business.” They read hidden meanings that are demeaning and threatening
+into benign remarks or events (Criterion A4). For example, an individual with this disor-
+der may misinterpret an honest mistake by a store clerk as a deliberate attempt to short-
+change, or view a casual humorous remark by  a co-worker as a seri ous character attack.
+Compliments are often misinterpreted (e.g.,  a compliment on a new acquisition is mis-
+interpreted as a criticism for selfishness; a compliment on an accomplishment is misinter-
+preted as an attempt to coerce more and better performance). They may view an offer of
+help as a criticism that they ar e not doing well enough on their own.
+Individuals with this disorder persistently bear grudges and are unwilling to forgive
+the insults, injuries, or slights that they th ink they have received (Criterion A5). Minor
+slights arouse major hostility, and the hostile f eelings persist for a long time. Because they
+are constantly vigilant to the harmful intentions of others, they very often feel that their
+character or reputation has been attacked or that they have been slighted in some other
+way. They are quick to counterattack and react with anger to perceived insults (Criterion
+A6). Individuals with this disorder may be pathologically jealous, often suspecting that
+their spouse or sexual partner is unfaithful without any adequate ju stification (Criterion
+A7). They may gather trivial and circumstantial  “evidence” to support  their jealous beliefs.
+They want to maintain complete control of intimate relationships to avoid being betrayed
+and may constantly question and challenge th e whereabouts, actions, intentions, and fi-
+delity of their spouse or partner.
+Paranoid personality disorder should not be diagnosed if the pattern of behavior oc-
+curs exclusively during the course of schizo phrenia, a bipolar disorder or depressive dis-
+order with psychotic features, or another psychoti c disorder, or if it is attributable to the
+physiological effects of a neurological (e.g., temporal lobe epilepsy) or another medical
+condition (Criterion B).
+Associated Features Supporting Diagnosis
+Individuals with paranoid personality disorder are generally difficult to get along with
+and often have problems with close relationsh ips. Their excessive suspiciousness and hos-
+tility may be expressed in over t argumentativeness, in recurr ent complaining, or by quiet,
+apparently hostile aloofness. Because they ar e hypervigilant for potential threats, they
+may act in a guarded, secretive, or devious manner and appear to be “cold” and lacking in
+tender feelings. Although they may appear to be objective, rational , and unemotional, they
+more often display a labile range of affect, with hostile, stub born, and sarcastic expressions
+predominating. Their combative and suspicious  nature may elicit a hostile response in
+others, which then serves to conf irm their original expectations.
+Because individuals with  paranoid personality disorder lack trust in others, they have
+an excessive need to be self-sufficient and a strong sense of autonomy. They also need to
+Paranoid Personality Disorder 651
+have a high degree of control over those around them. They are often rigid, critical of oth-
+ers, and unable to collaborate, although they  have great difficulty accepting criticism them-
+selves. They may blame others for their own shortcomings. Because of their quickness to
+counterattack in response to the threats they perceive around them, they may be litigious
+and frequently become involved in legal disputes. Individuals with this disorder seek to
+confirm their preconceived nega tive notions regarding people or situations they encounter,
+attributing malevolent motivati ons to others that are projections of their own fears. They
+may exhibit thinly hidden, unrealistic grandios e fantasies, are often attuned to issues of
+power and rank, and tend to develop negative  stereotypes of others, particularly those
+from population groups distinct from their own. Attracted by simplistic formulations of the
+world, they are often wary of  ambiguous situations. They ma y be perceived as “fanatics”
+and form tightly knit “cults” or  groups with others who share their paranoid belief systems.
+Particularly in response to stress, individu als with this disorder may experience very
+brief psychotic episodes (lasting minutes to hour s). In some instances, paranoid personal-
+ity disorder may appear as the premorbid ante cedent of delusional disorder or schizo-
+phrenia. Individuals with paranoid personal ity disorder may deve lop major depressive
+disorder and may be at increased risk fo r agoraphobia and obsessive-compulsive dis-
+order. Alcohol and other substance use disord ers frequently occur. The most common co-
+occurring personality disorders appear to be schizotypal, schizoid, narcissistic, avoidant,
+and borderline.
+Prevalence
+A prevalence estimate for paranoid personality based on a probability subsample from
+Part II of the National Comorbidity Survey Replication suggests a prevalence of 2.3%,
+while the National Epidemiologic Survey on Alcohol and Related Conditions data suggest
+a prevalence of paranoid personality disorder of 4.4%.
+Development and Course 
+Paranoid personality disorder may be first apparent in childhood and adolescence with
+solitariness, poor peer relationships, social anxiety, underachievement in school, hyper-
+sensitivity, peculiar thoughts and language, and idiosyncratic fantasies. These children
+may appear to be “odd” or “eccentric” and attr act teasing. In clinical samples, this disorder
+appears to be more commonly diagnosed in males.
+Risk and Prognostic Factors
+Genetic and physiological. There is some evidence for an increased prevalence of par-
+anoid personality disorder in relatives of probands with schizophrenia and for a more spe-
+cific familial relationship with delusional disorder, persecutory type.
+Culture-Related Diagnostic Issues
+Some behaviors that are influenced by sociocultural contexts or specific life circumstances
+may be erroneously labeled paranoid and may ev en be reinforced by the process of clinical
+evaluation. Members of minority groups, immi grants, political and economic refugees, or
+individuals of different ethnic backgrounds may display guarded or defensive behaviors
+because of unfamiliarity (e.g., language barriers or lack of knowledge of rules and regula-
+tions) or in response to the perceived neglect or indifference of the majority society. These
+behaviors can, in turn, generate anger and fr ustration in those who deal with these indi-
+viduals, thus setting up a vicious cycle of mutual mistrust, which should not be confused
+with paranoid personality diso rder. Some ethnic groups also display culturally related be-
+haviors that can be misinterpreted as paranoid.
+652 Personality Disorders
+Differential Diagnosis
+Other mental disorders with psychotic symptoms. Paranoid personality disorder can
+be distinguished from delusional disorder, pe rsecutory type; schizophrenia; and a bipolar or
+depressive disorder with psychotic features be cause these disorders are all characterized by a
+period of persistent psychotic symptoms (e.g., delusions and hallucinations). For an additional
+diagnosis of paranoid personality disorder to be given, the personal ity disorder must have
+been present before the onset of psychotic sy mptoms and must persist when the psychotic
+symptoms are in remission. When an individual has another persistent mental disorder (e.g.,
+schizophrenia) that was preceded by paranoid personality disorder, paranoid personality dis-
+order should also be recorded, follo wed by “premorbid” in parentheses.
+Personality change due to another medical condition. Paranoid personality disorder
+must be distinguished from personality ch ange due to another medical condition, in
+which the traits that emerge ar e attributable to the direct effects of another medical condi-
+tion on the central nervous system. 
+Substance use disorders. Paranoid personality disorder  must be distinguished from
+symptoms that may develop in associat ion with persistent substance use. 
+Paranoid traits associated with physical handicaps. The disorder must also be distin-
+guished from paranoid traits associated with  the development of physical handicaps (e.g.,
+a hearing impairment).
+Other personality disorders and personality traits. Other personality disorders may be
+confused with paranoid person ality disorder because they ha ve certain features in common.
+It is therefore important to distinguish among these disorders based on differences in their
+characteristic features. However, if an individu al has personality features that meet criteria
+for one or more personality disorders in additi on to paranoid personality disorder, all can be
+diagnosed. Paranoid personality disorder an d schizotypal personality disorder share the
+traits of suspiciousness, interpersonal aloofne ss, and paranoid ideati on, but schizotypal per-
+sonality disorder also includes symptoms such as magical thinking, unusual perceptual ex-
+periences, and odd thinking and speech. Indivi duals with behaviors th at meet criteria for
+schizoid personality disorder ar e often perceived as strange, ec centric, cold, and aloof, but
+they do not usually have prominent paranoid ideation. The tendency of individuals with
+paranoid personality disorder to react to minor stimuli with anger is also seen in borderline
+and histrionic personality disorders. However, these disord ers are not necessarily associ-
+ated with pervasive suspiciousness. People with avoidant personality disorder may also be
+reluctant to confide in others, but more from fear of being embarrassed or found inadequate
+than from fear of others’ malicious intent. Although antisocial behavior may be present in
+some individuals with paranoid personality diso rder, it is not usually motivated by a desire
+for personal gain or to exploit others as in an tisocial personality diso rder, but rather is more
+often attributable to a desire for revenge. In dividuals with narcissistic personality disorder
+may occasionally display suspiciousness, social withdrawal, or alienation, but this derives
+primarily from fears of having thei r imperfections or flaws revealed. 
+Paranoid traits may be adaptive, particul arly in threatening environments. Paranoid
+personality disorder should be  diagnosed only when these tr aits are inflexible, maladap-
+tive, and persisting and cause significant functional impairment or subjective distress.
+Schizoid Personality Disorder
+Diagnostic Criteria 301.20 (F60.1)
+A. A pervasive pattern of detachment from social relationships and a restricted range of
+expression of emotions in interpers onal settings, beginning by early adulthood and
+present in a variety of contexts, as indicated by four (or more) of the following:
+Schizoid Personality Disorder 653
+1. Neither desires nor enjoys close relationships, including being part of a family.
+2. Almost always chooses solitary activities.
+3. Has little, if any, interest in having sexual experiences with another person.
+4. Takes pleasure in few, if any, activities.
+5. Lacks close friends or confidants other than first-degree relatives.
+6. Appears indifferent to the praise or criticism of others.
+7. Shows emotional coldness, detachment, or flattened affectivity.
+B. Does not occur exclusively during the course of schizophrenia, a bipolar disorder or
+depressive disorder with psychotic features, another psychotic disorder, or autism
+spectrum disorder and is not attributable to the physiological effects of another medical
+condition.
+Note: If criteria are met prior to the onset of schizophrenia, add “premorbid,” i.e., “schiz-
+oid personality disorder (premorbid).”
+Diagnostic Features
+The essential feature of schizo id personality disorder is a pe rvasive pattern of detachment
+from social relationships and a restricted range of expression of emotions in interpersonal
+settings. This pattern begins by early adulth ood and is present in a variety of contexts.
+Individuals with schizoid personality disord er appear to lack a desire for intimacy,
+seem indifferent to opportunities to develop close relationships, and do not seem to derive
+much satisfaction from being part of a family or other social group (Criterion A1). They
+prefer spending time by themselves, rather than being with other people. They often ap-
+pear to be socially isolated or “loners” and al most always choose solitary activities or hob-
+bies that do not include interaction with others (Criterion A2). They prefer mechanical or
+abstract tasks, such as computer or mathemat ical games. They may have very little interest
+in having sexual experiences with another person (Criterion A3) and take pleasure in few,
+if any, activities (Criterion A4). There is usually a reduced experience of pleasure from sen-
+sory, bodily, or interpersonal ex periences, such as walking on a beach at sunset or having
+sex. These individuals have no  close friends or confidants, except possibly a first-degree
+relative (Criterion A5).
+Individuals with schizoid personality disord er often seem indifferent to the approval
+or criticism of others and do not appear to be bothered by what others may think of them
+(Criterion A6). They may be oblivious to the no rmal subtleties of social interaction and of-
+ten do not respond appropriately to social cues so that they seem socially inept or super-
+ficial and self-absorbed. They usually displa y a “bland” exterior without visible emotional
+reactivity and rarely reciprocate gestures or facial expressions, such as smiles or nods (Cri-
+terion A7). They claim that they rarely expe rience strong emotions such as anger and joy.
+They often display a constricted affect and ap pear cold and aloof. However, in those very
+unusual circumstances in which these indivi duals become at least temporarily comfort-
+able in revealing themselves, they may ackn owledge having painful feelings, particularly
+related to social interactions.
+Schizoid personality disorder should not be diagnosed if th e pattern of behavior occurs
+exclusively during the course of schizophrenia , a bipolar or depressive disorder with psy-
+chotic features, another psychotic disorder, or au tism spectrum disorder, or if it is attrib-
+utable to the physiological effects of a neurological (e.g., temporal lobe epilepsy) or another
+medical condition (Criterion B).
+Associated Features Supporting Diagnosis
+Individuals with schizoid personality disord er may have particular difficulty expressing
+anger, even in response to direct provocation, which contributes to  the impression that
+654 Personality Disorders
+they lack emotion. Their lives sometimes se em directionless, an d they may appear to
+“drift” in their goals. Such individuals ofte n react passively to adverse circumstances and
+have difficulty responding appropriately to im portant life events. Because of their lack of
+social skills and lack of desire for sexual experiences, individuals with this disorder have
+few friendships, date infreque ntly, and often do not marry. Occupational functioning may
+be impaired, particularly if interpersonal involvement is required, but individuals with
+this disorder may do well when they work un der conditions of soci al isolation. Particu-
+larly in response to stress, individuals with this disorder may experience very brief psy-
+chotic episodes (lasting minutes to hours) . In some instances, schizoid personality
+disorder may appear as the pr emorbid antecedent of delusional disorder or schizophre-
+nia. Individuals with this disorder may so metimes develop major depressive disorder.
+Schizoid personality disorder most often co-occurs with schi zotypal, paranoid, and avoid-
+ant personality disorders.
+Prevalence
+Schizoid personality disorder is uncommon in clinical settings. A prevalence estimate for
+schizoid personality based on a probability su bsample from Part II of the National Co-
+morbidity Survey Replication suggests a pr evalence of 4.9%. Data from the 2001–2002
+National Epidemiologic Survey on Alcohol and Related Conditions suggest a prevalence of
+3.1%.
+Development and Course
+Schizoid personality disorder may be first apparent in childhood  and adolescence with
+solitariness, poor peer relationships, and underachievement in school, which mark these
+children or adolescents as different and make them subject to teasing.
+Risk and Prognostic Factors
+Genetic and physiological. Schizoid personality disorder may have increased preva-
+lence in the relatives of individuals with schizophrenia or schizotypa l personality disorder.
+Culture-Related Diagnostic Issues
+Individuals from a variety of cultural bac kgrounds sometimes exhibit defensive behaviors
+and interpersonal styles that may be erroneously labeled as “schizoid.” For example, those
+who have moved from rural to metropolitan  environments may react with “emotional
+freezing” that may last for several months and manifest as solitary activities, constricted
+affect, and other deficits in communication. Immigrants from other countries are some-
+times mistakenly perceived as cold, hostile, or indifferent.
+Gender-Related Diagnostic Issues
+Schizoid personality disorder is diagnosed slightly more often in males and may cause
+more impairment in them.
+Differential Diagnosis
+Other mental disorders with psychotic symptoms. Schizoid persona lity disorder can
+be distinguished from delusional disorder, sc hizophrenia, and a bipolar or depressive dis-
+order with psychotic features because these d isorders are all characterized by a period of
+persistent psychotic symptoms (e .g., delusions and hallucinations). To give an additional
+diagnosis of schizoid personality disorder, the personality disorder must have been present
+before the onset of psychotic symptoms an d must persist when the psychotic symptoms
+Schizotypal Personality Disorder 655
+are in remission. When an individual has a pe rsistent psychotic diso rder (e.g., schizophre-
+nia) that was preceded by schizoid person ality disorder, schizoid personality disorder
+should also be recorded, followe d by “premorbid” in parentheses.
+Autism spectrum disorder. There may be great difficulty di fferentiating individuals with
+schizoid personality disorder from those with milder forms of autism spectrum disorder,
+which may be differentiated by more severely  impaired social inte raction and stereotyped
+behaviors and interests.
+Personality change due to another medical condition. Schizoid personality disorder
+must be distinguished from personality ch ange due to another medical condition, in
+which the traits that emerge ar e attributable to the effects of another medical condition on
+the central nervous system. 
+Substance use disorders. Schizoid personality disorder must also be distinguished
+from symptoms that may develop in a ssociation with persistent substance use.
+Other personality disorder s and personality traits. Other personality disorders may be
+confused with schizoid personality disorder because they have certain features in com-
+mon. It is, therefore, import ant to distinguish among these disorders based on differences
+in their characteristic features. However, if an individual has personality features that
+meet criteria for one or  more personality disorders in addition to schizoid personality dis-
+order, all can be diagnosed. Although characteri stics of social isolation and restricted af-
+fectivity are common to schizoid, schizotypal, and paranoid personality disorders,
+schizoid personality disorder can be distin guished from schizotypa l personality disorder
+by the lack of cognitive and perceptual dist ortions and from paranoid personality disorder
+by the lack of suspiciousness and paranoid ideation. The social isolation of schizoid per-
+sonality disorder can be distinguished from th at of avoidant personality disorder, which is
+attributable to fear of being embarrassed or  found inadequate and excessive anticipation
+of rejection. In contrast, people with schizoid personality disorder have a more pervasive
+detachment and limited desire for social in timacy. Individuals with obsessive-compulsive
+personality disorder may also show an apparent social detachment stemming from devo-
+tion to work and discomfort wi th emotions, but they do have  an underlying capacity for
+intimacy.
+Individuals who are “loners” may display pe rsonality traits that might be considered
+schizoid. Only when these trai ts are inflexible and maladaptive and cause significant func-
+tional impairment or subjective distress do they constitute schizoid personality disorder.
+Schizotypal Personality Disorder
+Diagnostic Criteria 301.22 (F21)
+A. A pervasive pattern of social and interpersonal deficits marked by acute discomfort
+with, and reduced capacity for, close relationships as well as by cognitive or perceptual
+distortions and eccentricities of behavior, beginning by early adulthood and present in
+a variety of contexts, as indicated by five (or more) of the following:
+1. Ideas of reference (excluding delusions of reference).
+2. Odd beliefs or magical thinking that influences behavior and is inconsistent with
+subcultural norms (e.g., superstitiousness, belief in clairvoyance, telepathy, or
+“sixth sense”; in children and adolescents,  bizarre fantasies or preoccupations).
+3. Unusual perceptual experiences, including bodily illusions.
+4. Odd thinking and speech (e.g., vague, circumstantial, metaphorical, overelaborate,
+or stereotyped).
+5. Suspiciousness or paranoid ideation.
+656 Personality Disorders
+6. Inappropriate or constricted affect.
+7. Behavior or appearance that is odd, eccentric, or peculiar.
+8. Lack of close friends or confidants other than first-degree relatives.
+9. Excessive social anxiety that does not diminish with familiarity and tends to be as-
+sociated with paranoid fears rather than negative judgments about self.
+B. Does not occur exclusively during the course of schizophrenia, a bipolar disorder or
+depressive disorder with psychotic features, another psychotic disorder, or autism
+spectrum disorder.
+Note:  If criteria are met prior to the onset of schizophrenia, add “premorbid,” e.g., “schizo-
+typal personality disorder (premorbid).”
+Diagnostic Features
+The essential feature of schizo typal personality disorder is a pervasive pattern of social
+and interpersonal deficits ma rked by acute discomfort with, and reduced capacity for,
+close relationships as well as by cognitive or pe rceptual distortions and eccentricities of be-
+havior. This pattern begins by early adulthoo d and is present in a variety of contexts.
+Individuals with schizotypal personality disord er often have ideas of reference (i.e., in-
+correct interpretations of casual incidents and external events as having a particular and
+unusual meaning specifically for the person ) (Criterion A1). Th ese should be distin-
+guished from delusions of reference, in whic h the beliefs are held with delusional convic-
+tion. These individuals may be superstitiou s or preoccupied with paranormal phenomena
+that are outside the norms of their subculture (Criterion A2). They may feel that they have
+special powers to sense events before they happen or to read others’ thoughts. They may
+believe that they have magical control over  others, which can be implemented directly
+(e.g., believing that their spouse’s taking the do g out for a walk is the direct result of think-
+ing an hour earlier it should be done) or in directly through compli ance with magical rit-
+uals (e.g., walking past a specific object three times to avoid a certain harmful outcome).
+Perceptual alterations may be present (e.g., se nsing that another person is present or hear-
+ing a voice murmuring his or her name) (Criterion A3). Their speech may include unusual
+or idiosyncratic phrasing and construction. It is often loose, digressive, or vague, but with-
+out actual derailment or incoherence (Criteri on A4). Responses can be either overly con-
+crete or overly abstract, and words or conc epts are sometimes applied in unusual ways
+(e.g., the individual may state that he  or she was not “talkable” at work).
+Individuals with this disorder are often suspicious and may have paranoid ideation
+(e.g., believing their colleagues at work ar e intent on undermining their reputation with
+the boss) (Criterion A5). They are usually not able to negotiate the fu ll range of affects and
+interpersonal cuing required fo r successful relationships and thus often appear to interact
+with others in an inappropriate, stiff, or constricted fashion (Criterion A6). These individ-
+uals are often considered to be odd or ecce ntric because of unusual mannerisms, an often
+unkempt manner of dress that does not quite “fit together,” and inattention to the usual
+social conventions (e.g., the in dividual may avoid eye contact, wear clothes that are ink
+stained and ill-fitting, and be unable to join in the give-and-take banter of co-workers)
+(Criterion A7).
+Individuals with schizotypal personality di sorder experience in terpersonal related-
+ness as problematic and are uncomfortable relating to other people. Although they may
+express unhappiness about their lack of relationships, their behavior suggests a decreased
+desire for intimate contacts. As a result, they  usually have no or few close friends or con-
+fidants other than a first-degree relative (Cri terion A8). They are anxious in social situa-
+tions, particularly those invo lving unfamiliar people (Crite rion A9). They will interact
+with other individuals when they have to but prefer to keep to themselves because they
+feel that they are different and just do not “fit  in.” Their social anxiety does not easily abate,
+Schizotypal Personality Disorder 657
+even when they spend more time in the setti ng or become more fa miliar with the other
+people, because their anxiety tends to be assoc iated with suspiciousness regarding others’
+motivations. For example, when attending a dinner party, the individual with schizotypal
+personality disorder will not become more rela xed as time goes on, but rather may become
+increasingly tense and suspicious.
+Schizotypal personality disorder should not be diagnosed if the pattern of behavior oc-
+curs exclusively during the course of schizo phrenia, a bipolar or de pressive disorder with
+psychotic features, another psychotic disorder, or autism spectrum disorder (Criterion B).
+Associated Features Supporting Diagnosis
+Individuals with schizotypal personality diso rder often seek treatment for the associated
+symptoms of anxiety or depression rather than for the personality disorder features per se.
+Particularly in response to stress, individual s with this disorder may experience transient
+psychotic episodes (lasting minutes to hours), although they usually are insufficient in du-
+ration to warrant an additional diagnosis such  as brief psychotic disorder or schizophreni-
+form disorder. In some cases, clinically sig nificant psychotic symptoms may develop that
+meet criteria for brief psychotic disorder, sc hizophreniform disorder, delusional disorder,
+or schizophrenia. Over half may have a hist ory of at least one ma jor depressive episode.
+From 30% to 50% of individuals diagnosed with  this disorder have a concurrent diagnosis
+of major depressive disorder when admitted to  a clinical setting. There is considerable co-
+occurrence with schizoid, paranoid, avoi dant, and borderline personality disorders.
+Prevalence
+In community studies of schizotypal personality disorder, reported rates range from 0.6%
+in Norwegian samples to 4.6% in a U.S. commu nity sample. The prevalence of schizotypal
+personality disorder in clinical populations seems to be infrequent (0%–1.9%), with a
+higher estimated prevalence in the general population (3.9%) found in the National Epi-
+demiologic Survey on Alco hol and Related Conditions.
+Development and Course
+Schizotypal personality disorder has a relative ly stable course, with only a small propor-
+tion of individuals going on to develop sc hizophrenia or another psychotic disorder.
+Schizotypal personality disorder may be firs t apparent in childhood and adolescence with
+solitariness, poor peer relationships, social anxiety, underachievement in school, hyper-
+sensitivity, peculiar thoughts and language, an d bizarre fantasies. These children may ap-
+pear “odd” or “eccentric” and attract teasing. 
+Risk and Prognostic Factors
+Genetic and physiological. Schizotypal personality disord er appears to aggregate fa-
+milially and is more prevalent among the firs t-degree biological relatives of individuals
+with schizophrenia than among the general po pulation. There may also be a modest in-
+crease in schizophrenia and other psychotic disorders in the relatives of probands with
+schizotypal personality disorder.
+Cultural-Related Diagnostic Issues
+Cognitive and perceptual distortions must be evaluated in the context of the individual’s
+cultural milieu. Pervasive cultur ally determined characteristic s, particularly those regard-
+ing religious beliefs and rituals, can appear to be schizotypal to the uninformed outsider
+(e.g., voodoo, speaking in tongues, life beyo nd death, shamanism, mind reading, sixth
+sense, evil eye, magical beliefs related to health and illness).
+658 Personality Disorders
+Gender-Related Diagnostic Issues
+Schizotypal personality disorder may be slightly more common in males.
+Differential Diagnosis
+Other mental disorders with psychotic symptoms. Schizotypal personality disorder
+can be distinguished from de lusional disorder, schizophrenia , and a bipolar or depressive
+disorder with psychotic features because thes e disorders are all characterized by a period
+of persistent psychotic symptoms (e.g., delu sions and hallucinations). To give an addi-
+tional diagnosis of schizotypal personality disorder, the personality disorder must have
+been present before the onset of psychoti c symptoms and persis t when the psychotic
+symptoms are in remission. Wh en an individual has a persist ent psychotic disorder (e.g.,
+schizophrenia) that was preceded by schizo typal personality disorder, schizotypal per-
+sonality disorder should also  be recorded, followed by “premorbid” in parentheses.
+Neurodevelopmental disorders. There may be great difficulty differentiating children
+with schizotypal personality disorder from the heterogeneous group of solitary, odd chil-
+dren whose behavior is characterized by mark ed social isolation, eccentricity, or peculiar-
+ities of language and whose diagnoses woul d probably include milder forms of autism
+spectrum disorder or language communicat ion disorders. Commun ication disorders may
+be differentiated by the primacy and severity of the disorder in language and by the char-
+acteristic features of impaired language found in a specialized language assessment.
+Milder forms of autism spectrum disorder are differentiated by the even greater lack of so-
+cial awareness and emotional reciprocity and stereotyped behaviors and interests.
+Personality change due to another medical condition. Schizotypal personality disor-
+der must be distinguished from personality change due to another medical condition, in
+which the traits that emerge ar e attributable to the effects of another medical condition on
+the central nervous system. 
+Substance use disorders. Schizotypal personality disorder  must also be distinguished
+from symptoms that may develop in a ssociation with persistent substance use.
+Other personality disorders and personality traits. Other personality disorders may
+be confused with schizotypal personality diso rder because they have certain features in
+common. It is, therefore, important to distin guish among these disorders based on differ-
+ences in their characteristic features. However, if an individual has personality features
+that meet criteria for one or more personality disorders in addition to schizotypal person-
+ality disorder, all can be diagnosed. Although paranoid and schizoid personality disor-
+ders may also be characterized by social de tachment and restricted affect, schizotypal
+personality disorder can be distinguished fr om these two diagnoses by the presence of
+cognitive or perceptual distortions and marked eccentricity or oddn ess. Close relation-
+ships are limited in both schizotypal person ality disorder and avoidant personality dis-
+order; however, in avoidant personality disorder an active desire for relationships is
+constrained by a fear of rejection, whereas in schizotypal personality disorder there is
+a lack of desire for relationships and persis tent detachment. Indivi duals with narcissistic
+personality disorder may also display suspic iousness, social withdrawal, or alienation,
+but in narcissistic personality disorder these qualities derive primarily from fears of hav-
+ing imperfections or flaws revealed. Individu als with borderline personality disorder may
+also have transient, psychotic-like symptoms, but these are usually more closely related to
+affective shifts in response to  stress (e.g., intense anger, anxiety, disappointment) and are
+usually more dissociative (e.g., derealization, depersonalization). In contrast, individuals
+with schizotypal personality disorder are more likely to have enduring psychotic-like symp-
+toms that may worsen under stress but are less  likely to be invariably associated with pro-
+nounced affective symptoms. Although social isolation may occur in borderline personality
+Antisocial Personality Disorder 659
+disorder, it is usually secondary to repeated  interpersonal failures due to angry outbursts
+and frequent mood shifts, rather than a result of a persistent lack of social contacts and de-
+sire for intimacy. Furt hermore, individuals with schizoty pal personality disorder do not
+usually demonstrate the impulsiv e or manipulative behaviors of the individual with bor-
+derline personality diso rder. However, there is a high ra te of co-occurren ce between the
+two disorders, so that making such distinctions is not always  feasible. Schizotypal features
+during adolescence may be reflective of transi ent emotional turmoil, rather than an endur-
+ing personality disorder.
+Cluster B Personality Disorders
+Antisocial Personality Disorder
+Diagnostic Criteria 301.7 (F60.2)
+A. A pervasive pattern of disregard for and violation of the rights of others, occurring since
+age 15 years, as indicated by three (or more) of the following:
+1. Failure to conform to social norms with respect to lawful behaviors, as indicated by
+repeatedly performing acts that are grounds for arrest.
+2. Deceitfulness, as indicated by repeated lying, use of aliases, or conning others for
+personal profit or pleasure.
+3. Impulsivity or failure to plan ahead.
+4. Irritability and aggressiveness, as indicated by repeated physical fights or assaults.
+5. Reckless disregard for safety of self or others.
+6. Consistent irresponsibility, as indicated by repeated failure to sustain consistent
+work behavior or honor financial obligations.
+7. Lack of remorse, as indicated by being indifferent to or rationalizing having hurt,
+mistreated, or stolen from another.
+B. The individual is at least age 18 years.
+C. There is evidence of conduct disorder with onset before age 15 years.
+D. The occurrence of antisocial behavior is not exclusively during the course of schizo-
+phrenia or bipolar disorder.
+Diagnostic Features
+The essential feature of antisocial personality disorder is a pervasive pattern of disregard
+for, and violation of, the rights of others that  begins in childhood or early adolescence and
+continues into adulthood. This pattern  has also been referred to as psychopathy, sociopathy,
+or dyssocial personality disorder.  Because deceit and manipulation are central features of an-
+tisocial personality disorder, it  may be especially helpful to  integrate information acquired
+from systematic clinical assessment with information collected from collateral sources.
+For this diagnosis to be given, the individual  must be at least age 18 years (Criterion B)
+and must have had a history of some symptoms of conduct disorder before age 15 years
+(Criterion C). Conduct disorder involves a repe titive and persistent pattern of behavior in
+which the basic rights of othe rs or major age-appropriate societal norms or rules are vio-
+lated. The specific behaviors characteristic of  conduct disorder fall into one of four cate-
+gories: aggression to people and animals, destruction of proper ty, deceitfulness or theft, or
+serious violation of rules. 
+660 Personality Disorders
+The pattern of antisocial behavior continues into adulthood. Indi viduals with antiso-
+cial personality disorder fail to conform to social norms with respect to lawful behavior
+(Criterion A1). They may repeatedly perfor m acts that are grounds for arrest (whether
+they are arrested or not), such as destroying  property, harassing ot hers, stealing, or pur-
+suing illegal occupations. Persons with this di sorder disregard the wishes, rights, or feel-
+ings of others. They are freq uently deceitful and manipulative in order to gain personal
+profit or pleasure (e.g., to obtain money, sex,  or power) (Criterion A2). They may repeat-
+edly lie, use an alias, con others, or malinger. A pattern of impulsiv ity may be manifested
+by a failure to plan ahead (Criterion A3). Decisions are made on the spur of the moment,
+without forethought and without consideration fo r the consequences to self or others; this
+may lead to sudden changes of jobs, residences , or relationships. Individuals with antiso-
+cial personality disorder tend to be irrita ble and aggressive and may repeatedly get into
+physical fights or commit acts of physical assau lt (including spouse beating or child beat-
+ing) (Criterion A4). (Aggressive acts that are required to defend oneself or someone else
+are not considered to be evidence for this it em.) These individuals also display a reckless
+disregard for the safety of themselves or othe rs (Criterion A5). This may be evidenced in
+their driving behavior (i.e., recurrent speedi ng, driving while intoxicated, multiple acci-
+dents). They may engage in sexual behavior or  substance use that has a high risk for harm-
+ful consequences. They may neglec t or fail to care for a child in a way that puts the child in
+danger.
+Individuals with antisocial personality disord er also tend to be consistently and ex-
+tremely irresponsible (Criterion A6). Irrespon sible work behavior may be indicated by sig-
+nificant periods of unemployme nt despite available job opportunities, or by abandonment
+of several jobs without a realistic plan for ge tting another job. There may also be a pattern
+of repeated absences fr om work that are not explained by illness either in themselves or in
+their family. Financial irresponsibility is indicated by acts such as defaulting on debts, fail-
+ing to provide child support, or  failing to support other dependents on a regular basis. In-
+dividuals with antisocial personality disorder  show little remorse for the consequences of
+their acts (Criterion A7). They  may be indifferent to, or provide a superficial rationaliza-
+tion for, having hurt, mistreated, or stolen from someone (e.g., “life’s unfair,” “losers de-
+serve to lose”). These individuals may blame the victims for being foolish, helpless, or
+deserving their fate (e.g., “he had it coming  anyway”); they may minimize the harmful
+consequences of their actions; or they may simply indicate complete indifference. They
+generally fail to compensate or make amends  for their behavior. They may believe that
+everyone is out to “help number one” and that  one should stop at nothing to avoid being
+pushed around.
+The antisocial behavior must not occur excl usively during the course of schizophrenia
+or bipolar disorder (Criterion D).
+Associated Features Supporting Diagnosis
+Individuals with antisocial personality disord er frequently lack empathy and tend to be
+callous, cynical, and contempt uous of the feelings, rights, and sufferings of others. They
+may have an inflated and arrogant self-appraisa l (e.g., feel that ordinary work is beneath
+them or lack a realistic concern about their current problems or th eir future) and may be
+excessively opinionated, self-assured, or coc ky. They may display a glib, superficial charm
+and can be quite voluble and verbally facile (e.g., using technical terms or jargon that
+might impress someone who is unfamiliar with th e topic). Lack of empathy, inflated self-
+appraisal, and superficial charm are features that have been commonly included in tradi-
+tional conceptions of psychopathy that may be  particularly distinguishing of the disorder
+and more predictive of recidivism in prison  or forensic settings, where criminal, delin-
+quent, or aggressive acts are likely to be no nspecific. These individuals may also be irre-
+sponsible and exploitative in their sexual re lationships. They may have a history of many
+Antisocial Personality Disorder 661
+sexual partners and may never have sustained a monogamous relationship. They may be
+irresponsible as parents, as evidenced by maln utrition of a child, an illness in the child re-
+sulting from a lack of minimal hygiene, a ch ild’s dependence on neighbors or nonresident
+relatives for food or shelter, a failure to arrange for a caretaker for a young child when the
+individual is away from home, or repeated squandering of money required for household
+necessities. These individuals may receive di shonorable discharges from the armed ser-
+vices, may fail to be self-supporting, may be come impoverished or even homeless, or may
+spend many years in penal institutions. Indi viduals with antisocial personality disorder
+are more likely than people in the general po pulation to die prematurely by violent means
+(e.g., suicide, accidents, homicides).
+Individuals with antisocial personality disorder may also experience dysphoria, in-
+cluding complaints of tension, inability to  tolerate boredom, and depressed mood. They
+may have associated anxiety disorders, depressive disorders, substa nce use disorders, so-
+matic symptom disorder, gambli ng disorder, and other disord ers of impulse control. In-
+dividuals with antisocial personality disorder  also often have personality features that
+meet criteria for other personality disorders,  particularly borderline, histrionic, and nar-
+cissistic personality disorders. The likelihood  of developing antisocial personality disor-
+der in adult life is increased if the indivi dual experienced childhood onset of conduct
+disorder (before age 10 years) and accompanyi ng attention-deficit/hyperactivity disorder.
+Child abuse or neglect, unstable or erratic parenting, or inconsistent parental discipline
+may increase the likelihood that conduct disord er will evolve into antisocial personality
+disorder.
+Prevalence
+Twelve-month prevalence rates of antisocial personality diso rder, using criteria from pre-
+vious DSMs, are between 0.2% and 3.3%. The highest prevalence of antisocial personality
+disorder (greater than 70%) is among most se vere samples of males with alcohol use dis-
+order and from substance abuse clinics, prison s, or other forensic settings. Prevalence is
+higher in samples affected by adverse socioeconomic (i.e., poverty) or sociocultural (i.e.,
+migration) factors.
+Development and Course
+Antisocial personality disorder has a chronic course but may become less evident or remit
+as the individual grows older, particularly by the fourth deca de of life. Although this re-
+mission tends to be particularly evident with respect to engaging in criminal behavior,
+there is likely to be a decrease in the full spectrum of antisocial behaviors and substance
+use. By definition, antisocial personalit y cannot be diagnosed before age 18 years.
+Risk and Prognostic Factors
+Genetic and physiological. Antisocial personality disorder  is more common among the
+first-degree biological relatives of those with the disorder than in the general population.
+The risk to biological relatives of females with  the disorder tends to be higher than the risk
+to biological relatives of males with the disorder. Biological  relatives of individuals with
+this disorder are also at in creased risk for somatic symptom disorder and substance use
+disorders. Within a family that has a member with antisocial personality disorder, males
+more often have antisocial personality disord er and substance use disorders, whereas fe-
+males more often have somatic symptom disorder. However, in such families, there is an
+increase in prevalence of al l of these disorders in both males and females compared with
+the general population. Adoption studies indi cate that both genetic and environmental
+factors contribute to the risk of developing antisocial personality disorder. Both adopted
+and biological children of parents with antisocial personality disorder have an increased
+662 Personality Disorders
+risk of developing antisocial personality disorder, somatic symptom disorder, and sub-
+stance use disorders. Adopted-away children resemble their biological parents more than
+their adoptive parents,  but the adoptive family environm ent influences the risk of devel-
+oping a personality disorder and related psychopathology.
+Culture-Related Diagnostic Issues
+Antisocial personality disorder appears to be associated with low socioeconomic status
+and urban settings. Concerns have been raised  that the diagnosis may at times be misap-
+plied to individuals in settings in which seemingly antisocial behavior may be part of a
+protective survival stra tegy. In assessing antisocial traits, it is helpful for the clinician to
+consider the social and economic co ntext in which the behaviors occur.
+Gender-Related Diagnostic Issues
+Antisocial personality disorder is much more common in males than in females. There has
+been some concern that antisocial persona lity disorder may be underdiagnosed in fe-
+males, particularly because of the emphasis on  aggressive items in the definition of con-
+duct disorder.
+Differential Diagnosis
+The diagnosis of antisocial personality disorder is not given to individuals younger than
+18 years and is given only if there is a histor y of some symptoms of conduct disorder be-
+fore age 15 years. For individuals older than 18 years, a diagnosis of conduct disorder is
+given only if the criteria for antiso cial personality disorder are not met.
+Substance use disorders. When antisocial behavior in an adult is associated with a
+substance use disorder, the diagnosis of antisoci al personality disorder is not made unless
+the signs of antisocial personality disorder were also present in childhood and have con-
+tinued into adulthood. When substance use and antisocial behavior both began in childhood
+and continued into adulthood, both a substance use disorder  and antisocial personality
+disorder should be diagnosed if the criteria fo r both are met, even though some antisocial
+acts may be a consequence of the substance us e disorder (e.g., illegal selling of drugs, thefts
+to obtain money for drugs).
+Schizophrenia and bipolar disorders. Antisocial behavior that  occurs exclusively dur-
+ing the course of schizophrenia or a bipolar disorder should not be diagnosed as antisocial
+personality disorder. 
+Other personality disorders. Other personality disorders may be confused with antiso-
+cial personality disorder because they have certain features in common. It is therefore im-
+portant to distinguish among these disorders based on differences in their characteristic
+features. However, if an indivi dual has personality features that meet criteria for one or
+more personality disorders in addition to antisocial personality disorder, all can be diag-
+nosed. Individuals with antisocial personalit y disorder and narcissistic personality disor-
+der share a tendency to be tough-minded, glib , superficial, exploitative, and lack empathy.
+However, narcissistic personality disorder does not include ch aracteristics of impulsivity,
+aggression, and deceit. In addition, individuals with antisocial personality disorder may
+not be as needy of the admiration and envy of others, and persons with narcissistic per-
+sonality disorder usually lack the history of  conduct disorder in childhood or criminal
+behavior in adulthood. Indivi duals with antisocial personality disorder and histrionic
+personality disorder share a tendency to be impulsive, superficial,  excitement seeking,
+reckless, seductive, and manipulative, but pe rsons with histrionic personality disorder
+tend to be more exaggerated in their emotions  and do not characteristically engage in an-
+tisocial behaviors. Individuals with histrion ic and borderline pers onality disorders are
+Borderline Personality Disorder 663
+manipulative to gain nurturance, whereas thos e with antisocial personality disorder are
+manipulative to gain profit, po wer, or some other material gratification. Individuals with
+antisocial personality disorder tend to be less emotionally unstable and more aggressive
+than those with borderline personality disorder. Although antisocial behavior may be
+present in some individuals with paranoid pe rsonality disorder, it is not usually moti-
+vated by a desire for personal gain  or to exploit others as in antisocial personality disorder,
+but rather is more often attributable to a desire for revenge.
+Criminal behavior not associated  with a personality disorder. Antisocial personality
+disorder must be distinguished from criminal behavior undertaken for gain that is not ac-
+companied by the personality features characteristic of this disorder. Only when antisocial
+personality traits are inflexible, maladaptive, and persistent and cause significant func-
+tional impairment or subjective distress do th ey constitute antisocial personality disorder.
+Borderline Personality Disorder
+Diagnostic Criteria 301.83 (F60.3)
+A pervasive pattern of instability of interpersonal relationships, self-image, and affects,
+and marked impulsivity, beginning by early adulthood and present in a variety of contexts,
+as indicated by five (or more) of the following:
+1. Frantic efforts to avoid real or imagined abandonment. ( Note:  Do not include suicidal
+or self-mutilating behavior covered in Criterion 5.)
+2. A pattern of unstable and intense interpersonal relationships characterized by alternat-
+ing between extremes of idealization and devaluation.
+3. Identity disturbance: markedly and persistently unstable self-image or sense of self.
+4. Impulsivity in at least two areas that are potentially self-damaging (e.g., spending, sex,
+substance abuse, reckless driving, binge eating). ( Note:  Do not include suicidal or self-
+mutilating behavior covered in Criterion 5.)
+5. Recurrent suicidal behavior, gestures, or threats, or self-mutilating behavior.
+6. Affective instability due to a marked reactivity of mood (e.g., intense episodic dysphoria,
+irritability, or anxiety usually lasting a few hours and only rarely more than a few days).
+7. Chronic feelings of emptiness.
+8. Inappropriate, intense anger or difficulty controlling anger (e.g., frequent displays of
+temper, constant anger, recurrent physical fights).
+9. Transient, stress-related paranoid ideation or severe dissociative symptoms.
+Diagnostic Features
+The essential feature of  borderline personality disorder is  a pervasive pattern of instability
+of interpersonal relationships, self-image, an d affects, and marked impulsivity that begins
+by early adulthood and is present in a variety of contexts.
+Individuals with borderline pe rsonality disorder make fran tic efforts to avoid real or
+imagined abandonment (Criterion 1). The perception of impending separation or rejection,
+or the loss of external structure, can lead to profound changes in sel f-image, affect, cognition,
+and behavior. These individuals are very sensitive to environmental circumstances. They ex-
+perience intense abandonment fears and inappropriate anger even when  faced with a real-
+istic time-limited separation or when there are unavoidable changes in plans (e.g., sudden
+despair in reaction to a clinician’s announcing the end of the hour; panic or fury when some-
+one important to them is just a few minutes la te or must cancel an appointment). They may
+believe that this “abandonment” implies they  are “bad.” These abandonment fears are re-
+lated to an intolerance of being alone and a need  to have other people with them. Their frantic
+664 Personality Disorders
+efforts to avoid abandonment may include impulsive actions such as self-mutilating or sui-
+cidal behaviors, which are described separately in Criterion 5.
+Individuals with borderline personality disord er have a pattern of unstable and intense
+relationships (Criterion 2). They may idealize potential caregivers or lovers at the first or
+second meeting, demand to spend a lot of time  together, and share the most intimate details
+early in a relationship. Howeve r, they may switch quickly from idealizing other people to
+devaluing them, feeling that the other person does not care enough, does not give enough,
+or is not “there” enough. These individuals can empathize with and nurture other people,
+but only with the expectation th at the other person will “be ther e” in return to meet their
+own needs on demand. These indi viduals are prone to sudden and dramatic shifts in their
+view of others, who may alternatively be seen as beneficent supports or as cruelly punitive.
+Such shifts often reflect disillusionment with a caregiver whose nurturing qualities had
+been idealized or whose rejectio n or abandonment is expected.
+There may be an identity disturbance charac terized by markedly and persistently un-
+stable self-image or sense of self (Criterion 3). There are sudden and dramatic shifts in self-
+image, characterized by shifting goals, values, and vocational aspirations. There may be
+sudden changes in opinions and plans about ca reer, sexual identity, values, and types of
+friends. These individuals may suddenly chan ge from the role of a needy supplicant for
+help to that of a righteous av enger of past mistreat ment. Although they usually have a self-
+image that is based on being bad or evil, individuals with this disorder may at times have
+feelings that they do not exist at all. Such experiences usually occur in situations in which
+the individual feels a lack of a meaningful relationship, nurturing, and support. These in-
+dividuals may show worse performance in unstructured work or school situations.
+Individuals with borderline pe rsonality disorder display impulsivity in at least two areas
+that are potentially self-damaging (Criterion  4). They may gamble, spend money irrespon-
+sibly, binge eat, abuse substanc es, engage in unsafe sex, or  drive recklessly. Individuals
+with this disorder display recurrent suicidal behavior, gestures, or threats, or self-mutilat-
+ing behavior (Criterion 5). Completed suicide occurs in 8%–10% of such individuals, and
+self-mutilative acts (e.g., cutting or burnin g) and suicide threats and attempts are very
+common. Recurrent suicidality is often the reason that these individuals present for help.
+These self-destructive acts are usually precipit ated by threats of separation or rejection or
+by expectations that the individual assumes increased responsibility. Self-mutilation may
+occur during dissociative experiences and often brings relief by reaffirming the ability to
+feel or by expiating the individual’s sense of being evil.
+Individuals with borderline personality disorder may display affective instability that
+is due to a marked reactivity of  mood (e.g., intense episodic dysphoria, irritability, or anx-
+iety usually lasting a few hours and only rarely more than a few days) (Criterion 6). The
+basic dysphoric mood of those with borderline personality disorder is often disrupted by
+periods of anger, panic, or de spair and is rarely relieved by periods of well-being or satis-
+faction. These episodes may reflect the indivi dual’s extreme reactivity to interpersonal
+stresses. Individuals with borderline personalit y disorder may be troubled by chronic feel-
+ings of emptiness (Criterion 7). Easily bored,  they may constantly seek something to do.
+Individuals with this disorder frequently expr ess inappropriate, intense anger or have dif-
+ficulty controlling their anger (Criterion 8) . They may display extreme sarcasm, enduring
+bitterness, or verbal outbursts. The anger is often elicited when  a caregiver or lover is seen
+as neglectful, withholding, uncaring, or abandoning. Such expressions of anger are often
+followed by shame and guilt and contribute to the feeling they have of being evil. During
+periods of extreme stress , transient paranoid ideation or dissociative symptoms (e.g., de-
+personalization) may occur (Criterion 9), but th ese are generally of insufficient severity or
+duration to warrant an addition al diagnosis. These episodes occur most frequently in re-
+sponse to a real or imagined abandonment. Symptoms tend to be transient, lasting min-
+utes or hours. The real or perceived return of the caregiver’s nurturance may result in a
+remission of symptoms.
+Borderline Personality Disorder 665
+Associated Features Supporting Diagnosis
+Individuals with borderline personality disorder may have a pattern of undermining
+themselves at the moment a goal is about to be realized (e.g., dropping out of school just
+before graduation; regressing se verely after a discussion of ho w well therapy is going; de-
+stroying a good relationship just when it is clear that the relationship could last). Some in-
+dividuals develop psychotic-like symptoms (e.g ., hallucinations, body-image distortions,
+ideas of reference, hypnagogic phenomena) du ring times of stress. Individuals with this
+disorder may feel more secure with transition al objects (i.e., a pet or inanimate possession)
+than in interpersonal relationships. Prematur e death from suicide may occur in individu-
+als with this disorder, especially in those with co-occurring depressive disorders or sub-
+stance use disorders. Physical handicaps may result from self-inflicted abuse behaviors or
+failed suicide attempts. Recurrent job losses, in terrupted education, and separation or di-
+vorce are common. Physical and sexual abuse, neglect, hostile conflict, and early parental
+loss are more common in the childhood histor ies of those with borderline personality dis-
+order. Common co-occurring disorders include depressive and bipolar disorders, sub-
+stance use disorders, eating disorders (not ably bulimia nervosa), posttraumatic stress
+disorder, and attention-defici t/hyperactivity disorder. Bo rderline personality disorder
+also frequently co-occurs with the other personality disorders.
+Prevalence
+The median population prevalence of border line personality disorder is estimated to be
+1.6% but may be as high as 5.9%. The preval ence of borderline personality disorder is
+about 6% in primary care sett ings, about 10% among individual s seen in outpatient mental
+health clinics, and about 20% among psychiat ric inpatients. The prevalence of borderline
+personality disorder may decrease in older age groups. 
+Development and Course
+There is considerable variability in the course of borderline personality disorder. The most
+common pattern is one of chronic instability in early adulthoo d, with episodes of serious
+affective and impulsive dyscontrol and high levels of use of health and mental health re-
+sources. The impairment from the disorder and the risk of suicide are greatest in the
+young-adult years and gradually wane with advancing age. Although the tendency to-
+ward intense emotions, impulsivity, and intens ity in relationships is often lifelong, indi-
+viduals who engage in therapeutic interv ention often show improvement beginning
+sometime during the first year. During their 30s and 40s, the majority of individuals with
+this disorder attain greater stability in their relationships and vocational functioning. Fol-
+low-up studies of individuals identified thr ough outpatient mental health clinics indicate
+that after about 10 years, as many as half of the individuals no longer  have a pattern of be-
+havior that meets full criteria for borderline personality disorder.
+Risk and Prognostic Factors
+Genetic and physiological. Borderline personality disorder is about five times more
+common among first-degree biological relatives of those with the disorder than in the gen-
+eral population. There is  also an increased familial risk for substance use disorders, anti-
+social personality disorder, and depressive or bipolar disorders.
+Culture-Related Diagnostic Issues
+The pattern of behavior seen in  borderline personality disorder  has been identified in many
+settings around the world. Adolescents and youn g adults with identity  problems (especially
+when accompanied by substance use) may transiently display behaviors that misleadingly
+666 Personality Disorders
+give the impression of borderline personality disorder. Such situations are characterized by
+emotional instability, “existential” dilemmas, uncertainty, anxiety- provoking choices, con-
+flicts about sexual orientation, and competing social pressures to decide on careers. 
+Gender-Related Diagnostic Issues
+Borderline personality disord er is diagnosed predominantly (about 75%) in females.
+Differential Diagnosis
+Depressive and bipolar disorders. Borderline personality disorder often co-occurs with
+depressive or bipolar disorders, and when criteria for both are met, both may be diagnosed.
+Because the cross-sectional presentation of bo rderline personality disorder can be mimicked
+by an episode of depressive or bipolar disord er, the clinician should avoid giving an addi-
+tional diagnosis of borderline personality diso rder based only on cr oss-sectional presenta-
+tion without having documented that the pattern of behavior had an early onset and a long-
+standing course.
+Other personality disorders. Other personality disorders ma y be confused with border-
+line personality disorder because they have certain features in  common. It is therefore im-
+portant to distinguish among these disorders based on differences in their characteristic
+features. However, if an individual has person ality features that meet criteria for one or
+more personality disorders in addition to bord erline personality disorder, all can be diag-
+nosed. Although histrionic personality disorder can also be characterized by attention seek-
+ing, manipulative behavior, an d rapidly shifting emotions, borderline personality disorder
+is distinguished by self-destructiveness, an gry disruptions in close relationships, and
+chronic feelings of deep emptiness and loneline ss. Paranoid ideas or illusions may be pres-
+ent in both borderline personality disorder an d schizotypal personality disorder, but these
+symptoms are more transient, in terpersonally reactive, and responsive to external structur-
+ing in borderline personality disorder. Althou gh paranoid personalit y disorder and narcis-
+sistic personality disorder may also be charac terized by an angry reaction to minor stimuli,
+the relative stability of self-ima ge, as well as the relative lack  of self-destructiveness, impul-
+sivity, and abandonment concerns, distinguishe s these disorders from borderline person-
+ality disorder. Although antisocial personality disorder and borderline personality disorder
+are both characterized by mani pulative behavior, in dividuals with antisocial personality
+disorder are manipulative to gain profit, po wer, or some other material gratification,
+whereas the goal in borderline personality disorder is directed  more toward gaining the con-
+cern of caretakers. Both depe ndent personality disorder and borderline personality disorder
+are characterized by fear of abandonment; however, the individual with borderline person-
+ality disorder reacts to abandonment with f eelings of emotional emptiness, rage, and de-
+mands, whereas the individual with dependent personality disorder re acts with increasing
+appeasement and submissiveness and urgently seeks a replacement relationship to provide
+caregiving and support. Borderline personality disorder can further be distinguished from
+dependent personality disorder by the typical pattern of unstable and intense relationships.
+Personality change due to another medical condition. Borderline personality disor-
+der must be distinguished from personality change due to another medical condition, in
+which the traits that emerge ar e attributable to the effects of another medical condition on
+the central nervous system.
+Substance use disorders. Borderline personality disorder must also be distinguished
+from symptoms that may develop in a ssociation with persistent substance use.
+Identity problems. Borderline personality disorder sh ould be distinguished from an
+identity problem, which is re served for identity concerns related to a developmental phase
+(e.g., adolescence) and does no t qualify as a me ntal disorder.
+Histrionic Personality Disorder 667
+Histrionic Personality Disorder
+Diagnostic Criteria 301.50 (F60.4)
+A pervasive pattern of excessive emotionality and attention seeking, beginning by early adult-
+hood and present in a variety of contexts, as indicated by five (or more) of the following:
+1. Is uncomfortable in situations in which he or she is not the center of attention.
+2. Interaction with others is often characterized by inappropriate sexually seductive or
+provocative behavior.
+3. Displays rapidly shifting and shallow expression of emotions.
+4. Consistently uses physical appearance to draw attention to self.
+5. Has a style of speech that is excessively impressionistic and lacking in detail.
+6. Shows self-dramatization, theatricality, and exaggerated expression of emotion.
+7. Is suggestible (i.e., easily influenced by others or circumstances).
+8. Considers relationships to be more intimate than they actually are.
+Diagnostic Features
+The essential feature of histrionic personalit y disorder is pervasiv e and excessive emotion-
+ality and attention-seeking behavior. This pattern begins by early adulthood and is pres-
+ent in a variety of contexts.
+Individuals with histrionic personality diso rder are uncomfortabl e or feel unappreci-
+ated when they are not the center of attentio n (Criterion 1). Often lively and dramatic, they
+tend to draw attention to themselves and ma y initially charm new acquaintances by their
+enthusiasm, apparent openness, or flirtatiousness. These qua lities wear thin, however, as
+these individuals continually demand to be th e center of attention. They commandeer the
+role of “the life of the party.” If they are not the center of attention, they may do something
+dramatic (e.g., make up stories,  create a scene) to draw the fo cus of attention to themselves.
+This need is often apparent in their behavior wi th a clinician (e.g., being flattering, bring-
+ing gifts, providing dramatic  descriptions of physical and psychological symptoms that
+are replaced by new symptoms each visit).
+The appearance and behavior of individuals with this disorder are often inappropri-
+ately sexually provocative or seductive (Criteri on 2). This behavior not only is directed to-
+ward persons in whom the individual has a sexu al or romantic interest but also occurs in
+a wide variety of social, occupational, and professional rela tionships beyond what is ap-
+propriate for the social context. Emotional ex pression may be shallow and rapidly shifting
+(Criterion 3). Individuals with this disorder  consistently use physical appearance to draw
+attention to themselves (Criterion 4). They are overly concerned with  impressing others by
+their appearance and expend an excessive am ount of time, energy, and money on clothes
+and grooming. They may “fish for compliments” regarding appearance and may be easily
+and excessively upset by a critical comment about how they look or by a photograph that
+they regard as unflattering.
+These individuals have a style of speech that  is excessively impre ssionistic and lacking
+in detail (Criterion 5). Strong opinions are expressed with dramatic flair, but underlying
+reasons are usually vague and diffuse, with out supporting facts and details. For example,
+an individual with histrionic personality disorder may comment that a certain individual
+is a wonderful human being, yet be unable to provide any specific examples of good qual-
+ities to support this opinion.  Individuals with this disorder are characterized by self-
+dramatization, theatricality, and an exaggera ted expression of emotion (Criterion 6). They
+may embarrass friends and acquaintances by an excessive public displa y of emotions (e.g.,
+embracing casual acquaintances with excessive  ardor, sobbing uncontrollably on minor
+668 Personality Disorders
+sentimental occasions, having temper tantru ms). However, their emotions often seem to
+be turned on and off too quickly to be deeply felt, which may lead others to accuse the in-
+dividual of faking these feelings.
+Individuals with histrionic pers onality disorder have a high degree of suggestibility (Cri-
+terion 7). Their opinions and f eelings are easily influenced by  others and by current fads.
+They may be overly trusting, especially of st rong authority figures whom they see as mag-
+ically solving their problems. They have a te ndency to play hunches and to adopt convic-
+tions quickly. Individuals with  this disorder often consider  relationships more intimate
+than they actually are, describing almost every acquaintance as “my dear, dear friend” or
+referring to physicians met only once or twice under professional circumstances by their
+first names (Criterion 8). 
+Associated Features Supporting Diagnosis
+Individuals with histrionic personality disord er may have difficulty achieving emotional in-
+timacy in romantic or sexual relationships. Without being aware of it, they often act out a
+role (e.g., “victim” or “princess”) in their rela tionships to others. They  may seek to control
+their partner through emotional manipulation or  seductiveness on one level, while display-
+ing a marked dependency on them at another level. Individuals with this disorder often
+have impaired relationships with same-sex friends because their sexually provocative inter-
+personal style may seem a threat  to their friends’ relationsh ips. These individuals may also
+alienate friends with demands for constant a ttention. They often become depressed and up-
+set when they are not the center of attention.  They may crave novelty, stimulation, and ex-
+citement and have a tendency to become bore d with their usual routine. These individuals
+are often intolerant of, or frustrated by, situ ations that involve delayed gratification, and
+their actions are often directed at obtaining immediate satisfac tion. Although they often ini-
+tiate a job or project with great enthusiasm, their interest may lag quickly. Longer-term re-
+lationships may be ne glected to make way for the ex citement of new relationships.
+The actual risk of suicide is not known, bu t clinical experience suggests that individu-
+als with this disorder are at in creased risk for suicidal gestur es and threats to get attention
+and coerce better caregiving. Histrionic personality disorder has been associated with
+higher rates of somatic symptom disorder, conversion disorder (functional neurological
+symptom disorder), and major depressive disord er. Borderline, narcissistic, antisocial, and
+dependent personality disorders often co-occur.
+Prevalence
+Data from the 2001–2002 National Epidemio logic Survey on Alcohol and Related Condi-
+tions suggest a prevalence of histrionic personality of 1.84%.
+Culture-Related Diagnostic Issues
+Norms for interpersonal behavior, personal  appearance, and emotional expressiveness
+vary widely across cultures, genders, and age groups. Before considering the various traits
+(e.g., emotionality,  seductiveness, dramatic interperso nal style, novelty seeking, sociabil-
+ity, charm, impressionability, a tendency to somatization) to be  evidence of histrionic per-
+sonality disorder, it is impo rtant to evaluate whether they  cause clinically significant
+impairment or distress. 
+Gender-Related Diagnostic Issues
+In clinical settings, this disorder has been di agnosed more frequently in females; however,
+the sex ratio is not significantly different from the sex ratio of females within the respective
+clinical setting. In contrast, some studies using structured assessments report similar prev-
+alence rates among males and females.
+Narcissistic Personality Disorder 669
+Differential Diagnosis
+Other personality disorder s and personality traits. Other personality disorders may
+be confused with histrionic personality disorder because they have certain features in
+common. It is therefore important to distinguish among these disorders based on differ-
+ences in their characteristic features. However, if an individual has personality features
+that meet criteria for one or more personality disorders in addition to histrionic personal-
+ity disorder, all can be diagnosed. Although  borderline personality disorder can also be
+characterized by attention seeking, manipulati ve behavior, and rapidly shifting emotions,
+it is distinguished by self-destructiveness, angry disruptions in close relationships, and
+chronic feelings of deep emptiness and identi ty disturbance. Individuals with antisocial
+personality disorder and histrionic personalit y disorder share a tend ency to be impulsive,
+superficial, excitement seeking, reckless, seductive, and manipulative, but persons with
+histrionic personality disorder tend to be mo re exaggerated in their emotions and do not
+characteristically engage in antisocial behavi ors. Individuals with histrionic personality
+disorder are manipulative to gain nurturance , whereas those with antisocial personality
+disorder are manipulative to gain profit, powe r, or some other material gratification. Al-
+though individuals with narcissistic personalit y disorder also crave attention from others,
+they usually want praise for their “superiority,” whereas individuals with histrionic per-
+sonality disorder are willing to be viewed as frag ile or dependent if this is instrumental in
+getting attention. Individuals with narcissistic personality disorder may exaggerate the
+intimacy of their relationships with other pe ople, but they are more apt to emphasize the
+“VIP” status or wealth of th eir friends. In dependent personality disorder, the individual
+is excessively dependent on othe rs for praise and guidance, but is without the flamboyant,
+exaggerated, emotional features of individu als with histrionic personality disorder.
+Many individuals may display histrionic personality traits. Only when these traits are
+inflexible, maladaptive, and persisting and cause significant functional impairment or
+subjective distress do they constitu te histrionic personality disorder.
+Personality change due to another medical condition. Histrionic personality disorder
+must be distinguished from personality ch ange due to another medical condition, in
+which the traits that emerge ar e attributable to the effects of another medical condition on
+the central nervous system. 
+Substance use disorders. The disorder must also be distinguished from symptoms that
+may develop in association with persistent substance use.
+Narcissistic Personality Disorder
+Diagnostic Criteria 301.81 (F60.81)
+A pervasive pattern of grandiosity (in fantasy or behavior), need for admiration, and lack
+of empathy, beginning by early adulthood and present in a variety of contexts, as indicated
+by five (or more) of the following:
+1. Has a grandiose sense of self-importance (e.g., exaggerates achievements and talents,
+expects to be recognized as superior without commensurate achievements).
+2. Is preoccupied with fantasies of unlimited success, power, brilliance, beauty, or ideal
+love.
+3. Believes that he or she is “special” and unique and can only be understood by, or
+should associate with, other special or high-status people (or institutions).
+4. Requires excessive admiration.
+5. Has a sense of entitlement (i.e., unreasonable expectations of especially favorable
+treatment or automatic compliance with his or her expectations).
+670 Personality Disorders
+6. Is interpersonally exploitative (i.e., takes advantage of others to achieve his or her own
+ends).
+7. Lacks empathy: is unwilling to recognize or identify with the feelings and needs of others.
+8. Is often envious of others or believes that others are envious of him or her.
+9. Shows arrogant, haughty behaviors or attitudes.
+Diagnostic Features
+The essential feature of narcissistic personality disorder is a pervasive pattern of grandi-
+osity, need for admiration, and lack of empathy that begins by early adulthood and is pres-
+ent in a variety of contexts.
+Individuals with this disorder have a grandiose sense of self-impor tance (Criterion 1).
+They routinely overestimate their abilities and in flate their accomplishme nts, often appearing
+boastful and pretentious. They may blithely assume that others attribute the same value to
+their efforts and may be surprised when the prai se they expect and feel they deserve is not
+forthcoming. Often implicit in the inflated ju dgments of their own accomplishments is an un-
+derestimation (devaluation) of the contributions of others. Individuals with narcissistic per-
+sonality disorder are often preo ccupied with fantasies of unlimit ed success, power, brilliance,
+beauty, or ideal love (Criterion 2). They ma y ruminate about “long overdue” admiration and
+privilege and compare themselves favora bly with famous or privileged people.
+Individuals with narcissistic personality disorder believe that they are superior, spe-
+cial, or unique and expect others to recogniz e them as such (Criterion 3). They may feel
+that they can only be understood by, and sh ould only associate with, other people who are
+special or of high status and may attribute “unique,” “perfect,” or “gifted” qualities to those
+with whom they associate. Individuals with th is disorder believe that their needs are spe-
+cial and beyond the ken of ordinary people. Their own self-esteem is enhanced (i.e., “mir-
+rored”) by the idealized value that they assign  to those with whom they associate. They are
+likely to insist on having only the “top” pers on (doctor, lawyer, hair dresser, instructor) or
+being affiliated with the “best” institutions but may devalue the credentials of those who dis-
+appoint them.
+Individuals with this disorder generally require excessiv e admiration (Criterion 4). Their
+self-esteem is almost invariably very fragile.  They may be preoccupied with how well they
+are doing and how favorably they are regarded by  others. This often takes the form of a need
+for constant attention and admira tion. They may expect their arri val to be greeted with great
+fanfare and are astonished if others do not c ovet their possessions. Th ey may constantly fish
+for compliments, often with great charm. A sens e of entitlement is ev ident in these individ-
+uals’ unreasonable expectation of especially fa vorable treatment (Criterion 5). They expect
+to be catered to and are puzzled or furious when this does not happen. For example, they
+may assume that they do not have to wait in line and that th eir priorities are so important
+that others should defer to them, and then ge t irritated when others fail to assist “in their
+very important work.” This sense of entitlement,  combined with a lack of sensitivity to the
+wants and needs of others, may result in the conscious or unwitting exploitation of others
+(Criterion 6). They expect to be given whatever they want or  feel they need, no matter what
+it might mean to others. For example, these individuals may expect great dedication from
+others and may overwork them wi thout regard for the impact on  their lives. They tend to
+form friendships or romantic relationships only if the other person seems likely to advance
+their purposes or otherwise enhance their self -esteem. They often usurp special privileges
+and extra resources that they believe th ey deserve because they are so special.
+Individuals with narcissistic personality disorder generally have a lack of empathy and
+have difficulty recognizing the desires, subjective  experiences, and feelings of others (Crite-
+rion 7). They may assume that others are tota lly concerned about their welfare. They tend to
+discuss their own concerns in inappropriate an d lengthy detail, while failing to recognize
+that others also have feelings and needs. They are often contemptuous and impatient with
+Narcissistic Personality Disorder 671
+others who talk about their ow n problems and concerns. These individuals may be oblivious
+to the hurt their remarks may in flict (e.g., exuberantly telling a former lover that “I am now
+in the relationship of a lifetime !”; boasting of health in front of someone who is sick). When
+recognized, the needs, desires, or feelings of others are likely to be viewed disparagingly as
+signs of weakness or vulnerability. Those who re late to individuals with narcissistic person-
+ality disorder typically find an emotional coldness and lack of reciprocal interest.
+These individuals are often envious of others or believe that others are envious of them
+(Criterion 8). They may begrudge others their su ccesses or possessions, fe eling that they better
+deserve those achievements, admiration, or priv ileges. They may harshly devalue the contri-
+butions of others, particularly when those individuals have received acknowledgment or
+praise for their accomplishments. Arrogant, haug hty behaviors characterize these individuals;
+they often display snobbish, disdainful, or patr onizing attitudes (Criterion 9). For example, an
+individual with this disorder may complain about  a clumsy waiter’s “rudeness” or “stupidity”
+or conclude a medical evaluation with a condescending evaluation of the physician.
+Associated Features Supporting Diagnosis
+Vulnerability in self-esteem makes individuals with narcissistic personality disorder very
+sensitive to “injury” from criticism or defe at. Although they may not show it outwardly,
+criticism may haunt these individuals and ma y leave them feeling humiliated, degraded,
+hollow, and empty. They may react with disdain, rage, or defiant counterattack. Such ex-
+periences often lead to social withdrawal or an appearance of humility that may mask and
+protect the grandiosity. Interpersonal relation s are typically impaired because of problems
+derived from entitlement, the need for admira tion, and the relative disregard for the sen-
+sitivities of others. Though overweening ambition and confidence may lead to high
+achievement, performance may be disrupted beca use of intolerance of criticism or defeat.
+Sometimes vocational functioning can be very low, reflecting an unwillingness to take a
+risk in competitive or other situations in wh ich defeat is possible.  Sustained feelings of
+shame or humiliation and the attendant self-criticism may be associated with social with-
+drawal, depressed mood, and persistent depr essive disorder (dysthymia) or major de-
+pressive disorder. In contrast, sustained periods of grandiosity may be associated with a
+hypomanic mood. Narcissistic personality disorder is also associated with anorexia ner-
+vosa and substance use disorder s (especially related to cocaine). Histrionic, borderline,
+antisocial, and paranoid personality disorders may be associated with narcissistic person-
+ality disorder.
+Prevalence
+Prevalence estimates for narcissistic person ality disorder, based on DSM-IV definitions,
+range from 0% to 6.2% in community samples. 
+Development and Course
+Narcissistic traits may be particularly comm on in adolescents and do not necessarily in-
+dicate that the individual will go on to have narcissistic personality disorder. Individuals
+with narcissistic personality disorder may have special difficulties adjusting to the onset of
+physical and occupational limitations that  are inherent in the aging process. 
+Gender-Related Diagnostic Issues
+Of those diagnosed with narcissistic personality disorder, 50%–75% are male.
+Differential Diagnosis
+Other personality disorder s and personality traits. Other personality disorders may
+be confused with narcissistic personality disorder because they have certain features in
+672 Personality Disorders
+common. It is, therefore, important to distin guish among these disorders based on differ-
+ences in their characteristic features. However, if an individual has personality features
+that meet criteria for one or more personalit y disorders in addition to narcissistic person-
+ality disorder, all can be diagnosed. The most useful feature in discriminating narcissistic
+personality disorder from histrionic, antisocial, and borderline personality disorders, in
+which the interactive styles are coquettish, callous, and needy, respectively, is the grandi-
+osity characteristic of narcissistic personalit y disorder. The relative stability of self-image
+as well as the relative lack of self-destruc tiveness, impulsivity, an d abandonment concerns
+also help distinguish narcissistic personality disorder from borderline personality disor-
+der. Excessive pride in achievements, a relative  lack of emotional display, and disdain for
+others’ sensitivities help distinguish narci ssistic personality disorder from histrionic
+personality disorder. Although individuals wi th borderline, histrionic, and narcissistic
+personality disorders may requir e much attention, those with narcissistic personality dis-
+order specifically need that attention to be admiring. Individuals with antisocial and nar-
+cissistic personality disorders share a tendency to be tough-minded, glib, superficial,
+exploitative, and unempathic. However, narciss istic personality disorder does not neces-
+sarily include characteristics of impulsivity, aggression, and deceit. In addition, individu-
+als with antisocial personality disorder may not be as needy of the admiration and envy of
+others, and persons with narcissistic personal ity disorder usually lack the history of con-
+duct disorder in childhood or criminal behavior in adulthood. In both narcissistic person-
+ality disorder and obsessive-compulsive personality disorder, the individual may profess
+a commitment to perfectionism and believe that  others cannot do things as well. In con-
+trast to the accompanying self-criticism of those with obsessive-compulsive personality
+disorder, individuals with narcissistic persona lity disorder are more likely to believe that
+they have achieved perfection. Suspiciousness and social withdrawal usually distinguish
+those with schizotypal or paranoid personalit y disorder from those with narcissistic per-
+sonality disorder. When these qualities are pres ent in individuals with narcissistic person-
+ality disorder, they derive primarily from fear s of having imperfections or flaws revealed. 
+Many highly successful individuals display pe rsonality traits that might be considered
+narcissistic. Only when these traits are inflexible, maladaptive, and persisting and cause
+significant functional impairment or subjective  distress do they constitute narcissistic per-
+sonality disorder.
+Mania or hypomania. Grandiosity may emerge as part of manic or hypomanic episodes,
+but the association with mood change or functional impairments helps distinguish these
+episodes from narcissistic personality disorder. 
+Substance use disorders. Narcissistic personality disorder must also be distinguished
+from symptoms that may develop in a ssociation with persistent substance use.
+Cluster C Personality Disorders
+Avoidant Personality Disorder
+Diagnostic Criteria 301.82 (F60.6)
+A pervasive pattern of social inhibition, feelings of inadequacy, and hypersensitivity to neg-
+ative evaluation, beginning by early adulthood and present in a variety of contexts, as in-
+dicated by four (or more) of the following:
+1. Avoids occupational activities that invo lve significant interpersonal contact because of
+fears of criticism, disapproval, or rejection.
+Avoidant Personality Disorder 673
+2. Is unwilling to get involved with people unless certain of being liked.
+3. Shows restraint within intimate relationships because of the fear of being shamed or
+ridiculed.
+4. Is preoccupied with being criticized or rejected in social situations.
+5. Is inhibited in new interpersonal situations because of feelings of inadequacy.
+6. Views self as socially inept, personally unappealing, or inferior to others.
+7. Is unusually reluctant to take personal risks or to engage in any new activities because
+they may prove embarrassing.
+Diagnostic Features
+The essential feature of avoidant personality disorder is a pervasive pa ttern of social inhi-
+bition, feelings of inadequacy, and hypersensitivity to negative evaluation that begins by
+early adulthood and is present in a variety of contexts.
+Individuals with avoidant personality disord er avoid work activities that involve sig-
+nificant interpersonal contact because of fears of criticism, disapprova l, or rejection (Cri-
+terion 1). Offers of job prom otions may be declined because the new responsibilities might
+result in criticism from co-workers. These individuals avoid making new friends unless
+they are certain they will be liked and accept ed without criticism (Criterion 2). Until they
+pass stringent tests proving the contrary, other people are assumed to be critical and dis-
+approving. Individuals with this disorder will not join in group activities unless there are
+repeated and generous offers of support and nurturance. Inte rpersonal intimacy is often
+difficult for these individuals, although they are able to es tablish intimate relationships
+when there is assurance of uncritical acceptan ce. They may act with restraint, have diffi-
+culty talking about themselves, and withhold intimate feelings for fear of being exposed,
+ridiculed, or shamed (Criterion 3).
+Because individuals with this  disorder are preoccupied with being criticized or re-
+jected in social situations, they may have a markedly low threshold for detecting such re-
+actions (Criterion 4). If someone is even s lightly disapproving or critical, they may feel
+extremely hurt. They tend to be shy, quiet, inhibited, and “invisible” because of the fear
+that any attention would be degrading or reject ing. They expect that no matter what they
+say, others will see it as “wrong,” and so th ey may say nothing at all. They react strongly
+to subtle cues that are suggest ive of mockery or derision. Despite their longing to be active
+participants in social life, they fear placing their welfare in the hands of others. Individuals
+with avoidant personality disorder are inhibi ted in new interpersonal situations because
+they feel inadequate and have low self-esteem (Criterion 5). Doubts concerning social
+competence and personal appeal become especially manifest in settings involving inter-
+actions with strangers. These individuals believe themselves to be socially inept, person-
+ally unappealing, or inferior to others (Cri terion 6). They are unusually reluctant to take
+personal risks or to engage in any new activities because these may prove embarrassing
+(Criterion 7). They are prone to exaggerate the potential dangers of ordinary situations,
+and a restricted lifestyle may result from their need for certainty and security. Someone
+with this disorder may cancel a job interview for fear of being embarrassed by not dressing
+appropriately. Marginal somatic symptoms or  other problems may become the reason for
+avoiding new activities.
+Associated Features Supporting Diagnosis
+Individuals with avoidant personality disorder often vigilantly appr aise the movements
+and expressions of those with whom they come  into contact. Their fearful and tense de-
+meanor may elicit ridicule an d derision from others, which in turn confirms their self-
+doubts. These individuals are very anxious about the possibility that they will react to crit-
+icism with blushing or crying. They are described by others as being “shy,” “timid,”
+674 Personality Disorders
+“lonely,” and “isolated.” The major problems associated with this disorder occur in social
+and occupational functi oning. The low self-esteem and hy persensitivity to rejection are
+associated with restricted in terpersonal contacts. These individuals may become relatively
+isolated and usually do not have a large social support ne twork that can help them weather
+crises. They desire affection and acceptance and may fantasize about idealized relation-
+ships with others. The avoidant behaviors can also adversely affect occupational function-
+ing because these individuals try to avoid the types of social situations that may be
+important for meeting the basic dema nds of the job or for advancement.
+Other disorders that are commonly diagnosed with avoidant personality disorder in-
+clude depressive, bipolar, and anxiety disorders,  especially social anxiety disorder (social
+phobia). Avoidant personality disorder is often diagnosed with dependent personality
+disorder, because individuals with avoidant pe rsonality disorder become very attached to
+and dependent on those few other people wi th whom they are friends. Avoidant per-
+sonality disorder also tends to  be diagnosed with borderline personality disorder and with
+the Cluster A personality disorders (i.e., paranoid, schizoid, or schizotypal personality
+disorders).
+Prevalence
+Data from the 2001–2002 National Epidemio logic Survey on Alcohol and Related Condi-
+tions suggest a prevalence of about 2.4% for avoidant personality disorder.
+Development and Course
+The avoidant behavior often st arts in infancy or childhood with shyness, isolation, and
+fear of strangers and new situations. Although  shyness in childhood is a common precur-
+sor of avoidant personality disorder, in most individuals it tends to gradually dissipate as
+they get older. In contrast, individuals who go on  to develop avoidant personality disor-
+der may become increasingly shy and avoidant  during adolescence and early adulthood,
+when social relationships with new people become especially important. There is some
+evidence that in adults, avoi dant personality disorder tend s to become less evident or to
+remit with age. This diagnosi s should be used with great caution in children and adoles-
+cents, for whom shy and avoidant behavi or may be developmentally appropriate.
+Culture-Related Diagnostic Issues
+There may be variation in the degree to whic h different cultural and ethnic groups regard
+diffidence and avoidance as appropriate. Mo reover, avoidant behavior may be the result
+of problems in acculturat ion following immigration. 
+Gender-Related Diagnostic Issues
+Avoidant personality disorder appears to be equally frequent in males and females.
+Differential Diagnosis
+Anxiety disorders. There appears to be a great deal of  overlap between avoidant person-
+ality disorder and social anxiety disorder (s ocial phobia), so much so that they may be
+alternative conceptualizations of the same or similar conditions. Avoidance also character-
+izes both avoidant personality disorder and agoraphobia, and they often co-occur. 
+Other personality disorders and personality traits. Other personality disorders may
+be confused with avoidant pers onality disorder because they have certain fe atures in com-
+mon. It is, therefore, important to distingu ish among these disorder s based on differences
+in their characteristic features. However, if  an individual has personality features that
+meet criteria for one or more personality diso rders in addition to avoidant personality dis-
+Dependent Personality Disorder 675
+order, all can be diagnosed. Both avoidant personality disorder and dependent personal-
+ity disorder are characterized by  feelings of inadequacy, hypersensitivity to criticism, and
+a need for reassurance. Although the primary focus of concern in avoidant personality
+disorder is avoidance of humiliation and reject ion, in dependent pers onality disorder the
+focus is on being taken care of. However, avoidant personality disorder and dependent
+personality disorder are particularly likely to  co-occur. Like avoidant personality disor-
+der, schizoid personality disorder and schizotypal personality disorder are characterized
+by social isolation. However, individuals with avoidant personality disorder want to have
+relationships with others and feel their loneliness deeply, whereas those with schizoid or
+schizotypal personality disorder may be conten t with and even prefer  their social isola-
+tion. Paranoid personality disorder and avoida nt personality disorder are both character-
+ized by a reluctance to confide in others. Ho wever, in avoidant personality disorder, this
+reluctance is attributable more to a fear of being embarrassed or being found inadequate
+than to a fear of others’ malicious intent.
+Many individuals display avoidant personality traits. Only when these traits are in-
+flexible, maladaptive, and persisting and caus e significant functional impairment or sub-
+jective distress do they constitu te avoidant personality disorder.
+Personality change due to another medical condition. Avoidant personality disorder
+must be distinguished from personality ch ange due to another medical condition, in
+which the traits that emerge ar e attributable to the effects of another medical condition on
+the central nervous system. 
+Substance use disorders. Avoidant personality disorder must also be distinguished
+from symptoms that may develop in a ssociation with persistent substance use.
+Dependent Personality Disorder
+Diagnostic Criteria 301.6 (F60.7)
+A pervasive and excessive need to be taken care of that leads to submissive and clinging
+behavior and fears of separation, beginning by early adulthood and present in a variety of
+contexts, as indicated by five (or more) of the following:
+1. Has difficulty making everyday decisions without an excessive amount of advice and
+reassurance from others.
+2. Needs others to assume responsibility for most major areas of his or her life.
+3. Has difficulty expressing disagreement with others because of fear of loss of support
+or approval. ( Note:  Do not include realistic fears of retribution.)
+4. Has difficulty initiating projects or doing things on his or her own (because of a lack of
+self-confidence in judgment or abilities rather than a lack of motivation or energy).
+5. Goes to excessive lengths to obtain nurturance and support from others, to the point
+of volunteering to do things that are unpleasant.
+6. Feels uncomfortable or helpless when alone because of exaggerated fears of being
+unable to care for himself or herself.
+7. Urgently seeks another relationship as a source of care and support when a close re-
+lationship ends.
+8. Is unrealistically preoccupied with fears of being left to take care of himself or herself.
+Diagnostic Features
+The essential feature of dependent personalit y disorder is a pervasive and excessive need
+to be taken care of that leads to submissive and clinging behavior and fears of separation.
+This pattern begins by early ad ulthood and is present in a variety of contexts. The dependent
+676 Personality Disorders
+and submissive behaviors are designed to elicit caregiving and arise from a self-perception
+of being unable to function adequately without the help of others.
+Individuals with dependent personality disorder have grea t difficulty making every-
+day decisions (e.g., what color shirt to wear to work or whether to carry an umbrella) without
+an excessive amount of advice and reassurance from others (Criterion 1). These individu-
+als tend to be passive and to allow other people  (often a single other person) to take the ini-
+tiative and assume responsibility for most majo r areas of their lives (Criterion 2). Adults
+with this disorder typically depend on a pa rent or spouse to decide where they should
+live, what kind of job they should have, and which neighbors to befriend. Adolescents
+with this disorder may allow their parent(s) to  decide what they should wear, with whom
+they should associate, how they should spen d their free time, and what school or college
+they should attend. This need for others to  assume responsibility goes beyond age-appro-
+priate and situation-appropriate requests fo r assistance from others (e.g., the specific
+needs of children, elderly persons, and hand icapped persons). Dependent personality dis-
+order may occur in an individual who has a serious medical conditio n or disability, but in
+such cases the difficulty in taking responsib ility must go beyond what would normally be
+associated with that condition or disability.
+Because they fear losing support or approval, individuals with dependent personality
+disorder often have difficulty expressing d isagreement with other individuals, especially
+those on whom they are dependent (Criterion 3) . These individuals feel so unable to func-
+tion alone that they will agree with things that they feel are wrong rather than risk losing
+the help of those to whom they look for guidance. They do not get appropriately angry at
+others whose support and nurturance they need for fear of alienating them. If the individ-
+ual’s concerns regarding the consequences of expressing disagreement are realistic (e.g.,
+realistic fears of retribution from an abusiv e spouse), the behavior should not be consid-
+ered to be evidence of dependent personality disorder.
+Individuals with this disorder have difficulty initiating projects or doing things inde-
+pendently (Criterion 4). They lack self-confidence and believe that they need help to begin
+and carry through tasks. They will wait for othe rs to start things because they believe that
+as a rule others can do them better. These in dividuals are convinced that they are incapable
+of functioning independently and present them selves as inept and requiring constant as-
+sistance. They are, however, lik ely to function adequately if given the assurance that some-
+one else is supervising and approving. There ma y be a fear of becoming or appearing to be
+more competent, because they may believe that this will lead to abandonment. Because
+they rely on others to handle their problems, they often do not learn the skills of indepen-
+dent living, thus perpetuating dependency.
+Individuals with dependent personality disord er may go to excessive lengths to obtain
+nurturance and support from others, even to  the point of volunteering for unpleasant
+tasks if such behavior will bring the care they  need (Criterion 5). They are willing to submit
+to what others want, even if the demands are unreasonable. Their need to maintain an im-
+portant bond will often re sult in imbalanced or distorted relationships. They may make ex-
+traordinary self-sacrifices or tolerate verbal, physical, or sexual abuse.  (It should be noted
+that this behavior should be considered evid ence of dependent pers onality disorder only
+when it can clearly be established that other options are available to the individual.) Indi-
+viduals with this disorder feel uncomfortable or  helpless when alone, because of their ex-
+aggerated fears of being unable to care for th emselves (Criterion 6). They will “tag along”
+with important others just to avoid being alone,  even if they are not interested or involved
+in what is happening.
+When a close relationship ends (e.g., a breakup with a lover; the death of a caregiver), in-
+dividuals with dependent person ality disorder may urgently seek another relationship to
+provide the care and support they  need (Criterion 7). Their be lief that they are unable to
+function in the absence of a cl ose relationship motivates these individuals to become quickly
+and indiscriminately attached to  another individual. Individuals with this disorder are often
+Dependent Personality Disorder 677
+preoccupied with fears of being left to care fo r themselves (Criterion 8). They see themselves
+as so totally dependent on the advice and help  of an important other person that they worry
+about being abandoned by that person when ther e are no grounds to justify such fears. To be
+considered as evidence of this criterion, the fears must be ex cessive and unrealistic. For ex-
+ample, an elderly man with cancer who moves into his son’s household for care is exhibiting
+dependent behavior that is appropriate given this person’s life circumstances.
+Associated Features Supporting Diagnosis
+Individuals with dependent personality diso rder are often charac terized by pessimism
+and self-doubt, tend to belittl e their abilities and assets, and may constantly refer to them-
+selves as “stupid.” They take criticism and disapproval as proof of their worthlessness and
+lose faith in themselves. They may seek ov erprotection and dominance from others. Oc-
+cupational functioning may be impaired if in dependent initiative is required. They may
+avoid positions of responsibility and become anxious when faced with decisions. Social re-
+lations tend to be limited to those few people  on whom the individual is dependent. There
+may be an increased risk of depressive disorders, anxiety disorders, and adjustment dis-
+orders. Dependent personality disorder often co-occurs with other personality disorders,
+especially borderline, avoidant, and histrion ic personality disorders. Chronic physical ill-
+ness or separation anxiety disorder in childhood or adolescence may predispose the indi-
+vidual to the development of this disorder.
+Prevalence
+Data from the 2001–2002 National Epidemio logic Survey on Alcohol and Related Condi-
+tions yielded an estimated prevalence of depe ndent personality disorder of 0.49%, and de-
+pendent personality was estimated, based on a probability subsample from Part II of the
+National Comorbidit y Survey Replication, to be 0.6%.
+Development and Course
+This diagnosis should be used with great caution,  if at all, in children and adolescents, for
+whom dependent behavior may be developmentally appropriate.
+Culture-Related Diagnostic Issues
+The degree to which dependen t behaviors are considered to be appropriate varies sub-
+stantially across different age and sociocultu ral groups. Age and cultural factors need to
+be considered in evaluating the diagnostic threshold of each crit erion. Dependent behav-
+ior should be considered characteristic of the disorder only when it is clearly in excess of
+the individual’s cultural norms or reflects unrealistic concerns. An emphasis on passivity,
+politeness, and deferential treatment is characteristic of some societies and may be mis-
+interpreted as traits of dependent personality disorder. Similarly, societies may differen-
+tially foster and discourage depend ent behavior in males and females. 
+Gender-Related Diagnostic Issues
+In clinical settings, dependent personality d isorder has been diagnosed more frequently in
+females, although some studies report simila r prevalence rates among males and females. 
+Differential Diagnosis
+Other mental disorders and medical conditions. Dependent personality disorder must
+be distinguished from dependen cy arising as a consequence of  other mental disorders (e.g.,
+depressive disorders, panic disorder, agoraphobia) and as a resu lt of other medical conditions. 
+678 Personality Disorders
+Other personality disorders and personality traits. Other personality disorders may be
+confused with dependent personality disorder because they ha ve certain features in com-
+mon. It is therefore important to distinguis h among these disorders based on differences in
+their characteristic features. However, if an individual has personality features that meet cri-
+teria for one or more personality disorders in addition to dependent personality disorder, all
+can be diagnosed. Although many personality disorders are characterized by dependent
+features, dependent personality disorder can be distinguished by its predominantly submis-
+sive, reactive, and clinging be havior. Both dependent person ality disorder and borderline
+personality disorder are characterized by fe ar of abandonment; however, the individual
+with borderline personality disorder reacts to  abandonment with feelings of emotional emp-
+tiness, rage, and demands, whereas the individual with dependent personality disorder re-
+acts with increasing appeasement and submissiveness and urgently seeks a replacement
+relationship to provide caregiving and suppor t. Borderline personalit y disorder can further
+be distinguished from dependen t personality disorder by a ty pical pattern of unstable and
+intense relationships. Individual s with histrionic personality disorder, like those with de-
+pendent personality disorder, ha ve a strong need for reassu rance and approval and may ap-
+pear childlike and clinging. However, unli ke dependent personality disorder, which is
+characterized by self-effacing and docile behavior, histrionic personality disorder is charac-
+terized by gregarious flamboyance with acti ve demands for attention. Both dependent
+personality disorder and avoidant personality di sorder are characterized by feelings of in-
+adequacy, hypersensitivity to criticism, and a need for reassurance; however, individuals
+with avoidant personality disorder have such a strong fear of humiliation and rejection that
+they withdraw until they are certain they will be accepted. In  contrast, individuals with de-
+pendent personality disorder have a pattern of  seeking and maintaining connections to im-
+portant others, rather than avoiding  and withdrawing fr om relationships.
+Many individuals display dependent personalit y traits. Only when these traits are in-
+flexible, maladaptive, and persisting and caus e significant functional impairment or sub-
+jective distress do they constitute  dependent personality disorder. 
+Personality change due to another medical condition. Dependent personality disor-
+der must be distinguished from personality change due to another medical condition, in
+which the traits that emerge ar e attributable to the effects of another medical condition on
+the central nervous system.
+Substance use disorders. Dependent personality disorder must also be distinguished
+from symptoms that may develop in a ssociation with persistent substance use.
+Obsessive-Compulsive Personality Disorder
+Diagnostic Criteria 301.4 (F60.5)
+A pervasive pattern of preoccupation with orderliness, perfectionism, and mental and in-
+terpersonal control, at the expense of flexibility, openness, and efficiency, beginning by
+early adulthood and present in a variety of contexts, as indicated by four (or more) of the
+following:
+1. Is preoccupied with details, rules, lists, order, organization, or schedules to the extent
+that the major point of the activity is lost.
+2. Shows perfectionism that interferes with task completion (e.g., is unable to complete a
+project because his or her own over ly strict standards are not met).
+3. Is excessively devoted to work and productivity to the exclusion of leisure activities and
+friendships (not accounted for by obvious economic necessity).
+4. Is overconscientious, scrupulous, and inflexible about matters of morality, ethics, or
+values (not accounted for by cultural or religious identification).
+Obsessive-Compulsive Personality Disorder 679
+5. Is unable to discard worn-out or worthless objects even when they have no sentimental
+value.
+6. Is reluctant to delegate tasks or to work with others unless they submit to exactly his
+or her way of doing things.
+7. Adopts a miserly spending style toward both self and others; money is viewed as
+something to be hoarded for future catastrophes.
+8. Shows rigidity and stubbornness.
+Diagnostic Features
+The essential feature of obse ssive-compulsive personality disorder is a preoccupation
+with orderliness, perfectionism, and mental and interpersonal control, at the expense of
+flexibility, openness, and efficiency. This patt ern begins by early adulthood and is present
+in a variety of contexts.
+Individuals with obse ssive-compulsive personality disorder attempt to maintain a
+sense of control through painstaking attention to rules, trivial details, procedures, lists,
+schedules, or form to the extent that the major point of the activity is lost (Criterion 1). They
+are excessively careful and prone to repetiti on, paying extraordinary attention to detail
+and repeatedly checking for possible mistakes. They are oblivious to the fact that other
+people tend to become very annoyed at the de lays and inconveniences that result from this
+behavior. For example, when such individuals misplace a list of things to be done, they
+will spend an inordinate amount  of time looking for the list  rather than spending a few
+moments re-creating it from memory and proceeding to accomplish the tasks. Time is
+poorly allocated, and the most important tasks are left to the last moment. The perfection-
+ism and self-imposed high standards of performance cause significant dysfunction and
+distress in these individuals. They may beco me so involved in maki ng every detail of a
+project absolutely perfect that the project is never finished (Criterion 2). For example, the
+completion of a written report is delayed by  numerous time-consuming rewrites that all
+come up short of “perfection.” Deadlines are missed, and aspects of the individual’s life
+that are not the current focus of activity may fall into disarray.
+Individuals with obsessive-compulsive pers onality disorder display excessive devotion
+to work and productivity to th e exclusion of leisure activities and friendships (Criterion 3).
+This behavior is not accounted for by economic necessity. They often f eel that they do not
+have time to take an evening or a weekend day of f to go on an outing or to just relax. They
+may keep postponing a pleasurable activity, such as a vacation, so that it may never occur.
+When they do take time for leisure activities or vacations, they are very uncomfortable un-
+less they have taken along some thing to work on so they do not “waste time.” There may be
+a great concentration on househ old chores (e.g., repeated excessive cleaning so that “one
+could eat off the floor”). If they spend time with friends, it is likely to be in some kind of for-
+mally organized activity (e.g., sports). Hobbies  or recreational activities are approached as
+serious tasks requiring careful organization and hard work to master. The emphasis is on
+perfect performance. These individuals turn play  into a structured task (e.g., correcting an
+infant for not putting ring s on the post in the right order; tell ing a toddler to ride his or her tri-
+cycle in a straight line; turning a baseball game into a harsh “lesson”).
+Individuals with obsessive-co mpulsive personality disord er may be excessively con-
+scientious, scrupulous, and infl exible about matters of moralit y, ethics, or values (Crite-
+rion 4). They may force themselves and othe rs to follow rigid moral principles and very
+strict standards of performance. They may al so be mercilessly self-c ritical about their own
+mistakes. Individuals with this disorder are rigidly deferential to authority and rules and
+insist on quite literal compliance, with no ru le bending for extenuating circumstances. For
+example, the individual will not lend a quarte r to a friend who needs one to make a tele-
+phone call because “neither a borrower nor a le nder be” or because it  would be “bad” for
+680 Personality Disorders
+the person’s character. These qualities should not be accounted for by the individual’s cul-
+tural or religious identification.
+Individuals with this disorder may be unable to discard worn-out or worthless objects,
+even when they have no sentimental value (C riterion 5). Often these individuals will ad-
+mit to being “pack rats.” They regard discar ding objects as wastef ul because “you never
+know when you might need something” and will become upset if someone tries to get rid of
+the things they have saved. Their spouses or roommates may complain about the amount of
+space taken up by old parts, magazines, broken appliances, and so on. 
+Individuals with obsessive-compulsive pers onality disorder are reluctant to delegate
+tasks or to work with others (Criterion 6). They stubbornly and unreasonably insist that
+everything be done their way and that people  conform to their way of doing things. They
+often give very detaile d instructions about how things should be done (e.g., there is one
+and only one way to mow the lawn, wash the dishes, build a doghouse) and are surprised
+and irritated if others suggest creative alternat ives. At other times they may reject offers of
+help even when behind schedule because th ey believe no one else can do it right.
+Individuals with this disorder may be miserly and stingy and maintain a standard of
+living far below what they can afford, believing that spending must be tightly controlled to
+provide for future catastrophes (Criterion 7) . Obsessive-compulsive personality disorder
+is characterized by rigidity and stubbornness (Criterion 8). Individuals with this disorder
+are so concerned about having things done the one “correct” way that they have trouble
+going along with anyone else’s ideas. These individuals plan ahead in meticulous detail
+and are unwilling to consider changes. Totally  wrapped up in their own perspective, they
+have difficulty acknowledging the viewpoints of others. Friends and colleagues may be-
+come frustrated by this constant rigidity. Even when individuals with obsessive-compul-
+sive personality disorder recognize that it may be in their interest to compromise, they
+may stubbornly refuse to do  so, arguing that it is “t he principle of the thing.”
+Associated Features Supporting Diagnosis
+When rules and established procedures do not dictate the correct answer, decision making
+may become a time-consuming, often painfu l process. Individuals with obsessive-
+compulsive personality disorder may have such difficulty deciding which tasks take pri-
+ority or what is the best way of doing some pa rticular task that they may never get started
+on anything. They are prone to become upset or angry in situations in which they are not
+able to maintain control of their physical or interpersonal environment, although the an-
+ger is typically not expressed di rectly. For example, an individual may be angry when ser-
+vice in a restaurant is poor, but instead of complaining to the management, the individual
+ruminates about how much to leave as a tip. On other occasions, anger may be expressed
+with righteous indignation over a seemingly minor matter. Individuals with this disorder
+may be especially attentive to their relative  status in dominance-submission relationships
+and may display excessive deference to an au thority they respect and excessive resistance
+to authority they do not respect.
+Individuals with this disorder usually expres s affection in a highly  controlled or stilted
+fashion and may be very uncomfortable in the presence of others who are emotionally ex-
+pressive. Their everyday relationships have a formal and serious quality, and they may be
+stiff in situations in which others would smile  and be happy (e.g., greeting a lover at the
+airport). They carefully hold th emselves back until they are sure that whatever they say
+will be perfect. They may be preoccupied with  logic and intellect, and intolerant of affec-
+tive behavior in others. They often have diffi culty expressing tender feelings, rarely pay-
+ing compliments. Individuals with this disord er may experience occupational difficulties
+and distress, particularly when confronted with new situat ions that demand flexibility
+and compromise.
+Individuals with anxiety disorders, including generalized anxiety disorder, social anx-
+iety disorder (social phobia), and specific pho bias, and obsessive-compulsive disorder (OCD)
+Obsessive-Compulsive Personality Disorder 681
+have an increased likelihood of having a person ality disturbance that meets criteria for ob-
+sessive-compulsive personality disorder. Even so , it appears that the majority of individ-
+uals with OCD do not have a pattern of behavior that meets criteria for this personality
+disorder. Many of the features  of obsessive-compulsive pers onality disorder overlap with
+“type A” personality characteristics (e.g., pr eoccupation with work, competitiveness, time
+urgency), and these features may be present in  people at risk for myocardial infarction.
+There may be an association between obsessiv e-compulsive personality disorder and de-
+pressive and bipolar disorders and eating disorders.
+Prevalence
+Obsessive-compulsive personalit y disorder is one of the mo st prevalent personality dis-
+orders in the general population, with estimated prevalence ranging from 2.1% to 7.9%. 
+Culture-Related Diagnostic Issues
+In assessing an individual for obsessive-com pulsive personality disorder, the clinician
+should not include those behaviors that reflect habits, customs, or interpersonal styles that
+are culturally sanctioned by the individual’s  reference group. Certain cultures place sub-
+stantial emphasis on work and productivity; the resulting behaviors in members of those
+societies need not be considered indications of obsessive-compulsive personality disorder.
+Gender-Related Diagnostic Issues
+In systematic studies, obsessiv e-compulsive personality disord er appears to be diagnosed
+about twice as often among males.
+Differential Diagnosis
+Obsessive-compulsive disorder. Despite the similarity in names, OCD is usually easily
+distinguished from obsessive-comp ulsive personality disorder by  the presence of true ob-
+sessions and compulsions in OCD. When crit eria for both obsessive-compulsive person-
+ality disorder and OCD are met, bo th diagnoses should be recorded.
+Hoarding disorder. A diagnosis of hoarding disorder should be considered especially
+when hoarding is extreme (e.g., accumulated st acks of worthless objects present a fire haz-
+ard and make it difficult for others to walk through the house). When criteria for both ob-
+sessive-compulsive personality disorder and ho arding disorder are met, both diagnoses
+should be recorded. 
+Other personality disorder s and personality traits. Other personality disorders may
+be confused with obsessive-compulsive person ality disorder because they have certain
+features in common. It is, therefore, important to distingu ish among these disorders based
+on differences in their characteristic features. However, if an individual has personality
+features that meet criteria for one or more personality disorders in addition to obsessive-
+compulsive personality disorder, all can be diagnosed. Individuals with narcissistic per-
+sonality disorder may also profess a commitmen t to perfectionism and believe that others
+cannot do things as well, but these individuals are more likely to believe that they have
+achieved perfection, whereas those with obse ssive-compulsive personality disorder are
+usually self-critical. Individuals with narcissi stic or antisocial personality disorder lack
+generosity but will indulge themselves, wher eas those with obsessive-compulsive person-
+ality disorder adopt a miserly spending style toward both self and others. Both schizoid
+personality disorder and obsessive-compulsive  personality disorder may be characterized
+by an apparent formality and social detachme nt. In obsessive-compulsive personality dis-
+order, this stems from discomfort with emot ions and excessive devotion to work, whereas
+in schizoid personality disorder there is a fundamental lack of capacity for intimacy.
+682 Personality Disorders
+Obsessive-compulsive personality traits in moderation may be espe cially adaptive, par-
+ticularly in situations that reward high perfor mance. Only when these traits are inflexible,
+maladaptive, and persisting and cause significa nt functional impairment or subjective dis-
+tress do they constitute obsessive-compulsive personality disorder.
+Personality change due to another medical condition. Obsessive-compulsive person-
+ality disorder must be distin guished from personality change due to another medical con-
+dition, in which the traits emerge attributable to the effects of another medical condition
+on the central nervous system.
+Substance use disorders. Obsessive-compulsive personality disorder must also be dis-
+tinguished from symptoms that may develop in  association with persistent substance use.
+Other Personality Disorders
+Personality Change
+ Due to Another Medical Condition
+Diagnostic Criteria 310.1 (F07.0)
+A. A persistent personality disturbance that represents a change from the individual’s pre-
+vious characteristic personality pattern.
+Note:  In children, the disturbance involves a marked deviation from normal devel-
+opment or a significant change in the child’s usual behavior patterns, lasting at least
+1 year.
+B. There is evidence from the history, physical examination, or laboratory findings that the
+disturbance is the direct pathophysiological consequence of another medical condition. 
+C. The disturbance is not better explained by another mental disorder (including another
+mental disorder due to another medical condition).
+D. The disturbance does not occur exclusively during the course of a delirium.
+E. The disturbance causes clinically significant distress or impairment in social, occupa-
+tional, or other important areas of functioning.
+Specify whether:
+Labile type:  If the predominant feature is affective lability.
+Disinhibited type:  If the predominant feature is poor impulse control as evidenced by
+sexual indiscretions, etc.
+Aggressive type:  If the predominant feature is aggressive behavior.
+Apathetic type:  If the predominant feature is marked apathy and indifference.
+Paranoid type:  If the predominant feature is suspiciousness or paranoid ideation.
+Other type: If the presentation is not characterized by any of the above subtypes.
+Combined type:  If more than one feature predominates in the clinical picture.
+Unspecified type
+Coding note:  Include the name of the other medical condition (e.g., 310.1 [F07.0] person-
+ality change due to temporal lobe epilepsy). The other medical condition should be coded
+and listed separately immediately before the personality disorder due to another medical
+condition (e.g., 345.40 [G40.209] temporal lobe epilepsy; 310.1 [F07.0] personality
+change due to temporal lobe epilepsy).
+Personality Change Due to Another Medical Condition 683
+Subtypes
+The particular personality change can be sp ecified by indicating the symptom presenta-
+tion that predominates in the clinical presentation.
+Diagnostic Features
+The essential feature of a personality change due to another medical condition is a persis-
+tent personality disturbance that is judged to  be due to the direct pathophysiological ef-
+fects of a medical condition. The personality disturbance represents a change from the
+individual’s previous characteristic personalit y pattern. In children , this condition may be
+manifested as a marked deviat ion from normal development rather than as a change in a
+stable personality pattern (Criterion A). There must be evidence from the history, physical
+examination, or laboratory findings that the personality change is the direct physiological
+consequence of another medical condition (Crite rion B). The diagnosis is not given if the
+disturbance is better explained by another ment al disorder (Criterion C). The diagnosis is
+not given if the disturbance occurs exclusively during the course of a delirium (Criterion
+D). The disturbance must also ca use clinically significant distress or impairment in social,
+occupational, or other important areas of functioning (Criterion E).
+Common manifestations of the personality change include affective instability, poor
+impulse control, ou tbursts of aggression or rage grossly out of proportion to any precipi-
+tating psychosocial stressor, marked apathy , suspiciousness, or paranoid ideation. The
+phenomenology of the change is indicated using the subtypes listed in the criteria set. An
+individual with the disorder is often characte rized by others as “not himself [or herself].”
+Although it shares the term “personality” with  the other personality disorders, this diag-
+nosis is distinct by virtue of its specific et iology, different phenome nology, and more vari-
+able onset and course.
+The clinical presentation in a given individual may depend on the nature and localiza-
+tion of the pathological process. For example, injury to the frontal lobes may yield symp-
+toms such as lack of judgment or foresight, facetiousness, disinhibition, and euphoria.
+Right hemisphere strokes have often been shown to evoke personal ity changes in asso-
+ciation with unilateral spatial neglect, anos ognosia (i.e., inability of the individual to
+recognize a bodily or functional deficit, such as the existence of hemiparesis), motor im-
+persistence, and other ne urological deficits.
+Associated Features Supporting Diagnosis
+A variety of neurological and other medica l conditions may cause personality changes,
+including central nervous system neoplasm s, head trauma, cerebrovascular disease,
+Huntington’s disease, epilepsy, infectious conditions with central nervous system in-
+volvement (e.g., HIV), endocrine conditions (e.g., hypothyroidism, hypo- and hyperadre-
+nocorticism), and autoimmune conditions with central nerv ous system involvement (e.g.,
+systemic lupus erythematosus). The associat ed physical examination findings, laboratory
+findings, and patterns of preval ence and onset reflec t those of the neurological or other
+medical condition involved.
+Differential Diagnosis
+Chronic medical conditions associ ated with pain and disability. Chronic medical con-
+ditions associated with pain and disability can also be associated with changes in person-
+ality. The diagnosis of personality change du e to another medical condition is given only
+if a direct pathophysiological mechanism can be established. This diagnosis is not given if
+the change is due to a behavioral or psycholo gical adjustment or response to another med-
+ical condition (e.g., dependent behaviors that result from a need for the assistance of others
+following a severe head trauma, card iovascular disease , or dementia). 
+684 Personality Disorders
+Delirium or major neurocognitive disorder. Personality change is a frequently associated
+feature of a delirium or major neurocognitive disorder. A separate diagnosis of personal-
+ity change due to another medical condition is not given if the change occurs exclusively
+during the course of a delirium. However, the diagnosis of personality change due to an-
+other medical condition may be given in additi on to the diagnosis of major neurocognitive
+disorder if the personality change is a prom inent part of the clinical presentation.
+Another mental disorder due to another medical condition. The diagnosis of person-
+ality change due to another medical condition is not given if the disturbance is better ex-
+plained by another mental disorder due to another medical condition (e.g., depressive
+disorder due to brain tumor).
+Substance use disorders. Personality changes may also occur in the context of substance
+use disorders, especially if the disorder is long -standing. The clinician should inquire carefully
+about the nature and extent of substance use. If th e clinician wishes to indicate an etiological re-
+lationship between the personality change and su bstance use, the unspecified category for the
+specific substance (e.g., unspecified st imulant-related disorder) can be used.
+Other mental disorders. Marked personality changes may also be an associated feature
+of other mental disorders (e.g., schizophrenia ; delusional disorder; depressive and bipolar
+disorders; other specified and unspecified disruptive behavior, impulse-control, and con-
+duct disorders; panic disorder). However, in these disorders, no specific physiological fac-
+tor is judged to be et iologically related to the personality change.
+Other personality disorders. Personality change due to another medical condition can
+be distinguished from a persona lity disorder by the requirement for a clinically significant
+change from baseline personality functioning and the presence of a specific etiological
+medical condition.
+Other Specified Personality Disorder
+301.89 (F60.89)
+This category applies to presentations in which symptoms characteristic of a personality
+disorder that cause clinically significant distress or impairment in social, occupational, or
+other important areas of functioning predominate but do not meet the full criteria for any of
+the disorders in the personality disorders diagno stic class. The other specified personality
+disorder category is used in situations in which the clinician chooses to communicate the
+specific reason that the presentation does not meet the criteria for any specific personality
+disorder. This is done by recording “other specified personality disorder” followed by the
+specific reason (e.g., “mixed personality features”).
+Unspecified Personality Disorder
+301.9 (F60.9)
+This category applies to presentations in which symptoms characteristic of a personality
+disorder that cause clinically significant distress or impairment in social, occupational, or
+other important areas of functioning predominate but do not meet the full criteria for any of
+the disorders in the personality disorders diagnostic class. The unspecified personality
+disorder category is used in situations in which the clinician chooses not to specify the rea-
+son that the criteria are not met for a specific personality disorder, and includes presenta-
+tions in which there is insufficient information to make a more specific diagnosis.

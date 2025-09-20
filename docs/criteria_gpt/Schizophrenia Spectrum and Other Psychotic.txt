@@ -1,0 +1,165 @@
+Here are the diagnostic criteria for each disorder:
+
+---
+
+**Delusional Disorder**
+**Diagnostic Criteria 297.1 (F22)**
+
+A. The presence of one (or more) delusions with a duration of 1 month or longer.
+B. Criterion A for schizophrenia has never been met.
+    *   **Note:** Hallucinations, if present, are not prominent and are related to the delusional theme (e.g., the sensation of being infested with insects associated with delusions of infestation).
+C. Apart from the impact of the delusion(s) or its ramifications, functioning is not markedly impaired, and behavior is not obviously bizarre or odd.
+D. If manic or major depressive episodes have occurred, these have been brief relative to the duration of the delusional periods.
+E. The disturbance is not attributable to the physiological effects of a substance or another medical condition and is not better explained by another mental disorder, such as body dysmorphic disorder or obsessive-compulsive disorder.
+
+---
+
+**Brief Psychotic Disorder**
+**Diagnostic Criteria 298.8 (F23)**
+
+A. Presence of one (or more) of the following symptoms. At least one of these must be (1), (2), or (3):
+    1.  Delusions.
+    2.  Hallucinations.
+    3.  Disorganized speech (e.g., frequent derailment or incoherence).
+    4.  Grossly disorganized or catatonic behavior.
+    *   **Note:** Do not include a symptom if it is a culturally sanctioned response.
+B. Duration of an episode of the disturbance is at least 1 day but less than 1 month, with eventual full return to premorbid level of functioning.
+C. The disturbance is not better explained by major depressive or bipolar disorder with psychotic features or another psychotic disorder such as schizophrenia or catatonia, and is not attributable to the physiological effects of a substance (e.g., a drug of abuse, a medication) or another medical condition.
+
+---
+
+**Schizophreniform Disorder**
+**Diagnostic Criteria 295.40 (F20.81)**
+
+A. Two (or more) of the following, each present for a significant portion of time during a 1-month period (or less if successfully treated). At least one of these must be (1), (2), or (3):
+    1.  Delusions.
+    2.  Hallucinations.
+    3.  Disorganized speech (e.g., frequent derailment or incoherence).
+    4.  Grossly disorganized or catatonic behavior.
+    5.  Negative symptoms (i.e., diminished emotional expression or avolition).
+B. An episode of the disorder lasts at least 1 month but less than 6 months. When the diagnosis must be made without waiting for recovery, it should be qualified as “provisional.”
+C. Schizoaffective disorder and depressive or bipolar disorder with psychotic features have been ruled out because either 1) no major depressive or manic episodes have occurred concurrently with the active-phase symptoms, or 2) if mood episodes have occurred during active-phase symptoms, they have been present for a minority of the total duration of the active and residual periods of the illness.
+D. The disturbance is not attributable to the physiological effects of a substance (e.g., a drug of abuse, a medication) or another medical condition.
+
+---
+
+**Schizophrenia**
+**Diagnostic Criteria 295.90 (F20.9)**
+
+A. Two (or more) of the following, each present for a significant portion of time during a 1-month period (or less if successfully treated). At least one of these must be (1), (2), or (3):
+    1.  Delusions.
+    2.  Hallucinations.
+    3.  Disorganized speech (e.g., frequent derailment or incoherence).
+    4.  Grossly disorganized or catatonic behavior.
+    5.  Negative symptoms (i.e., diminished emotional expression or avolition).
+B. For a significant portion of the time since the onset of the disturbance, level of functioning in one or more major areas, such as work, interpersonal relations, or self-care, is markedly below the level achieved prior to the onset (or when the onset is in childhood or adolescence, there is failure to achieve expected level of interpersonal, academic, or occupational functioning).
+C. Continuous signs of the disturbance persist for at least 6 months. This 6-month period must include at least 1 month of symptoms (or less if successfully treated) that meet Criterion A (i.e., active-phase symptoms) and may include periods of prodromal or residual symptoms. During these prodromal or residual periods, the signs of the disturbance may be manifested by only negative symptoms or by two or more symptoms listed in Criterion A present in an attenuated form (e.g., odd beliefs, unusual perceptual experiences).
+D. Schizoaffective disorder and depressive or bipolar disorder with psychotic features have been ruled out because either 1) no major depressive or manic episodes have occurred concurrently with the active-phase symptoms, or 2) if mood episodes have occurred during active-phase symptoms, they have been present for a minority of the total duration of the active and residual periods of the illness.
+E. The disturbance is not attributable to the physiological effects of a substance (e.g., a drug of abuse, a medication) or another medical condition.
+F. If there is a history of autism spectrum disorder or a communication disorder of childhood onset, the additional diagnosis of schizophrenia is made only if prominent delusions or hallucinations, in addition to the other required symptoms of schizophrenia, are also present for at least 1 month (or less if successfully treated).
+
+---
+
+**Schizoaffective Disorder**
+**Diagnostic Criteria**
+
+A. An uninterrupted period of illness during which there is a major mood episode (major depressive or manic) concurrent with Criterion A of schizophrenia.
+    *   **Note:** The major depressive episode must include Criterion A1: Depressed mood.
+B. Delusions or hallucinations for 2 or more weeks in the absence of a major mood episode (depressive or manic) during the lifetime duration of the illness.
+C. Symptoms that meet criteria for a major mood episode are present for the majority of the total duration of the active and residual portions of the illness.
+D. The disturbance is not attributable to the effects of a substance (e.g., a drug of abuse, a medication) or another medical condition.
+
+---
+
+**Substance/Medication-Induced Psychotic Disorder**
+**Diagnostic Criteria**
+
+A. Presence of one or both of the following symptoms:
+    1.  Delusions.
+    2.  Hallucinations.
+B. There is evidence from the history, physical examination, or laboratory findings of both (1) and (2):
+    1.  The symptoms in Criterion A developed during or soon after substance intoxication or withdrawal or after exposure to a medication.
+    2.  The involved substance/medication is capable of producing the symptoms in Criterion A.
+C. The disturbance is not better explained by a psychotic disorder that is not substance/medication-induced. Such evidence of an independent psychotic disorder could include the following: The symptoms preceded the onset of the substance/medication use; the symptoms persist for a substantial period of time (e.g., about 1 month) after the cessation of acute withdrawal or severe intoxication; or there is other evidence of an independent non-substance/medication-induced psychotic disorder (e.g., a history of recurrent non-substance/medication-related episodes).
+D. The disturbance does not occur exclusively during the course of a delirium.
+E. The disturbance causes clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+    *   **Note:** This diagnosis should be made instead of a diagnosis of substance intoxication or substance withdrawal only when the symptoms in Criterion A predominate in the clinical picture and when they are sufficiently severe to warrant clinical attention.
+
+---
+
+**Psychotic Disorder Due to Another Medical Condition**
+**Diagnostic Criteria**
+
+A. Prominent hallucinations or delusions.
+B. There is evidence from the history, physical examination, or laboratory findings that the disturbance is the direct pathophysiological consequence of another medical condition.
+C. The disturbance is not better explained by another mental disorder.
+D. The disturbance does not occur exclusively during the course of a delirium.
+E. The disturbance causes clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+
+---
+
+**Catatonia Associated With Another Mental Disorder (Catatonia Specifier)**
+**293.89 (F06.1)**
+
+A. The clinical picture is dominated by three (or more) of the following symptoms:
+    1.  Stupor (i.e., no psychomotor activity; not actively relating to environment).
+    2.  Catalepsy (i.e., passive induction of a posture held against gravity).
+    3.  Waxy flexibility (i.e., slight, even resistance to positioning by examiner).
+    4.  Mutism (i.e., no, or very little, verbal response [exclude if known aphasia]).
+    5.  Negativism (i.e., opposition or no response to instructions or external stimuli).
+    6.  Posturing (i.e., spontaneous and active maintenance of a posture against gravity).
+    7.  Mannerism (i.e., odd, circumstantial caricature of normal actions).
+    8.  Stereotypy (i.e., repetitive, abnormally frequent, non-goal-directed movements).
+    9.  Agitation, not influenced by external stimuli.
+    10. Grimacing.
+    11. Echolalia (i.e., mimicking another’s speech).
+    12. Echopraxia (i.e., mimicking another’s movements).
+
+---
+
+**Catatonic Disorder Due to Another Medical Condition**
+**Diagnostic Criteria 293.89 (F06.1)**
+
+A. The clinical picture is dominated by three (or more) of the following symptoms:
+    1.  Stupor (i.e., no psychomotor activity; not actively relating to environment).
+    2.  Catalepsy (i.e., passive induction of a posture held against gravity).
+    3.  Waxy flexibility (i.e., slight, even resistance to positioning by examiner).
+    4.  Mutism (i.e., no, or very little, verbal response [Note: not applicable if there is an established aphasia]).
+    5.  Negativism (i.e., opposition or no response to instructions or external stimuli).
+    6.  Posturing (i.e., spontaneous and active maintenance of a posture against gravity).
+    7.  Mannerism (i.e., odd, circumstantial caricature of normal actions).
+    8.  Stereotypy (i.e., repetitive, abnormally frequent, non-goal-directed movements).
+    9.  Agitation, not influenced by external stimuli.
+    10. Grimacing.
+    11. Echolalia (i.e., mimicking another’s speech).
+    12. Echopraxia (i.e., mimicking another’s movements).
+B. There is evidence from the history, physical examination, or laboratory findings that the disturbance is the direct pathophysiological consequence of another medical condition.
+C. The disturbance is not better explained by another mental disorder (e.g., a manic episode).
+D. The disturbance does not occur exclusively during the course of a delirium.
+E. The disturbance causes clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+
+---
+
+**Unspecified Catatonia**
+
+This category applies to presentations in which symptoms characteristic of catatonia cause clinically significant distress or impairment in social, occupational, or other important areas of functioning but either the nature of the underlying mental disorder or other medical condition is unclear, full criteria for catatonia are not met, or there is insufficient information to make a more specific diagnosis (e.g., in emergency room settings).
+
+---
+
+**Other Specified Schizophrenia Spectrum and Other Psychotic Disorder**
+**298.8 (F28)**
+
+This category applies to presentations in which symptoms characteristic of a schizophrenia spectrum and other psychotic disorder that cause clinically significant distress or impairment in social, occupational, or other important areas of functioning predominate but do not meet the full criteria for any of the disorders in the schizophrenia spectrum and other psychotic disorders diagnostic class. The other specified schizophrenia spectrum and other psychotic disorder category is used in situations in which the clinician chooses to communicate the specific reason that the presentation does not meet the criteria for any specific schizophrenia spectrum and other psychotic disorder. This is done by recording “other specified schizophrenia spectrum and other psychotic disorder” followed by the specific reason (e.g., “persistent auditory hallucinations”).
+
+Examples of presentations that can be specified using the “other specified” designation include the following:
+1.  Persistent auditory hallucinations occurring in the absence of any other features.
+2.  Delusions with significant overlapping mood episodes: This includes persistent delusions with periods of overlapping mood episodes that are present for a substantial portion of the delusional disturbance (such that the criterion stipulating only brief mood disturbance in delusional disorder is not met).
+3.  Attenuated psychosis syndrome: This syndrome is characterized by psychotic-like symptoms that are below a threshold for full psychosis (e.g., the symptoms are less severe and more transient, and insight is relatively maintained).
+4.  Delusional symptoms in partner of individual with delusional disorder: In the context of a relationship, the delusional material from the dominant partner provides content for delusional belief by the individual who may not otherwise entirely meet criteria for delusional disorder.
+
+---
+
+**Unspecified Schizophrenia Spectrum and Other Psychotic Disorder**
+**298.9 (F29)**
+
+This category applies to presentations in which symptoms characteristic of a schizophrenia spectrum and other psychotic disorder that cause clinically significant distress or impairment in social, occupational, or other important areas of functioning predominate but do not meet the full criteria for any of the disorders in the schizophrenia spectrum and other psychotic disorders diagnostic class. The unspecified schizophrenia spectrum and other psychotic disorder category is used in situations in which the clinician chooses not to specify the reason that the criteria are not met for a specific schizophrenia spectrum and other psychotic disorder, and includes presentations in which there is insufficient information to make a more specific diagnosis (e.g., in emergency room settings).

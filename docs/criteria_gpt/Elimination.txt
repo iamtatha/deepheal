@@ -1,0 +1,32 @@
+Here are the diagnostic criteria for Enuresis and Encopresis:
+
+---
+
+### Enuresis
+**Diagnostic Criteria 307.6 (F98.0)**
+A. Repeated voiding of urine into bed or clothes, whether involuntary or intentional.
+B. The behavior is clinically significant as manifested by either a frequency of at least twice a week for at least 3 consecutive months or the presence of clinically significant distress or impairment in social, academic (occupational), or other important areas of functioning.
+C. Chronological age is at least 5 years (or equivalent developmental level).
+D. The behavior is not attributable to the physiological effects of a substance (e.g., a diuretic, an antipsychotic medication) or another medical condition (e.g., diabetes, spina bifida, a seizure disorder).
+
+**Specify whether:**
+*   **Nocturnal only:** Passage of urine only during nighttime sleep.
+*   **Diurnal only:** Passage of urine during waking hours.
+*   **Nocturnal and diurnal:** A combination of the two subtypes above.
+
+---
+
+### Encopresis
+**Diagnostic Criteria 307.7 (F98.1)**
+A. Repeated passage of feces into inappropriate places (e.g., clothing, floor), whether involuntary or intentional.
+B. At least one such event occurs each month for at least 3 months.
+C. Chronological age is at least 4 years (or equivalent developmental level).
+D. The behavior is not attributable to the physiological effects of a substance (e.g., laxatives) or another medical condition except through a mechanism involving constipation.
+
+**Specify whether:**
+*   **With constipation and overflow incontinence:** There is evidence of constipation on physical examination or by history.
+*   **Without constipation and overflow incontinence:** There is no evidence of constipation on physical examination or by history.
+
+---
+
+**Note:** The sections for "Other Specified Elimination Disorder" and "Unspecified Elimination Disorder" describe categories for presentations that do not meet the full criteria for specific elimination disorders but cause significant distress or impairment. They do not have a distinct set of numbered/lettered diagnostic criteria in the same way Enuresis and Encopresis do.

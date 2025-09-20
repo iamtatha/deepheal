@@ -1,0 +1,228 @@
+355Elimination
+ Disorders
+Elimination disorders  all involve the inappropriate elimination of urine or feces
+and are usually first diagnosed in childhood or adolescence. This group of disorders in-
+cludes enuresis,  the repeated voiding of urine into inappropriate places, and encopresis, the
+repeated passage of feces into inappropriate places. Subtypes are provided to differentiate
+nocturnal from diurnal (i.e., during waking hours) voiding for enuresis and the presence or
+absence of constipation and ove rflow incontinence for encopresis. Although there are min-
+imum age requirements for diagnosis of both disorders, these are based on developmental
+age and not solely on chronological age. Both  disorders may be volun tary or involuntary.
+Although these disorder s typically occur separa tely, co-occurrence may also be observed. 
+Enuresis
+Diagnostic Criteria 307.6 (F98.0)
+A. Repeated voiding of urine into bed or clothes, whether involuntary or intentional.
+B. The behavior is clinically significant as manifested by either a frequency of at least twice a
+week for at least 3 consecutive months or the presence of clinically significant distress or
+impairment in social, academic (occupational), or other important areas of functioning.
+C. Chronological age is at least 5 years (or equivalent developmental level).
+D. The behavior is not attributable to the physiological effects of a substance (e.g., a di-
+uretic, an antipsychotic medication) or another medical condition (e.g., diabetes, spina
+bifida, a seizure disorder).
+Specify whether:
+Nocturnal only: Passage of urine only during nighttime sleep.
+Diurnal only: Passage of urine during waking hours.
+Nocturnal and diurnal:  A combination of the two subtypes above.
+Subtypes
+The nocturnal-only subtype of enuresis, sometimes referred to as monosymptomatic enure-
+sis, is the most common subtype and involves incontinence only during nighttime sleep,
+typically during the fi rst one-third of the night. The di urnal-only subtype occurs in the
+absence of nocturnal enuresis and may be referred to simply as urinary incontinence.  Indi-
+viduals with this subtype can be divided in to two groups. Individu als with “urge incon-
+tinence” have sudden urge symptoms and de trusor instability, whereas individuals with
+“voiding postponement” consciously defer micturition urges until incontinence results.
+The nocturnal-and-diurnal subtype is also known as nonmonosymptomatic enuresis.
+Diagnostic Features
+The essential feature of enuresis  is repeated voiding of urine during the day or at night into
+bed or clothes (Criterion A). Most often the voiding is involuntary, bu t occasionally it may
+356 Elimination Disorders
+be intentional. To qualify for a diagnosis of  enuresis, the voiding of urine must occur at
+least twice a week for at least 3 consecutive months or must cause clinically significant dis-
+tress or impairment in social, academic (occu pational), or other im portant areas of func-
+tioning (Criterion B). The indi vidual must have reached an age at which continence is
+expected (i.e., a chronological age of at leas t 5 years or, for childre n with developmental
+delays, a mental age of at least 5 years) (Cri terion C). The urinary incontinence is not at-
+tributable to the physiological effects of a substance (e.g., a diuretic, an antipsychotic med-
+ication) or another medical co ndition (e.g., diabetes, spina bifida, a seizure disorder)
+(Criterion D).
+Associated Features Supporting Diagnosis
+During nocturnal enuresis, occasionally the voiding takes place during rapid eye movement
+(REM) sleep, and the child may recall a dream that involved the act of urinating. During day-
+time (diurnal) enuresis, the child defers voiding until incontinence occurs, sometimes because
+of a reluctance to use the toilet as a result of social anxiety or  a preoccupation with school or
+play activity. The enuretic event most commonly occurs in the early afternoon on school days
+and may be associated with symptoms of disr uptive behavior. The enuresis commonly per-
+sists after appropriate treatment of an associat ed infection. 
+Prevalence
+The prevalence of enuresis is 5%–10% am ong 5-year-olds, 3%–5%  among 10-year-olds,
+and around 1% among individuals 15 years or older.
+Development and Course
+Two types of course of enuresis have been de scribed: a “primary” type, in which the indi-
+vidual has never established urinary continence, and a “secondary” type, in which the dis-
+turbance develops after a period of establis hed urinary continence. There are no differences
+in prevalence of comorbid me ntal disorders between the two types. By definition, primary
+enuresis begins at age 5 years. The most co mmon time for the onset of secondary enuresis
+is between ages 5 and 8 years, but it may occur at any time. After age 5 years, the rate of spon-
+taneous remission is 5%–10% per year. Most ch ildren with the disord er become continent
+by adolescence, but in approximately 1% of cases the disorder continues into adulthood.
+Diurnal enuresis is uncommon after age 9 year s. While occasional diurnal incontinence is
+not uncommon in middle childhood, it is substantially more common in those who also
+have persistent nocturnal enures is. When enuresis persists in to late childhood or adoles-
+cence, the frequency of incontinence may in crease, whereas continence in early childhood
+is usually associated with a dec lining frequency of wet nights.
+Risk and Prognostic Factors
+Environmental. A number of predisposing factors for enuresis have been suggested, in-
+cluding delayed or lax toilet training and psychosocial stress.
+Genetic and physiological. Enuresis has been associated with delays in the develop-
+ment of normal circadian rhyt hms of urine production, with resulting nocturnal polyuria
+or abnormalities of central v asopressin receptor sensitivity, and reduced functional blad-
+der capacities with bladder hyperreactivity (unstable bladder syndrome). Nocturnal en-
+uresis is a genetically heterogeneous disorder. Heritability has been shown in family, twin,
+and segregation analyses. Risk for childhood nocturnal enuresis is approximately 3.6 times
+higher in offspring of enuretic mothers and 10.1 times higher  in the presence of paternal
+urinary incontinence. The risk magnitudes fo r nocturnal enuresis and diurnal incontinence
+are similar.
+Encopresis 357
+Culture-Related Diagnostic Issues 
+Enuresis has been reported in a variety of Eu ropean, African, and Asian countries as well
+as in the United States. At a national level,  prevalence rates are remarkably similar, and
+there is great similarity in the developmenta l trajectories found in different countries.
+There are very high rates of enuresis in orphanages and other residential institutions,
+likely related to the mode and environment in which toilet training occurs. 
+Gender-Related Diagnostic Issues
+Nocturnal enuresis is more common in males. Diurnal incontinence is more common in fe-
+males. The relative risk of having a child who develops enuresis is greater for previously
+enuretic fathers than for pr eviously enuretic mothers. 
+Functional Consequences of Enuresis
+The amount of impairment associated with enur esis is a function of the limitation on the
+child’s social activities (e.g., ineligibility fo r sleep-away camp) or its effect on the child’s
+self-esteem, the degree of social ostracism by peers, and the anger, punishment, and rejec-
+tion on the part of caregivers.
+Differential Diagnosis
+Neurogenic bladder or another medical condition. The diagnosis of enuresis is not made
+in the presence of a neurogenic bladder or an other medical condition that causes polyuria or
+urgency (e.g., untreated diabetes mellitus or diabetes insipidus) or during an acute urinary
+tract infection. However, a diagnosis is compat ible with such conditions if urinary inconti-
+nence was regularly present prior to the development of another me dical condition or if it per-
+sists after the institution of appropriate treatment of the medical condition.
+Medication side effects. Enuresis may occur during treatment with antipsychotic med-
+ications, diuretics, or other medications that may induce incontinence. In this case, the di-
+agnosis should not be made in isolation but may be noted as a medication side effect.
+However, a diagnosis of enuresis may be made if urinary incontinence was regularly pres-
+ent prior to treatment with the medication.
+Comorbidity
+Although most children with enuresis do not have a comorbid mental disorder, the prevalence
+of comorbid behavioral symptoms is higher in children with enuresis than in children without
+enuresis. Developmental delays, including speech, language, learning, and motor skills
+delays, are also present in a portion of childr en with enuresis. Encopresis, sleepwalking, and
+sleep terror disorder may be present. Urinar y tract infections are more common in children
+with enuresis, especially the diurnal subtype, than in those who are continent.
+Encopresis
+Diagnostic Criteria 307.7 (F98.1)
+A. Repeated passage of feces into inappropriate places (e.g., clothing, floor), whether in-
+voluntary or intentional.
+B. At least one such event occurs each month for at least 3 months.
+C. Chronological age is at least 4 years (or equivalent developmental level).
+D. The behavior is not attributable to the physiological effects of a substance (e.g., laxa-
+tives) or another medical condition except through a mechanism involving constipation.
+358 Elimination Disorders
+Specify whether:
+With constipation and overflow incontinence:  There is evidence of constipation on
+physical examination or by history.
+Without constipation and overflow incontinence:  There is no evidence of constipa-
+tion on physical examination or by history.
+Subtypes
+Feces in the with constipation and overflow incontinence subtype are characteristically
+(but not invariably) poorly fo rmed, and leakage can be infr equent to cont inuous, occur-
+ring mostly during the day and rarely during sleep. Only part of the feces is passed during
+toileting, and the incontinence resolves after treatment of the constipation.
+In the without constipation and overflow inco ntinence subtype, feces are likely to be of
+normal form and consistency, and soiling is intermittent. Feces may be deposited in a
+prominent location. This is usually associated  with the presence of  oppositional defiant
+disorder or conduct disorder or may be th e consequence of anal masturbation. Soiling
+without constipation appears to be less common than soiling with constipation.
+Diagnostic Features
+The essential feature of encopresis is repeated passage of feces into in appropriate places (e.g.,
+clothing or floor) (Criterion A). Most often the passage is involuntary but occasionally may be
+intentional. The event must occur at least once a month for at least 3 months (Criterion B), and
+the chronological age of the child must be at least 4 years (or for children with developmental
+delays, the mental age must be at least 4 years)  (Criterion C). The fecal incontinence must not
+be exclusively attributable to the physiological ef fects of a substance (e.g., laxatives) or another
+medical condition except thr ough a mechanism involving constipation (Criterion D).
+When the passage of feces is involuntary rath er than intentional, it is often related to
+constipation, impaction, and retention with subsequent overflow. The constipation may
+develop for psychological reasons (e.g., anxiet y about defecating in a particular place, a
+more general pattern of anxious or oppositional behavior), leading to avoidance of defeca-
+tion. Physiological predispositi ons to constipation include ineffectual straining or paradox-
+ical defecation dynamics, with contraction rath er than relaxation of the external sphincter
+or pelvic floor during straining for defecati on. Dehydration associated with a febrile ill-
+ness, hypothyroidism, or a medication side ef fect can also induce constipation. Once con-
+stipation has developed, it may be complicated by an anal fissure, painful defecation, and
+further fecal retention. The con sistency of the stool may vary. In some individuals the stool
+may be of normal or near-normal consistency. In other individuals—such as those with
+overflow incontinence secondary to  fecal retention—it may be liquid.
+Associated Features Supporting Diagnosis
+The child with encopresis often feels ashame d and may wish to avoid situations (e.g.,
+camp, school) that might lead to embarrassment. The amount of impairment is a function
+of the effect on the child's self-esteem, the degree of social ostracism by peers, and the an-
+ger, punishment, and rejection on the part of  caregivers. Smearing feces may be deliberate
+or accidental, resulting from the child’s attempt to clean or hide feces that were passed in-
+voluntarily. When the incontinence is clearly deliberate, features of  oppositional defiant
+disorder or conduct disorder may also be present. Many children with encopresis and
+chronic constipation also have enuresis symp toms and may have associated urinary reflux
+in the bladder or ureters that may lead to  chronic urinary infections, the symptoms of
+which may remit with treatment of the constipation.
+Other Specified Elimination Disorder 359
+Prevalence
+It is estimated that approximately 1% of 5-year-olds have encopresis, and the disorder is
+more common in males than in females.
+Development and Course
+Encopresis is not diagnosed until a child has re ached a chronological ag e of at least 4 years
+(or for children with developmental delays, a mental age of at least 4 years). Inadequate,
+inconsistent toilet training and psychosocial st ress (e.g., entering school, the birth of a sib-
+ling) may be predisposing factors. Two types of  course have been described: a “primary”
+type, in which the individual has never established fecal continence, and a “secondary”
+type, in which the disturbance develops after a period of established fecal continence. En-
+copresis can persist, with interm ittent exacerbations, for years.
+Risk and Prognostic Factors
+Genetic and physiological. Painful defecation can lead to co nstipation and a cycle of with-
+holding behaviors that make encopresis more likely. Use of some medications (e.g., anti-
+convulsants, cough suppressants) may increase constipation and make encopresis more
+likely.
+Diagnostic Markers
+In addition to physical examination, gastrointestinal imaging (e.g., abdominal radiograph)
+may be informative to assess retained stool an d gas in the colon. Additional tests, such as
+barium enema and anorectal ma nography, may be used to help exclude other medical
+conditions, such as Hirschsprung’s disease.
+Differential Diagnosis
+A diagnosis of encopresis in the presence of  another medical condition is appropriate only
+if the mechanism involves constipation that cannot be explained by other medical condi-
+tions. Fecal incontinence related to other me dical conditions (e.g., chronic diarrhea, spina
+bifida, anal stenosis) would not warrant a DSM-5 diagnosis of encopresis.
+Comorbidity
+Urinary tract infections can be comorbid with encopresis and are more common in females.
+Other Specified Elimination Disorder
+ 
+This category applies to presentations in which symptoms characteristic of an elimination
+disorder that cause clinically significant distress or impairment in social, occupational, or
+other important areas of functioning predominate but do not meet the full criteria for any of
+the disorders in the elimination disorders di agnostic class. The other specified elimination
+disorder category is used in situations in which the clinician chooses to communicate the
+specific reason that the presentation does not meet the criteria for any specific elimination
+disorder. This is done by recording “other s pecified elimination disorder” followed by the
+specific reason (e.g., “low-frequency enuresis”).
+Coding note:  Code 788.39 (N39.498)  for other specified elimi nation disorder with urinary
+symptoms; 787.60 (R15.9)  for other specified elimination disorder with fecal symptoms.
+360 Elimination Disorders
+Unspecified Elimination Disorder
+ 
+This category applies to presentations in which symptoms characteristic of an elimination
+disorder that cause clinically significant distress or impairment in social, occupational, or
+other important areas of functioning predominate but do not meet the full criteria for any of
+the disorders in the elimination disorders di agnostic class. The unspecified elimination dis-
+order category is used in situations in which the clinician chooses not  to specify the reason
+that the criteria are not met for a specific elimination disorder, and includes presentations
+in which there is insufficient information to make a more specific diagnosis (e.g., in emer-
+gency room settings).
+Coding note: Code 788.30 (R32) for unspecified elimination disorder with urinary symp-
+toms; 787.60 (R15.9)  for unspecified elimination disorder with fecal symptoms.

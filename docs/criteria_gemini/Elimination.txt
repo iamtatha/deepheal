@@ -1,0 +1,20 @@
+```json
+[
+  {
+    "disorder": "Enuresis",
+    "criteria": "A. Repeated voiding of urine into bed or clothes, whether involuntary or intentional.\nB. The behavior is clinically significant as manifested by either a frequency of at least twice a week for at least 3 consecutive months or the presence of clinically significant distress or impairment in social, academic (occupational), or other important areas of functioning.\nC. Chronological age is at least 5 years (or equivalent developmental level).\nD. The behavior is not attributable to the physiological effects of a substance (e.g., a diuretic, an antipsychotic medication) or another medical condition (e.g., diabetes, spina bifida, a seizure disorder).\nSpecify whether:\nNocturnal only: Passage of urine only during nighttime sleep.\nDiurnal only: Passage of urine during waking hours.\nNocturnal and diurnal: A combination of the two subtypes above."
+  },
+  {
+    "disorder": "Encopresis",
+    "criteria": "A. Repeated passage of feces into inappropriate places (e.g., clothing, floor), whether involuntary or intentional.\nB. At least one such event occurs each month for at least 3 months.\nC. Chronological age is at least 4 years (or equivalent developmental level).\nD. The behavior is not attributable to the physiological effects of a substance (e.g., laxatives) or another medical condition except through a mechanism involving constipation.\nSpecify whether:\nWith constipation and overflow incontinence: There is evidence of constipation on physical examination or by history.\nWithout constipation and overflow incontinence: There is no evidence of constipation on physical examination or by history."
+  },
+  {
+    "disorder": "Other Specified Elimination Disorder",
+    "criteria": "This category applies to presentations in which symptoms characteristic of an elimination disorder that cause clinically significant distress or impairment in social, occupational, or other important areas of functioning predominate but do not meet the full criteria for any of the disorders in the elimination disorders diagnostic class. The other specified elimination disorder category is used in situations in which the clinician chooses to communicate the specific reason that the presentation does not meet the criteria for any specific elimination disorder. This is done by recording “other specified elimination disorder” followed by the specific reason (e.g., “low-frequency enuresis”)."
+  },
+  {
+    "disorder": "Unspecified Elimination Disorder",
+    "criteria": "This category applies to presentations in which symptoms characteristic of an elimination disorder that cause clinically significant distress or impairment in social, occupational, or other important areas of functioning predominate but do not meet the full criteria for any of the disorders in the elimination disorders diagnostic class. The unspecified elimination disorder category is used in situations in which the clinician chooses not to specify the reason that the criteria are not met for a specific elimination disorder, and includes presentations in which there is insufficient information to make a more specific diagnosis (e.g., in emergency room settings)."
+  }
+]
+```

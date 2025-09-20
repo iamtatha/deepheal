@@ -1,0 +1,123 @@
+Here are the diagnostic criteria for the Paraphilic Disorders as presented in the text:
+
+---
+
+**General Definition of a Paraphilic Disorder (from introductory text):**
+A paraphilic disorder is a paraphilia that is currently causing distress or impairment to the individual or a paraphilia whose satisfaction has entailed personal harm, or risk of harm, to others.
+*   **Criterion A** specifies the qualitative nature of the paraphilia (e.g., an erotic focus on children or on exposing the genitals to strangers).
+*   **Criterion B** specifies the negative consequences of the paraphilia (i.e., distress, impairment, or harm to others).
+
+---
+
+**Voyeuristic Disorder** (302.82, F65.3)
+A. Over a period of at least 6 months, recurrent and intense sexual arousal from observing an unsuspecting person who is naked, in the process of disrobing, or engaging in sexual activity, as manifested by fantasies, urges, or behaviors.
+B. The individual has acted on these sexual urges with a nonconsenting person, or the sexual urges or fantasies cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+C. The individual experiencing the arousal and/or acting on the urges is at least 18 years of age.
+
+*   **Specify if:**
+    *   In a controlled environment
+    *   In full remission
+
+---
+
+**Exhibitionistic Disorder** (302.4, F65.2)
+A. Over a period of at least 6 months, recurrent and intense sexual arousal from the exposure of one’s genitals to an unsuspecting person, as manifested by fantasies, urges, or behaviors.
+B. The individual has acted on these sexual urges with a nonconsenting person, or the sexual urges or fantasies cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+
+*   **Specify whether:**
+    *   Sexually aroused by exposing genitals to prepubertal children
+    *   Sexually aroused by exposing genitals to physically mature individuals
+    *   Sexually aroused by exposing genitals to prepubertal children and to physically mature individuals
+*   **Specify if:**
+    *   In a controlled environment
+    *   In full remission
+
+---
+
+**Frotteuristic Disorder** (302.89, F65.81)
+A. Over a period of at least 6 months, recurrent and intense sexual arousal from touching or rubbing against a nonconsenting person, as manifested by fantasies, urges, or behaviors.
+B. The individual has acted on these sexual urges with a nonconsenting person, or the sexual urges or fantasies cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+
+*   **Specify if:**
+    *   In a controlled environment
+    *   In full remission
+
+---
+
+**Sexual Masochism Disorder** (302.83, F65.51)
+A. Over a period of at least 6 months, recurrent and intense sexual arousal from the act of being humiliated, beaten, bound, or otherwise made to suffer, as manifested by fantasies, urges, or behaviors.
+B. The fantasies, sexual urges, or behaviors cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+
+*   **Specify if:**
+    *   With asphyxiophilia
+    *   In a controlled environment
+    *   In full remission
+
+---
+
+**Sexual Sadism Disorder** (302.84, F65.52)
+A. Over a period of at least 6 months, recurrent and intense sexual arousal from the physical or psychological suffering of another person, as manifested by fantasies, urges, or behaviors.
+B. The individual has acted on these sexual urges with a nonconsenting person, or the sexual urges or fantasies cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+
+*   **Specify if:**
+    *   In a controlled environment
+    *   In full remission
+
+---
+
+**Pedophilic Disorder** (302.2, F65.4)
+A. Over a period of at least 6 months, recurrent, intense sexually arousing fantasies, sexual urges, or behaviors involving sexual activity with a prepubescent child or children (generally age 13 years or younger).
+B. The individual has acted on these sexual urges, or the sexual urges or fantasies cause marked distress or interpersonal difficulty.
+C. The individual is at least age 16 years and at least 5 years older than the child or children in Criterion A.
+*   **Note:** Do not include an individual in late adolescence involved in an ongoing sexual relationship with a 12- or 13-year-old.
+
+*   **Specify whether:**
+    *   Exclusive type (attracted only to children)
+    *   Nonexclusive type
+*   **Specify if:**
+    *   Sexually attracted to males
+    *   Sexually attracted to females
+    *   Sexually attracted to both
+*   **Specify if:**
+    *   Limited to incest
+
+---
+
+**Fetishistic Disorder** (302.81, F65.0)
+A. Over a period of at least 6 months, recurrent and intense sexual arousal from either the use of nonliving objects or a highly specific focus on nongenital body part(s), as manifested by fantasies, urges, or behaviors.
+B. The fantasies, sexual urges, or behaviors cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+C. The fetish objects are not limited to articles of clothing used in cross-dressing (as in transvestic disorder) or devices specifically designed for the purpose of tactile genital stimulation (e.g., vibrator).
+
+*   **Specify:**
+    *   Body part(s)
+    *   Nonliving object(s)
+    *   Other
+*   **Specify if:**
+    *   In a controlled environment
+    *   In full remission
+
+---
+
+**Transvestic Disorder** (302.3, F65.1)
+A. Over a period of at least 6 months, recurrent and intense sexual arousal from cross-dressing, as manifested by fantasies, urges, or behaviors.
+B. The fantasies, sexual urges, or behaviors cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+
+*   **Specify if:**
+    *   With fetishism: If sexually aroused by fabrics, materials, or garments.
+    *   With autogynephilia: If sexually aroused by thoughts or images of self as female.
+*   **Specify if:**
+    *   In a controlled environment
+    *   In full remission
+
+---
+
+**Other Specified Paraphilic Disorder** (302.89, F65.89)
+This category applies to presentations in which symptoms characteristic of a paraphilic disorder that cause clinically significant distress or impairment in social, occupational, or other important areas of functioning predominate but do not meet the full criteria for any of the disorders in the paraphilic disorders diagnostic class. The other specified paraphilic disorder category is used in situations in which the clinician chooses to communicate the specific reason that the presentation does not meet the criteria for any specific paraphilic disorder. This is done by recording “other specified paraphilic disorder” followed by the specific reason (e.g., “zoophilia”).
+
+*   **Examples of presentations that can be specified:** Recurrent and intense sexual arousal involving telephone scatologia (obscene phone calls), necrophilia (corpses), zoophilia (animals), coprophilia (feces), klismaphilia (enemas), or urophilia (urine) that has been present for at least 6 months and causes marked distress or impairment in social, occupational, or other important areas of functioning.
+*   Can be specified as in remission and/or as occurring in a controlled environment.
+
+---
+
+**Unspecified Paraphilic Disorder** (302.9, F65.9)
+This category applies to presentations in which symptoms characteristic of a paraphilic disorder that cause clinically significant distress or impairment in social, occupational, or other important areas of functioning predominate but do not meet the full criteria for any of the disorders in the paraphilic disorders diagnostic class. The unspecified paraphilic disorder category is used in situations in which the clinician chooses not to specify the reason that the criteria are not met for a specific paraphilic disorder, and includes presentations in which there is insufficient information to make a more specific diagnosis.

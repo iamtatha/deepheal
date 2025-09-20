@@ -1,0 +1,208 @@
+Here are the diagnostic criteria for each sexual dysfunction:
+
+---
+
+**Delayed Ejaculation**
+Diagnostic Criteria 302.74 (F52.32)
+A. Either of the following symptoms must be experienced on almost all or all occasions (approximately 75%–100%) of partnered sexual activity (in identified situational contexts or, if generalized, in all contexts), and without the individual desiring delay:
+    1. Marked delay in ejaculation.
+    2. Marked infrequency or absence of ejaculation.
+B. The symptoms in Criterion A have persisted for a minimum duration of approximately 6 months.
+C. The symptoms in Criterion A cause clinically significant distress in the individual.
+D. The sexual dysfunction is not better explained by a nonsexual mental disorder or as a consequence of severe relationship distress or other significant stressors and is not attributable to the effects of a substance/medication or another medical condition.
+
+**Specify whether:**
+*   **Lifelong:** The disturbance has been present since the individual became sexually active.
+*   **Acquired:** The disturbance began after a period of relatively normal sexual function.
+
+**Specify whether:**
+*   **Generalized:** Not limited to certain types of stimulation, situations, or partners.
+*   **Situational:** Only occurs with certain types of stimulation, situations, or partners.
+
+**Specify current severity:**
+*   **Mild:** Evidence of mild distress over the symptoms in Criterion A.
+*   **Moderate:** Evidence of moderate distress over the symptoms in Criterion A.
+*   **Severe:** Evidence of severe or extreme distress over the symptoms in Criterion A.
+
+---
+
+**Erectile Disorder**
+Diagnostic Criteria 302.72 (F52.21)
+A. At least one of the three following symptoms must be experienced on almost all or all (approximately 75%–100%) occasions of sexual activity (in identified situational contexts or, if generalized, in all contexts):
+    1. Marked difficulty in obtaining an erection during sexual activity.
+    2. Marked difficulty in maintaining an erection until the completion of sexual activity.
+    3. Marked decrease in erectile rigidity.
+B. The symptoms in Criterion A have persisted for a minimum duration of approximately 6 months.
+C. The symptoms in Criterion A cause clinically significant distress in the individual.
+D. The sexual dysfunction is not better explained by a nonsexual mental disorder or as a consequence of severe relationship distress or other significant stressors and is not attributable to the effects of a substance/medication or another medical condition.
+
+**Specify whether:**
+*   **Lifelong:** The disturbance has been present since the individual became sexually active.
+*   **Acquired:** The disturbance began after a period of relatively normal sexual function.
+
+**Specify whether:**
+*   **Generalized:** Not limited to certain types of stimulation, situations, or partners.
+*   **Situational:** Only occurs with certain types of stimulation, situations, or partners.
+
+**Specify current severity:**
+*   **Mild:** Evidence of mild distress over the symptoms in Criterion A.
+*   **Moderate:** Evidence of moderate distress over the symptoms in Criterion A.
+*   **Severe:** Evidence of severe or extreme distress over the symptoms in Criterion A.
+
+---
+
+**Female Orgasmic Disorder**
+Diagnostic Criteria 302.73 (F52.31)
+A. Presence of either of the following symptoms and experienced on almost all or all (approximately 75%–100%) occasions of sexual activity (in identified situational contexts or, if generalized, in all contexts):
+    1. Marked delay in, marked infrequency of, or absence of orgasm.
+    2. Markedly reduced intensity of orgasmic sensations.
+B. The symptoms in Criterion A have persisted for a minimum duration of approximately 6 months.
+C. The symptoms in Criterion A cause clinically significant distress in the individual.
+D. The sexual dysfunction is not better explained by a nonsexual mental disorder or as a consequence of severe relationship distress (e.g., partner violence) or other significant stressors and is not attributable to the effects of a substance/medication or another medical condition.
+
+**Specify whether:**
+*   **Lifelong:** The disturbance has been present since the individual became sexually active.
+*   **Acquired:** The disturbance began after a period of relatively normal sexual function.
+
+**Specify whether:**
+*   **Generalized:** Not limited to certain types of stimulation, situations, or partners.
+*   **Situational:** Only occurs with certain types of stimulation, situations, or partners.
+
+**Specify if:**
+*   Never experienced an orgasm under any situation.
+
+**Specify current severity:**
+*   **Mild:** Evidence of mild distress over the symptoms in Criterion A.
+*   **Moderate:** Evidence of moderate distress over the symptoms in Criterion A.
+*   **Severe:** Evidence of severe or extreme distress over the symptoms in Criterion A.
+
+---
+
+**Female Sexual Interest/Arousal Disorder**
+Diagnostic Criteria 302.72 (F52.22)
+A. Lack of, or significantly reduced, sexual interest/arousal, as manifested by at least three of the following:
+    1. Absent/reduced interest in sexual activity.
+    2. Absent/reduced sexual/erotic thoughts or fantasies.
+    3. No/reduced initiation of sexual activity, and typically unreceptive to a partner’s attempts to initiate.
+    4. Absent/reduced sexual excitement/pleasure during sexual activity in almost all or all (approximately 75%–100%) sexual encounters (in identified situational contexts or, if generalized, in all contexts).
+    5. Absent/reduced sexual interest/arousal in response to any internal or external sexual/erotic cues (e.g., written, verbal, visual).
+    6. Absent/reduced genital or nongenital sensations during sexual activity in almost all or all (approximately 75%–100%) sexual encounters (in identified situational contexts or, if generalized, in all contexts).
+B. The symptoms in Criterion A have persisted for a minimum duration of approximately 6 months.
+C. The symptoms in Criterion A cause clinically significant distress in the individual.
+D. The sexual dysfunction is not better explained by a nonsexual mental disorder or as a consequence of severe relationship distress (e.g., partner violence) or other significant stressors and is not attributable to the effects of a substance/medication or another medical condition.
+
+**Specify whether:**
+*   **Lifelong:** The disturbance has been present since the individual became sexually active.
+*   **Acquired:** The disturbance began after a period of relatively normal sexual function.
+
+**Specify whether:**
+*   **Generalized:** Not limited to certain types of stimulation, situations, or partners.
+*   **Situational:** Only occurs with certain types of stimulation, situations, or partners.
+
+**Specify current severity:**
+*   **Mild:** Evidence of mild distress over the symptoms in Criterion A.
+*   **Moderate:** Evidence of moderate distress over the symptoms in Criterion A.
+*   **Severe:** Evidence of severe or extreme distress over the symptoms in Criterion A.
+
+---
+
+**Genito-Pelvic Pain/Penetration Disorder**
+Diagnostic Criteria 302.76 (F52.6)
+A. Persistent or recurrent difficulties with one (or more) of the following:
+    1. Vaginal penetration during intercourse.
+    2. Marked vulvovaginal or pelvic pain during vaginal intercourse or penetration attempts.
+    3. Marked fear or anxiety about vulvovaginal or pelvic pain in anticipation of, during, or as a result of vaginal penetration.
+    4. Marked tensing or tightening of the pelvic floor muscles during attempted vaginal penetration.
+B. The symptoms in Criterion A have persisted for a minimum duration of approximately 6 months.
+C. The symptoms in Criterion A cause clinically significant distress in the individual.
+D. The sexual dysfunction is not better explained by a nonsexual mental disorder or as a consequence of a severe relationship distress (e.g., partner violence) or other significant stressors and is not attributable to the effects of a substance/medication or another medical condition.
+
+**Specify whether:**
+*   **Lifelong:** The disturbance has been present since the individual became sexually active.
+*   **Acquired:** The disturbance began after a period of relatively normal sexual function.
+
+**Specify current severity:**
+*   **Mild:** Evidence of mild distress over the symptoms in Criterion A.
+*   **Moderate:** Evidence of moderate distress over the symptoms in Criterion A.
+*   **Severe:** Evidence of severe or extreme distress over the symptoms in Criterion A.
+
+---
+
+**Male Hypoactive Sexual Desire Disorder**
+Diagnostic Criteria 302.71 (F52.0)
+A. Persistently or recurrently deficient (or absent) sexual/erotic thoughts or fantasies and desire for sexual activity. The judgment of deficiency is made by the clinician, taking into account factors that affect sexual functioning, such as age and general and sociocultural contexts of the individual’s life.
+B. The symptoms in Criterion A have persisted for a minimum duration of approximately 6 months.
+C. The symptoms in Criterion A cause clinically significant distress in the individual.
+D. The sexual dysfunction is not better explained by a nonsexual mental disorder or as a consequence of severe relationship distress or other significant stressors and is not attributable to the effects of a substance/medication or another medical condition.
+
+**Specify whether:**
+*   **Lifelong:** The disturbance has been present since the individual became sexually active.
+*   **Acquired:** The disturbance began after a period of relatively normal sexual function.
+
+**Specify whether:**
+*   **Generalized:** Not limited to certain types of stimulation, situations, or partners.
+*   **Situational:** Only occurs with certain types of stimulation, situations, or partners.
+
+**Specify current severity:**
+*   **Mild:** Evidence of mild distress over the symptoms in Criterion A.
+*   **Moderate:** Evidence of moderate distress over the symptoms in Criterion A.
+*   **Severe:** Evidence of severe or extreme distress over the symptoms in Criterion A.
+
+---
+
+**Premature (Early) Ejaculation**
+Diagnostic Criteria 302.75 (F52.4)
+A. A persistent or recurrent pattern of ejaculation occurring during partnered sexual activity within approximately 1 minute following vaginal penetration and before the individual wishes it.
+    *   **Note:** Although the diagnosis of premature (early) ejaculation may be applied to individuals engaged in nonvaginal sexual activities, specific duration criteria have not been established for these activities.
+B. The symptom in Criterion A must have been present for at least 6 months and must be experienced on almost all or all (approximately 75%–100%) occasions of sexual activity (in identified situational contexts or, if generalized, in all contexts).
+C. The symptom in Criterion A causes clinically significant distress in the individual.
+D. The sexual dysfunction is not better explained by a nonsexual mental disorder or as a consequence of severe relationship distress or other significant stressors and is not attributable to the effects of a substance/medication or another medical condition.
+
+**Specify whether:**
+*   **Lifelong:** The disturbance has been present since the individual became sexually active.
+*   **Acquired:** The disturbance began after a period of relatively normal sexual function.
+
+**Specify whether:**
+*   **Generalized:** Not limited to certain types of stimulation, situations, or partners.
+*   **Situational:** Only occurs with certain types of stimulation, situations, or partners.
+
+**Specify current severity:**
+*   **Mild:** Ejaculation occurring within approximately 30 seconds to 1 minute of vaginal penetration.
+*   **Moderate:** Ejaculation occurring within approximately 15–30 seconds of vaginal penetration.
+*   **Severe:** Ejaculation occurring prior to sexual activity, at the start of sexual activity, or within approximately 15 seconds of vaginal penetration.
+
+---
+
+**Substance/Medication-Induced Sexual Dysfunction**
+Diagnostic Criteria
+A. A clinically significant disturbance in sexual function is predominant in the clinical picture.
+B. There is evidence from the history, physical examination, or laboratory findings of both (1) and (2):
+    1. The symptoms in Criterion A developed during or soon after substance intoxication or withdrawal or after exposure to a medication.
+    2. The involved substance/medication is capable of producing the symptoms in Criterion A.
+C. The disturbance is not better explained by a sexual dysfunction that is not substance/medication-induced. Such evidence of an independent sexual dysfunction could include the following:
+    *   The symptoms precede the onset of the substance/medication use; the symptoms persist for a substantial period of time (e.g., about 1 month) after the cessation of acute withdrawal or severe intoxication; or there is other evidence suggesting the existence of an independent non-substance/medication-induced sexual dysfunction (e.g., a history of recurrent non-substance/medication-related episodes).
+D. The disturbance does not occur exclusively during the course of a delirium.
+E. The disturbance causes clinically significant distress in the individual.
+    *   **Note:** This diagnosis should be made instead of a diagnosis of substance intoxication or substance withdrawal only when the symptoms in Criterion A predominate in the clinical picture and are sufficiently severe to warrant clinical attention.
+
+**Specify if:**
+*   **With onset during intoxication:** If the criteria are met for intoxication with the substance and the symptoms develop during intoxication.
+*   **With onset during withdrawal:** If criteria are met for withdrawal from the substance and the symptoms develop during, or shortly after, withdrawal.
+*   **With onset after medication use:** Symptoms may appear either at initiation of medication or after a modification or change in use.
+
+**Specify current severity:**
+*   **Mild:** Occurs on 25%–50% of occasions of sexual activity.
+*   **Moderate:** Occurs on 50%–75% of occasions of sexual activity.
+*   **Severe:** Occurs on 75% or more of occasions of sexual activity.
+
+---
+
+**Other Specified Sexual Dysfunction**
+302.79 (F52.8)
+This category applies to presentations in which symptoms characteristic of a sexual dysfunction that cause clinically significant distress in the individual predominate but do not meet the full criteria for any of the disorders in the sexual dysfunctions diagnostic class. The other specified sexual dysfunction category is used in situations in which the clinician chooses to communicate the specific reason that the presentation does not meet the criteria for any specific sexual dysfunction. This is done by recording “other specified sexual dysfunction” followed by the specific reason (e.g., “sexual aversion”).
+
+---
+
+**Unspecified Sexual Dysfunction**
+302.70 (F52.9)
+This category applies to presentations in which symptoms characteristic of a sexual dysfunction that cause clinically significant distress in the individual predominate but do not meet the full criteria for any of the disorders in the sexual dysfunctions diagnostic class. The unspecified sexual dysfunction category is used in situations in which the clinician chooses not to specify the reason that the criteria are not met for a specific sexual dysfunction, and includes presentations for which there is insufficient information to make a more specific diagnosis.

@@ -1,0 +1,434 @@
+451 Gender
+ Dysphoria
+In this chapter,  there is one overarching diagnosis of gender dysphoria, with sepa-
+rate developmentally appropriate criteria sets  for children and for adolescents and adults.
+The area of sex and gender is highly controve rsial and has led to a proliferation of terms
+whose meanings vary over time and within and between disciplines. An additional source
+of confusion is that in English “sex” connotes  both male/female and se xuality. This chapter
+employs constructs and terms as they are wide ly used by clinicians from various disci-
+plines with specialization in this area. In this chapter, sex and sexual  refer to the biological
+indicators of male and female (understood in  the context of reproductive capacity), such
+as in sex chromosomes, gonads, sex hormon es, and nonambiguous internal and external
+genitalia. Disorders of sex deve lopment denote condit ions of inborn somatic deviations of
+the reproductive tract from the norm and/or discrepancies among the biological indica-
+tors of male and female. Cross-sex  hormone treatment denotes the use of feminizing hor-
+mones in an individual assigned male at birth based on traditional biological indicators or
+the use of masculinizing hormones in an individual assigned female at birth.
+The need to introduce the term gender  arose with the realization that for individuals
+with conflicting or ambiguous biological indicato rs of sex (i.e., “intersex”), the lived role in
+society and/or the identification as male or female could not be uniformly associated with
+or predicted from the biological indicators and, later, that some individuals develop an
+identity as female or male at variance with their uniform set of classical biological indica-
+tors. Thus, gender is used to denote the public (and usually legally recognized) lived role as
+boy or girl, man or woman, but, in contrast to  certain social construc tionist theories, biolog-
+ical factors are seen as contributing, in intera ction with social and psychological factors, to
+gender development. Gender assignment  refers to the initial assignment as male or female.
+This occurs usually at birth and, thereby, yields the “natal gender.” Gender-atypical  refers to
+somatic features or behaviors th at are not typical (in a statisti cal sense) of individuals with
+the same assigned gender in a given so ciety and historical era; for behavior, gender-noncon-
+forming  is an alternative descriptive term. Gender reassignment  denotes an official (and usu-
+ally legal) change of gender. Gender identity  is a category of social identity and refers to an
+individual’s identification as male, female, or, occasionally, some ca tegory other than male
+or female. Gender dysphoria  as a general descriptive term refers to an individual’s affective/
+cognitive discontent with the assigned gender  but is more specific ally defined when used
+as a diagnostic category. Transgender  refers to the broad spectrum of individuals who tran-
+siently or persistently identify with a gender different from their natal gender. Transsexual
+denotes an individual who seeks,  or has undergone, a social transition from male to female
+or female to male, which in many, but not all,  cases also involves a somatic transition by
+cross-sex hormone treatment and genital surgery ( sex reassignment surgery). 
+Gender dysphoria  refers to the distress that ma y accompany the incongruence between
+one’s experienced or expressed gender and one’s assigned gender. Although not all indi-
+viduals will experience distress as a result of such incongruence , many are distressed if the
+desired physical interventions by means of hormones and/or surg ery are not avail able.
+The cu rrent term is more descriptive than the previous DSM-IV term gender identity disor-
+der and focuses on dysphoria as the clin ical problem, not identity per se. 
+452 Gender Dysphoria
+Gender Dysphoria
+Diagnostic Criteria  
+Gender Dysphoria in Children 302.6 (F64.2)
+A. A marked incongruence between one’s experienced/expressed gender and assigned
+gender, of at least 6 months’ duration, as manifested by at least six of the following
+(one of which must be Criterion A1):
+1. A strong desire to be of the other gender or an insistence that one is the other gen-
+der (or some alternative gender different from one’s assigned gender).
+2. In boys (assigned gender), a strong preference for cross-dressing or simulating fe-
+male attire; or in girls (assigned gender), a strong preference for wearing only typ-
+ical masculine clothing and a strong resistance to the wearing of typical feminine
+clothing.
+3. A strong preference for cross-gender roles in make-believe play or fantasy play.
+4. A strong preference for the toys, games, or  activities stereotypically used or en-
+gaged in by the other gender.
+5. A strong preference for playmates of the other gender.
+6. In boys (assigned gender), a strong rejection of typically masculine toys, games,
+and activities and a strong avoidance of rough-and-tumble play; or in girls (as-
+signed gender), a strong rejection of typically feminine toys, games, and activities.
+7. A strong dislike of one’s sexual anatomy.
+8. A strong desire for the primary and/or secondary sex characteristics that match
+one’s experienced gender.
+B. The condition is associated with clinically significant distress or impairment in social,
+school, or other important areas of functioning.
+Specify if:
+With a disorder of sex development  (e.g., a congenital adrenogenital disorder such
+as 255.2 [E25.0] congenital adrenal hyperplasia or 259.50 [E34.50] androgen insensi-
+tivity syndrome).
+Coding note:  Code the disorder of sex development as well as gender dysphoria.
+Gender Dysphoria in Adolescents and Adults 302.85 (F64.1)
+A. A marked incongruence between one’s experienced/expressed gender and assigned
+gender, of at least 6 months’ duration, as manifested by at least two of the following:
+1. A marked incongruence between one’s experienced/expressed gender and pri-
+mary and/or secondary sex characteristics (or in young adolescents, the antici-
+pated secondary sex characteristics).
+2. A strong desire to be rid of one’s primary and/or secondary sex characteristics be-
+cause of a marked incongruence with one’s experienced/expressed gender (or in
+young adolescents, a desire to prevent the development of the anticipated second-
+ary sex characteristics).
+3. A strong desire for the primary and/or secondary sex characteristics of the other
+gender.
+4. A strong desire to be of the other gender (or some alternative gender different from
+one’s assigned gender).
+5. A strong desire to be treated as the ot her gender (or some alternative gender dif-
+ferent from one’s assigned gender).
+6. A strong conviction that one has the typical feelings and reactions of the other gen-
+der (or some alternative gender different from one’s assigned gender).
+Gender Dysphoria 453
+B. The condition is associated with clinically significant distress or impairment in social,
+occupational, or other important areas of functioning.
+Specify if:
+With a disorder of sex development  (e.g., a congenital adrenogenital disorder such
+as 255.2 [E25.0] congenital adrenal hyperplasia or 259.50 [E34.50] androgen insensi-
+tivity syndrome).
+Coding note:  Code the disorder of sex development as well as gender dysphoria.
+Specify if:
+Posttransition:  The individual has transitioned to full-time living in the desired gender
+(with or without legalization of gender change) and has undergone (or is preparing to
+have) at least one cross-sex medical proc edure or treatment regimen—namely, regu-
+lar cross-sex hormone treatment or gender reassignment surgery confirming the desired
+gender (e.g., penectomy, vaginoplasty in a natal male; mastectomy or phalloplasty in
+a natal female).
+Specifiers 
+The posttransition specifier may be used in th e context of continuing  treatment procedures
+that serve to support the new gender assignment. 
+Diagnostic Features 
+Individuals with gender dysphoria have a ma rked incongruence between the gender they
+have been assigned to (usually  at birth, referred to as natal gender) and their experienced/
+expressed gender. This discrepancy is the core componen t of the diagnosis. There must
+also be evidence of distress about this inco ngruence. Experienced gender may include al-
+ternative gender identities beyond binary stereotypes. Consequently, the distress is not
+limited to a desire to simply be of the other gender, but may incl ude a desire to be of an al-
+ternative gender, provided that it differs from the individual’s assigned gender. 
+Gender dysphoria manifests itself differently in different age groups. Prepubertal natal
+girls with gender dysphoria may express the wish  to be a boy, assert they are a boy, or as-
+sert they will grow up to be a man. They prefer boys’ clothing and hairstyles, are often
+perceived by strangers as boys, and may ask to be called by a boy’s na me. Usually, they dis-
+play intense negative reactions to parental attempts to have them wear dresses or other
+feminine attire. Some may refuse to attend sc hool or social events where such clothes are
+required. These girls may demonstrate marked cr oss-gender identification in role-playing,
+dreams, and fantasies. Contac t sports, rough-and-tumble pl ay, traditional boyhood games,
+and boys as playmates are most often preferred. They show lit tle interest in stereotypically
+feminine toys (e.g., dolls) or activities (e.g.,  feminine dress-up or role-play). Occasionally,
+they refuse to urinate in a sitting position. Some natal girls may express a desire to have a
+penis or claim to have a penis or that they will  grow one when older. They may also state that
+they do not want to deve lop breasts or menstruate.
+Prepubertal natal boys with gender dysphoria may express the wish to be a girl or as-
+sert they are a girl or that they will grow up to be a woman. They have a preference for
+dressing in girls’ or women’s clothes or ma y improvise clothing from available materials
+(e.g., using towels, aprons, and scarves for lo ng hair or skirts). These children may role-
+play female figures (e.g., play ing “mother”) and often are intensely interested in female
+fantasy figures. Traditional feminine activities, stereotypical games, and pastimes (e.g.,
+“playing house”; drawing feminine pictures; watc hing television or videos of favorite fe-
+male characters) are most often preferred. Stereotypical female-type dolls (e.g., Barbie) are
+often favorite toys, and girls are their prefer red playmates. They avoid rough-and-tumble
+play and competitive sports and have little inte rest in stereotypically masculine toys (e.g.,
+cars, trucks). Some may pretend not to have a penis and insist on sitting to urinate. More
+454 Gender Dysphoria
+rarely, they may state that they find their penis or testes disgusting, that they wish them re-
+moved, or that they have, or wish to have, a vagina.
+In young adolescents with gender dysphoria,  clinical features may resemble those of
+children or adults with the co ndition, depending on develo pmental level. As secondary
+sex characteristics of young adolescents are no t yet fully developed, these individuals may
+not state dislike of them, but they are co ncerned about imminent physical changes. 
+In adults with gender dysphoria, the di screpancy between experienced gender and
+physical sex characteristics is often, but not always, accompanied by a desire to be rid of
+primary and/or secondary sex ch aracteristics and/or a strong desire to acquire some pri-
+mary and/or secondary sex characteristics of  the other gender. To varying degrees, adults
+with gender dysphoria may ad opt the behavior, clothing, and mannerisms of the experi-
+enced gender. They feel uncomfortable being re garded by others, or functioning in soci-
+ety, as members of their assigned gender. Some adults may have a strong desire to be of a
+different gender and treated as such, and they may have an inner certainty to feel and re-
+spond as the experienced gender without seek ing medical treatment to alter body char-
+acteristics. They may find other ways to resolve the incongruence between experienced/
+expressed and assigned gender by partially livin g in the desired role or by adopting a gen-
+der role neither conventionally male nor conventionally female.
+Associated Features Supporting Diagnosis
+When visible signs of puberty develop, natal bo ys may shave their legs at the first signs of
+hair growth. They sometimes bind their genitals to make erections less visible. Girls may
+bind their breasts, walk with a stoop, or use lo ose sweaters to make breasts less visible. In-
+creasingly, adolescents request, or may obta in without medical prescription and supervi-
+sion, hormonal suppressors (“blockers”) of gonadal steroids (e.g., gonadotropin-releasing
+hormone [GnRH] analog, spironolactone). Clinically refe rred adolescents often want hor-
+mone treatment and many also wish for gender reassignment surgery. Adolescents living in
+an accepting environment may open ly express the desire to be and be treated as the experi-
+enced gender and dress partly or completely as the experienced gender, have a hairstyle typ-
+ical of the experienced gender, preferentially s eek friendships with peer s of the other gender,
+and/or adopt a new first name consistent with the experienced gender. Older adolescents,
+when sexually active, usually do  not show or allow partners to touch their sexual organs. For
+adults with an aversion toward their genitals, sexual activity is constrained by the preference
+that their genitals not be seen  or touched by their partners. Some adults may seek hormone
+treatment (sometimes without medical prescrip tion and supervision) and gender reassign-
+ment surgery. Others are satisfied with either hormone treatment or surgery alone.
+Adolescents and adults with gender dysphoria before gender reassignment are at in-
+creased risk for suicidal ideation, suicide a ttempts, and suicides. After gender reassign-
+ment, adjustment may vary, an d suicide risk may persist.
+Prevalence 
+For natal adult males, prevalence ranges from 0.005% to 0.014%, and for natal females,
+from 0.002% to 0.003%. Since not all adults seeking hormone treatment and surgical reas-
+signment attend specialty clinics, these rate s are likely modest underestimates. Sex differ-
+ences in rate of referrals to specialty clinics vary by age group. In children, sex ratios of
+natal boys to girls range from 2:1 to 4.5:1. In adolescents, the sex ratio is close to parity; in
+adults, the sex ratio favors natal males, with ratios ranging from 1:1 to 6.1:1. In two coun-
+tries, the sex ratio appears to favor nata l females (Japan: 2.2:1; Poland: 3.4:1). 
+Development and Course 
+Because expression of gender dysphoria varies wi th age, there are separate criteria sets for
+children versus adolescents and adults. Criter ia for children are defined in a more con-
+Gender Dysphoria 455
+crete, behavioral manner than those for adolescents and adults. Many of the core criteria
+draw on well-documented behavioral gender differences between typically developing
+boys and girls. Young children are less likely than older children, ad olescents, and adults
+to express extreme and persistent anatomic dysphoria. In adolescents and adults, incon-
+gruence between experienced gender and somati c sex is a central feature of the diagnosis.
+Factors related to distress and impairment al so vary with age. A very young child may
+show signs of distress (e.g., intense crying) on ly when parents tell the child that he or she
+is “really” not a member of the other gender but only “desires” to be. Distress may not be
+manifest in social environments supportive of the child’s desire to live in the role of the
+other gender and may emerge only if the desi re is interfered with. In adolescents and
+adults, distress may manifest because of stro ng incongruence between experienced gender
+and somatic sex. Such distress may, however, be mitigated by  supportive environments and
+knowledge that biomedical treatments exist to reduce incongruence. Impairment (e.g.,
+school refusal, development of  depression, anxiety, and substance abuse) may be a conse-
+quence of gender dysphoria.
+Gender dysphoria without a disorder of sex development. For clinic-referred children,
+onset of cross-gender behaviors is usually betw een ages 2 and 4 years. This corresponds to
+the developmental time period in which most  typically developing children begin ex-
+pressing gendered behaviors and interests. For some preschool-age children, both perva-
+sive cross-gender behaviors and the expressed desire to be the other gender may be
+present, or, more rarely, labeling oneself as a member of the other gender may occur. In
+some cases, the expressed desire to be the othe r gender appears later, usually at entry into
+elementary school. A small minority of childre n express discomfort wi th their sexual anat-
+omy or will state the desire to have a sexual anatomy correspondin g to the experienced
+gender (“anatomic dysphoria”). Expressions of anatomic dysphoria become more com-
+mon as children with ge nder dysphoria approach and anticipate puberty. 
+Rates of persistence of gender dysphoria fr om childhood into adolescence or adulthood
+vary. In natal males, persistence has ranged fr om 2.2% to 30%. In natal females, persistence
+has ranged from 12% to 50%. Persistence of gender dysphoria is mo destly correlated with
+dimensional measures of severity ascertaine d at the time of a childhood baseline assess-
+ment. In one sample of natal males, lower socioeconomic background was also modestly
+correlated with persistence. It is unclear if particular therapeutic approaches to gender
+dysphoria in children are related to rates of  long-term persistence. Extant follow-up sam-
+ples consisted of children receiving no formal  therapeutic interventi on or receiving ther-
+apeutic interventions of various types, ranging from ac tive efforts to reduce gender
+dysphoria to a more neutral, “watchful waiting” approach. It is unclear if children “en-
+couraged” or supported to live socially in the desired gender will show  higher rates of per-
+sistence, since such children have not yet b een followed longitudinally in a systematic
+manner. For both natal male and female ch ildren showing persistence, almost all are
+sexually attracted to individuals of their na tal sex. For natal male  children whose gender
+dysphoria does not per sist, the majority are androphilic  (sexually attracted to males) and of-
+ten self-identify as gay or homosexual (rangi ng from 63% to 100%). In natal female chil-
+dren whose gender dysphoria does no t persist, the percentage who are gynephilic  (sexually
+attracted to females) and sel f-identify as lesbian is lower (ranging from 32% to 50%).
+In both adolescent and adult natal males, there are t wo broad trajectories for develop-
+ment of gender dysphoria: early onset and late onset. Early-onset gender dysphoria  starts in
+childhood and continues into adolescence and adulthood; or, there is an intermittent pe-
+riod in which the gender dysphoria desists and these individuals self-i dentify as gay or ho-
+mosexual, followed by recurren ce of gender dysphoria. Late-onset gender dysphoria  occurs
+around puberty or much later in life. Some of these individuals report having had a desire
+to be of the other gender in childhood that was not expressed verbally to others. Others do
+not recall any signs of childhood gender dysp horia. For adolescent males with late-onset
+gender dysphoria, parents often report surpri se because they did not see signs of gender
+456 Gender Dysphoria
+dysphoria during childhood. Expressions of anatomic dysphoria are more common and
+salient in adolescents and adults once seco ndary sex characterist ics have developed. 
+Adolescent and adult natal males with earl y-onset gender dysphoria are almost al-
+ways sexually attracted to men (androphilic). Adolescents and adults with late-onset gen-
+der dysphoria frequently engage in transves tic behavior with sexual excitement. The
+majority of these individuals are gynephilic or  sexually attracted to other posttransition
+natal males with late-onset ge nder dysphoria. A substantia l percentage of adult males
+with late-onset gender dyspho ria cohabit with or are marrie d to natal females. After gen-
+der transition, many self-identify as lesbian. Among adult natal males with gender dyspho-
+ria, the early-onset group seeks out clinical  care for hormone treatment and reassignment
+surgery at an earlier age than does the late-onset group. The late-onset group may have more
+fluctuations in the degree of gender dyspho ria and be more ambivalent about and less
+likely satisfied after gender  reassignment surgery. 
+In both adolescent and adult natal females, the most common  course is the early-onset
+form of gender dysphoria. The late-onset fo rm is much less common in natal females com-
+pared with natal males. As in natal males with gender dysphoria, there may have been a
+period in which the gender dysphoria desisted and these individuals self-identified as les-
+bian; however, with recurrence of gender dysphoria, clinical consultation is sought, often
+with the desire for hormone treatment and reas signment surgery. Parents of natal adoles-
+cent females with the late-onset form also report surprise, as no signs of childhood gender
+dysphoria were evident. Expressions of anat omic dysphoria are mu ch more common and
+salient in adolescents and adults than in children.
+Adolescent and adult natal females with early-onset gender dysphoria are almost
+always gynephilic. Adolescents and adults with  the late-onset form of gender dysphoria
+are usually androphilic and after gender transit ion self-identify as gay men. Natal females
+with the late-onset form do not have co-occu rring transvestic behavi or with sexual ex-
+citement. 
+Gender dysphoria in association with a disorder of sex development. Most individuals
+with a disorder of sex development who develop gender dysphoria have already come to
+medical attention at an early age. For many, st arting at birth, issues of gender assignment
+were raised by physicians and parents. More over, as infertility is quite common for this
+group, physicians are more willing to perfor m cross-sex hormone treatments and genital
+surgery before adulthood.
+Disorders of sex development in general are frequently as sociated with gender-atypi-
+cal behavior starting in early childhood. Howeve r, in the majority of cases, this does not
+lead to gender dysphoria. As individuals with a disorder of sex development become
+aware of their medical history and condition, many experience uncertainty about their
+gender, as opposed to developing a firm co nviction that they are another gender. How-
+ever, most do not progress to gender transit ion. Gender dysphoria and gender transition
+may vary considerably as a function of a disord er of sex development, its severity, and as-
+signed gender. 
+Risk and Prognostic Factors
+Temperamental. For individuals with gender dyspho ria without a disorder of sex de-
+velopment, atypical gender behavior among individuals with early-onset gender dyspho-
+ria develops in early preschool age, and it is possible that a high degree of atypicality
+makes the development of gender dysphoria and its persistence into adolescence and
+adulthood more likely.
+Environmental. Among individuals with gender dysphoria without a disorder of sex de-
+velopment, males with gender dysphoria (in both childhood and adolescence) more com-
+monly have older brothers than do males without the condition. Additional predisposing
+Gender Dysphoria 457
+factors under consideration, especially in indi viduals with late-onset gender dysphoria (ad-
+olescence, adulthood), include habitual fetishistic transvesti sm developing into autogyne-
+philia (i.e., sexual arousal asso ciated with the thought or imag e of oneself as  a woman) and
+other forms of more general social, psychological, or developmental problems.
+Genetic and physiological. For individuals with gender dy sphoria without a disorder of
+sex development, some genetic contribution is suggested by evidence for (weak) familial-
+ity of transsexualism among nontwin siblings, increased concordance for transsexualism
+in monozygotic compared with dizygotic same -sex twins, and some degree of heritability
+of gender dysphoria. As to endocrine findin gs, no endogenous systemic abnormalities in
+sex-hormone levels have been found in 46,XY individuals, whereas there appear to be in-
+creased androgen levels (in the range found in hirsute women but far below normal male
+levels) in 46,XX individuals. Overall, current evidence is insufficient to label gender dys-
+phoria without a disorder of sex development as  a form of intersexuality limited to the cen-
+tral nervous system.
+In gender dysphoria associated with a disorder of sex development, the likelihood of
+later gender dysphoria is increased if pren atal production and utilization (via receptor
+sensitivity) of androgens are grossly atypical re lative to what is usually seen in individuals
+with the same assigned gender. Examples incl ude 46,XY individuals with a history of nor-
+mal male prenatal hormone milieu but inborn nonhormonal genital defects (as in cloacal
+bladder exstrophy or penile agenesis) and who have been assigned to the female gender.
+The likelihood of gender dysphoria is furthe r enhanced by additional, prolonged, highly
+gender-atypical postnatal androgen exposure with somatic virilization as may occur in fe-
+male-raised and noncastrated 46,XY individu als with 5-alpha reductase-2 deficiency or
+17-beta-hydroxysteroid dehydrog enase-3 deficiency or in female-raised 46,XX individuals
+with classical congenital adrenal hyperplasi a with prolonged periods of non-adherence to
+glucocorticoid replacement therapy. Howeve r, the prenatal androgen milieu is more
+closely related to gendered behavior than to gender identity. Many individuals with dis-
+orders of sex development and markedly gend er-atypical behavior do not develop gender
+dysphoria. Thus, gender-atypical behavior by itself should not be interpreted as an indi-
+cator of current or future gend er dysphoria. There appears to be a higher rate of gender
+dysphoria and patient-initiated gender change from assigned female to male than from as-
+signed male to female in 46,XY individu als with a disorder of sex development.
+Culture-Related Diagnostic Issues
+Individuals with gender dysphoria have be en reported across many countries and cul-
+tures. The equivalent of gender dysphoria ha s also been reported in individuals living in
+cultures with institutionalized gender categories other than ma le or female. It is unclear
+whether with these individuals the diagnostic criteria for gender dysphoria would be met.
+Diagnostic Markers 
+Individuals with a somatic disorder of sex development show some correlation of final
+gender identity outcome with the degree of prenatal androgen production and utilization.
+However, the correlation is not robust enough for the biological factor, where ascertain-
+able, to replace a detailed an d comprehensive diagnostic in terview evaluation for gender
+dysphoria. 
+Functional Consequences  of Gender Dysphoria
+Preoccupation with cross-gender wishes may de velop at all ages after the first 2–3 years of
+childhood and often interfere with daily activities. In older children, failure to develop
+age-typical same-sex peer relationships and skills may lead to isolation from peer groups
+and to distress. Some children may refuse to attend school because of teasing and harass-
+458 Gender Dysphoria
+ment or pressure to dress in attire associated  with their assigned sex. Also in adolescents
+and adults, preoccupation with cross-gender w ishes often interferes with daily activities.
+Relationship difficulties, including sexual relationship problems, are common, and func-
+tioning at school or at work may be impa ired. Gender dysphoria, along with atypical
+gender expression, is associated with high le vels of stigmatization , discrimination, and
+victimization, leading to nega tive self-concept, increased ra tes of mental disorder comor-
+bidity, school dropout, and economic marginalization, including unemployment, with at-
+tendant social and mental health risks, especially in individuals from resource-poor family
+backgrounds. In addition, these individuals’ access to health services and mental health
+services may be impeded by structural barriers,  such as institutional discomfort or inex-
+perience in working with this patient population.
+Differential Diagnosis
+Nonconformity to gender roles. Gender dysphoria should be distinguished from sim-
+ple nonconformity to stereotypical gender role behavior by the strong desire to be of an-
+other gender than the assigned one and by th e extent and pervasivene ss of gender-variant
+activities and interests. The diagnosis is not meant to mere ly describe nonconformity to
+stereotypical gender role behavior (e.g., “t omboyism” in girls, “girly-boy” behavior in
+boys, occasional cross-dressing in adult men). Given the increased openness of atypical
+gender expressions by individuals across the entire range of the transgender spectrum, it
+is important that the clinical diagnosis be lim ited to those individuals whose distress and
+impairment meet the specified criteria.
+Transvestic disorder. Transvestic disorder occurs in he terosexual (or bisexual) adoles-
+cent and adult males (rarely in females) fo r whom cross-dressing behavior generates sex-
+ual excitement and causes distress and/or  impairment without drawing their primary
+gender into question. It is occasionally ac companied by gender dysphoria. An individual
+with transvestic disorder who also has clinica lly significant gender dysphoria can be given
+both diagnoses. In many cases of late-onset  gender dysphoria in gynephilic natal males,
+transvestic behavior with sexu al excitement is a precursor.
+Body dysmorphic disorder. An individual with body dy smorphic disorder focuses on
+the alteration or removal of a sp ecific body part because it is perceived as abnormally formed,
+not because it represents a repudiated assign ed gender. When an individual’s presenta-
+tion meets criteria for both gender dysphori a and body dysmorphic disorder, both diag-
+noses can be given. Individuals wishing to  have a healthy limb amputated (termed by
+some body integrity identity disorder) because it makes them feel more “complete” usually
+do not wish to change gender, but rather desi re to live as an amput ee or a disabled person.
+Schizophrenia and other psychotic disorders. In schizophrenia, there may rarely be
+delusions of belonging to some  other gender. In the absence of psychotic symptoms, in-
+sistence by an individual with gender dysphori a that he or she is of some other gender is
+not considered a delusion. Schizophrenia (or other psychotic disorders) and gender dys-
+phoria may co-occur.
+Other clinical presentations. Some individuals with an emasculinization desire who
+develop an alternative, nonmale/nonfemale ge nder identity do have  a presentation that
+meets criteria for gender dys phoria. However, some males seek castration and/or penec-
+tomy for aesthetic reasons or to remove psychological effects of androgens without chang-
+ing male identity; in these cases, the cr iteria for gender dysphoria are not met. 
+Comorbidity 
+Clinically referred children with gender dysphoria show elevated le vels of emotional and
+behavioral problems—most commonly, anxiety, disruptive and impulse-control, and de-
+Other Specified Gender Dysphoria 459
+pressive disorders. In prepub ertal children, increasing age is associated with having more
+behavioral or emotional problems; this is rela ted to the increasing non-acceptance of gen-
+der-variant behavior by others. In older chil dren, gender-variant behavior often leads to
+peer ostracism, which may lead to more be havioral problems. The prevalence of mental
+health problems differs among cultures; these differences may also be  related to differences
+in attitudes toward gender variance in child ren. However, also in  some non-Western cul-
+tures, anxiety has been found to be relatively  common in individuals with gender dysphoria,
+even in cultures with accepting attitudes to ward gender-variant be havior. Autism spec-
+trum disorder is more prevalent in clinica lly referred children with gender dysphoria than
+in the general population. Clinically referred adolescents with gender dysphoria appear to
+have comorbid mental disorders, with anxi ety and depressive disorders being the most
+common. As in children, autism spectrum disorder is more pr evalent in clinically referred
+adolescents with gender dysphoria than in the general population. Clinically referred
+adults with gender dysphoria may have coexisting mental he alth problems, most commonly
+anxiety and depres sive disorders.
+Other Specified Gender Dysphoria
+302.6 (F64.8)
+This category applies to presentations in which symptoms characteristic of gender dys-
+phoria that cause clinically significant distress or impairment in social, occupational, or other
+important areas of functioning predominate but do not meet the full criteria for gender dys-
+phoria. The other specified gender dysphoria category is used in situations in which the
+clinician chooses to communicate the specific reason that the presentation does not meet
+the criteria for gender dysphoria. This is done by recording “other specified gender dys-
+phoria” followed by the specific r eason (e.g., “brief gender dysphoria”).
+An example of a presentation that can be specified using the “other specified” desig-
+nation is the following:
+The current disturbance meets symptom cr iteria for gender dysphoria, but the
+duration is less than 6 months.
+Unspecified Gender Dysphoria
+302.6 (F64.9)
+This category applies to presentations in which symptoms characteristic of gender dys-
+phoria that cause clinically significant distress or impairment in social, occupational, or oth-
+er important areas of functioning predominate but do not meet the full criteria for gender
+dysphoria. The unspecified gender dysphoria category is used in situations in which the
+clinician chooses not to specify the reason that the criteria are not met for gender dyspho-
+ria, and includes presentations in which there is insufficient information to make a more
+specific diagnosis.
+This page intentionally left blank 

@@ -1,0 +1,128 @@
+Here are the diagnostic criteria for each disorder as extracted from the provided text:
+
+---
+
+### Somatic Symptom Disorder
+**Diagnostic Criteria 300.82 (F45.1)**
+A. One or more somatic symptoms that are distressing or result in significant disruption of daily life.
+B. Excessive thoughts, feelings, or behaviors related to the somatic symptoms or associated health concerns as manifested by at least one of the following:
+    1. Disproportionate and persistent thoughts about the seriousness of one’s symptoms.
+    2. Persistently high level of anxiety about health or symptoms.
+    3. Excessive time and energy devoted to these symptoms or health concerns.
+C. Although any one somatic symptom may not be continuously present, the state of being symptomatic is persistent (typically more than 6 months).
+
+**Specify if:**
+*   **With predominant pain** (previously pain disorder): This specifier is for individuals whose somatic symptoms predominantly involve pain.
+
+**Specify if:**
+*   **Persistent:** A persistent course is characterized by severe symptoms, marked impairment, and long duration (more than 6 months).
+
+**Specify current severity:**
+*   **Mild:** Only one of the symptoms specified in Criterion B is fulfilled.
+*   **Moderate:** Two or more of the symptoms specified in Criterion B are fulfilled.
+*   **Severe:** Two or more of the symptoms specified in Criterion B are fulfilled, plus there are multiple somatic complaints (or one very severe somatic symptom).
+
+---
+
+### Illness Anxiety Disorder
+**Diagnostic Criteria 300.7 (F45.21)**
+A. Preoccupation with having or acquiring a serious illness.
+B. Somatic symptoms are not present or, if present, are only mild in intensity. If another medical condition is present or there is a high risk for developing a medical condition (e.g., strong family history is present), the preoccupation is clearly excessive or disproportionate.
+C. There is a high level of anxiety about health, and the individual is easily alarmed about personal health status.
+D. The individual performs excessive health-related behaviors (e.g., repeatedly checks his or her body for signs of illness) or exhibits maladaptive avoidance (e.g., avoids doctor appointments and hospitals).
+E. Illness preoccupation has been present for at least 6 months, but the specific illness that is feared may change over that period of time.
+F. The illness-related preoccupation is not better explained by another mental disorder, such as somatic symptom disorder, panic disorder, generalized anxiety disorder, body dysmorphic disorder, obsessive-compulsive disorder, or delusional disorder, somatic type.
+
+**Specify whether:**
+*   **Care-seeking type:** Medical care, including physician visits or undergoing tests and procedures, is frequently used.
+*   **Care-avoidant type:** Medical care is rarely used.
+
+---
+
+### Conversion Disorder (Functional Neurological Symptom Disorder)
+**Diagnostic Criteria**
+A. One or more symptoms of altered voluntary motor or sensory function.
+B. Clinical findings provide evidence of incompatibility between the symptom and recognized neurological or medical conditions.
+C. The symptom or deficit is not better explained by another medical or mental disorder.
+D. The symptom or deficit causes clinically significant distress or impairment in social, occupational, or other important areas of functioning or warrants medical evaluation.
+
+**Specify symptom type:**
+*   (F44.4) With weakness or paralysis
+*   (F44.4) With abnormal movement (e.g., tremor, dystonic movement, myoclonus, gait disorder)
+*   (F44.4) With swallowing symptoms
+*   (F44.4) With speech symptom (e.g., dysphonia, slurred speech)
+*   (F44.5) With attacks or seizures
+*   (F44.6) With anesthesia or sensory loss
+*   (F44.6) With special sensory symptom (e.g., visual, olfactory, or hearing disturbance)
+*   (F44.7) With mixed symptoms
+
+**Specify if:**
+*   **Acute episode:** Symptoms present for less than 6 months.
+*   **Persistent:** Symptoms occurring for 6 months or more.
+
+**Specify if:**
+*   **With psychological stressor** (specify stressor)
+*   **Without psychological stressor**
+
+---
+
+### Psychological Factors Affecting Other Medical Conditions
+**Diagnostic Criteria 316 (F54)**
+A. A medical symptom or condition (other than a mental disorder) is present.
+B. Psychological or behavioral factors adversely affect the medical condition in one of the following ways:
+    1. The factors have influenced the course of the medical condition as shown by a close temporal association between the psychological factors and the development or exacerbation of, or delayed recovery from, the medical condition.
+    2. The factors interfere with the treatment of the medical condition (e.g., poor adherence).
+    3. The factors constitute additional well-established health risks for the individual.
+    4. The factors influence the underlying pathophysiology, precipitating or exacerbating symptoms or necessitating medical attention.
+C. The psychological and behavioral factors in Criterion B are not better explained by another mental disorder (e.g., panic disorder, major depressive disorder, posttraumatic stress disorder).
+
+**Specify current severity:**
+*   **Mild:** Increases medical risk (e.g., inconsistent adherence with antihypertension treatment).
+*   **Moderate:** Aggravates underlying medical condition (e.g., anxiety aggravating asthma).
+*   **Severe:** Results in medical hospitalization or emergency room visit.
+*   **Extreme:** Results in severe, life-threatening risk (e.g., ignoring heart attack symptoms).
+
+---
+
+### Factitious Disorder
+**Diagnostic Criteria 300.19 (F68.10)**
+
+**Factitious Disorder Imposed on Self**
+A. Falsification of physical or psychological signs or symptoms, or induction of injury or disease, associated with identified deception.
+B. The individual presents himself or herself to others as ill, impaired, or injured.
+C. The deceptive behavior is evident even in the absence of obvious external rewards.
+D. The behavior is not better explained by another mental disorder, such as delusional disorder or another psychotic disorder.
+
+**Specify:**
+*   **Single episode**
+*   **Recurrent episodes** (two or more events of falsification of illness and/or induction of injury)
+
+**Factitious Disorder Imposed on Another**
+(Previously Factitious Disorder by Proxy)
+A. Falsification of physical or psychological signs or symptoms, or induction of injury or disease, in another, associated with identified deception.
+B. The individual presents another individual (victim) to others as ill, impaired, or injured.
+C. The deceptive behavior is evident even in the absence of obvious external rewards.
+D. The behavior is not better explained by another mental disorder, such as delusional disorder or another psychotic disorder.
+*   Note: The perpetrator, not the victim, receives this diagnosis.
+
+**Specify:**
+*   **Single episode**
+*   **Recurrent episodes** (two or more events of falsification of illness and/or induction of injury)
+
+---
+
+### Other Specified Somatic Symptom and Related Disorder
+**300.89 (F45.8)**
+This category applies to presentations in which symptoms characteristic of a somatic symptom and related disorder that cause clinically significant distress or impairment in social, occupational, or other important areas of functioning predominate but do not meet the full criteria for any of the disorders in the somatic symptom and related disorders diagnostic class.
+
+**Examples of presentations that can be specified using the “other specified” designation include the following:**
+1.  **Brief somatic symptom disorder:** Duration of symptoms is less than 6 months.
+2.  **Brief illness anxiety disorder:** Duration of symptoms is less than 6 months.
+3.  **Illness anxiety disorder without excessive health-related behaviors:** Criterion D for illness anxiety disorder is not met.
+4.  **Pseudocyesis:** A false belief of being pregnant that is associated with objective signs and reported symptoms of pregnancy.
+
+---
+
+### Unspecified Somatic Symptom and Related Disorder
+**300.82 (F45.9)**
+This category applies to presentations in which symptoms characteristic of a somatic symptom and related disorder that cause clinically significant distress or impairment in social, occupational, or other important areas of functioning predominate but do not meet the full criteria for any of the disorders in the somatic symptom and related disorders diagnostic class. The unspecified somatic symptom and related disorder category should not be used unless there are decidedly unusual situations where there is insufficient information to make a more specific diagnosis.

@@ -1,0 +1,24 @@
+```json
+[
+    {
+        "disorder": "Somatic Symptom Disorder",
+        "criteria": "A. One or more somatic symptoms that are distressing or result in significant disruption of daily life.\nB. Excessive thoughts, feelings, or behaviors related to the somatic symptoms or associated health concerns as manifested by at least one of the following:\n   1. Disproportionate and persistent thoughts about the seriousness of one’s symptoms.\n   2. Persistently high level of anxiety about health or symptoms.\n   3. Excessive time and energy devoted to these symptoms or health concerns.\nC. Although any one somatic symptom may not be continuously present, the state of being symptomatic is persistent (typically more than 6 months)."
+    },
+    {
+        "disorder": "Illness Anxiety Disorder",
+        "criteria": "A. Preoccupation with having or acquiring a serious illness.\nB. Somatic symptoms are not present or, if present, are only mild in intensity. If another medical condition is present or there is a high risk for developing a medical condition, the preoccupation is clearly excessive or disproportionate.\nC. There is a high level of anxiety about health, and the individual is easily alarmed about personal health status.\nD. The individual performs excessive health-related behaviors (e.g., repeatedly checks his or her body for signs of illness) or exhibits maladaptive avoidance (e.g., avoids doctor appointments and hospitals).\nE. Illness preoccupation has been present for at least 6 months, but the specific illness that is feared may change over that period of time.\nF. The illness-related preoccupation is not better explained by another mental disorder, such as somatic symptom disorder, panic disorder, generalized anxiety disorder, body dysmorphic disorder, obsessive-compulsive disorder, or delusional disorder, somatic type."
+    },
+    {
+        "disorder": "Conversion Disorder (Functional Neurological Symptom Disorder)",
+        "criteria": "A. One or more symptoms of altered voluntary motor or sensory function.\nB. Clinical findings provide evidence of incompatibility between the symptom and recognized neurological or medical conditions.\nC. The symptom or deficit is not better explained by another medical or mental disorder.\nD. The symptom or deficit causes clinically significant distress or impairment in social, occupational, or other important areas of functioning or warrants medical evaluation."
+    },
+    {
+        "disorder": "Psychological Factors Affecting Other Medical Conditions",
+        "criteria": "A. A medical symptom or condition (other than a mental disorder) is present.\nB. Psychological or behavioral factors adversely affect the medical condition in one of the following ways:\n   1. The factors have influenced the course of the medical condition as shown by a close temporal association between the psychological factors and the development or exacerbation of, or delayed recovery from, the medical condition.\n   2. The factors interfere with the treatment of the medical condition (e.g., poor adherence).\n   3. The factors constitute additional well-established health risks for the individual.\n   4. The factors influence the underlying pathophysiology, precipitating or exacerbating symptoms or necessitating medical attention.\nC. The psychological and behavioral factors in Criterion B are not better explained by another mental disorder (e.g., panic disorder, major depressive disorder, posttraumatic stress disorder)."
+    },
+    {
+        "disorder": "Factitious Disorder",
+        "criteria": "Factitious Disorder Imposed on Self:\nA. Falsification of physical or psychological signs or symptoms, or induction of injury or disease, associated with identified deception.\nB. The individual presents himself or herself to others as ill, impaired, or injured.\nC. The deceptive behavior is evident even in the absence of obvious external rewards.\nD. The behavior is not better explained by another mental disorder, such as delusional disorder or another psychotic disorder.\n\nFactitious Disorder Imposed on Another:\nA. Falsification of physical or psychological signs or symptoms, or induction of injury or disease, in another, associated with identified deception.\nB. The individual presents another individual (victim) to others as ill, impaired, or injured.\nC. The deceptive behavior is evident even in the absence of obvious external rewards.\nD. The behavior is not better explained by another mental disorder, such as delusional disorder or another psychotic disorder."
+    }
+]
+```

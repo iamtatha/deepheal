@@ -1,0 +1,47 @@
+Here are the diagnostic criteria extracted for each category:
+
+---
+
+**Other Specified Mental Disorder Due to Another Medical Condition (294.8 (F06.8))**
+
+This diagnosis applies when:
+*   Symptoms characteristic of a mental disorder are present.
+*   These symptoms cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+*   The symptoms predominate.
+*   The disturbance is caused by the physiological effects of another medical condition.
+*   The presentation does not meet the full criteria for any specific mental disorder attributable to another medical condition.
+*   The clinician chooses to communicate the specific reason why the criteria for a specific disorder attributable to another medical condition are not met (e.g., by specifying the symptomatic manifestation).
+
+---
+
+**Unspecified Mental Disorder Due to Another Medical Condition (294.9 (F09))**
+
+This diagnosis applies when:
+*   Symptoms characteristic of a mental disorder are present.
+*   These symptoms cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+*   The symptoms predominate.
+*   The disturbance is caused by the physiological effects of another medical condition.
+*   The presentation does not meet the full criteria for any specific mental disorder due to another medical condition.
+*   The clinician chooses not to specify the reason why the criteria for a specific mental disorder due to another medical condition are not met, or there is insufficient information to make a more specific diagnosis.
+
+---
+
+**Other Specified Mental Disorder (300.9 (F99))**
+
+This diagnosis applies when:
+*   Symptoms characteristic of a mental disorder are present.
+*   These symptoms cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+*   The symptoms predominate.
+*   The presentation does not meet the full criteria for any specific mental disorder.
+*   The clinician chooses to communicate the specific reason why the presentation does not meet the criteria for any specific mental disorder.
+
+---
+
+**Unspecified Mental Disorder (300.9 (F99))**
+
+This diagnosis applies when:
+*   Symptoms characteristic of a mental disorder are present.
+*   These symptoms cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+*   The symptoms predominate.
+*   The presentation does not meet the full criteria for any specific mental disorder.
+*   The clinician chooses not to specify the reason why the criteria for a specific mental disorder are not met, or there is insufficient information to make a more specific diagnosis.

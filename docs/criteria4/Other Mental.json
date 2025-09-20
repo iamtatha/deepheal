@@ -1,0 +1,18 @@
+[
+    {
+        "disorder": "Other Specified Mental Disorder Due to Another Medical Condition",
+        "criteria": "Symptoms characteristic of a mental disorder due to another medical condition that cause clinically significant distress or impairment in social, occupational, or other important areas of functioning predominate but do not meet the full criteria for any specific mental disorder attributable to another medical condition. The clinician specifies the reason the presentation does not meet criteria for any specific mental disorder due to another medical condition by naming the disorder with the specific etiological medical condition and symptomatic manifestation."
+    },
+    {
+        "disorder": "Unspecified Mental Disorder Due to Another Medical Condition",
+        "criteria": "Symptoms characteristic of a mental disorder due to another medical condition that cause clinically significant distress or impairment in social, occupational, or other important areas of functioning predominate but do not meet the full criteria for any specific mental disorder due to another medical condition. The clinician does not specify the reason the criteria are not met for a specific mental disorder due to another medical condition, including presentations with insufficient information to make a more specific diagnosis."
+    },
+    {
+        "disorder": "Other Specified Mental Disorder",
+        "criteria": "Symptoms characteristic of a mental disorder that cause clinically significant distress or impairment in social, occupational, or other important areas of functioning predominate but do not meet the full criteria for any specific mental disorder. The clinician specifies the reason the presentation does not meet criteria for any specific mental disorder."
+    },
+    {
+        "disorder": "Unspecified Mental Disorder",
+        "criteria": "Symptoms characteristic of a mental disorder that cause clinically significant distress or impairment in social, occupational, or other important areas of functioning predominate but do not meet the full criteria for any mental disorder. The clinician does not specify the reason the criteria are not met for a specific mental disorder, including presentations with insufficient information to make a more specific diagnosis."
+    }
+]

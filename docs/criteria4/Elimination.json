@@ -1,0 +1,10 @@
+[
+    {
+        "disorder": "Enuresis",
+        "criteria": "A. Repeated voiding of urine into bed or clothes, whether involuntary or intentional.\nB. The behavior is clinically significant as manifested by either a frequency of at least twice a week for at least 3 consecutive months or the presence of clinically significant distress or impairment in social, academic (occupational), or other important areas of functioning.\nC. Chronological age is at least 5 years (or equivalent developmental level).\nD. The behavior is not attributable to the physiological effects of a substance (e.g., a diuretic, an antipsychotic medication) or another medical condition (e.g., diabetes, spina bifida, a seizure disorder)."
+    },
+    {
+        "disorder": "Encopresis",
+        "criteria": "A. Repeated passage of feces into inappropriate places (e.g., clothing, floor), whether involuntary or intentional.\nB. At least one such event occurs each month for at least 3 months.\nC. Chronological age is at least 4 years (or equivalent developmental level).\nD. The behavior is not attributable to the physiological effects of a substance (e.g., laxatives) or another medical condition except through a mechanism involving constipation."
+    }
+]

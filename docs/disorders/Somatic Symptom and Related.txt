@@ -1,0 +1,880 @@
+309Somatic Symptom and
+Related Disorders
+Somatic symptom disorder  and other disorders with  prominent somatic symp-
+toms constitute a new ca tegory in DSM-5 called somatic symptom an d related disorders.  This
+chapter includes the diagnoses of somatic sy mptom disorder, illness anxiety disorder, con-
+version disorder (functional neurological symptom disorder), psychological factors affect-
+ing other medical conditions, factitious disorder, other specified somatic symptom and
+related disorder, and unspecified somatic symp tom and related disorder. All of the disor-
+ders in this chapter share a common feature: the prominence of soma tic symptoms associ-
+ated with significant distress and impairment . Individuals with diso rders with prominent
+somatic symptoms are commonly encountered in primary care and other medical settings
+but are less commonly encountered in psychiatric and other mental health settings. These
+reconceptualized diagnoses, based on a reorga nization of DSM-IV somatoform disorder di-
+agnoses, are more useful for primary care and other medical (nonpsychiatric) clinicians.
+The major diagnosis in this diagnostic cl ass, somatic symptom disorder, emphasizes
+diagnosis made on the basis of positive sy mptoms and signs (distressing somatic symp-
+toms plus abnormal thoughts,  feelings, and behaviors in response to these symptoms)
+rather than the absence of a medical explanat ion for somatic symptoms. A distinctive char-
+acteristic of many individuals with somati c symptom disorder is not the somatic symp-
+toms per se, but instead the way they present and interpret them. Incorporating affective,
+cognitive, and behavioral components into th e criteria for somatic symptom disorder pro-
+vides a more comprehensive and accurate reflecti on of the true clinical picture than can be
+achieved by assessing the somatic complaints alone.
+The principles behind the changes in the somatic symptom and related diagnoses from
+DSM-IV are crucial in understanding th e DSM-5 diagnoses. The DSM-IV term somatoform
+disorders  was confusing and is replaced by somatic symptom and related disorders . In DSM-IV
+there was a great deal of over lap across the somatoform disorders and a lack of clarity
+about the boundaries of diag noses. Although individuals wi th these disorders primarily
+present in medical rather than mental health  settings, nonpsychiatric physicians found the
+DSM-IV somatoform diagnoses difficult to understand and use. The current DSM-5 clas-
+sification recognizes this overlap by reducing the total number of disorders as well as their
+subcategories.
+The previous criteria overemphasized the cent rality of medically unexplained symptoms.
+Such symptoms are present to various degrees, particularly in conver sion disorder, but so-
+matic symptom disorders can also accompany diagnosed medical disorders. The reli-
+ability of determining that a somatic sympto m is medically unexplai ned is limited, and
+grounding a diagnosis on the absence of an  explanation is problematic and reinforces
+mind-body dualism. It is not appropriate to give  an individual a mental disorder diagnosis
+solely because a medical cause cannot be demo nstrated. Furthermore, the presence of a
+medical diagnosis does not exclude the possibility of a comorbid ment al disorder, includ-
+ing a somatic symptom and related disorder. Perhaps because of the predominant focus
+on lack of medical explanation, individuals re garded these diagnoses as pejorative and de-
+meaning, implying that their physical symp toms were not “real.” The new classification
+defines the major diagnosis, somatic symptom d isorder, on the basis of positive symptoms
+(distressing somatic symptoms plus abnormal thoughts, feelings, and behaviors in response
+310 Somatic Symptom and Related Disorders
+to these symptoms). However, medically unexplained symptoms remain a key feature in
+conversion disorder and pseu docyesis (other specified somatic symptom and related dis-
+order) because it is possible to demonstrate de finitively in such disorders that the symp-
+toms are not consistent with medical pathophysiology.
+It is important to note that some other ment al disorders may initially manifest with pri-
+marily somatic symptoms (e.g., major depressi ve disorder, panic disorder). Such diagno-
+ses may account for the somatic symptoms, or they may occur alongside one of the somatic
+symptom and related diso rders in this chapter. There is also considerable medical comor-
+bidity among somatizing individuals. Althou gh somatic symptoms are frequently associ-
+ated with psychological distress and psyc hopathology, some somatic symptom and
+related disorders can arise spontaneously, and their causes can remain obscure. Anxiety
+disorders and depressive disorders may acco mpany somatic symptom and related disor-
+ders. The somatic component adds severity an d complexity to depressive and anxiety dis-
+orders and results in higher severity, functi onal impairment, and ev en refractoriness to
+traditional treatments. In rare instances, the degree of preoccupation may be so severe as
+to warrant consideration of a delusional disorder diagnosis.
+A number of factors may contribute to so matic symptom and related disorders. These
+include genetic and biological vulnerability (e.g., increased sensitivity to pain), early trau-
+matic experiences (e.g., violence, abuse, deprivation), and learning (e.g., attention ob-
+tained from illness, lack of reinforcement of nonsomatic expressions of distress), as well as
+cultural/social norms that devalue and stig matize psychological suffering as compared
+with physical suffering. Differences in medical care across cultures affect the presentation,
+recognition, and management of these somatic presentations. Variations in symptom pre-
+sentation are likely the result of the interact ion of multiple factors within cultural con-
+texts that affect how individuals identify and classify bodily sensations, perceive illness,
+and seek medical attention for them. Thus, somatic presentations can be viewed as expres-
+sions of personal suffering inserted  in a cultural and social context.
+All of these disorders are characterized by  the prominent focus on somatic concerns
+and their initial presentation mainly in medical rather than mental health care settings. So-
+matic symptom disorder offers a more clinica lly useful method of characterizing individ-
+uals who may have been considered in the pa st for a diagnosis of somatization disorder.
+Furthermore, approximately 75% of individuals previously  diagnosed with hypochon-
+driasis are subsumed under the diagnosis of  somatic symptom diso rder. Howe ver, about
+25% of individuals with hypoch ondriasis have high health anxiety in the absence of so-
+matic symptoms, and many such individuals’ symptoms would not qualify for an anxiety
+disorder diagnosis. The DSM-5 diagnosis of illness anxiety disorder is for this latter group
+of individuals. Illness anxiety disorder can be considered eith er in this diagnostic section
+or as an anxiety disorder. Because of the st rong focus on somatic concerns, and because ill-
+ness anxiety disorder is most often encountere d in medical settings, for utility it is listed
+with the somatic symptom and re lated disorders. In conversion  disorder, the essential fea-
+ture is neurological symptoms that are foun d, after appropriate neurological assessment,
+to be incompatible with neurological pathophysiology. Psychological factors affecting
+other medical conditions is also included in th is chapter. Its essential feature is the pres-
+ence of one or more clinically significant psyc hological or behavioral factors that adversely
+affect a medical condition by increasing the risk  for suffering, death, or disability. Like the
+other somatic symptom and related disorders,  factitious disorder embodies persistent
+problems related to illness percep tion and identity. In the great majority of reported cases
+of factitious disorder, both imposed on self and imposed on another, individuals present
+with somatic symptoms and medical disease convi ction. C onsequently, DSM-5 factitious
+disorder is included among the somatic symp tom and related disorders. Other specified
+somatic symptom and related disorder and un specified somatic symptom and related dis-
+order include conditions for which some, but no t all, of the criteria for somatic symptom
+disorder or illness anxiety disord er are met, as well as pseudocyesis.
+Somatic Symptom Disorder 311
+Somatic Symptom Disorder
+Diagnostic Criteria 300.82 (F45.1)
+A. One or more somatic symptoms that are distressing or result in significant disruption
+of daily life. 
+B. Excessive thoughts, feelings, or behaviors related to the somatic symptoms or associ-
+ated health concerns as manifested by at least one of the following: 
+1. Disproportionate and persistent thoughts about the seriousness of one’s symptoms.
+2. Persistently high level of anxiety about health or symptoms.
+3. Excessive time and energy devoted to these symptoms or health concerns.
+C. Although any one somatic symptom may not be continuously present, the state of be-
+ing symptomatic is persistent (typically more than 6 months). 
+Specify if:
+With predominant pain  (previously pain disorder): This specifier is for individuals
+whose somatic symptoms predominantly involve pain.
+Specify if:
+Persistent:  A persistent course is characterized by severe symptoms, marked impair-
+ment, and long duration (more than 6 months).
+Specify current severity: 
+Mild:  Only one of the symptoms specified in Criterion B is fulfilled.
+Moderate: Two or more of the symptoms specified in Criterion B are fulfilled.
+Severe:  Two or more of the symptoms specified in Criterion B are fulfilled, plus there
+are multiple somatic complaints (or one very severe somatic symptom).
+Diagnostic Features
+Individuals with somatic symptom disorder ty pically have multiple, current, somatic symp-
+toms that are distressing or result in signific ant disruption of daily life (Criterion A), al-
+though sometimes only one severe symptom,  most commonly pain, is present. Symptoms
+may be specific (e.g., localized pain) or rela tively nonspecific (e.g., fatigue). The symptoms
+sometimes represent normal bodi ly sensations or discomfort that does not generally sig-
+nify serious disease. Somatic symptoms with out an evident medical explanation are not
+sufficient to make this diagnosis. The individu al’s suffering is authen tic, whether or not it
+is medically explained.
+The symptoms may or may not be associated  with another medical condition. The di-
+agnoses of somatic symptom disorder and a concurrent medical illness are not mutually
+exclusive, and these frequently occur together . For example, an indi vidual may become se-
+riously disabled by symptoms of somatic sy mptom disorder after an uncomplicated myo-
+cardial infarction even if the myocardial infarc tion itself did not result in any disability. If
+another medical condition or high risk for de veloping one is present (e.g., strong family
+history), the thoughts, feelings, and behavior s associated with this condition are excessive
+(Criterion B).
+Individuals with somatic symptom disorder tend to have very high levels of worry
+about illness (Criterion B). They appraise th eir bodily symptoms as unduly threatening,
+harmful, or troublesome and often think the worst about their health. Even when there is
+evidence to the contrary, some patients sti ll fear the medical seriousness of their symp-
+toms. In severe somatic symptom disorder, he alth concerns may assume a central role in
+the individual’s life, becoming a feature of his or her identity and dominating interper-
+sonal relationships.
+312 Somatic Symptom and Related Disorders
+Individuals typically experience distress that  is principally focused on somatic symp-
+toms and their significance. When asked direct ly about their distress, some individuals de-
+scribe it in relation to other aspects of thei r lives, while others deny any source of distress
+other than the somatic symptoms. Health-relat ed quality of life is often impaired, both
+physically and mentally. In severe somatic symptom disorder, the impairment is marked,
+and when persistent, the diso rder can lead to invalidism.
+There is often a high level of medical care utilization, which rarely alleviates the individ-
+ual’s concerns. Consequently, the patient may se ek care from multiple doctors for the same
+symptoms. These individuals often seem unre sponsive to medical interventions, and new
+interventions may only exacerbate the presenting symptoms . Some individuals with the dis-
+order seem unusually sensitive to medication si de effects. Some feel that their medical as-
+sessment and treatment have been inadequate. 
+Associated Features Supporting Diagnosis
+Cognitive features include at tention focused on somatic symptoms, attribution of normal
+bodily sensations to physical illness (possibly with catastrophic interpretations), worry
+about illness, and fear that any physical activity may damage the body. The relevant as-
+sociated behavioral features may include repe ated bodily checking for abnormalities, re-
+peated seeking of medical help and reassurance, and avoidance of physical activity. These
+behavioral features are most pronounced in severe, persistent somatic symptom disorder.
+These features are usually associated with freq uent requests for medical help for different
+somatic symptoms. This may lead to medical consultations in which individuals are so fo-
+cused on their concerns about somatic symptom( s) that they cannot be redirected to other
+matters. Any reassurance by the doctor that the symptoms are not indicative of serious
+physical illness tends to be short-lived and/ or is experienced by the individuals as the
+doctor not taking their sympto ms with due seriousness. As  the focus on somatic symp-
+toms is a primary feature of the disorder, in dividuals with somatic symptom disorder typ-
+ically present to general medical health servic es rather than mental health services. The
+suggestion of referral to a mental health spec ialist may be met with surprise or even frank
+refusal by individuals with somatic symptom disorder.
+Since somatic symptom disorder is associated with depressive disorders, there is an in-
+creased suicide risk. It is not known whethe r somatic symptom disorder is associated with
+suicide risk independent of its asso ciation with depressive disorders.
+Prevalence 
+The prevalence of somatic symptom disorder is not known. However, the prevalence of
+somatic symptom disorder is expected to be higher than that of the more restrictive DSM-
+IV somatization disorder (<1%) but lower than  that of undifferentiated somatoform dis-
+order (approximately 19%). The prevalence of  somatic symptom disorder in the general
+adult population may be around 5%–7%. Fema les tend to report more somatic symptoms
+than do males, and the preval ence of somatic symptom diso rder is consequently likely to
+be higher in females.
+Development and Course
+In older individuals, somatic symptoms and concurrent medical illnesses are common,
+and a focus on Criterion B is crucial for making the diagnosis. Somatic symptom disorder
+may be underdiagnosed in older adults either because certain somatic symptoms (e.g.,
+pain, fatigue) are considered part of normal aging or because illness worry is considered
+“understandable” in older adults who have  more general medical illnesses and medica-
+tions than do younger people. Concurrent de pressive disorder is common in older people
+who present with numerous somatic symptoms.
+Somatic Symptom Disorder 313
+In children, the most common  symptoms are recurrent abdominal pain, headache, fa-
+tigue, and nausea. A single  prominent symptom is more common in children than in
+adults. While young children may have somatic complaints, they rarely worry about “ill-
+ness” per se prior to adolescence. The parents’ response to the sy mptom is important, as
+this may determine the level of associated dist ress. It is the parent who may determine the
+interpretation of symptoms and the associated time off school and medical help seeking. 
+Risk and Prognostic Factors
+Temperamental. The personality trait of negative affe ctivity (neuroticism ) has been identi-
+fied as an independent correlate/risk factor of a high number of somatic symptoms. Comorbid
+anxiety or depression is common and ma y exacerbate symptoms and impairment.
+Environmental. Somatic symptom disorder is more freq uent in individuals with few years
+of education and low socioeconomic status, an d in those who have recently experienced
+stressful life events. 
+Course modifiers. Persistent somatic symptoms are associated with demographic fea-
+tures (female sex, older age, fewer years of education, lo wer socioeconomic status, un-
+employment), a reported history of sexual ab use or other childhood adversity, concurrent
+chronic physical illness or psychiatric disorder (depression, anxiety, persistent depressive
+disorder [dysthymia], panic), social stress, and reinforcing social factors such as illness
+benefits. Cognitive factors that affect clinical course include sensitization to pain, height-
+ened attention to bodily sen sations, and attribution of bod ily symptoms to a possible med-
+ical illness rather than recognizing them as a normal phenomenon or psychological stress. 
+Culture-Related Diagnostic Issues
+Somatic symptoms are prominent in various “culture-bound syndromes.” High numbers
+of somatic symptoms are found in population -based and primary care studies around the
+world, with a similar pattern of the most commonly reported soma tic symptoms, impair-
+ment, and treatment seeking. The relationship  between number of somatic symptoms and
+illness worry is similar in different cultures, and marked illness worry is associated with
+impairment and greater treatment seeking across cultures. The relationship between nu-
+merous somatic symptoms and depression a ppears to be very similar around the world
+and between different cult ures within one country.
+Despite these similarities, th ere are differences in somatic symptoms among cultures
+and ethnic groups. The description of somatic symptoms varies with linguistic and other
+local cultural factors. These somatic presenta tions have been described as “idioms of dis-
+tress” because somatic symptoms may have special meanings and shape patient-clinician
+interactions in the particular cultural cont exts. “Burnout,” the sensation of heaviness or
+the complaints of “gas”; too much heat in the body; or burning in the head are examples of
+symptoms that are common in some cultures or ethnic groups but rare in others. Explan-
+atory models also vary, and somatic symptoms may be attributed variously to particular
+family, work, or environmental stresses; general medical illness; the suppression of feel-
+ings of anger and resentment; or certain culture-specific ph enomena, such as semen loss.
+There may also be differences in medical trea tment seeking among cultural groups, in ad-
+dition to differences due to variable access to medical care services. Seeking treatment for
+multiple somatic symptoms in general medical clinics is a worldwide phenomenon and
+occurs at similar rates among ethnic groups in the same country.
+Functional Consequences of  Somatic Symptom Disorder
+The disorder is associated with marked impa irment of health status. Many individuals
+with severe somatic symptom disorder are lik ely to have impaired health status scores
+more than 2 standard deviatio ns below population norms. 
+314 Somatic Symptom and Related Disorders
+Differential Diagnosis
+If the somatic symptoms are consistent with an other mental disorder (e.g., panic disorder),
+and the diagnostic criteria for that disorder are fulfilled, then that mental disorder should
+be considered as an alternative or additional diagnosis. A separate diagnosis of somatic
+symptom disorder is not made if the somatic symptoms and related thoughts, feelings, or
+behaviors occur only during major depressive episodes. If, as commonly occurs, the crite-
+ria for both somatic symptom disorder and another mental disorder diagnosis are ful-
+filled, then both should be coded, as both may require treatment. 
+Other medical conditions. The presence of somatic symptoms of unclear etiology is not
+in itself sufficient to make the diagnosis of somatic symptom disorder. The symptoms of
+many individuals with disorders like irritabl e bowel syndrome or fibromyalgia would not
+satisfy the criterion necessary to diagnose somatic symptom disorder (Criterion B). Con-
+versely, the presence of somatic symptoms of an established medical disorder (e.g., diabe-
+tes or heart disease) does not exclude the di agnosis of somatic symptom disorder if the
+criteria are otherwise met.
+Panic disorder. In panic disorder, somatic symptoms  and anxiety about health tend to
+occur in acute episodes, wher eas in somatic symptom disorder, anxiety and somatic symp-
+toms are more persistent.
+Generalized anxiety disorder. Individuals with generalized anxiety disorder worry about
+multiple events, situations, or  activities, only one of whic h may involve their health. The
+main focus is not usually somatic symptoms or fear of illness as it is in somatic symptom
+disorder.
+Depressive disorders. Depressive disorders are comm only accompanied by somatic
+symptoms. However, depressive disorders ar e differentiated from somatic symptom dis-
+order by the core depressive symptoms of  low (dysphoric) mo od and anhedonia. 
+Illness anxiety disorder. If the individual has extensive worries about health but no or
+minimal somatic symptoms, it ma y be more appropriate to consider illness anxiety disorder.
+Conversion disorder (functional neurological symptom disorder). In conversion disor-
+der, the presenting symptom is loss of function  (e.g., of a limb), whereas in somatic symp-
+tom disorder, the focus is on the distress th at particular symptoms  cause. The features
+listed under Criterion B of somatic symptom diso rder may be helpful in differentiating the
+two disorders.
+Delusional disorder. In somatic symptom disorder, the in dividual’s beliefs that somatic
+symptoms might reflect serious underlying phy sical illness are not held with delusional
+intensity. Nonetheless, the in dividual’s beliefs concerning the somatic symptoms can be
+firmly held. In contrast, in delusional disorder, somatic subtype, the somatic symptom be-
+liefs and behavior are stronger than th ose found in somatic symptom disorder. 
+Body dysmorphic disorder. In body dysmorphic disorder, the individual is excessively
+concerned about, and preoccupied by, a perceived defect in his or her physical features. In
+contrast, in somatic symptom disorder, the co ncern about somatic symptoms reflects fear
+of underlying illness, not of  a defect in appearance.
+Obsessive-compulsive disorder. In somatic symptom disorder , the recurrent ideas about
+somatic symptoms or illness are less intrusive, and individuals with this disorder do not
+exhibit the associated repetiti ve behaviors aimed at reducing  anxiety that occur in obses-
+sive-compulsive disorder.
+Comorbidity
+Somatic symptom disorder is associated with hi gh rates of comorbidity with medical dis-
+orders as well as anxiety and depressive di sorders. When a concurrent medical illness is
+Illness Anxiety Disorder 315
+present, the degree of impairment is more ma rked than would be expected from the phys-
+ical illness alone. When an individual’s sy mptoms meet diagnostic  criteria for somatic
+symptom disorder, the disorder sh ould be diagnosed; however, in view of the frequent co-
+morbidity, especially with anxiety and depre ssive disorders, evidence for these concur-
+rent diagnoses should be sought.
+Illness Anxiety Disorder
+Diagnostic Criteria 300.7 (F45.21)
+A. Preoccupation with having or acquiring a serious illness. 
+B. Somatic symptoms are not present or, if pr esent, are only mild in intensity. If another
+medical condition is present or there is a high risk for developing a medical condition
+(e.g., strong family history is present), the preoccupation is clearly excessive or dispro-
+portionate. 
+C. There is a high level of anxiety about health, and the individual is easily alarmed about
+personal health status.
+D. The individual performs excessive health-related behaviors (e.g., repeatedly checks
+his or her body for signs of illness) or exhibits maladaptive avoidance (e.g., avoids doc-
+tor appointments and hospitals).
+E. Illness preoccupation has been present for at least 6 months, but the specific illness
+that is feared may change over that period of time.
+F. The illness-related preoccupation is not better explained by another mental disorder, such
+as somatic symptom disorder, panic disorder, generalized anxiety disorder, body dysmor-
+phic disorder, obsessive-compulsive disor der, or delusional disorder, somatic type.
+Specify whether:
+Care-seeking type:  Medical care, including physician visits or undergoing tests and
+procedures, is frequently used.
+Care-avoidant type:  Medical care is rarely used.
+Diagnostic Features
+Most individuals with hypochondriasis are now classified as having somatic symptom
+disorder; however, in a minority of cases, th e diagnosis of illness anxiety disorder applies
+instead. Illness anxiety disorder entails a pr eoccupation with having or acquiring a seri-
+ous, undiagnosed medical illness (Criterion A) . Somatic symptoms are not present or, if
+present, are only mild in intensity (Criterion B). A thorough evaluation fails to identify a
+serious medical condition that accounts for the individual’s concer ns. While the concern
+may be derived from a nonpathological physica l sign or sensation, the individual’s dis-
+tress emanates not primar ily from the physical complaint it self but rather from his or her
+anxiety about the meaning, significance, or ca use of the complaint (i.e., the suspected med-
+ical diagnosis). If a physical sign or symptom is present, it is often a normal physiological
+sensation (e.g., orthostatic dizziness), a benign  and self-limited dysf unction (e.g., transient
+tinnitus), or a bodily discomfo rt not generally considered indicative of disease (e.g., belch-
+ing). If a diagnosable medical condition is present, the individual’s anxiety and preoccu-
+pation are clearly excessive and disproportionate  to the severity of the condition (Criterion
+B). Empirical evidence and existing literatur e pertain to previously defined DSM hypo-
+chondriasis, and it is unclear to what extent and how precisely they apply to the descrip-
+tion of this new diagnosis.
+The preoccupation with the idea that one is  sick is accompanied by substantial anxiety
+about health and disease (Criterion C). Indivi duals with illness anxiety disorder are easily
+316 Somatic Symptom and Related Disorders
+alarmed about illness, such as by hearing abou t someone else falling ill or reading a health-
+related news story. Their concerns about undiagnosed disease do not respond to appro-
+priate medical reassurance, negative diagnostic  tests, or benign course. The physician’s at-
+tempts at reassurance and symptom palliation generally do not alleviate the individual’s
+concerns and may heighten them . Illness concerns assume a prominent place in the indi-
+vidual’s life, affecting daily activities, and may even result in inva lidism. Illness becomes
+a central feature of the individual’s identity and self-image, a frequent topic of social dis-
+course, and a characteristic response to stressful life events. Individuals with the disorder
+often examine themselves repeatedly (e.g., ex amining one’s throat in the mirror) (Crite-
+rion D). They research their suspected disease excessively (e.g., on the Internet) and re-
+peatedly seek reassurance from family, friends, or physicians. This incessant worrying often
+becomes frustrating for others and may result in considerable strain within the family. In
+some cases, the anxiety leads to maladaptive avoidance of situations (e.g., visiting sick
+family members) or activities (e.g., exercise ) that these individuals fear might jeopardize
+their health.
+Associated Features Supporting Diagnosis
+Because they believe they are medically ill, individuals with illness anxiety disorder are
+encountered far more frequently in medical than  in mental health settings. The majority of
+individuals with illness anxiety disorder have  extensive yet unsatisfactory medical care,
+though some may be too anxious to seek medi cal attention. They generally have elevated
+rates of medical utilization but do not utilize me ntal health services more than the general
+population. They often consult multiple physi cians for the same problem and obtain re-
+peatedly negative diagnostic te st results. At times, medical attention leads to a paradoxical
+exacerbation of anxiety or to iatrogenic complications from diagnostic tests and proce-
+dures. Individuals with the disorder are genera lly dissatisfied with their medical care and
+find it unhelpful, often feelin g they are not being taken seriously by physicians. At times,
+these concerns may be justif ied, since physicians sometimes are dismissive or respond
+with frustration or hostility. Th is response can occasionally result in a failure to diagnose
+a medical condition that is present.
+Prevalence
+Prevalence estimates of illness anxiety disorder  are based on estimates of the DSM-III and
+DSM-IV diagnosis hypochondriasis.  The 1- to 2-year prevalen ce of health anxiety and/or
+disease conviction in community surveys and population-based samp les ranges from 1.3%
+to 10%. In ambulatory medica l populations, the 6-month/1-ye ar prevalence rates are be-
+tween 3% and 8%. The prevalence of the disorder is similar in  males and females.
+Development and Course 
+The development and course of illness anxiety disorder are unclear. Illness anxiety disor-
+der is generally thought to be a chronic and relapsing condition with an age at onset in
+early and middle adulthood. In population-b ased samples, health -related anxiety in-
+creases with age, but the ages of individuals with high health anxi ety in medical settings
+do not appear to differ from those of other patients in those settings. In older individuals,
+health-related anxiety often focuses on memory loss; the disorder is thought to be rare in
+children.
+Risk and Prognostic Factors
+Environmental. Illness anxiety disorder may sometimes be precipitated by a major life
+stress or a serious but ultimately  benign threat to the individu al’s health. A history of child-
+Illness Anxiety Disorder 317
+hood abuse or of a serious childhood illness may predispose to deve lopment of the disor-
+der in adulthood. 
+Course modifiers. Approximately one-third to one-half of individuals with illness anx-
+iety disorder have a transient form, which is associated with less psychiatric comorbidity,
+more medical comorbidity, and less severe illness anxiety disorder. 
+Culture-Related Diagnostic Issues 
+The diagnosis should be made with caution in  individuals whose ideas about disease are
+congruent with widely held, culturally sanctioned beliefs. Little is known about the phe-
+nomenology of the disorder acro ss cultures, although the prevalence appears to be similar
+across different countries with diverse cultures.
+Functional Consequences of  Illness Anxiety Disorder
+Illness anxiety disorder causes substantial role impairment and decrements in physical
+function and health-related quality of life. He alth concerns often interfere with interper-
+sonal relationships, disrupt family life,  and damage occupational performance. 
+Differential Diagnosis
+Other medical conditions. The first differential diagnostic  consideration is an underly-
+ing medical condition, includin g neurological or endocrine conditions, occult malignan-
+cies, and other diseases that affect multiple  body systems. The presence of a medical
+condition does not rule out the possibility of coexisting illness anxiety disorder. If a med-
+ical condition is present, the health-related  anxiety and disease concerns are clearly dis-
+proportionate to its seriousnes s. Transient preoccupations related to a medical condition
+do not constitute illn ess anxiety disorder. 
+Adjustment disorders. Health-related anxiety is a norm al response to serious illness
+and is not a mental disorder. Such nonpathologic al health anxiety is clearly related to the
+medical condition and is typica lly time-limited. If the health anxiety is severe enough, an
+adjustment disorder may be diagnosed. Howeve r, only when the health anxiety is of suf-
+ficient duration, severity, and distress can illnes s anxiety disorder be diagnosed. Thus, the
+diagnosis requires the continuous  persistence of disproportio nate health-related anxiety
+for at least 6 months. 
+Somatic symptom disorder. Somatic symptom disorder is diagnosed when significant
+somatic symptoms are present. In contrast, individuals with illness anxiety disorder have
+minimal somatic symptoms and are primarily concerned with the idea they are ill. 
+Anxiety disorders. In generalized anxiety disorder, individuals worry about multiple
+events, situations, or activiti es, only one of which may invol ve health. In panic disorder,
+the individual may be concerned that the pani c attacks reflect the presence of a medical ill-
+ness; however, although these individuals may have health an xiety, their anxiety is typi-
+cally very acute and episodic. In illness anxi ety disorder, the health anxiety and fears are
+more persistent and enduring. Individuals wi th illness anxiety disorder may experience
+panic attacks that are triggere d by their illness concerns. 
+Obsessive-compulsive and related disorders. Individuals with illness anxiety disor-
+der may have intrusive though ts about having a disease and also may have associated
+compulsive behaviors (e.g., seeking reassurance) . However, in illness anxiety disorder, the
+preoccupations are usually focused on having  a disease, whereas in  obsessive-compulsive
+disorder (OCD), the thoughts are intrusive an d are usually focused on fears of getting a
+disease in the future. Most individuals with OCD have obsessions or compulsions involv-
+ing other concerns in addition  to fears about contracting disease. In body dysmorphic dis-
+318 Somatic Symptom and Related Disorders
+order, concerns are limited to the individual’s physical appearance, which is viewed as
+defective or flawed.
+Major depressive disorder. Some individuals with a major depressive episode rumi-
+nate about their health and worry excessively about illness. A separate diagnosis of illness
+anxiety disorder is not made if these concer ns occur only during major depressive epi-
+sodes. However, if excessive illness worry persists after remi ssion of an episode of major
+depressive disorder, the diagnosis of illness anxiety disorder should be considered. 
+Psychotic disorders. Individuals with illness anxiety disorder are not delusional and
+can acknowledge the possibility that the feared disease is no t present. Their ideas do not
+attain the rigidity and intens ity seen in the somatic delusions occurring in psychotic dis-
+orders (e.g., schizophrenia; delusional disord er, somatic type; major depressive disorder,
+with psychotic features). True  somatic delusions are generall y more bizarre (e.g., that an
+organ is rotting or dead) than  the concerns seen in illness  anxiety disorder. The concerns
+seen in illness anxiety disorder, though not founded in reality, are plausible. 
+Comorbidity
+Because illness anxiety disorder is a new di sorder, exact co morbidities are unknown. Hy-
+pochondriasis co-occurs with anxiety disorders (in particular, generalized anxiety disor-
+der, panic disorder, and OCD)  and depressive disorders. Approximately two-thirds of
+individuals with illness anxiety disorder are lik ely to have at least one other comorbid ma-
+jor mental disorder. Individuals with illness anxiety disorder may have an elevated risk
+for somatic symptom disorder  and personality disorders.
+Conversion Disorder
+(Functional Neurological Symptom Disorder)
+Diagnostic Criteria
+A. One or more symptoms of altered voluntary motor or sensory function.
+B. Clinical findings provide evidence of incompatibility between the symptom and recog-
+nized neurological or medical conditions.
+C. The symptom or deficit is not better explained by another medical or mental disorder.
+D. The symptom or deficit causes clinically significant distress or impairment in social, oc-
+cupational, or other important areas of functioning or warrants medical evaluation.
+Coding note: The ICD-9-CM code for conversion disorder is 300.11, which is assigned
+regardless of the symptom type. The ICD-10-CM code depends on the symptom type (see
+below).
+Specify symptom type:
+(F44.4) With weakness or paralysis
+(F44.4) With abnormal movement  (e.g., tremor, dystonic movement, myoclonus, gait
+disorder)
+(F44.4) With swallowing symptoms
+(F44.4) With speech symptom  (e.g., dysphonia, slurred speech)
+(F44.5) With attacks or seizures
+(F44.6) With anesthesia or sensory loss
+(F44.6) With special sensory symptom  (e.g., visual, olfactory, or hearing distur-
+bance)
+(F44.7) With mixed symptoms
+Conversion Disorder (Functional Neurological Symptom Disorder) 319
+Specify if:
+Acute episode:  Symptoms present for less than 6 months.
+Persistent:  Symptoms occurring for 6 months or more.
+Specify if:
+With psychological stressor  (specify stressor)
+Without psychological stressor
+Diagnostic Features
+Many clinicians use the alternative names of “functional” (referring to abnormal central
+nervous system functioning) or “psychogenic” (referring to an assumed etiology) to de-
+scribe the symptoms of conversion disord er (functional neurol ogical symptom disor-
+der). In conversion disorder, there may be on e or more symptoms of various types. Motor
+symptoms include weakness or paralysis; abno rmal movements, such as tremor or dys-
+tonic movements; gait abnormalities; and abnormal limb posturing. Sensory symptoms
+include altered, reduced, or absent skin sens ation, vision, or hearing. Episodes of abnor-
+mal generalized limb shaking with apparent im paired or loss of consciousness may resem-
+ble epileptic seizures (also called psychogenic or non-epileptic seizures ). There may be
+episodes of unresponsiveness  resembling syncope or coma. Other symptoms include re-
+duced or absent speech volume (dysphonia/apho nia), altered articulation (dysarthria), a
+sensation of a lump in the th roat (globus), and diplopia. 
+Although the diagnosis requires that the symptom is not explained by neurological
+disease, it should not be ma de simply because results from investigations are normal or
+because the symptom is “bizarre.” There must be clinical findings that show clear evidence
+of incompatibility with neurological disease. Internal inconsistency at examination is one
+way to demonstrate incompatibility (i.e., demonstrating that physical signs elicited
+through one examination method are no longer  positive when tested a different way). Ex-
+amples of such examination findings include
+• Hoover’s sign, in which weakness of hip exte nsion returns to normal strength with con-
+tralateral hip flexio n against resistance.
+• Marked weakness of ankle plantar-flexion when  tested on the bed in an individual who
+is able to walk on tiptoes;
+• Positive findings on the tremor entrainmen t test. On this test, a unilateral tremor may
+be identified as functional if the tremor ch anges when the individual is distracted away
+from it. This may be observed if the individual is asked to copy the examiner in making
+a rhythmical movement with their unaffected hand and this causes the functional
+tremor to change such that it copies or “entrains” to the rhythm of the unaffected hand
+or the functional tremor is suppressed, or no longer makes a simple rhythmical move-
+ment.
+• In attacks resembling epilepsy or syncope (“ psychogenic” non-epileptic attacks), the
+occurrence of closed eyes with resistance to  opening or a normal simultaneous electro-
+encephalogram (although this alone does not exclude all forms of epilepsy or syncope).
+• For visual symptoms, a tubular visual field (i.e., tunnel vision).
+It is important to note that the diagnosis of conversion disorder should be based on the
+overall clinical picture and not on a single clinical finding.
+Associated Features Supporting Diagnosis
+A number of associated featur es can support the diagnosis of  conversion disorder. There
+may be a history of multiple similar somatic symptoms. Onset may be associated with
+stress or trauma, either psychological or physi cal in nature. The potential etiological rele-
+320 Somatic Symptom and Related Disorders
+vance of this stress or trauma may be sugges ted by a close temporal  relationship. However,
+while assessment for stress and trauma is im portant, the diagnosis should not be withheld
+if none is found.
+Conversion disorder is often associated wi th dissociative symptoms, such as deperson-
+alization, derealization, and dissociative amne sia, particularly at symptom onset or during
+attacks.
+The diagnosis of conversion disorder does not require the judgment that the symptoms
+are not intentionally produced (i.e., not feigne d), as the definite ab sence of feigning may
+not be reliably discerned. The phenomenon of la belle indifférence  (i.e., lack of concern about
+the nature or implications of the symptom)  has been associated wi th conversion disorder
+but it is not specific for conver sion disorder and should not be  used to make the diagnosis.
+Similarly the concept of secondary gain  (i.e., when individuals derive external benefits such
+as money or release from respon sibilities) is also not specific to conversion disorder and
+particularly in the context of definite evid ence for feigning, the diagnoses that should be
+considered instead would include factitious disorder or malingering (see the section “Dif-
+ferential Diagnosis” for this disorder).
+Prevalence
+Transient conversion symptoms are common, but the precise prevalence of the disorder is
+unknown. This is partly because the diagnosis usually requires assessment in secondary
+care, where it is found in approximately 5% of referrals to neurology clinics. The incidence
+of individual persistent conversion sympto ms is estimated to be 2–5/100,000 per year.
+Development and Course
+Onset has been reported throughout the life course. The on set of non-epileptic attacks
+peaks in the third decade, and motor symptoms have their peak onset in the fourth decade.
+The symptoms can be transient or persistent. The prognosis may be better in younger chil-
+dren than in adolescents and adults.
+Risk and Prognostic Factors 
+Temperamental. Maladaptive personality traits ar e commonly associated with conver-
+sion disorder.
+Environmental. There may be a history of childhood  abuse and neglect. Stressful life
+events are often, but not always, present. 
+Genetic and physiological. The presence of neurological disease that causes similar symp-
+toms is a risk factor (e.g., non-epileptic se izures are more common in patients who also
+have epilepsy).
+Course modifiers. Short duration of symptoms and acceptance of the diagnosis are pos-
+itive prognostic factors. Mala daptive personality traits, the presence of comorbid physical
+disease, and the receipt of disability bene fits may be negative prognostic factors.
+Culture-Related Diagnostic Issues
+Changes resembling conversion (and dissoci ative) symptoms are common in certain
+culturally sanctioned rituals. If the sympto ms are fully explained within the particular
+cultural context and do not result in clinically significant  distress or disability, then the di-
+agnosis of conversion di sorder is not made. 
+Gender-Related Diagnostic Issues
+Conversion disorder is two to thre e times more common in females. 
+Conversion Disorder (Functional Neurological Symptom Disorder) 321
+Functional Consequences of Conversion Disorder
+Individuals with conversion symptoms may have substantial disability. The severity of dis-
+ability can be similar to that experienced by individuals with comparable medical diseases. 
+Differential Diagnosis
+If another mental disorder be tter explains the symptoms, th at diagnosis should be made.
+However the diagnosis of conversion disorder may be made in the presence of another
+mental disorder. 
+Neurological disease. The main differential diagnosis is neurological disease that might
+better explain the symptoms. After a thorough  neurological assessment, an unexpected
+neurological disease cause for the symptoms is rarely found at follow up. However, reas-
+sessment may be required if the symptoms appe ar to be progressive. Conversion disorder
+may coexist with neurological disease.
+Somatic symptom disorder. Conversion disorder may be diagnosed in addition to so-
+matic symptom disorder. Most of the somati c symptoms encountered in somatic symptom
+disorder cannot be demonstrated to be clea rly incompatible with pathophysiology (e.g.,
+pain, fatigue), whereas in conversion disorder , such incompatibility is required for the di-
+agnosis. The excessive thoughts, feelings, and behaviors characterizing somatic symptom
+disorder are often absent  in conversion disorder.
+Factitious disorder and malingering. The diagnosis of conversion  disorder does not re-
+quire the judgment that the symptoms are not intentionally produced  (i.e., not feigned),
+because assessment of conscious intention is  unreliable. However definite evidence of
+feigning (e.g., clear evidence that loss of fu nction is present during the examination but not
+at home) would suggest a diagno sis of factitious disorder if the individual’s apparent aim
+is to assume the sick role or malingering if the aim is to obtain an incentive such as money.
+Dissociative disorders. Dissociative symptoms are co mmon in individuals with con-
+version disorder. If both conversion disorder and a dissociati ve disorder are present, both
+diagnoses should be made. 
+Body dysmorphic disorder. Individuals with body dysmorphic disorder are exces-
+sively concerned about a perceived defect in th eir physical features bu t do not complain of
+symptoms of sensory or motor functi oning in the affected body part. 
+Depressive disorders. In depressive disorders, individuals may report general heavi-
+ness of their limbs, whereas the weakness of co nversion disorder is more focal and prom-
+inent. Depressive disorders ar e also differentiated by the presence of core depressive
+symptoms. 
+Panic disorder. Episodic neurological symptoms (e.g., tremors and paresthesias) can
+occur in both conversion disorder and panic attacks. In panic attacks, the neurological
+symptoms are typically transient and acutely episodic with characteristic cardiorespira-
+tory symptoms. Loss of awareness with amne sia for the attack and violent limb move-
+ments occur in non-epileptic atta cks, but not in panic attacks. 
+Comorbidity
+Anxiety disorders, especially  panic disorder, and depressive disorders commonly co-occur
+with conversion disorder. Somatic symptom diso rder may co-occur as well. Psychosis, sub-
+stance use disorder, and alcohol misuse ar e uncommon. Personalit y disorders are more
+common in individuals with conversion disorder than in the general population. Neuro-
+logical or other medical cond itions commonly coexist with conversion disorder as well.
+322 Somatic Symptom and Related Disorders
+Psychological Factors Affecting
+ Other Medical Conditions
+Diagnostic Criteria 316 (F54)
+A. A medical symptom or condition (other than a mental disorder) is present. 
+B. Psychological or behavioral factors adversely affect the medical condition in one of the
+following ways: 
+1. The factors have influenced the course of the medical condition as shown by a
+close temporal association between the psychological factors and the development
+or exacerbation of, or delayed recovery from, the medical condition.
+2. The factors interfere with the treatment of the medical condition (e.g., poor adher-
+ence).
+3. The factors constitute additional well-established health risks for the individual.
+4. The factors influence the underlying pathophysiology, precipitating or exacerbating
+symptoms or necessitating medical attention.
+C. The psychological and behavioral factors in Criterion B are not better explained by an-
+other mental disorder (e.g., panic disorder , major depressive disorder, posttraumatic
+stress disorder).
+Specify current severity:
+Mild:  Increases medical risk (e.g., inconsistent adherence with antihypertension treat-
+ment). 
+Moderate: Aggravates underlying medical condition (e.g., anxiety aggravating
+asthma).
+Severe:  Results in medical hospitalization or emergency room visit.
+Extreme: Results in severe, life-threatening risk (e.g., ignoring heart attack symp-
+toms).
+Diagnostic Features
+The essential feature of  psychological factors affecting other medical conditions is the
+presence of one or more clinically significant  psychological or behavi oral factors that ad-
+versely affect a medical condition by increasi ng the risk for suffering, death, or disability
+(Criterion B). These factors can adversely affe ct the medical condition by influencing its
+course or treatment, by constituting an additi onal well-established health risk factor, or by
+influencing the underlying pathophysiology to  precipitate or exac erbate symptoms or to
+necessitate medical attention. 
+Psychological or behavioral factors include ps ychological distress, patterns of interper-
+sonal interaction, coping styles, and maladaptiv e health behaviors, such as denial of symp-
+toms or poor adherence to medical reco mmendations. Common clin ical examples are
+anxiety-exacerbating asthma, denial of need for treatment for acute chest pain, and manip-
+ulation of insulin by an individual with diab etes wishing to lose weight. Many different
+psychological factors have been demonstrated  to adversely influence medical conditions—
+for example, symptoms of depression or anxi ety, stressful life events, relationship style,
+personality traits, and coping styles. The adverse effects can range from acute, with imme-
+diate medical consequences (e.g., Takotsubo cardiomyopathy) to chronic, occurring over a
+long period of time (e.g., chronic occupational  stress increasing risk for hypertension). Af-
+fected medical conditions can be those with clear pathophysiology (e.g., diabetes, cancer,
+coronary disease), functional syndromes (e.g ., migraine, irritable bowel syndrome, fibro-
+myalgia), or idiopathic medical sympto ms (e.g., pain, fatigue, dizziness). 
+Psychological Factors Affecting Other Medical Conditions 323
+This diagnosis should be reserved for situations in which the effect of the psychological
+factor on the medical condition is evident and the psychological factor has clinically sig-
+nificant effects on the course or outcome of  the medical condition. Abnormal psychologi-
+cal or behavioral symptoms that develop in  response to a medical condition are more
+properly coded as an adjustme nt disorder (a clinically significant psychological response
+to an identifiable stressor). Th ere must be reasonable eviden ce to suggest an association
+between the psychological factors and the medical condition, although it may often not be
+possible to demonstrate direct causality or  the mechanisms underlying the relationship.
+Prevalence
+The prevalence of psychological factors affect ing other medical conditions is unclear. In
+U.S. private insurance billing data, it is a more common diagnosis than somatic symptom
+disorders.
+Development and Course
+Psychological factors affecting other medical conditions can occur across the lifespan. Par-
+ticularly with young children, corroborative history from parents or school can assist the di-
+agnostic evaluation. Some conditions are characteri stic of particular life stages (e.g., in older
+individuals, the stress associated with acting as a caregiver for an ill spouse or partner).
+Culture-Related Diagnostic Issues
+Many differences between cult ures may influence psychologi cal factors and their effects
+on medical conditions, such as those in la nguage and communication style, explanatory
+models of illness, patterns of seeking health care, service availability and organization,
+doctor-patient relationships and other healing practices, family and gender roles, and at-
+titudes toward pain and death. Psychologica l factors affecting other medical conditions
+must be differentiated from culturally specific  behaviors such as using faith or spiritual
+healers or other variations in illness manageme nt that are acceptable within a culture and
+represent an attempt to help the medical condition rather than interfere with it. These local
+practices may complement rather than obstruct  evidence-based interventions. If they do
+not adversely affect out comes, they should not be pathol ogized as psychological factors
+affecting other medical conditions.
+Functional Consequences of Psychological Factors 
+Affecting Other Medical Conditions
+Psychological and behavioral factors have been demonstrated to affect the course of many
+medical diseases.
+Differential Diagnosis
+Mental disorder due to another medical condition. A temporal association between
+symptoms of a mental disorder and those of a medical condition is also  characteristic of a
+mental disorder due to another medical condition, but the presumed causality is in the op-
+posite direction. In a mental disorder du e to another medical condition, the medical
+condition is judged to be caus ing the mental disorder through a direct physiological mech-
+anism. In psychological factors affecting other medical conditions, the psychological or be-
+havioral factors are judged to affect the course of the medical condition.
+Adjustment disorders. Abnormal psychological or behavioral symptoms that develop in
+response to a medical condition are more proper ly coded as an adjustment disorder (a clin-
+ically significant psychological response to an identifiable stressor). For example, an indi-
+324 Somatic Symptom and Related Disorders
+vidual with angina that is precipitated when ever he becomes enraged would be diagnosed
+as having psychological factors affecting ot her medical conditions, whereas an individual
+with angina who developed maladaptive anticipatory anxiety would be diagnosed as hav-
+ing an adjustment disorder with anxiety. In clinical practice, however, psychological fac-
+tors and a medical condition are often mutua lly exacerbating (e.g., anxiety as both a
+precipitant and a consequence of angina), in which case the distinction is arbitrary. Other
+mental disorders frequently result in medica l complications, most notably substance use
+disorders (e.g., alcohol use disorder, tobacco use disorder). If an indi vidual has a coexisting
+major mental disorder that adversely affects or causes another medical condition, diagno-
+ses of the mental disorder and the medical co ndition are usually sufficient. Psychological
+factors affecting other medical conditions is diagnosed when the psychological traits or
+behaviors do not meet criteria for a mental diagnosis. 
+Somatic symptom disorder. Somatic symptom disorder is characterized by a combina-
+tion of distressing somatic symptoms and ex cessive or maladaptive thoughts, feelings,
+and behavior in response to these symptoms or associated health co ncerns. The individual
+may or may not have a diagnosable medical cond ition. In contrast, in psychological factors
+affecting other medical conditions, the psycho logical factors advers ely affect a medical
+condition; the individual’s th oughts, feelings, and behavior  are not necessarily excessive.
+The difference is one of emphasis, rather than a clear-cut distinction. In psychological fac-
+tors affecting other medical conditions, the emphasis is on the exacerbation of the medical
+condition (e.g., an individual with angina th at is precipitated whenever he becomes anx-
+ious). In somatic symptom disorder, the empha sis is on maladaptive thoughts, feelings,
+and behavior (e.g., an individual with angina  who worries constantly that she will have a
+heart attack, takes her blood pressure multiple  times per day, and restricts her activities).
+Illness anxiety disorder. Illness anxiety disorder is charac terized by high illness anxiety
+that is distressing and/or disruptive to daily life with minimal somatic symptoms. The fo-
+cus of clinical concern is the individual’s wo rry about having a disease; in most cases, no
+serious disease is present. In psychological factors affecting other medical conditions, anx-
+iety may be a relevant psychological factor affecting a medical condition, but the clinical
+concern is the adverse effects on the medical condition.
+Comorbidity
+By definition, the diagnosis of psychological fa ctors affecting other medi cal conditions entails
+a relevant psychological or behavioral syndro me or trait and a comorbid medical condition.
+Factitious Disorder
+Diagnostic Criteria 300.19 (F68.10)
+Factitious Disorder Imposed on Self  
+A. Falsification of physical or psychological signs or symptoms, or induction of injury or
+disease, associated with identified deception.
+B. The individual presents himself or herself to others as ill, impaired, or injured.
+C. The deceptive behavior is evident even in the absence of obvious external rewards.
+D. The behavior is not better explained by another mental disorder, such as delusional
+disorder or another psychotic disorder.
+Specify:
+Single episode
+Recurrent episodes  (two or more events of falsification of illness and/or induction of
+injury)
+Factitious Disorder 325
+Factitious Disorder Imposed on Another 
+(Previously Factitious Disorder by Proxy)  
+A. Falsification of physical or psychological signs or symptoms, or induction of injury or
+disease, in another, associated with identified deception.
+B. The individual presents another individual (vic tim) to others as ill, impaired, or injured.
+C. The deceptive behavior is evident even in the absence of obvious external rewards.
+D. The behavior is not better explained by another mental disorder, such as delusional
+disorder or another psychotic disorder.
+Note: The perpetrator, not the victim, receives this diagnosis.
+Specify:
+Single episode
+Recurrent episodes  (two or more events of falsification of illness and/or induction of
+injury)
+Recording Procedures
+When an individual falsifies illness in another (e .g., children, adults, pets), the diagnosis is
+factitious disorder imposed on another. The pe rpetrator, not the victim, is given the diag-
+nosis. The victim may be given an abuse di agnosis (e.g., 995.54 [T74.12X]; see the chapter
+“Other Conditions That May Be a Focus of Clinical Attention”). 
+Diagnostic Features
+The essential feature of factitious disorder is th e falsification of medical or psychological signs
+and symptoms in oneself or others that are as sociated with the identified deception. Indi-
+viduals with factitious disorder can also seek  treatment for themselves  or another following
+induction of injury or disease. The diagnosis requires demonstrating that the individual is
+taking surreptitious actions to misrepresent, simulate, or ca use signs or symptoms of ill-
+ness or injury in the absence of obvious exte rnal rewards. Methods of illness falsification
+can include exaggeration, fabrication, simula tion, and induction. While a preexisting med-
+ical condition may be present,  the deceptive behavior or induction of injury associated
+with deception causes others to view such in dividuals (or another) as more ill or impaired,
+and this can lead to excessive clinical intervention. Individuals with factitious disorder
+might, for example, report feelings of depres sion and suicidality following the death of a
+spouse despite the death not being true or the individual’s not ha ving a spouse; decep-
+tively report episodes of neurological symptoms  (e.g., seizures, dizzine ss, or blacking out);
+manipulate a laboratory test (e .g., by adding blood to urine) to falsely indicate an abnor-
+mality; falsify medical records to indicate an  illness; ingest a substance (e.g., insulin or
+warfarin) to induce an abnormal laboratory result or illness; or physically injure them-
+selves or induce illness in themselves or anot her (e.g., by injecting fecal material to produce
+an abscess or to induce sepsis).
+Associated Features Supporting Diagnosis
+Individuals with factitious disorder imposed on  self or factitious disorder imposed on an-
+other are at risk for experiencing great psyc hological distress or functional impairment by
+causing harm to themselves and others. Family , friends, and health care professionals are
+also often adversely affected by their behavi or. Factitious disorders have similarities to
+substance use disorders, eating disorders, im pulse-control disorders,  pedophilic disorder,
+and some other established disorders related to  both the persistence of the behavior and
+the intentional efforts to conceal the disord ered behavior through deception. Whereas
+some aspects of factitious disorders might represent criminal behavior (e.g., factitious dis-
+326 Somatic Symptom and Related Disorders
+order imposed on another, in  which the parent’s actions represent abuse and maltreat-
+ment of a child), such criminal  behavior and mental illness are not mutually exclusive. The
+diagnosis of factitious disorder emphasizes the objective identification of falsification of
+signs and symptoms of illness, rather than an inference abou t intent or possible underly-
+ing motivation. Moreover, such behaviors, incl uding the induction of injury or disease, are
+associated with deception. 
+Prevalence
+The prevalence of factitious disorder is unknow n, likely because of the role of deception in
+this population. Among patients in hospital sett ings, it is estimated that about 1% of indi-
+viduals have presentations that meet the criteria for factitious disorder.
+Development and Course
+The course of factitious disorder is usually one of intermittent episodes. Single episodes
+and episodes that are characterized as pers istent and unremitting are both less common.
+Onset is usually in early adulthood, often after hospitalization for a medical condition or a
+mental disorder. When imposed on another, the disorder may begin after hospitalization
+of the individual’s child or other dependent. In individuals with recu rrent episodes of fal-
+sification of signs and symptoms of illness and/ or induction of injury, this pattern of suc-
+cessive deceptive contact with medical personnel, including hospitalizations, may become
+lifelong. 
+Differential Diagnosis
+Caregivers who lie about abuse injuries in depe ndents solely to protect themselves from lia-
+bility are not diagnosed with factitious disord er imposed on another because protection from
+liability is an external reward (Criterion C, th e deceptive behavior is evident even in the ab-
+sence of obvious external rewards). Such caregi vers who, upon observation, analysis of med-
+ical records, and/or interviews with others, are found to lie more extensively than needed for
+immediate self-protect ion are diagnosed with factitious disorder imposed on another.
+Somatic symptom disorder. In somatic symptom disorder, there may be excessive at-
+tention and treatment seeking for perceived medical concerns, but there is no evidence that
+the individual is providing false info rmation or behaving deceptively. 
+Malingering. Malingering is differentiated from fact itious disorder by the intentional re-
+porting of symptoms for personal gain (e.g., money, time off work). In contrast, the diag-
+nosis of factitious disorder requires  the absence of obvious rewards. 
+Conversion disorder (functional neurological symptom disorder). Conversion disorder
+is characterized by neurological symptoms that  are inconsistent with neurological patho-
+physiology. Factitious disorder with neurological symptoms is distinguished from con-
+version disorder by evidence of de ceptive falsification of symptoms. 
+Borderline personality disorder. Deliberate physical self-harm in the absence of suicidal
+intent can also occur in association with other mental disorders su ch as borderline person-
+ality disorder. Factitious disord er requires that the induction of injury occur in association
+with deception. 
+Medical condition or mental disorder not associated with intentional symptom falsifi-
+cation. Presentation of signs and sy mptoms of illness that do not conform to an identi-
+fiable medical condition or mental disorder increases the likelihood of the presence of a
+factitious disorder. However, the diagnosis of factitious disorder does not exclude the
+presence of true medical cond ition or mental disorder, as comorbid illness often occurs in
+the individual along with factitious disord er. For example, individuals who might manip-
+ulate blood sugar levels to produce symptoms may also have diabetes.
+Other Specified Somatic Symptom and Related Disorder 327
+Other Specified Somatic Symptom and
+Related Disorder
+300.89 (F45.8)
+This category applies to presentations in which symptoms characteristic of a somatic
+symptom and related disorder that cause clinically significant distress or impairment in so-
+cial, occupational, or other important areas of functioning predominate but do not meet the
+full criteria for any of the disorders in the somatic symptom and related disorders diagnos-
+tic class.
+Examples of presentations that can be specified using the “other specified” designation
+include the following:
+1.Brief somatic symptom disorder:  Duration of symptoms is less than 6 months.
+2.Brief illness anxiety disorder:  Duration of symptoms is less than 6 months.
+3.Illness anxiety disorder without excessive health-related behaviors:  Criterion D
+for illness anxiety disorder is not met.
+4.Pseudocyesis:  A false belief of being pregnant that is associated with objective signs
+and reported symptoms of pregnancy.
+Unspecified Somatic Symptom and
+Related Disorder
+300.82 (F45.9)
+This category applies to presentations in which symptoms characteristic of a somatic
+symptom and related disorder that cause clinically significant distress or impairment in so-
+cial, occupational, or other important areas of functioning predominate but do not meet the
+full criteria for any of the disorders in the somatic symptom and related disorders diagnos-
+tic class. The unspecified somatic symptom and related disorder category should not be
+used unless there are decidedly unusual situations where there is insufficient information
+to make a more specific diagnosis.
+This page intentionally left blank 

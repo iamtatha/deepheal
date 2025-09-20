@@ -1,0 +1,55 @@
+Here are the diagnostic criteria for each disorder as presented in the text:
+
+---
+
+**Dissociative Identity Disorder**
+**Diagnostic Criteria 300.14 (F44.81)**
+
+A. Disruption of identity characterized by two or more distinct personality states, which may be described in some cultures as an experience of possession. The disruption in identity involves marked discontinuity in sense of self and sense of agency, accompanied by related alterations in affect, behavior, consciousness, memory, perception, cognition, and/or sensory-motor functioning. These signs and symptoms may be observed by others or reported by the individual.
+B. Recurrent gaps in the recall of everyday events, important personal information, and/ or traumatic events that are inconsistent with ordinary forgetting.
+C. The symptoms cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+D. The disturbance is not a normal part of a broadly accepted cultural or religious practice.
+    **Note:** In children, the symptoms are not better explained by imaginary playmates or other fantasy play.
+E. The symptoms are not attributable to the physiological effects of a substance (e.g., blackouts or chaotic behavior during alcohol intoxication) or another medical condition (e.g., complex partial seizures).
+
+---
+
+**Dissociative Amnesia**
+**Diagnostic Criteria 300.12 (F44.0)**
+
+A. An inability to recall important autobiographical information, usually of a traumatic or stressful nature, that is inconsistent with ordinary forgetting.
+    **Note:** Dissociative amnesia most often consists of localized or selective amnesia for a specific event or events; or generalized amnesia for identity and life history.
+B. The symptoms cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+C. The disturbance is not attributable to the physiological effects of a substance (e.g., alcohol or other drug of abuse, a medication) or a neurological or other medical condition (e.g., partial complex seizures, transient global amnesia, sequelae of a closed head injury/traumatic brain injury, other neurological condition).
+D. The disturbance is not better explained by dissociative identity disorder, posttraumatic stress disorder, acute stress disorder, somatic symptom disorder, or major or mild neurocognitive disorder.
+
+**Coding note:** The code for dissociative amnesia without dissociative fugue is 300.12 (F44.0). The code for dissociative amnesia with dissociative fugue is 300.13 (F44.1).
+**Specify if:**
+**300.13 (F44.1) With dissociative fugue:** Apparently purposeful travel or bewildered wandering that is associated with amnesia for identity or for other important autobiographical information.
+
+---
+
+**Depersonalization/Derealization Disorder**
+**Diagnostic Criteria 300.6 (F48.1)**
+
+A. The presence of persistent or recurrent experiences of depersonalization, derealization, or both:
+    1. **Depersonalization:** Experiences of unreality, detachment, or being an outside observer with respect to one’s thoughts, feelings, sensations, body, or actions (e.g., perceptual alterations, distorted sense of time, unreal or absent self, emotional and/ or physical numbing).
+    2. **Derealization:** Experiences of unreality or detachment with respect to surroundings (e.g., individuals or objects are experienced as unreal, dreamlike, foggy, lifeless, or visually distorted).
+B. During the depersonalization or derealization experiences, reality testing remains intact.
+C. The symptoms cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+D. The disturbance is not attributable to the physiological effects of a substance (e.g., a drug of abuse, medication) or another medical condition (e.g., seizures).
+E. The disturbance is not better explained by another mental disorder, such as schizophrenia, panic disorder, major depressive disorder, acute stress disorder, posttraumatic stress disorder, or another dissociative disorder.
+
+---
+
+**Other Specified Dissociative Disorder**
+**300.15 (F44.89)**
+
+This category applies to presentations in which symptoms characteristic of a dissociative disorder that cause clinically significant distress or impairment in social, occupational, or other important areas of functioning predominate but do not meet the full criteria for any of the disorders in the dissociative disorders diagnostic class. The other specified dissociative disorder category is used in situations in which the clinician chooses to communicate the specific reason that the presentation does not meet the criteria for any specific dissociative disorder. This is done by recording “other specified dissociative disorder” followed by the specific reason (e.g., “dissociative trance”).
+
+---
+
+**Unspecified Dissociative Disorder**
+**300.15 (F44.9)**
+
+This category applies to presentations in which symptoms characteristic of a dissociative disorder that cause clinically significant distress or impairment in social, occupational, or other important areas of functioning predominate but do not meet the full criteria for any of the disorders in the dissociative disorders diagnostic class. The unspecified dissociative disorder category is used in situations in which the clinician chooses not to specify the reason that the criteria are not met for a specific dissociative disorder, and includes presentations for which there is insufficient information to make a more specific diagnosis (e.g., in emergency room settings).

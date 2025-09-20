@@ -1,0 +1,34 @@
+[
+    {
+        "disorder": "Intellectual Disability (Intellectual Developmental Disorder)",
+        "criteria": "A. Deficits in intellectual functions, such as reasoning, problem solving, planning, abstract thinking, judgment, academic learning, and learning from experience, confirmed by both clinical assessment and individualized, standardized intelligence testing. B. Deficits in adaptive functioning that result in failure to meet developmental and socio-cultural standards for personal independence and social responsibility. C. Onset of intellectual and adaptive deficits during the developmental period."
+    },
+    {
+        "disorder": "Language Disorder",
+        "criteria": "A. Persistent difficulties in the acquisition and use of language across modalities due to deficits in comprehension or production that include the following: 1. Reduced vocabulary. 2. Limited sentence structure. 3. Impairments in discourse. B. Language abilities are substantially and quantifiably below those expected for age, resulting in functional limitations. C. Onset of symptoms is in the early developmental period. D. The difficulties are not attributable to hearing or other sensory impairment, motor dysfunction, or another medical or neurological condition."
+    },
+    {
+        "disorder": "Autism Spectrum Disorder",
+        "criteria": "A. Persistent deficits in social communication and social interaction across multiple contexts, as manifested by the following: 1. Deficits in social-emotional reciprocity. 2. Deficits in nonverbal communicative behaviors. 3. Deficits in developing, maintaining, and understanding relationships. B. Restricted, repetitive patterns of behavior, interests, or activities. C. Symptoms must be present in the early developmental period. D. Symptoms cause clinically significant impairment in social, occupational, or other important areas of functioning."
+    },
+    {
+        "disorder": "Attention-Deficit/Hyperactivity Disorder (ADHD)",
+        "criteria": "A. A persistent pattern of inattention and/or hyperactivity-impulsivity that interferes with functioning or development, characterized by: 1. Inattention: Six (or more) symptoms have persisted for at least 6 months. 2. Hyperactivity and impulsivity: Six (or more) symptoms have persisted for at least 6 months. B. Several symptoms were present prior to age 12 years. C. Several symptoms are present in two or more settings. D. There is clear evidence that the symptoms interfere with, or reduce the quality of, social, academic, or occupational functioning."
+    },
+    {
+        "disorder": "Specific Learning Disorder",
+        "criteria": "A. Difficulties learning and using academic skills, as indicated by the presence of at least one of the following symptoms that have persisted for at least 6 months: 1. Inaccurate or slow and effortful word reading. 2. Difficulty understanding the meaning of what is read. 3. Difficulties with spelling. 4. Difficulties with written expression. 5. Difficulties mastering number sense, number facts, or calculation. 6. Difficulties with mathematical reasoning. B. The affected academic skills are substantially and quantifiably below those expected for the individual’s chronological age. C. The learning difficulties begin during school-age years. D. The learning difficulties are not better accounted for by intellectual disabilities or other conditions."
+    },
+    {
+        "disorder": "Developmental Coordination Disorder",
+        "criteria": "A. The acquisition and execution of coordinated motor skills is substantially below that expected given the individual’s chronological age. B. The motor skills deficit significantly interferes with activities of daily living. C. Onset of symptoms is in the early developmental period. D. The motor skills deficits are not better explained by intellectual disability or visual impairment."
+    },
+    {
+        "disorder": "Stereotypic Movement Disorder",
+        "criteria": "A. Repetitive, seemingly driven, and apparently purposeless motor behavior. B. The repetitive motor behavior interferes with social, academic, or other activities and may result in self-injury. C. Onset is in the early developmental period. D. The repetitive motor behavior is not attributable to the physiological effects of a substance or another medical condition."
+    },
+    {
+        "disorder": "Tourette’s Disorder",
+        "criteria": "A. Both multiple motor and one or more vocal tics have been present at some time during the illness. B. The tics may wax and wane in frequency but have persisted for more than 1 year. C. Onset is before age 18 years. D. The disturbance is not attributable to the physiological effects of a substance or another medical condition."
+    }
+]

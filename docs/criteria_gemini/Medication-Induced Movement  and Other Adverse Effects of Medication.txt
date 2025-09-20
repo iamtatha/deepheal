@@ -1,0 +1,52 @@
+```json
+[
+  {
+    "disorder": "Neuroleptic-Induced Parkinsonism",
+    "criteria": "Parkinsonian tremor, muscular rigidity, akinesia (i.e., loss of movement or difficulty initiating movement), or bradykinesia (i.e., slowing movement) developing within a few weeks of starting or raising the dosage of a medication (e.g., a neuroleptic) or after reducing the dosage of a medication used to treat extrapyramidal symptoms."
+  },
+  {
+    "disorder": "Other Medication-Induced Parkinsonism",
+    "criteria": "Parkinsonian tremor, muscular rigidity, akinesia (i.e., loss of movement or difficulty initiating movement), or bradykinesia (i.e., slowing movement) developing within a few weeks of starting or raising the dosage of a medication (e.g., a neuroleptic) or after reducing the dosage of a medication used to treat extrapyramidal symptoms."
+  },
+  {
+    "disorder": "Neuroleptic Malignant Syndrome",
+    "criteria": "Patients have generally been exposed to a dopamine antagonist within 72 hours prior to symptom development. Key features include: Hyperthermia (>100.4°F or >38.0°C on at least two occasions, measured orally), associated with profuse diaphoresis; Generalized rigidity, described as “lead pipe” in its most severe form and usually unresponsive to antiparkinsonian agents; Creatine kinase elevation of at least four times the upper limit of normal; Changes in mental status, characterized by delirium or altered consciousness ranging from stupor to coma; Autonomic activation and instability—manifested by tachycardia (>25% above baseline), diaphoresis, blood pressure elevation (systolic or diastolic ≥25% above baseline) or fluctuation (≥20 mmHg diastolic change or ≥25 mmHg systolic change within 24 hours), urinary incontinence, and pallor; and Tachypnea (>50% above baseline). A workup, including laboratory investigation, to exclude other infectious, toxic, metabolic, and neuropsychiatric etiologies or complications is essential."
+  },
+  {
+    "disorder": "Medication-Induced Acute Dystonia",
+    "criteria": "Abnormal and prolonged contraction of the muscles of the eyes (oculogyric crisis), head, neck (torticollis or retrocollis), limbs, or trunk developing within a few days of starting or raising the dosage of a medication (such as a neuroleptic) or after reducing the dosage of a medication used to treat extrapyramidal symptoms."
+  },
+  {
+    "disorder": "Medication-Induced Acute Akathisia",
+    "criteria": "Subjective complaints of restlessness, often accompanied by observed excessive movements (e.g., fidgety movements of the legs, rocking from foot to foot, pacing, inability to sit or stand still), developing within a few weeks of starting or raising the dosage of a medication (such as a neuroleptic) or after reducing the dosage of a medication used to treat extrapyramidal symptoms."
+  },
+  {
+    "disorder": "Tardive Dyskinesia",
+    "criteria": "Involuntary athetoid or choreiform movements (lasting at least a few weeks) generally of the tongue, lower face and jaw, and extremities (but sometimes involving the pharyngeal, diaphragmatic, or trunk muscles) developing in association with the use of a neuroleptic medication for at least a few months. Symptoms may develop after a shorter period of medication use in older persons. In some patients, movements of this type may appear after discontinuation, or after change or reduction in dosage, of neuroleptic medications, in which case the condition is called neuroleptic withdrawal-emergent dyskinesia. Because withdrawal-emergent dyskinesia is usually time-limited, lasting less than 4–8 weeks, dyskinesia that persists beyond this window is considered to be tardive dyskinesia."
+  },
+  {
+    "disorder": "Tardive Dystonia",
+    "criteria": "Tardive syndrome involving other types of movement problems, such as dystonia, which are distinguished by their late emergence in the course of treatment and their potential persistence for months to years, even in the face of neuroleptic discontinuation or dosage reduction."
+  },
+  {
+    "disorder": "Tardive Akathisia",
+    "criteria": "Tardive syndrome involving other types of movement problems, such as akathisia, which are distinguished by their late emergence in the course of treatment and their potential persistence for months to years, even in the face of neuroleptic discontinuation or dosage reduction."
+  },
+  {
+    "disorder": "Medication-Induced Postural Tremor",
+    "criteria": "Fine tremor (usually in the range of 8–12 Hz) occurring during attempts to maintain a posture and developing in association with the use of medication (e.g., lithium, antidepressants, valproate). This tremor is very similar to the tremor seen with anxiety, caffeine, and other stimulants."
+  },
+  {
+    "disorder": "Other Medication-Induced Movement Disorder",
+    "criteria": "This category is for medication-induced movement disorders not captured by any of the specific disorders listed above. Examples include 1) presentations resembling neuroleptic malignant syndrome that are associated with medications other than neuroleptics and 2) other medication-induced tardive conditions."
+  },
+  {
+    "disorder": "Antidepressant Discontinuation Syndrome",
+    "criteria": "A set of symptoms that can occur after an abrupt cessation (or marked reduction in dose) of an antidepressant medication that was taken continuously for at least 1 month. Symptoms generally begin within 2–4 days and typically include specific sensory (e.g., flashes of lights, “electric shock” sensations), somatic (e.g., nausea, hyperresponsivity to noises or lights), and cognitive-emotional manifestations (e.g., nonspecific anxiety, feelings of dread). Symptoms are alleviated by restarting the same medication or starting a different medication that has a similar mechanism of action. To qualify, the symptoms should not have been present before the antidepressant dosage was reduced and are not better explained by another mental disorder (e.g., manic or hypomanic episode, substance intoxication, substance withdrawal, somatic symptom disorder). The antidepressant use prior to discontinuation must not have incurred hypomania or euphoria."
+  },
+  {
+    "disorder": "Other Adverse Effect of Medication",
+    "criteria": "This category is available for optional use by clinicians to code side effects of medication (other than movement symptoms) when these adverse effects become a main focus of clinical attention. Examples include severe hypotension, cardiac arrhythmias, and priapism."
+  }
+]
+```

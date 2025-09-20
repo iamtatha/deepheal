@@ -1,0 +1,1205 @@
+265Trauma- and
+ Stressor-Related Disorders
+Trauma- and stressor-related  disorders include disorders in which exposure to
+a traumatic or stressful event is listed explicitly  as a diagnostic criterion. These include reactive
+attachment disorder, disinhibit ed social engagement disorder , posttraumatic stress disor-
+der (PTSD), acute stress disorder, and adjustment disorders. Placement of this chapter reflects
+the close relationship between these diagnoses and disorders in the surrounding chapters on
+anxiety disorders, obsessive-c ompulsive and related disorder s, and dissociative disorders.
+Psychological distress following exposure to a traumatic or stressful event is quite vari-
+able. In some cases, symptoms  can be well understood with in an anxiety- or fear-based
+context. It is clear, however, that many in dividuals who have been exposed to a traumatic
+or stressful event exhibit a phenotype in which,  rather than anxiety- or fear-based symp-
+toms, the most prominent clin ical characteristics are anhedonic and dysphoric symptoms,
+externalizing angry and aggressive symptoms, or  dissociative symptoms. Because of these
+variable expressions of clinic al distress following exposure  to catastrophic or aversive
+events, the aforementioned di sorders have been grouped under a separate category:
+trauma- and stressor-related disorders. Furthermore, it is not uncommon for the clinical pic-
+ture to include some combination of the ab ove symptoms (with or without anxiety- or
+fear-based symptoms). Such a heterogeneous picture has long been recognized in adjust-
+ment disorders, as well. Social  neglect—that is, the absence of adequate caregiving during
+childhood—is a diagnostic requirement of both reactive attachment disorder and disin-
+hibited social engagement diso rder. Although the two disord ers share a common etiology,
+the former is expressed as an internalizing di sorder with depressive symptoms and with-
+drawn behavior, while the latter is marked by  disinhibition and externalizing behavior.
+Reactive Attachment Disorder
+Diagnostic Criteria 313.89 (F94.1)
+A. A consistent pattern of inhibited, emotionally withdrawn behavior toward adult caregiv-
+ers, manifested by both of the following:
+1. The child rarely or minimally seeks comfort when distressed.
+2. The child rarely or minimally responds to comfort when distressed.
+B. A persistent social and emotional disturbance c haracterized by at least two of the following:
+1. Minimal social and emotional responsiveness to others.
+2. Limited positive affect.
+3. Episodes of unexplained irritability, sadness, or fearfulness that are evident even
+during nonthreatening interactions with adult caregivers.
+C. The child has experienced a pattern of extremes of insufficient care as evidenced by
+at least one of the following:
+1. Social neglect or deprivation in the form of persistent lack of having basic emotional
+needs for comfort, stimulation, and affection met by caregiving adults.
+266 Trauma- and Stressor-Related Disorders
+2. Repeated changes of primary caregivers that limit opportunities to form stable at-
+tachments (e.g., frequent changes in foster care).
+3. Rearing in unusual settings that severely limit opportunities to form selective at-
+tachments (e.g., institutions with high child-to-caregiver ratios).
+D. The care in Criterion C is presumed to be responsible for the disturbed behavior in Cri-
+terion A (e.g., the disturbances in Criterion A began following the lack of adequate care
+in Criterion C).
+E. The criteria are not met for autism spectrum disorder.
+F. The disturbance is evident before age 5 years.
+G. The child has a developmental age of at least 9 months.
+Specify if:
+Persistent:  The disorder has been present for more than 12 months.
+Specify current severity: 
+Reactive attachment disorder is specified as severe  when a child exhibits all symp-
+toms of the disorder, with each symptom manifesting at relatively high levels.
+Diagnostic Features
+Reactive attachment disorder of infancy or early childhood is characterized by a pattern of
+markedly disturbed and develo pmentally inappropriate attachment behaviors, in which a
+child rarely or minimally turns preferentially to an attachment figure  for comfort, support,
+protection, and nurturance. The essential featur e is absent or grossly underdeveloped at-
+tachment between the child and putative caregiving adults. Children with reactive attach-
+ment disorder are believed to have the capa city to form selective attachments. However,
+because of limited opportunitie s during early development, they  fail to show the behavioral
+manifestations of select ive attachments. That is, when di stressed, they show no consistent
+effort to obtain comfort, support, nurturance, or protection from caregivers. Furthermore,
+when distressed, children with this disorder do not respond more than minimally to com-
+forting efforts of caregivers. Thus, the disord er is associated with th e absence of expected
+comfort seeking and response to comforting behaviors. As such, children with reactive
+attachment disorder show dimi nished or absent expression of positive emotions during
+routine interactions with caregivers. In addi tion, their emotion regulation capacity is com-
+promised, and they displa y episodes of negative emotions of fear, sadness, or irritability
+that are not readily explained. A diagnosis of reactive attachment disorder should not be
+made in children who are developmentally unab le to form se lective attachments. For this
+reason, the child must have a develo pmental age of at least 9 months.
+Associated Features Supporting Diagnosis
+Because of the shared etiologica l association with social negl ect, reactive attachment dis-
+order often co-occurs with developmental dela ys, especially in delays in cognition and
+language. Other associated features include stereotypies and other signs of severe neglect
+(e.g., malnutrition or signs of poor care). 
+Prevalence
+The prevalence of reactive atta chment disorder is unknown, bu t the disorder is seen rela-
+tively rarely in clinical settings. The disorder has been found in young children exposed to
+severe neglect before being placed in foster care or raised in  institutions. However, even in
+populations of seve rely neglected children, the disord er is uncommon, occurring in less
+than 10% of such children.
+Reactive Attachment Disorder 267
+Development and Course
+Conditions of social neglect are often present in the first months of life in children diag-
+nosed with reactive attachment disorder, even before the disorder is diagnosed. The clin-
+ical features of the disorder manifest in a similar fashion between the ages of 9 months and
+5 years. That is, signs of absent-to-minima l attachment behaviors and associated emotion-
+ally aberrant behaviors are evident in childre n throughout this age range, although differ-
+ing cognitive and motor abilities may affect how these behaviors ar e expressed. Without
+remediation and recovery through normative care giving environments, it appears that signs
+of the disorder may persist, at least for several years.
+It is unclear whether reactive attachment disorder occurs in older children and, if so, how
+it differs from its presentation in young ch ildren. Because of this, the diagnosis should be
+made with caution in children older than 5 years.
+Risk and Prognostic Factors 
+Environmental. Serious social neglect is a diagnost ic requirement for reactive attach-
+ment disorder and is also the only known risk factor for the disorder. However, the ma-
+jority of severely neglecte d children do not develop the disorder. Prognosis appears to
+depend on the quality of the caregiving  environment following serious neglect. 
+Culture-Related Diagnostic Issues
+Similar attachment behaviors have been described in young children in many different
+cultures around the world. Ho wever, caution should be exercised in making the diagnosis
+of reactive attachment disorder in cultures  in which attachment has not been studied.
+Functional Consequences of 
+Reactive Attachment Disorder
+Reactive attachment disorder significantly impairs young children’s abilities to relate in-
+terpersonally to adults or peer s and is associated with functional impairment across many
+domains of early childhood.
+Differential Diagnosis
+Autism spectrum disorder. Aberrant social behaviors mani fest in young children with
+reactive attachment disorder, but they also ar e key features of auti sm spectrum disorder.
+Specifically, young children with either co ndition can manifest dampened expression of
+positive emotions, cognitive and language delays, and impairments in social reciprocity.
+As a result, reactive attachment disorder must  be differentiated from  autism spectrum dis-
+order. These two disorders can be distinguished based on differential histories of neglect
+and on the presence of restricted interests or ritualized behaviors, specific deficit in social
+communication, and selective attachment beha viors. Children with reactive attachment
+disorder have experienced a history of severe so cial neglect, although it is not always pos-
+sible to obtain detailed historie s about the precise nature of th eir experiences, especially in
+initial evaluations. Children with autistic spec trum disorder will only rarely have a history
+of social neglect. The restricted interests an d repetitive behaviors ch aracteristic of autism
+spectrum disorder are not a feature of reactive attachment disorder. These clinical features
+manifest as excessive adherenc e to rituals and routines; restricted, fixated interests; and
+unusual sensory reactions. However, it is important to note that children with either con-
+dition can exhibit stereotypic behaviors such as rocking or flapping. Children with either
+disorder also may exhibit a range of intellectual functioning, but only children with autis-
+268 Trauma- and Stressor-Related Disorders
+tic spectrum disorder exhibit selective impa irments in social communicative behaviors,
+such as intentional communication (i.e., im pairment in communication that is deliberate,
+goal-directed, and aimed at influencing the be havior of the recipient). Children with reac-
+tive attachment disorder show social commu nicative functioning comparable to their
+overall level of intellectual functioning. Fina lly, children with autistic spectrum disorder
+regularly show attachment behavior typical for their develo pmental level. In contrast,
+children with reactive attachment disorder do so only rarely or inconsistently, if at all.
+Intellectual disability (intell ectual developmental disorder). Developmental delays of-
+ten accompany reactive attachment disorder, but they should not be confused with the
+disorder. Children with intellectual disability should exhibit social and emotional skills
+comparable to their cognitive skills and do  not demonstrate the profound reduction in
+positive affect and emotion regula tion difficulties evident in children with reactive attach-
+ment disorder. In addition, developmentall y delayed children who have reached a cogni-
+tive age of 7–9 months should demonstrate selective attachments regardless of their
+chronological age. In contrast , children with reactive attach ment disorder show lack of
+preferred attachment despite ha ving attained a developmental age of at least 9 months.
+Depressive disorders. Depression in young children is also associated with reductions
+in positive affect. There is limited evidence, ho wever, to suggest that  children with depres-
+sive disorders have impairments in attachment . That is, young children who have been di-
+agnosed with depressive disord ers still should seek and resp ond to comforting efforts by
+caregivers.
+Comorbidity
+Conditions associated with neglect, includin g cognitive delays, language delays, and ste-
+reotypies, often co-occur with reactive atta chment disorder. Medical conditions, such as
+severe malnutrition, may accompany signs of the disorder. Depressive symptoms also
+may co-occur with reactive attachment disorder. 
+Disinhibited Social Engagement Disorder
+Diagnostic Criteria 313.89 (F94.2)
+A. A pattern of behavior in which a child actively approaches and interacts with unfamiliar
+adults and exhibits at least two of the following:
+1. Reduced or absent reticence in approaching and interacting with unfamiliar adults.
+2. Overly familiar verbal or physical behavior (that is not consistent with culturally
+sanctioned and with age-appropriate social boundaries).
+3. Diminished or absent checking back with adult caregiver after venturing away, even
+in unfamiliar settings.
+4. Willingness to go off with an unfamiliar adult with minimal or no hesitation.
+B. The behaviors in Criterion A are not limited to impulsivity (as in attention-deficit/hyper-
+activity disorder) but include socially disinhibited behavior. 
+C. The child has experienced a pattern of extremes of insufficient care as evidenced by
+at least one of the following:
+1. Social neglect or deprivation in the form of persistent lack of having basic emotional
+needs for comfort, stimulation, and affection met by caregiving adults.
+2. Repeated changes of primary caregivers that limit opportunities to form stable at-
+tachments (e.g., frequent changes in foster care).
+3. Rearing in unusual settings that severely limit opportunities to form selective at-
+tachments (e.g., institutions with high child-to-caregiver ratios).
+Disinhibited Social Engagement Disorder 269
+D. The care in Criterion C is presumed to be responsible for the disturbed behavior in Cri-
+terion A (e.g., the disturbances in Criterion A began following the pathogenic care in
+Criterion C).
+E. The child has a developmental age of at least 9 months.
+Specify if:
+Persistent:  The disorder has been present for more than 12 months.
+Specify current severity:
+Disinhibited social engagement disorder is specified as severe  when the child exhibits
+all symptoms of the disorder, with each symptom manifesting at relatively high levels.
+Diagnostic Features
+The essential feature of disinhibited social en gagement disorder is a pattern of behavior
+that involves culturally inappropriate, overl y familiar behavior with relative strangers
+(Criterion A). This overly familiar behavior violat es the social boundaries of the culture. A
+diagnosis of disinhibited social engagement d isorder should not be made before children
+are developmentally able to form selective attachments. For this reason, the child must
+have a developmental age of at least 9 months.
+Associated Features Supporting Diagnosis
+Because of the shared etiological association with social neglect, disinhibited social en-
+gagement disorder may co-occu r with developmental delays, especially cognitive and lan-
+guage delays, stereotypies, and other signs of severe neglect, such as malnutrition or poor
+care. However, signs of the disorder often per sist even after these other signs of neglect are
+no longer present. Therefore, it is not uncomm on for children with the disorder to present
+with no current signs of neglect. Moreover , the condition can present in children who
+show no signs of disordered attachment. Th us, disinhibited social engagement disorder
+may be seen in children with a history of neglect who lack attach ments or whose attach-
+ments to their caregivers range from disturbed to secure. 
+Prevalence
+The prevalence of disinhibited social attachment disorder is unknown. Nevertheless, the
+disorder appears to be rare, occurring in a mi nority of children, even those who have been
+severely neglected and subsequently placed in fo ster care or raised in institutions. In such
+high-risk populations, the condition occurs in only about 20% of ch ildren. The condition is
+seen rarely in other clinical settings. 
+Development and Course
+Conditions of social neglect are often present in the first months of life in children diag-
+nosed with disinhibited social engagement di sorder, even before the disorder is diag-
+nosed. However, there is no evidence that ne glect beginning after age 2 years is associated
+with manifestations of the disorder. If ne glect occurs early and signs of the disorder
+appear, clinical features of the disorder are moderately stable over time, particularly if
+conditions of neglect pe rsist. Indiscriminate social behavior and lack of reticence with un-
+familiar adults in toddlerhood are accompan ied by attention-seeking behaviors in pre-
+schoolers. When the disorder persists into middle childhood, clinical features manifest as
+verbal and physical overfamiliarity as well as  inauthentic expression of emotions. These
+signs appear particularly apparent when the child interacts with adults. Peer relationships
+are most affected in adolescence, with both  indiscriminate behavior and conflicts appar-
+ent. The disorder has not been described in adults.
+270 Trauma- and Stressor-Related Disorders
+Disinhibited social engagement disorder ha s been described from  the second year of
+life through adolescence. There are some differences in manifestations of the disorder
+from early childhood through adolescence. At  the youngest ages, across many cultures,
+children show reticenc e when interacting with strangers. Young children with the disorder
+fail to show reticence to approach, engage with, and even accompany adults. In preschool
+children, verbal and social intrusiveness appear most prominent, often accompanied by
+attention-seeking behavior. Ve rbal and physical overfamiliarity continue through middle
+childhood, accomp anied by inauthentic expressions of  emotion. In adolescence, indis-
+criminate behavior extends to peers. Relative to healthy adolescents, adolescents with the
+disorder have more “superficial” peer relationships and more peer conflicts. Adult man-
+ifestations of the disorder are unknown.
+Risk and Prognostic Factors 
+Environmental. Serious social neglect is a diagnost ic requirement for disinhibited social
+engagement disorder and is also the only know n risk factor for the disorder. However, the
+majority of severely neglected children do not develop the disorder . Neurobiological vul-
+nerability may differentiate neglected childr en who do and do not develop the disorder.
+However, no clear link with any specific neur obiological factors has been established. The
+disorder has not been identified in children who experience social neglect only after age
+2 years. Prognosis is only mode stly associated with quality of the caregiving environment
+following serious neglect. In many cases, th e disorder persists, even in children whose
+caregiving environment be comes markedly improved.
+Course modifiers. Caregiving quality seems to moderate the course of disinhibited so-
+cial engagement disorder. Nevertheless, ev en after placement in normative caregiving
+environments, some children show persistent signs of the disorder, at least through ado-
+lescence. 
+Functional Consequences of 
+Disinhibited Social Engagement Disorder
+Disinhibited social engagement disorder significantly impairs young children’s abilities to
+relate interpersonally to adults and peers.
+Differential Diagnosis
+Attention-deficit/hyperactivity disorder. Because of social impulsivity that sometimes
+accompanies attention-deficit/hyperactivity di sorder (ADHD), it is necessary to differ-
+entiate the two disorders. Children with disi nhibited social engagement disorder may be
+distinguished from those with ADHD because th e former do not show difficulties with at-
+tention or hyperactivity. 
+Comorbidity
+Limited research has examined the issue of disorders comorbid with disinhibited social
+engagement disorder. Conditions associated with neglect, including cognitive delays,
+language delays, and stereotypies, may co-occu r with disinhibited social engagement dis-
+order. In addition, children may be diagnosed with ADHD and disinhibited social engage-
+ment disorder concurrently. 
+Posttraumatic Stress Disorder 271
+Posttraumatic Stress Disorder
+Diagnostic Criteria 309.81 (F43.10)
+Posttraumatic Stress Disorder 
+Note:  The following criteria apply to adults, adolescents, and children older than 6 years.
+For children 6 years and younger, see corresponding criteria below.
+A. Exposure to actual or threatened death, serious injury, or sexual violence in one (or
+more) of the following ways:
+1. Directly experiencing the traumatic event(s).
+2. Witnessing, in person, the event(s) as it occurred to others.
+3. Learning that the traumatic event(s) occurre d to a close family member or close
+friend. In cases of actual or threatened death of a family member or friend, the
+event(s) must have been violent or accidental.
+4. Experiencing repeated or extreme exposure to aversive details of the traumatic
+event(s) (e.g., first responders collecting human remains; police officers repeatedly
+exposed to details of child abuse).
+Note:  Criterion A4 does not apply to exposur e through electronic media, television,
+movies, or pictures, unless this exposure is work related.
+B. Presence of one (or more) of the following intrusion symptoms associated with the
+traumatic event(s), beginning after the traumatic event(s) occurred:
+1. Recurrent, involuntary, and intrusive dist ressing memories of the traumatic event(s).
+Note:  In children older than 6 years, repetitive play may occur in which themes or
+aspects of the traumatic event(s) are expressed.
+2. Recurrent distressing dreams in which the content and/or affect of the dream are
+related to the traumatic event(s).
+Note:  In children, there may be frightening dreams without recognizable content.
+3. Dissociative reactions (e.g., flashbacks) in which the individual feels or acts as if
+the traumatic event(s) were recurring. (Such reactions may occur on a continuum,
+with the most extreme expression being a complete loss of awareness of present
+surroundings.)
+Note:  In children, trauma-specific reenactment may occur in play.
+4. Intense or prolonged psychological distress at exposure to internal or external cues
+that symbolize or resemble an aspect of the traumatic event(s).
+5. Marked physiological reactions to internal or external cues that symbolize or re-
+semble an aspect of the traumatic event(s).
+C. Persistent avoidance of stimuli associated with the traumatic event(s), beginning after
+the traumatic event(s) occurred, as evidenced by one or both of the following:
+1. Avoidance of or efforts to avoid distressing memories, thoughts, or feelings about
+or closely associated with the traumatic event(s).
+2. Avoidance of or efforts to avoid external reminders (people, places, conversations,
+activities, objects, situations) that arouse distressing memories, thoughts, or feel-
+ings about or closely associated with the traumatic event(s).
+D. Negative alterations in cognitions and mood associated with the traumatic event(s),
+beginning or worsening after the traumatic event(s) occurred, as evidenced by two (or
+more) of the following:
+1. Inability to remember an important aspect of the trauma tic event(s) (typically due to dis-
+sociative amnesia and not to other factors such as head injury, alcohol, or drugs).
+272 Trauma- and Stressor-Related Disorders
+2. Persistent and exaggerated negative beliefs or expectations about oneself, others,
+or the world (e.g., “I am bad,” “No one can be trusted,” “The world is completely
+dangerous,” “My whole nervous system is permanently ruined”).
+3. Persistent, distorted cognitions about the cause or consequences of the traumatic
+event(s) that lead the individual to blame himself/herself or others.
+4. Persistent negative emotional state (e.g., fear, horror, anger, guilt, or shame).
+5. Markedly diminished interest or participation in significant activities.
+6. Feelings of detachment or estrangement from others.
+7. Persistent inability to experience positive emotions (e.g., inability to experience
+happiness, satisfaction, or loving feelings).
+E. Marked alterations in arousal and reactivity associated with the traumatic event(s), be-
+ginning or worsening after the traumatic event(s) occurred, as evidenced by two (or
+more) of the following:
+1. Irritable behavior and angry outbursts (with little or no provocation) typically ex-
+pressed as verbal or physical aggression toward people or objects.
+2. Reckless or self-destructive behavior.
+3. Hypervigilance.
+4. Exaggerated startle response.
+5. Problems with concentration.
+6. Sleep disturbance (e.g., difficulty falling or staying asleep or restless sleep).
+F. Duration of the disturbance (Criteria B, C, D, and E) is more than 1 month.
+G. The disturbance causes clinically significant distress or impairment in social, occupa-
+tional, or other important areas of functioning.
+H. The disturbance is not attributable to the physiological effects of a substance (e.g.,
+medication, alcohol) or another medical condition.
+Specify whether:
+With dissociative symptoms:  The individual’s symptoms meet the criteria for post-
+traumatic stress disorder, and in addition, in response to the stressor, the individual ex-
+periences persistent or recurrent symptoms of either of the following:
+1.Depersonalization:  Persistent or recurrent experiences of feeling detached from,
+and as if one were an outside observer of, one’s mental processes or body (e.g.,
+feeling as though one were in a dream; feeling a sense of unreality of self or body
+or of time moving slowly).
+2.Derealization:  Persistent or recurrent experiences of unreality of surroundings
+(e.g., the world around the individual is experienced as unreal, dreamlike, distant,
+or distorted).
+Note:  To use this subtype, the dissociative symptoms must not be attributable to the
+physiological effects of a substance (e.g., blackouts, behavior during alcohol intoxica-
+tion) or another medical condition (e.g., complex partial seizures).
+Specify if:
+With delayed expression:  If the full diagnostic criteria are not met until at least 6 months
+after the event (although the onset and expression of some symptoms may be immediate).
+Posttraumatic Stress Disorder for Children 6 Years and Younger
+A. In children 6 years and younger, exposure to actual or threatened death, serious injury,
+or sexual violence in one (or more) of the following ways:
+1. Directly experiencing the traumatic event(s).
+2. Witnessing, in person, the event(s) as it occurred to others, especially primary care-
+givers.
+Posttraumatic Stress Disorder 273
+Note:  Witnessing does not include events that are witnessed only in electronic me-
+dia, television, movies, or pictures.
+3. Learning that the traumatic event(s) o ccurred to a parent or caregiving figure.
+B. Presence of one (or more) of the following intrusion symptoms associated with the
+traumatic event(s), beginning after the traumatic event(s) occurred:
+1. Recurrent, involuntary, and intrusive distressing memories of the traumatic
+event(s).
+Note:  Spontaneous and intrusive memories may not necessarily appear distress-
+ing and may be expressed as play reenactment.
+2. Recurrent distressing dreams in which the content and/or affect of the dream are
+related to the traumatic event(s).
+Note:  It may not be possible to ascertain that the frightening content is related to
+the traumatic event.
+3. Dissociative reactions (e.g., flashbacks) in which the child feels or acts as if the
+traumatic event(s) were recurring. (Such reactions may occur on a continuum, with
+the most extreme expression being a complete loss of awareness of present sur-
+roundings.) Such trauma-specific reenactment may occur in play.
+4. Intense or prolonged psychological distress at exposure to internal or external cues
+that symbolize or resemble an aspect of the traumatic event(s).
+5. Marked physiological reactions to reminders of the traumatic event(s).
+C. One (or more) of the following symptoms, representing either persistent avoidance of
+stimuli associated with the traumatic event(s) or negative alterations in cognitions and
+mood associated with the traumatic event(s), must be present, beginning after the
+event(s) or worsening after the event(s):
+Persistent Avoidance of Stimuli
+1. Avoidance of or efforts to avoid activities, places, or physical reminders that arouse
+recollections of the traumatic event(s).
+2. Avoidance of or efforts to avoid people, conversations, or interpersonal situations
+that arouse recollections of the traumatic event(s).
+Negative Alterations in Cognitions
+3. Substantially increased frequency of negative emotional states (e.g., fear, guilt,
+sadness, shame, confusion).
+4. Markedly diminished interest or participation in significant activities, including con-
+striction of play.
+5. Socially withdrawn behavior.
+6. Persistent reduction in expression of positive emotions.
+D. Alterations in arousal and reactivity associated with the traumatic event(s), beginning
+or worsening after the traumatic event(s) occurred, as evidenced by two (or more) of
+the following:
+1. Irritable behavior and angry outbursts (with little or no provocation) typically ex-
+pressed as verbal or physical aggression toward people or objects (including ex-
+treme temper tantrums).
+2. Hypervigilance.
+3. Exaggerated startle response.
+4. Problems with concentration.
+5. Sleep disturbance (e.g., difficulty falling or staying asleep or restless sleep).
+E. The duration of the disturbance is more than 1 month.
+274 Trauma- and Stressor-Related Disorders
+F. The disturbance causes clinically significant distress or impairment in relationships
+with parents, siblings, peers, or other caregivers or with school behavior.
+G. The disturbance is not attributable to the physiological effects of a substance (e.g.,
+medication or alcohol) or another medical condition.
+Specify whether:
+With dissociative symptoms:  The individual’s symptoms meet the criteria for post-
+traumatic stress disorder, and the individual experiences persistent or recurrent symp-
+toms of either of the following:
+1.Depersonalization:  Persistent or recurrent experiences of feeling detached from,
+and as if one were an outside observer of, one’s mental processes or body (e.g.,
+feeling as though one were in a dream; feeling a sense of unreality of self or body
+or of time moving slowly).
+2.Derealization:  Persistent or recurrent experiences of unreality of surroundings
+(e.g., the world around the individual is experienced as unreal, dreamlike, distant,
+or distorted).
+Note:  To use this subtype, the dissociative symptoms must not be attributable to the
+physiological effects of a substance (e.g., blackouts) or another medical condition
+(e.g., complex partial seizures).
+Specify if:
+With delayed expression: If the full diagnostic criteria are not met until at least
+6 months after the event (although the onset and expression of some symptoms may
+be immediate).
+Diagnostic Features
+The essential feature of posttraumatic stress disorder (PTSD) is the development of char-
+acteristic symptoms following exposure to one or more tr aumatic events. Emotional re-
+actions to the traumatic event (e.g., fear, he lplessness, horror) are no longer a part of
+Criterion A. The clinical presentation of PTSD  varies. In some individuals, fear-based re-
+experiencing, emotional, and behavioral sy mptoms may predominate. In others, anhe-
+donic or dysphoric mood states and negative cognitions may be most distressing. In some
+other individuals, arousal an d reactive-externalizing symptoms are prominent, while in
+others, dissociative symptoms predominate. Finally, some individuals exhibit combina-
+tions of these symptom patterns. 
+The directly experienced traumatic events in  Criterion A include, but are not limited
+to, exposure to war as a combatant or civilian,  threatened or actual physical assault (e.g.,
+physical attack, robbery, mugging, childhood phy sical abuse), threatened or actual sexual
+violence (e.g., forced sexual penetration, al cohol/drug-facilitated se xual penetration, abu-
+sive sexual contact, noncontact sexual abuse,  sexual trafficking), being kidnapped, being
+taken hostage, terrorist attack, torture, incarc eration as a prisoner of war, natural or hu-
+man-made disasters, and severe motor vehicle accidents. For children, sexually violent
+events may include developmentally inapprop riate sexual experiences without physical
+violence or injury. A life-threatening illness or debilitating medical condition is not neces-
+sarily considered a traumatic event. Medical in cidents that qualify as traumatic events in-
+volve sudden, catastrophic ev ents (e.g., waking during su rgery, anaphylactic shock).
+Witnessed events include, but are not limited to, observing threatened  or serious injury,
+unnatural death, physical or sexual abuse of another person due to violent assault, domes-
+tic violence, accident, war or di saster, or a medical catastrophe  in one’s child (e.g., a life-
+threatening hemorrhage). Indirect exposure th rough learning about an event is limited to
+experiences affecting close relatives or friend s and experiences that are violent or acciden-
+tal (e.g., death due to natural causes does no t qualify). Such events include violent per-
+Posttraumatic Stress Disorder 275
+sonal assault, suicide, serious accident, and se rious injury. The disorder may be especially
+severe or long-lasting when the stressor is interpersonal and intentiona l (e.g., torture, sex-
+ual violence). 
+The traumatic event can be reexperienced in various ways. Commonly, the individual
+has recurrent, involuntary, and intrusive recollect ions of the event (Criterion B1). Intrusive
+recollections in PTSD are distinguished from depressive rumination in that they apply
+only to involuntary and intrusive distressing memories. The emphasis is on recurrent
+memories of the event that us ually include sensory, emotiona l, or physiological behavioral
+components. A common reexperiencing symptom is distressing dreams that replay the
+event itself or that are representative or th ematically related to th e major threats involved
+in the traumatic event (Criterion B2). The in dividual may experience dissociative states
+that last from a few seconds to several hours or even days , during which components of
+the event are relived and the individual behaves as if the event were occurring at that mo-
+ment (Criterion B3). Such events occur on a continuum from brief vi sual or other sensory
+intrusions about part of the traumatic event wi thout loss of reality or ientation, to complete
+loss of awareness of present surroundings. These episodes, often re ferred to as “flash-
+backs,” are typically brief but can be associ ated with prolonged distress and heightened
+arousal. For young children, reenactment of events related to trauma may appear in play
+or in dissociative states. Intense psychological distress (Criterion B4) or physiological re-
+activity (Criterion B5) often occurs when the individual is exposed to triggering events that
+resemble or symbolize an aspect of the trauma tic event (e.g., windy days after a hurricane;
+seeing someone who resembles one’s perpetrator). The trigge ring cue could be a physical
+sensation (e.g., dizziness for survivors of head trauma; rapid heartbeat for a previously
+traumatized child), particularly for indivi duals with highly somatic presentations.
+Stimuli associated with the trauma are pers istently (e.g., always or almost always)
+avoided. The individual commonly makes delib erate efforts to avoid thoughts, memories,
+feelings, or talking about the traumatic event (e .g., utilizing distraction techniques to avoid
+internal reminders) (Criterion C1) and to av oid activities, objects, situations, or people
+who arouse recollections of it (Criterion C2).
+Negative alterations in cognitions or mood associated with the event begin or worsen
+after exposure to the event. These negative al terations can take various forms, including an
+inability to remember an important aspect of the traumatic event; such amnesia is typically
+due to dissociative amnesia and is not due to he ad injury, alcohol, or drugs (Criterion D1).
+Another form is persistent (i.e., always or almost always) and exaggerated negative ex-
+pectations regarding important aspects of life a pplied to oneself, others, or the future (e.g.,
+“I have always had bad judgment”; “People in  authority can’t be trusted”) that may man-
+ifest as a negative change in perceived identi ty since the trauma (e.g., “I can’t trust anyone
+ever again”; Criterion D2). Individuals with PTSD may have persistent erroneous cogni-
+tions about the causes of the traumatic event that lead them to blame themselves or others
+(e.g., “It’s all my fault that my uncle abused me”) (Criterion D3). A persistent negative
+mood state (e.g., fear, horror, anger, guilt, shame) either began or worsened after exposure
+to the event (Criterion D4). The individual may experience markedly diminished interest
+or participation in previously enjoyed activities (C riterion D5), feeling detached or es-
+tranged from other people (Criterion D6), or a persiste nt inability to feel positive emotions
+(especially happiness, joy, satisfaction, or em otions associated with intimacy, tenderness,
+and sexuality) (Criterion D7).
+Individuals with PTSD may be quick temp ered and may even engage in aggressive
+verbal and/or physical behavior with little or  no provocation (e.g., yelling at people, get-
+ting into fights, destroying objects) (Criterion E1). They may also engage in reckless or self-
+destructive behavior such as dangerous drivin g, excessive alcohol or drug use, or self-
+injurious or suicidal behavior (Criterion E2).   PTSD is often characterized by a heightened
+sensitivity to potential threats,  including t hose that are related to the traumatic experience
+(e.g., following a motor vehicle accident, being especially sensitive to the threat potentially
+276 Trauma- and Stressor-Related Disorders
+caused by cars or trucks) and those not relate d to the traumatic event (e.g., being fearful of
+suffering a heart attack) (Criterion E3). Individuals with PTSD may be very reactive to un-
+expected stimuli, displaying a heightened startle response, or jumpiness, to loud noises or
+unexpected movements (e.g., jumping markedly in response to a telephone ringing) (Cri-
+terion E4). Concentration difficulties, includ ing difficulty remembering daily events (e.g.,
+forgetting one’s telephone numb er) or attending to focused t asks (e.g., following a conver-
+sation for a sustained period of time), are commonly reported (Criterion E5). Problems
+with sleep onset and maintenance are commo n and may be associated with nightmares
+and safety concerns or with generalized elevated  arousal that interferes with adequate sleep
+(Criterion E6). Some in dividuals also experien ce persistent dissociative symptoms of de-
+tachment from their bodies (depersonalization) or the world around them (derealization);
+this is reflected in the “with di ssociative symptoms” specifier.
+Associated Features Supporting Diagnosis
+Developmental regression, such as loss of la nguage in young children, may occur. Audi-
+tory pseudo-hallucinations, such as having  the sensory experience of hearing one’s
+thoughts spoken in one or more different voic es, as well as paranoid ideation, can be pres-
+ent. Following prolonged, repeated, and seve re traumatic events (e.g., childhood abuse,
+torture), the individual may additionally experi ence difficulties in regulating emotions or
+maintaining stable interpersonal relationship s, or dissociative symptoms. When the trau-
+matic event produces violent death, symptoms of both problematic bereavement and PTSD
+may be present. 
+Prevalence
+In the United States, projected lifetime risk for PTSD using DS M-IV criteria at age 75 years
+is 8.7%. Twelve-month prevalence among U.S. adults is about 3.5%. Lower estimates are
+seen in Europe and most Asian, African, an d Latin American countries, clustering around
+0.5%–1.0%. Although different groups have di fferent levels of exposure to traumatic
+events, the conditional probability of developi ng PTSD following a similar level of expo-
+sure may also vary across cultural groups. Rates of PTSD are higher among veterans and
+others whose vocation increases the risk of tr aumatic exposure (e.g., police, firefighters,
+emergency medical personnel). Highest rates (r anging from one-third to more than one-
+half of those exposed) are found among surv ivors of rape, military combat and captivity,
+and ethnically or politically motivated intern ment and genocide. The prevalence of PTSD
+may vary across development; children and adolescents, including preschool children,
+generally have displayed lower prevalence following exposure to serious traumatic
+events; however, this may be because previo us criteria were insufficiently developmen-
+tally informed. The prevalence of full-thresh old PTSD also appears to be lower among
+older adults compared with the general popu lation; there is eviden ce that subthreshold
+presentations are more common th an full PTSD in later life and that these symptoms are
+associated with substantial clinical impairme nt. Compared with U.S. non-Latino whites,
+higher rates of PTSD have been reported among U.S. Latinos, African Americans, and
+American Indians, and lower rates have been reported among Asian Americans, after ad-
+justment for traumatic exposu re and demographic variables.
+Development and Course
+PTSD can occur at any age, beginning after th e first year of life. Symptoms usually begin
+within the first 3 months after the trauma, although there may be a delay of months, or
+even years, before criteria for the diagnosis  are met. There is abundant evidence for what
+DSM-IV called “delayed onset” but is now call ed “delayed expression,” with the recogni-
+tion that some symptoms typically appear immediately and that the delay is in meeting
+full criteria.
+Posttraumatic Stress Disorder 277
+Frequently, an individual’s reaction to a tr auma initially meets cr iteria for acute stress
+disorder in the immediate aftermath of the trauma. The symptoms of PTSD and the rela-
+tive predominance of different symptoms may vary over time. Duration of the symptoms
+also varies, with complete recovery within 3 months occurring in approximately one-half
+of adults, while some individuals remain symptomatic for longer  than 12 months and
+sometimes for more than 50 years. Symptom recurrence and intens ification may occur in
+response to reminders of the original trauma, ongoing life stressors, or newly experienced
+traumatic events. For older individuals, dec lining health, worsening cognitive function-
+ing, and social isolation ma y exacerbate PTSD symptoms.
+The clinical expression of reexperiencing can vary across development. Young children
+may report new onset of frightening dreams wi thout content specific to the traumatic event.
+Before age 6 years (see criteria for preschool su btype), young children are more likely to ex-
+press reexperiencing symptoms through play th at refers directly or symbolically to the
+trauma. They may not manifest fe arful reactions at the time of the exposure or during reex-
+periencing. Parents may report a wide range of  emotional or behavioral changes in young
+children. Children may focus on imagined interventions in their play or storytelling. In ad-
+dition to avoidance, children  may become preoccupied with reminders. Because of young
+children’s limitations in expressing thoughts or labeling emotions, negative alterations in
+mood or cognition tend to involve primarily mood changes. Children may experience co-
+occurring traumas (e.g., physical abuse, witnes sing domestic violence) and in chronic cir-
+cumstances may not be able to identify onset of symptomatology. Avoidant behavior may
+be associated with restricted play or explor atory behavior in youn g children; reduced par-
+ticipation in new activities in school-age children; or reluctance to pursue developmental op-
+portunities in adolescents (e.g ., dating, driving). Older children and adolescents may judge
+themselves as cowardly. Adolescents may harb or beliefs of being changed in ways that
+make them socially undesirable and estrange them from peers (e.g., “Now I’ll never fit in”)
+and lose aspirations for the future. Irritable or aggressive behavior in children and adoles-
+cents can interfere with peer relationships and sch ool behavior. Reckless behavior may lead
+to accidental injury to self or  others, thrill-seeking, or high-risk behaviors. Individuals who
+continue to experience PTSD into older ad ulthood may express fe wer symptoms of hy-
+perarousal, avoidance, and ne gative cognitions and mood compared with younger adults
+with PTSD, although adults ex posed to traumatic events duri ng later life may display more
+avoidance, hyperarousal, sleep problems, and crying spells than do younger adults exposed
+to the same traumatic events. In older individu als, the disorder is associated with negative
+health perceptions, primary care ut ilization, and suicidal ideation.
+Risk and Prognostic Factors
+Risk (and protective) factors are generally divided into pretraumatic , peritraumatic, and
+posttraumatic factors. 
+Pretraumatic factors
+Temperamental. These include childhood emotional prob lems by age 6 years (e.g., prior
+traumatic exposure, externalizing or anxiety problems) and prior me ntal disorders (e.g.,
+panic disorder, depressive disorder, PTSD, or obsessive-compulsive disorder [OCD]).
+Environmental. These include lower socioeconomic st atus; lower education; exposure to
+prior trauma (especially during  childhood); childhood adversity (e.g., economic depriva-
+tion, family dysfunction, parental separation or  death); cultural charac teristics (e.g., fatal-
+istic or self-blaming coping strategies); lower intelligence; minority racial/ethnic status;
+and a family psychiatric history. Social suppo rt prior to event exposure is protective.
+Genetic and physiological. These include female gender and younger age at the time of
+trauma exposure (for adults). Certain genotypes may either be  protective or increase risk
+of PTSD after exposure  to traumatic events. 
+278 Trauma- and Stressor-Related Disorders
+Peritraumatic factors
+Environmental. These include severity (dose) of th e trauma (the greater the magnitude
+of trauma, the greater the likelihood of PTSD), perceived life threat, personal injury, in-
+terpersonal violence (particularly trauma pe rpetrated by a caregiver or involving a wit-
+nessed threat to a caregiver in children), and,  for military personnel, being a perpetrator,
+witnessing atrocities, or killing the enemy. Fina lly, dissociation that occurs during the trauma
+and persists afterward is a risk factor.
+Posttraumatic factors
+Temperamental. These include negative appraisals, inappropriate coping strategies,
+and development of ac ute stress disorder.
+Environmental. These include subsequent exposure to repeated upsetting reminders, subse-
+quent adverse life events, and financial or other trauma-related losses. Social support (includ-
+ing family stability, for children) is a protecti ve factor that moderate s outcome after trauma. 
+Culture-Related Diagnostic Issues
+The risk of onset and severity of PTSD may differ  across cultural groups as a result of vari-
+ation in the type of traumatic exposure (e.g., genocide), the impact on disorder severity of
+the meaning attributed to the tr aumatic event (e.g., inability to  perform funerary rites after
+a mass killing), the ongoing so ciocultural context (e.g., re siding among unpunished per-
+petrators in postconflict settings), and other cultural factors (e.g., acculturative stress in
+immigrants). The relative risk for PTSD of particular exposures (e .g., religious persecu-
+tion) may vary across cultural groups. The clin ical expression of the symptoms or symp-
+tom clusters of PTSD may vary culturally, particularly with respect to avoidance and
+numbing symptoms, distressing dreams, and somatic symptoms (e.g., dizziness, short-
+ness of breath, heat sensations).
+Cultural syndromes and idioms of distress influence the expression of PTSD and the
+range of comorbid disorders in  different cultures by providi ng behavioral and cognitive
+templates that link traumatic exposures to specific symptoms. For example, panic attack
+symptoms may be salient in PTSD among Cambodians and Latin Americans because of
+the association of traumatic exposure with panic-like khyâl attacks and ataque de nervios.
+Comprehensive evaluation of local expression s of PTSD should include assessment of cul-
+tural concepts of distress (see the chapter “Cultural Formulation” in Section III).
+Gender-Related Diagnostic Issues
+PTSD is more prevalent among females than among males across the lifespan. Females in
+the general population experience PTSD for a longer duration than do males. At least some
+of the increased risk for PTSD in females appe ars to be attributable  to a greater likelihood
+of exposure to traumatic events, such as rape, and other forms of interpersonal violence.
+Within populations exposed specifically to such  stressors, gender differences in risk for
+PTSD are attenuated or nonsignificant.
+Suicide Risk
+Traumatic events such as childhood abuse increa se a person’s suicide risk. PTSD is associated
+with suicidal ideation and suicide attempts, an d presence of the disorder may indicate which
+individuals with ideation even tually make a suicide plan or actually attempt suicide.
+Functional Consequences of 
+Posttraumatic Stress Disorder
+PTSD is associated with high levels of social , occupational, and physical disability, as well
+as considerable economic costs and high leve ls of medical utilization. Impaired function-
+Posttraumatic Stress Disorder 279
+ing is exhibited across social, interpersonal, develo pmental, educational, physical health,
+and occupational domains. In community and veteran samples, PTSD is associated with
+poor social and family relationships, absent eeism from work, lower income, and lower ed-
+ucational and occupational success.
+Differential Diagnosis
+Adjustment disorders. In adjustment disorders, the st ressor can be of any severity or
+type rather than that required by PTSD Crit erion A. The diagnosis of an adjustment dis-
+order is used when the response to a stressor that meets PTSD Criterion A does not meet
+all other PTSD criteria (or criteria for another mental disorder). An adjustment disorder is
+also diagnosed when the symptom pattern of PTSD occurs in response to a stressor that
+does not meet PTSD Criterion A (e .g., spouse leaving, being fired).
+Other posttraumatic diso rders and conditions. Not all psychopathology that occurs in
+individuals exposed to an extreme stressor sh ould necessarily be attributed to PTSD. The
+diagnosis requires that trauma exposure prec ede the onset or exacer bation of pertinent
+symptoms. Moreover, if the symptom response pattern to the extreme stressor meets cri-
+teria for another mental disorder, these diagnoses should be given instead of, or in addi-
+tion to, PTSD. Other diagnoses and conditions are excluded if they are better explained by
+PTSD (e.g., symptoms of panic disorder that  occur only after exposure to traumatic re-
+minders). If severe, symptom response patter ns to the extreme stressor may warrant a sep-
+arate diagnosis (e.g., dissociative amnesia). 
+Acute stress disorder. Acute stress disorder is distin guished from PTSD because the
+symptom pattern in acute stress disorder is restricted to a duration of 3 days to 1 month
+following exposure to  the traumatic event.
+Anxiety disorders and obsessive-compulsive disorder. In OCD, there are recurrent
+intrusive thoughts, but these meet the definition  of an obsession. In addition, the intrusive
+thoughts are not related to an experienced traumatic event, compulsions are usually pres-
+ent, and other symptoms of PTSD or acute stre ss disorder are typically absent. Neither the
+arousal and dissociative symptoms of panic di sorder nor the avoidance, irritability, and
+anxiety of generalized anxiety disorder are associated with a specific traumatic event. The
+symptoms of separation anxiety disorder are clearly related to separation from home or
+family, rather than to a traumatic event.
+Major depressive disorder. Major depression may or may not be preceded by a trau-
+matic event and should be diagnosed if othe r PTSD symptoms are absent. Specifically, ma-
+jor depressive disorder does not include any PTSD Criterion B or C symptoms. Nor does it
+include a number of symptoms from PTSD Criterion D or E.
+Personality disorders. Interpersonal difficulties that had their onset, or were greatly ex-
+acerbated, after exposure to a traumatic event may be an indica tion of PTSD, rather than a
+personality disorder, in which such difficulties would be expected independently of any
+traumatic exposure.
+Dissociative disorders. Dissociative amnesia, dissociative identity disorder, and de-
+personalization-derealization disorder may or may not be preceded by exposure to a trau-
+matic event or may or may not have co-occurri ng PTSD symptoms. When full PTSD criteria
+are also met, however, the PTSD “with dissoci ative symptoms” subtype should be considered.
+Conversion disorder (functional neurological symptom disorder). New onset of somatic
+symptoms within the context of posttraumati c distress might be an indication of PTSD
+rather than conversion disorder (functional neurological symptom disorder).
+Psychotic disorders. Flashbacks in PTSD must be di stinguished from illusions, halluci-
+nations, and other perceptual disturbances that may occur in schizophrenia, brief psy-
+chotic disorder, and other psychotic disord ers; depressive and bipolar disorders with
+280 Trauma- and Stressor-Related Disorders
+psychotic features; delirium; substance/medication-induced disorders; and psychotic dis-
+orders due to another medical condition. 
+Traumatic brain injury. When a brain injury occurs in the context of a traumatic event (e.g.,
+traumatic accident, bomb blast, acceleration/d eceleration trauma), symptoms of PTSD may
+appear. An event causing head trauma may also  constitute a psychological traumatic event,
+and tramautic brain injury (TBI)–related neurocognitive symptoms are not mutually exclusive
+and may occur concurrently. Sy mptoms previously termed postconcussive  (e.g., headaches,
+dizziness, sensitivity to light or  sound, irritability, concentration deficits) can occur in brain-
+injured and non-brain-injured populations, in cluding individuals with PTSD. Because symp-
+toms of PTSD and TBI-related neurocognitive symptoms can overlap, a differential diagnosis
+between PTSD and neurocognitive disorder sy mptoms attributable to TBI may be possible
+based on the presence of symptoms that are di stinctive to each presentation. Whereas reexpe-
+riencing and avoidance are characteristic of PTSD  and not the effects of TBI, persistent disori-
+entation and confusion are more specific to TBI (neurocognitive effects) than to PTSD.
+Comorbidity
+Individuals with PTSD are 80% more likely than those without PTSD to have symptoms
+that meet diagnostic criteria for at least one other mental disorder (e.g., depressive, bipo-
+lar, anxiety, or substance use disorders). Comorbid substance use disorder and conduct
+disorder are more common among males than  among females. Among U.S. military per-
+sonnel and combat veterans who have been de ployed to recent wars  in Afghanistan and
+Iraq, co-occurrence of PTSD and mild TBI is  48%. Although most  young children with
+PTSD also have at least one other diagnosis, the patterns of comorbidity are different than
+in adults, with oppositional defiant disorder  and separation anxiety disorder predominat-
+ing. Finally, there is considerable comorb idity between PTSD and major neurocognitive
+disorder and some overlapping sy mptoms between these disorders.
+Acute Stress Disorder
+Diagnostic Criteria 308.3 (F43.0)
+A. Exposure to actual or threatened death, serious injury, or sexual violation in one (or
+more) of the following ways: 
+1. Directly experiencing the traumatic event(s).
+2. Witnessing, in person, the event(s) as it occurred to others.
+3. Learning that the event(s) occurred to a close family member or close friend.  Note:
+In cases of actual or threatened death of a family member or friend, the event(s)
+must have been violent or accidental.
+4. Experiencing repeated or extreme exposure to aversive details of the traumatic
+event(s) (e.g., first responders collecting human remains, police officers repeatedly
+exposed to details of child abuse).
+Note: This does not apply to exposure through electronic media, television, mov-
+ies, or pictures, unless this exposure is work related.
+B. Presence of nine (or more) of the following symptoms from any of the five categories
+of intrusion, negative mood, dissociation, avoidance, and arousal, beginning or wors-
+ening after the traumatic event(s) occurred:
+Intrusion Symptoms
+1. Recurrent, involuntary, and intrusive distressing memories of the traumatic
+event(s).  Note: In children, repetitive play may occur in which themes or aspects of
+the traumatic event(s) are expressed.
+Acute Stress Disorder 281
+2. Recurrent distressing dreams in which the content and/or affect of the dream are
+related to the event(s). Note: In children, there may be frightening dreams without
+recognizable content.
+3. Dissociative reactions (e.g., flashbacks) in which the individual feels or acts as if
+the traumatic event(s) were recurring. (Such reactions may occur on a continuum,
+with the most extreme expression being a complete loss of awareness of present
+surroundings.) Note:  In children, trauma-specific reenactment may occur in play.
+4. Intense or prolonged psychological distress or marked physiological reactions in re-
+sponse to internal or external cues that symbolize or resemble an aspect of the
+traumatic event(s).
+Negative Mood
+5. Persistent inability to experience positive emotions (e.g., inability to experience
+happiness, satisfaction, or loving feelings).
+Dissociative Symptoms
+6. An altered sense of the reality of one’s surroundings or oneself (e.g., seeing oneself
+from another’s perspective, bein g in a daze, time slowing).
+7. Inability to remember an important aspect of the traumatic event(s) (typically due to
+dissociative amnesia and not to other factors such as head injury, alcohol, or
+drugs).
+Avoidance Symptoms
+8. Efforts to avoid distressing memories, thoughts, or feelings about or closely asso-
+ciated with the traumatic event(s).
+9. Efforts to avoid external reminders (peopl e, places, conversations, activities, ob-
+jects, situations) that arouse distressing memories, thoughts, or feelings about or
+closely associated with the traumatic event(s).
+Arousal Symptoms
+10. Sleep disturbance (e.g., difficulty falling or staying asleep, restless sleep).
+11. Irritable behavior and angry outbursts (with little or no provocation), typically ex-
+pressed as verbal or physical aggression toward people or objects.
+12. Hypervigilance.
+13. Problems with concentration.
+14. Exaggerated startle response.
+C. Duration of the disturbance (symptoms in Criterion B) is 3 days to 1 month after trauma
+exposure.
+Note: Symptoms typically begin immediately after the trauma, but persistence for at
+least 3 days and up to a month is needed to meet disorder criteria.
+D. The disturbance causes clinically significant distress or impairment in social, occupa-
+tional, or other important areas of functioning.
+E. The disturbance is not attributable to the physiological effects of a substance (e.g.,
+medication or alcohol) or another medical c ondition (e.g., mild traumatic brain injury)
+and is not better explained by brief psychotic disorder.
+Diagnostic Features
+The essential feature of acute stress disorder  is the development of characteristic symp-
+toms lasting from 3 days to 1 month following exposure to one or more traumatic events.
+Traumatic events that are expe rienced directly include, but are not limited to, exposure
+to war as a combatant or civilia n, threatened or actual violen t personal assault (e.g., sexual
+282 Trauma- and Stressor-Related Disorders
+violence, physical attack, active combat, mugging, childhood physical and/or sexual vio-
+lence, being kidnapped, being taken hostage, terrorist attack, tortur e), natural or human-
+made disasters (e.g., earthquake, hurricane, airplane crash), and severe accident (e.g.,
+severe motor vehicle, industrial accident). For children, sexually traumatic events may
+include inappropriate sexual experiences with out violence or injury. A life-threatening
+illness or debilitating medical condition is no t necessarily consider ed a traumatic event.
+Medical incidents that qualify as traumatic even ts involve sudden, cata strophic events (e.g.,
+waking during surgery, anaphylactic shock). St ressful events that do not possess the severe
+and traumatic components of ev ents encompassed by Criterion A may lead to an adjust-
+ment disorder but not to  acute stress disorder.
+The clinical presentation of acute stress disorder may vary by individual but typically
+involves an anxiety response that includes some  form of reexperiencing of or reactivity to
+the traumatic event. In some individuals, a dissociative or detached presentation can pre-
+dominate, although these individuals typically  will also display strong emotional or phys-
+iological reactivity in response to trauma re minders. In other individuals, there can be a
+strong anger response in which reactivity is characterized by irritable or possibly aggres-
+sive responses. The full symptom picture must be  present for at least 3 days after the trau-
+matic event and can be diagnosed only up to 1 month after the event. Symptoms that occur
+immediately after the event but resolve in less than 3 days would not meet criteria for
+acute stress disorder.
+Witnessed events include, but are not limited  to, observing threatened or serious in-
+jury, unnatural death, physical or sexual violence inflicted on another individual as a re-
+sult of violent assault, severe domestic violen ce, severe accident, war, and disaster; it may
+also include witnessing a medical catastrophe (e.g., a life-threatening hemorrhage) involv-
+ing one’s child. Events experienced indirectly  through learning about the event are limited
+to close relatives or close friends. Such even ts must have been violent or accidental—death
+due to natural causes does not qualify—and in clude violent personal assault, suicide, se-
+rious accident, or serious injury. The disorder may be especially severe when the stressor
+is interpersonal and intentional (e .g., torture, rape). The like lihood of developing this dis-
+order may increase as the intensity of and physical proximity to the stressor increase.
+The traumatic event can be reexperienced in various wa ys. Commonly, the individual
+has recurrent and intrusive recollections of the event (Criterion B1). The recollections are
+spontaneous or triggered recurrent memories of the event that usua lly occur in response
+to a stimulus that is reminiscent of the traumatic experience (e.g., the sound of a backfiring
+car triggering memories of gunshots). Thes e intrusive memories often include sensory
+(e.g., sensing the intense heat that was percei ved in a house fire), emotional (e.g., experi-
+encing the fear of believing that one was about  to be stabbed), or physiological (e.g., expe-
+riencing the shortness of breath that one su ffered during a near-drowning) components.
+Distressing dreams may contain themes that are representative of or thematically re-
+lated to the major threats involved in the trau matic event. (For example, in the case of a
+motor vehicle accident surviv or, the distressing dreams may involve crashing cars gener-
+ally; in the case of a combat soldier, the distressing dreams may involve being harmed in
+ways other than combat.)
+Dissociative states may last from a few seco nds to several hours, or even days, during
+which components of the event are relived an d the individual behaves as though experi-
+encing the event at that moment. While disso ciative responses are common during a trau-
+matic event, only dissociative responses that  persist beyond 3 days after trauma exposure
+are considered for the diagnosis of acute st ress d isord er. For youn g children, reenactment
+of events related to trauma may appear in  play and may include dissociative moments
+(e.g., a child who survives a motor vehicle accident may repe atedly crash toy cars during
+play in a focused and distressing manner).  These episodes, often referred to as flashbacks,
+are typically brief but involve a sense that th e traumatic event is oc curring in the present
+rather than being remembered in the past and are associated with significant distress.
+Acute Stress Disorder 283
+Some individuals with the disorder do not ha ve intrusive memories of the event itself,
+but instead experience intense psychological distress or physiological reactivity when
+they are exposed to triggering events that re semble or symbolize an aspect of the traumatic
+event (e.g., windy days for child ren after a hurricane, entering an elevator for a male or fe-
+male who was raped in an elevator, seeing  someone who resembles one’s perpetrator).
+The triggering cue could be a physical sensation (e.g., a sense of heat for a burn victim, diz-
+ziness for survivors of head tr auma), particularly for individuals with highly somatic pre-
+sentations. The individual may have a persistent  inability to feel positive emotions (e.g.,
+happiness, joy, satisfaction, or emotions asso ciated with intimacy, tenderness, or sexual-
+ity) but can experience negative emotions su ch as fear, sadness, anger, guilt, or shame.
+Alterations in awareness can include depersonalization,  a detached sense of oneself (e.g.,
+seeing oneself from the other side of the room), or derealization,  having a distorted view of
+one’s surroundings (e.g., perceiving that thin gs are moving in slow motion, seeing things
+in a daze, not being aware of events that on e would normally encode ). Some individuals
+also report an inability to remember an impo rtant aspect of the tr aumatic event that was
+presumably encoded. This symp tom is attributable to dissoc iative amnesia and is not at-
+tributable to head inju ry, alcohol, or drugs.
+Stimuli associated with the trauma are persistently avoided. The individual may refuse
+to discuss the traumatic experience or may engage in avoidance strategies to minimize
+awareness of emotional reactions (e.g., excessive alcohol use when reminded of the ex-
+perience). This behavioral avoidance may include avoiding watching news coverage of
+the traumatic experience, refusing to return to a workplace where the trauma occurred, or
+avoiding interacting with others who shared the same traumatic experience.
+It is very common for indivi duals with acute stress disorder to experience problems
+with sleep onset and maintenance, which may be associated with nightmares or with gen-
+eralized elevated arou sal that prevents adequate sleep. Individuals with acute stress dis-
+order may be quick tempered and may even en gage in aggressive verbal and/or physical
+behavior with little provocation. Acute stress disorder is often characterized by a height-
+ened sensitivity to potential th reats, including those that are related to the traumatic ex-
+perience (e.g., a motor vehicle accident vict im may be especially sensitive to the threat
+potentially caused by any cars or trucks) or those not related to the traumatic event (e.g.,
+fear of having a heart attack). Concentration difficulties, including difficulty remembering
+daily events (e.g., forg etting one’s telephone number) or attending to focused tasks (e.g.,
+following a conversation for a sustained period  of time), are commonly reported. Individ-
+uals with acute stress disorder may be very re active to unexpected stimuli, displaying a
+heightened startle response or jumpiness to loud noises or unexpe cted movements (e.g.,
+the individual may jump markedly in the response to a telephone ringing). 
+Associated Features Supporting Diagnosis
+Individuals with acute stress disorder common ly engage in catastrophic or extremely neg-
+ative thoughts about thei r role in the traumatic event, th eir response to the traumatic ex-
+perience, or the likelihood of future harm. For example, an individual with acute stress
+disorder may feel excessively guilty about not having prevented the traumatic event or
+about not adapting to the experience more su ccessfully. Individuals with acute stress dis-
+order may also interpret their symptoms in  a catastrophic manner, such that flashback
+memories or emotional numbing may be interpreted as a sign of diminished mental ca-
+pacity. It is common for individuals with acute stress disorder to experience panic attacks
+in the initial month after trauma exposure th at may be triggered by trauma reminders or
+may apparently occur spontaneously. Addition ally, individuals with acute stress disorder
+may display chaotic or impulsive behavior. For example, individuals may drive reck-
+lessly, make irrational decisions, or gamble  excessively. In children, there may be sig-
+nificant separation anxiety, possibly mani fested by excessive needs for attention from
+284 Trauma- and Stressor-Related Disorders
+caregivers. In the case of be reavement following a death that occurred in traumatic cir-
+cumstances, the symptoms of acute stress di sorder can involve acute grief reactions. In
+such cases, reexperiencing, dissociative, an d arousal symptoms ma y involve reactions to
+the loss, such as intrusive memories of the ci rcumstances of the individual’s death, disbe-
+lief that the individual has died, and ange r about the death. Po stconcussive symptoms
+(e.g., headaches, dizziness, sensitivity to light or sound, irritability, concentration deficits),
+which occur frequently following  mild traumatic brain injury, are also frequently seen in
+individuals with acute stress disorder. Po stconcussive symptoms are equally common in
+brain-injured and non–brain-injured populations, and the frequent occurrence of postcon-
+cussive symptoms could be attributable  to acute stress disorder symptoms. 
+Prevalence
+The prevalence of acute stress disorder in recently trauma-exposed populations (i.e.,
+within 1 month of trauma exposure) varies ac cording to the nature of the event and the
+context in which it is assessed. In both U.S. and non-U.S. population s, acute stress disorder
+tends to be identified in less than 20% of ca ses following traumatic events that do not in-
+volve interpersonal assault; 13%–21% of motor vehicle accidents, 14% of mild traumatic
+brain injury, 19% of assault, 10% of severe burns, and 6%–12% of industrial accidents.
+Higher rates (i.e., 20%–50%) are reported following interpersonal traumatic events, in-
+cluding assault, rape, and witnessing a mass shooting. 
+Development and Course
+Acute stress disorder cannot be diagnosed un til 3 days after a traumatic event. Although
+acute stress disorder may prog ress to posttraumatic stress di sorder (PTSD) after 1 month,
+it may also be a transient stress response th at remits within 1 month of trauma exposure
+and does not result in PTSD. Approximately half of individuals who eventually develop
+PTSD initially present with acute stress diso rder. Symptom worsenin g during the initial
+month can occur, often as a result of ongoin g life stressors or further traumatic events. 
+The forms of reexperiencing can vary acro ss development. Unlike adults or adoles-
+cents, young children may report frightening dreams without content that clearly reflects
+aspects of the trauma (e.g., waki ng in fright in the aftermath of the trauma but being unable
+to relate the content of the dream to the traumatic event). Ch ildren age 6 years and younger
+are more likely than older children to expres s reexperiencing symptoms through play that
+refers directly or symbolically to the trauma. For example, a very young child who sur-
+vived a fire may draw pictures of flames. Yo ung children also do not necessarily manifest
+fearful reactions at the time of the exposure or even during reexperiencing. Parents typi-
+cally report a range of emotional expressions,  such as anger, shame, or withdrawal, and
+even excessively bright positiv e affect, in young children who are traumatized. Although
+children may avoid reminders of the trauma, they sometimes become preoccupied with
+reminders (e.g., a young child bitten by a dog may talk about dogs constantly yet avoid go-
+ing outside because of fear of coming into contact with a dog). 
+Risk and Prognostic Factors
+Temperamental. Risk factors include prior mental diso rder, high levels of negative af-
+fectivity (neuroticism), greater perceived seve rity of the traumatic event, and an avoidant
+coping style. Catastrophic appraisals of th e traumatic experience, often characterized by
+exaggerated appraisals of future harm, guilt, or hopelessness, are strongly predictive of
+acute stress disorder. 
+Environmental. First and foremost, an individual must  be exposed to a traumatic event to
+be at risk for acute stress disorder. Risk fact ors for the disorder include a history of prior
+trauma.
+Acute Stress Disorder 285
+Genetic and physiological. Females are at greater risk for developing acute stress dis-
+order.
+Elevated reactivity, as reflected by acousti c startle response, prior to trauma exposure
+increases the risk for developing acute stress disorder. 
+Culture-Related Diagnostic Issues
+The profile of symptoms of acute stress disorder may vary cross-culturally, particularly
+with respect to dissociative symptoms, ni ghtmares, avoidance, and somatic symptoms
+(e.g., dizziness, shortness of breath, heat se nsations). Cultural sy ndromes and idioms of
+distress shape the local symptom profiles of acute stress disorder. Some cultural groups
+may display variants of dissociative response s, such as possession or trancelike behaviors
+in the initial month after trauma exposure. Pa nic symptoms may be salient in acute stress
+disorder among Cambodians because of the as sociation of traumatic exposure with panic-
+like khyâl  attacks, and ataque de nervios  among Latin Americans may also follow a traumatic
+exposure. 
+Gender-Related Diagnostic Issues
+Acute stress disorder is more prevalent am ong females than among males. Sex-linked neu-
+robiological differences in stre ss response may contribute to females’ increased risk for
+acute stress disorder. The increased risk for the disorder in females may be attributable in
+part to a greater likelihood of exposure to th e types of traumatic events with a high con-
+ditional risk for acute stress  disorder, such as rape and other interpersonal violence. 
+Functional Consequences of Acute Stress Disorder
+Impaired functioning in social, interpersona l, or occupational domains has been shown
+across survivors of accidents, assault, and rape  who develop acute stress disorder. The ex-
+treme levels of anxiety that may be associa ted with acute stress disorder may interfere
+with sleep, energy levels, and capacity to a ttend to tasks. Avoidance in acute stress dis-
+order can result in generalized withdrawal from many situations that are perceived as
+potentially threatening, which can lead to nonattendance of medical appointments, avoid-
+ance of driving to important appointments, and absenteeism from work. 
+Differential Diagnosis
+Adjustment disorders. In acute stress disorder, the stress or can be of any severity rather
+than of the severity and type required by Criterion A of acute stress di sorder. The diagnosis of
+an adjustment disorder is used when the response to a Criterion A event does not meet the cri-
+teria for acute stress disorder (o r another specific mental diso rder) and when the symptom pat-
+tern of acute stress disorder occurs in response to a stressor that does not meet Criterion A for
+exposure to actual or threatened death, serious injury, or sexual  violence (e.g., spouse leaving,
+being fired). For example, severe  stress reactions to life-threate ning illnesses that may include
+some acute stress disorder symptoms may be more appropriately desc ribed as an adjustment
+disorder. Some forms of acute stress response do not include acute stress disorder symptoms
+and may be characterized by anger, depression, or guilt. These responses are more appro-
+priately described as primarily an adjustment disorder. Depressive or anger responses in an
+adjustment disorder may involve rumination ab out the traumatic event, as opposed to invol-
+untary and intrusive distressing memories in acute stress disorder.
+Panic disorder. Spontaneous panic attacks are very common in acute stress disorder.
+However, panic disorder is diagnosed only if panic attacks are unexpected and there is
+anxiety about future attacks or  maladaptive changes in behavior associated with fear of
+dire consequences of the attacks. 
+286 Trauma- and Stressor-Related Disorders
+Dissociative disorders. Severe dissociative responses (i n the absence of characteristic
+acute stress disorder symptoms) may be di agnosed as derealization/depersonalization
+disorder. If severe amnesia of the trauma persists in the ab sence of characteristic acute
+stress disorder symptoms, the diagnosis of  dissociative amnesia may be indicated.
+Posttraumatic stress disorder. Acute stress disorder is dist inguished from PTSD because
+the symptom pattern in acute stre ss disorder must occur within 1 month of the traumatic event
+and resolve within that 1-month period. If th e symptoms persist for more than 1 month and
+meet criteria for PTSD, the diagnosis is ch anged from acute stre ss disorder to PTSD.
+Obsessive-compulsive disorder. In obsessive-compulsive diso rder, there are recurrent
+intrusive thoughts, but these meet the definition  of an obsession. In addition, the intrusive
+thoughts are not related to an experienced traumatic event, compulsions are usually pres-
+ent, and other symptoms of acute st ress disorder are typically absent.
+Psychotic disorders. Flashbacks in acute stress disorder  must be distinguished from il-
+lusions, hallucinations, and other perceptual disturbances that may occur in schizophre-
+nia, other psychotic disorders, depressive or  bipolar disorder with psychotic features, a
+delirium, substance/medication -induced disorders, and psychotic disorders due to an-
+other medical condition. Acut e stress disorder flashbacks ar e distinguished from these
+other perceptual disturbances by being direct ly related to the traumatic experience and by
+occurring in the absence of other psychotic or substance-induced features.
+Traumatic brain injury. When a brain injury occurs in the context of a traumatic event
+(e.g., traumatic accident, bomb blast, acceleration/deceleration trauma), symptoms of
+acute stress disorder may appear. An event causing head trauma may also constitute a
+psychological trau matic event, and tramautic brain injury (TBI)–related neurocognitive
+symptoms are not mutually exclusive and ma y occur concurrently. Symptoms previously
+termed postconcussive  (e.g., headaches, dizziness, sensitiv ity to light or sound, irritability,
+concentration deficits) can occur in brain-injured and non–brain injured populations, in-
+cluding individuals with acute stress disorder . Because symptoms of acute stress disorder
+and TBI-related neurocognitive symptoms can overlap, a differential diagnosis between
+acute stress disorder and neurocognitive di sorder symptoms attributable to TBI may be
+possible based on the presence of symptoms that are distinctive to each presenta-
+tion. Whereas reexperiencing and avoidance are characteristic of acut e stress disorder and
+not the effects of TBI, persistent disorientation  and confusion are more specific to TBI (neu-
+rocognitive effects) than to acute stress disord er. Furthermore, differential is aided by the
+fact that symptoms of acute stress disorder persist for up to only 1 month following trauma
+exposure.
+Adjustment Disorders
+Diagnostic Criteria
+A. The development of emotional or behavioral symptoms in response to an identifiable
+stressor(s) occurring within 3 months of the onset of the stressor(s).
+B. These symptoms or behaviors are clinically significant, as evidenced by one or both of
+the following:
+1. Marked distress that is out of proportion to the severity or intensity of the stressor,
+taking into account the external context and the cultural factors that might influence
+symptom severity and presentation.
+2. Significant impairment in social, occupational, or other important areas of functioning.
+C. The stress-related disturbance does not meet  the criteria for another mental disorder
+and is not merely an exacerbation of a preexisting mental disorder.
+Adjustment Disorders 287
+D. The symptoms do not represent normal bereavement.
+E. Once the stressor or its consequences have terminated, the symptoms do not persist
+for more than an additional 6 months.
+Specify whether:
+309.0 (F43.21) With depressed mood:  Low mood, tearfulness, or feelings of hope-
+lessness are predominant.
+309.24 (F43.22) With anxiety:  Nervousness, worry, jitteriness, or separation anxiety
+is predominant.
+309.28 (F43.23) With mixed anxiety and depressed mood:  A combination of de-
+pression and anxiety is predominant.
+309.3 (F43.24) With disturbance of conduct:  Disturbance of conduct is predominant.
+309.4 (F43.25) With mixed disturba nce of emotions and conduct:  Both emotional
+symptoms (e.g., depression, anxiety) and a disturbance of conduct are predominant.
+309.9 (F43.20) Unspecified:  For maladaptive reactions that are not classifiable as one
+of the specific subtypes of adjustment disorder.
+Diagnostic Features
+The presence of emotional or behavioral sympto ms in response to an identifiable stressor
+is the essential feature of adju stment disorders (Criterion A) . The stressor may be a single
+event (e.g., a termination of a romantic relati onship), or there may be multiple stressors
+(e.g., marked business difficulties and marita l problems). Stressors may be recurrent (e.g.,
+associated with seasonal busi ness crises, unfulfilling sexual relationships) or continuous
+(e.g., a persistent painful illness with increasi ng disability, living in a crime-ridden neigh-
+borhood). Stressors may affect a single individual, an entire family, or a larger group or
+community (e.g., a natural disaster). Some st ressors may accompany specific developmen-
+tal events (e.g., going to school, leaving a parental home, reentering a parental home, get-
+ting married, becoming a parent, failing to attain occupational goals, retirement). 
+Adjustment disorders may be diagnosed follo wing the death of a loved one when the
+intensity, quality, or persis tence of grief reactions exceeds what normally might be ex-
+pected, when cultural, religious, or age-appr opriate norms are taken into account. A more
+specific set of bereavement-relate d symptoms has been designated persistent complex be-
+reavement disorder.
+Adjustment disorders are associated with an increased risk of suicide attempts and
+completed suicide.
+Prevalence
+Adjustment disorders ar e common, although prevalence may vary widely as a function of
+the population studied and the assessment me thods used. The percentage of individuals
+in outpatient mental health treatment with a principal diagnosis of an adjustment disorder
+ranges from approximately 5% to 20%. In a hospital psychiatric consultation setting, it is
+often the most common diagno sis, frequently reaching 50%. 
+Development and Course
+By definition, the disturbance in adjustment disorders begins within  3 months of onset of
+a stressor and lasts no longer than 6 months  after the stressor or its consequences have
+ceased. If the stressor is an acute event (e.g., being fired from a job), the onset of the dis-
+turbance is usually immediate (i.e., within a few days) and the durati on is relatively brief
+(i.e., no more than a few mont hs). If the stressor or its co nsequences persist, the adjustment
+disorder may also continue to be pr esent and become the persistent form.
+288 Trauma- and Stressor-Related Disorders
+Risk and Prognostic Factors
+Environmental. Individuals from disadvantaged lif e circumstances experience a high
+rate of stressors and may be at increased risk for adjustment disorders.
+Culture-Related Diagnostic Issues
+The context of the individual’s cultural setting should be taken into account in making the
+clinical judgment of whether the individual’s response to the stressor is maladaptive or
+whether the associated distress is in excess of what would be expected. The nature, mean-
+ing, and experience of the stressors and the ev aluation of the response to the stressors may
+vary across cultures. 
+Functional Consequences of Adjustment Disorders
+The subjective distress or impa irment in functioning associat ed with adjustment disorders
+is frequently manifested as decreased perf ormance at work or school and temporary
+changes in social relationships. An adjustment disorder may complicate the course of ill-
+ness in individuals who have a general medica l condition (e.g., decreased compliance with
+the recommended medical regimen; incr eased length of hospital stay). 
+Differential Diagnosis
+Major depressive disorder. If an individual has symptoms that meet criteria for a major
+depressive disorder in response  to a stressor, the diagnosis of an adjustment disorder is
+not applicable. The symptom profile of major depressive disorder differentiates it from ad-
+justment disorders.
+Posttraumatic stress disorder and acute stress disorder. In adjustment disorders, the
+stressor can be of any severity rather than of  the severity and type required by Criterion A
+of acute stress disorder and posttraumatic st ress disorder (PTSD). In distinguishing ad-
+justment disorders from thes e two posttraumatic diagnoses,  there are both timing and
+symptom profile considerations. Adjustment disorders can be diagnosed immediately
+and persist up to 6 months afte r exposure to the traumatic event, whereas acute stress dis-
+order can only occur between 3 days and 1 month of exposure to the stressor, and PTSD
+cannot be diagnosed until at least 1 month has passed since the occurrence of the traumatic
+stressor. The required symptom profile for PT SD and acute stress disorder differentiates
+them from the adjustment disorders. With re gard to symptom profiles, an adjustment dis-
+order may be diagnosed following a traumatic event when an individu al exhibits symptoms
+of either acute stress disorder or PTSD that do not meet or exceed the diagnostic threshold
+for either disorder. An adjustment disorder should also be diagno sed for individuals who
+have not been exposed to a tr aumatic event but who otherwise exhibit the full symptom pro-
+file of either acute st ress disorder or PTSD.
+Personality disorders. With regard to personality disorders, some personality features
+may be associated with a vulnerability to situat ional distress that may resemble an adjust-
+ment disorder. The lifetime hist ory of personality functionin g will help inform the in-
+terpretation of distressed behaviors to aid in  distinguishing a long-standing personality
+disorder from an adjustment d isorder. In addition to some personality disorders incurring
+vulnerability to distress, stre ssors may also exacerbate pers onality disorder symptoms. In
+the presence of a personality disorder, if the symptom criteria for an adjustment disorder
+are met, and the stress-related disturbance exceeds what may be attributable to maladap-
+tive personality disorder symptoms (i.e., Crit erion C is met), then the diagnosis of an ad-
+justment disorder should be made.
+Other Specified Trauma- and Stressor-Related Disorder 289
+Psychological factors affecting other medical conditions. In psychological factors af-
+fecting other medical conditions, specific psychological entities (e.g., psychological symp-
+toms, behaviors, other factors) exacerbate  a medical condition. These psychological
+factors can precipitate, exacerbate, or put an individual at risk for medical illness, or they
+can worsen an existing condition. In contrast, an adjustment disorder is a reaction to the
+stressor (e.g., having a medical illness).
+Normative stress reactions. When bad things happen, most  people get upset. This is
+not an adjustment disorder. The diagnosis should only be made when the magnitude of
+the distress (e.g., alterations in mood, anxiet y, or conduct) exceed s what would normally
+be expected (which may vary in different cu ltures) or when the adverse event precipitates
+functional impairment.
+Comorbidity
+Adjustment disorders can accompany most mental disorders and an y medical disorder.
+Adjustment disorders can be diagnosed in additi on to another mental disorder only if the
+latter does not explain the partic ular symptoms that occur in reaction to the stressor. For
+example, an individual may develop an adjustment disorder, with depressed mood, after
+losing a job and at the same time have a di agnosis of obsessive-co mpulsive disorder. Or,
+an individual may have a depressive or bipo lar disorder and an adjustment disorder as
+long as the criteria for both are met. Adju stment disorders are common accompaniments
+of medical illness and may be the major psychological response to a medical disorder.
+Other Specified Trauma- and
+Stressor-Related Disorder
+309.89 (F43.8)
+This category applies to presentations in which symptoms characteristic of a trauma- and
+stressor-related disorder that cause clinically significant distress or impairment in social,
+occupational, or other important areas of functioning predominate but do not meet the full
+criteria for any of the disorders in the trauma- and stressor-related disorders diagnostic
+class. The other specified trauma- and stressor- related disorder category is used in situa-
+tions in which the clinician chooses to communicate the specific reason that the presenta-
+tion does not meet the criteria for any specific trauma- and stressor-related disorder. This
+is done by recording “other specified trauma- and stressor-related disorder” followed by
+the specific reason (e.g., “persistent complex bereavement disorder”).
+Examples of presentations that can be specified using the “other specified” designation
+include the following:
+1.Adjustment-like disorders with delayed on set of symptoms that occur more than
+3 months after the stressor.
+2.Adjustment-like disorders with prolonged duration of more than 6 months with-
+out prolonged duration of stressor.
+3.Ataque de nervios:  See “Glossary of Cultural Concepts of Distress” in the Appendix.
+4.Other cultural syndromes:  See “Glossary of Cultural Concepts of Distress” in the Ap-
+pendix.
+5.Persistent complex bereavement disorder:  This disorder is characterized by severe
+and persistent grief and mourning reactions (see the chapter “Conditions for Further
+Study”).
+290 Trauma- and Stressor-Related Disorders
+Unspecified Trauma- and
+Stressor-Related Disorder
+309.9 (F43.9)
+This category applies to presentations in which symptoms characteristic of a trauma- and
+stressor-related disorder that cause clinically significant distress or impairment in social, oc-
+cupational, or other important areas of functioning predominate but do not meet the full cri-
+teria for any of the disorders in the trauma- and stressor-related disorders diagnostic class.
+The unspecified trauma- or stressor-related disord er category is used in  situations in which
+the clinician chooses not to specify the reason that the criteria are not met for a specific
+trauma- and stressor-related disorder, and includes  presentations in which there is insuffi-
+cient information to make a more specific diagnosis (e.g., in emergency room settings).

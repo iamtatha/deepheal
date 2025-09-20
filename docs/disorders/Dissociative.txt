@@ -1,0 +1,795 @@
+291Dissociative
+ Disorders
+Dissociative disorders  are characterized by a disrup tion of and/or discontinuity
+in the normal integration of consciousness, memory, identity, emotion, perception, body
+representation, motor control, and behavior. Dissociative symptoms can potentially dis-
+rupt every area of psychological functioning.  This chapter includes dissociative identity
+disorder, dissociative amnesia, depersonalization/derealization disorder, other specified
+dissociative disorder, and unspecified dissociative disorder.
+Dissociative symptoms are experienced as a)  unbidden intrusions into awareness and
+behavior, with accompanying losses of continuity  in subjective experience (i.e., ‘‘positive’’
+dissociative symptoms such as fragmentation of identity, depersonalization, and dereal-
+ization) and/or b) inability to access inform ation or to control ment al functions that nor-
+mally are readily amenable to access or contro l (i.e., “negative’’ dissociative symptoms such
+as amnesia).
+The dissociative disorders are frequently found in the af termath of trauma, and many
+of the symptoms, including embarrassment an d confusion about the symptoms or a desire
+to hide them, are influenced by the proximity to trauma. In DSM-5, the dissociative disor-
+ders are placed next to, but are not part of, the trauma- and stressor-r elated disorders, re-
+flecting the close relationship between these di agnostic classes. Both  acute stress disorder
+and posttraumatic stress disorder contain di ssociative symptoms, such as amnesia, flash-
+backs, numbing, and depersonalization/derealization.
+Depersonalization/derealization disorder is characterized by clinically significant persis-
+tent or recurrent depersonalizat ion (i.e., experiences of unreality or detachment from one’s
+mind, self, or body) and/or derealization (i.e ., experiences of unreality or detachment from
+one’s surroundings). These alte rations of experience are accompanied by intact reality
+testing. There is no evidence of any distin ction between individuals with predominantly
+depersonalization versus derealization sympto ms. Therefore, individuals with this disor-
+der can have depersonalizatio n, derealization, or both.
+Dissociative amnesia  is characterized by an inability to recall autobiographical informa-
+tion. This amnesia may be localized (i.e., an even t or period of time), selective (i.e., a specific
+aspect of an event), or generali zed (i.e., identity and life history). Dissociative amnesia is fun-
+damentally an inability to recall autobiographic al information that is inconsistent with nor-
+mal forgetting. It may or may not involve purp oseful travel or bewildered wandering (i.e.,
+fugue). Although some individual s with amnesia promptly notice  that they have “lost time”
+or that they have a gap in their memory, most individuals with dissocia tive disorders are ini-
+tially unaware of their amnesias. For them, aw areness of amnesia occu rs only when personal
+identity is lost or when circumstances make  these individuals awar e that autobiographical
+information is missing (e.g., wh en they discover evidence of events they cannot recall or
+when others tell them or ask th em about events they cannot reca ll). Until and unless this hap-
+pens, these individuals have “amnesia for their amnesia.” Amnesia is experienced as an es-
+sential feature of dissociative amnesia; individuals may experience localized or selective
+amnesia most commonly, or generalized amnesia rarely. Dissociative fugue is rare in per-
+sons with dissociative am nesia but common in dissoc iative identity disorder.
+Dissociative identity disorder is characterized by a) the presence of two or more distinct
+personality states or an experi ence of possession and b) recurrent episodes of amnesia. The
+292 Dissociative Disorders
+fragmentation of identity may vary with culture (e.g., possession-form presentations) and cir-
+cumstance. Thus, individuals ma y experience discontinuities in identity and memory that
+may not be immediately evident to others or are obscured by attempts to hide dysfunction. In-
+dividuals with dissociative identity disorder experience a) recurrent, inexplicable intrusions
+into their conscious functioning and sense of se lf (e.g., voices; dissociated actions and speech;
+intrusive thoughts, emotions, and im pulses), b) alterations of sense of  self (e.g., attitudes, pref-
+erences, and feeling like one’s body or actions are not one’s own), c) odd changes of perception
+(e.g., depersonalization or derealization, such as feeling deta ched from one’s body while cut-
+ting), and d) intermittent functional neurolog ical symptoms. Stress often produces transient
+exacerbation of dissociative symptoms that makes them more evident.
+The residual category of other specified disso ciative disorder has seven examples: chronic
+or recurrent mixed dissociative symptoms that approach, but fall  short of, the diagnostic cri-
+teria for dissociative identity disorder; dissociative states secondary to brainwashing or
+thought reform; two acute presentations, of less than 1 month’s duration, of mixed dissociative
+symptoms, one of which is also marked by the presence of psychotic symptoms; and three sin-
+gle-symptom dissociative presentations—dissociat ive trance, dissociative stupor or coma, and
+Ganser’s syndrome (the giving of  approximate and vague answers). 
+Dissociative Identity Disorder
+Diagnostic Criteria 300.14 (F44.81)
+A. Disruption of identity characterized by two or more distinct personality states, which
+may be described in some cultures as an experience of possession. The disruption in
+identity involves marked discontinuity in sense of self and sense of agency, accompa-
+nied by related alterations in affect, behavior, consciousness, memory, perception,
+cognition, and/or sensory-motor functioning. These signs and symptoms may be ob-
+served by others or reported by the individual. 
+B. Recurrent gaps in the recall of everyday events, important personal information, and/
+or traumatic events that are inconsistent with ordinary forgetting.
+C. The symptoms cause clinically significant distress or impairment in social, occupa-
+tional, or other important areas of functioning. 
+D. The disturbance is not a normal part of a broadl y accepted cultural or religious practice.
+Note:  In children, the symptoms are not better explained by imaginary playmates or
+other fantasy play.
+E. The symptoms are not attributable to the physiological effects of a substance (e.g.,
+blackouts or chaotic behavior during alcohol intoxication) or anot her medical condition
+(e.g., complex partial seizures).
+Diagnostic Features 
+The defining feature of dissocia tive identity disorder is the presence of two or more dis-
+tinct personality states or an experience of  possession (Criterion  A). The overtness or
+covertness of these personality states, howeve r, varies as a function of psychological
+motivation, current level of st ress, culture, internal conflicts and dynamics, and emotional
+resilience. Sustained periods of identity di sruption may occur when psychosocial pres-
+sures are severe and/or prolonged. In many possession-form cases of  dissociative identity
+disorder, and in a small proportion of non-po ssession-form cases, manifestations of alter-
+nate identities are highly ove rt. Most individuals with non-possession-for m dissociative
+identity disorder do not overtly display their discontinuity of identity for long periods of
+time; only a small minority present to clinical attention wi th observable alternation of
+Dissociative Identity Disorder 293
+identities. When alternate personality states are not directly observ ed, the disorder can be
+identified by two clusters of symptoms: 1) sudden alterations or discontinuities in sense of
+self and sense of agency (Criterion A), and 2)  recurrent dissociative amnesias (Criterion B).
+Criterion A symptoms are related to disconti nuities of experience that can affect any
+aspect of an individual’s functioning. Indivi duals with dissociative identity disorder may
+report the feeling that they have suddenly  become depersonalized observers of their
+“own” speech and actions, which they may feel po werless to stop (sense of self). Such in-
+dividuals may also report perceptions of voices (e.g., a child’s voice; crying; the voice of a
+spiritual being). In some case s, voices are experienced as multiple, perplexing, indepen-
+dent thought streams over which the individual  experiences no contro l. Strong emotions,
+impulses, and even speech or other actions ma y suddenly emerge, without a sense of per-
+sonal ownership or control (sense of agency).  These emotions and impulses are frequently
+reported as ego-dystonic and puzzling. Atti tudes, outlooks, and personal preferences
+(e.g., about food, activities, dress) may sudde nly shift and then shift back. Individuals may
+report that their bodies feel different (e.g.,  like a small child, like the opposite gender, huge
+and muscular). Alterations in sense of self and loss of personal agency may be accompa-
+nied by a feeling th at these attitudes, emotions, an d behaviors—even  one’s body—are
+“not mine” and/or are “not under my control.” Although most Criterion A symptoms are
+subjective, many of these sudden discontinuitie s in speech, affect, and behavior can be wit-
+nessed by family, friends, or the clinician.  Non-epileptic seizures and other conversion
+symptoms are prominent in some presentation s of dissociative identity disorder, espe-
+cially in some non-Western settings.
+The dissociative amnesia of in dividuals with dissociative id entity disorder manifests in
+three primary ways: as 1) gaps in remote me mory of personal life events (e.g., periods of
+childhood or adolescence; some important lif e events, such as the death of a grandparent,
+getting married, giving birth); 2) lapses in  dependable memory (e.g., of what happened
+today, of well-learned skills such as how to do  their job, use a computer, read, drive); and
+3) discovery of evidence of their everyday ac tions and tasks that they do not recollect do-
+ing (e.g., finding unexplained objects in thei r shopping bags or am ong their possessions;
+finding perplexing writings or drawings that they must have created; discovering injuries;
+“coming to” in the midst of doing something). Dissociative fugues, wherein the person
+discovers dissociated travel, are common. Thus, individuals with dissociative identity dis-
+order may report that they have suddenly found themselves at the beach, at work, in a night-
+club, or somewhere at home (e.g., in the clos et, on a bed or sofa, in the corner) with no
+memory of how they came to be there. Amnesia in individuals with dissociative identity dis-
+order is not limited to stressful or traumati c events; these individuals often cannot recall
+everyday events as well.
+Individuals with dissociative identity disorder vary in their awareness and attitude to-
+ward their amnesias. It is common for these in dividuals to minimize their amnestic symp-
+toms. Some of their amnestic behaviors may be  apparent to others—as when these persons
+do not recall somethin g they were witnessed to have done or said, when they cannot
+remember their own name, or when they do no t recognize their spouse, children, or close
+friends.
+Possession-form identities in dissociative identity  disorder typically manifest as be-
+haviors that appear as if a “spirit,” supernatur al being, or outside person has taken control,
+such that the individual begins speaking or acting in a distinctly different manner. For ex-
+ample, an individual’s beha vior may give the appearance  that her identity has been
+replaced by the “ghost” of a girl who co mmitted suicide in the same community years
+before, speaking and acting as though she were  still alive. Or an individual may be “taken
+over” by a demon or deity, re sulting in profound impairment , and demanding that the in-
+dividual or a relative be punished for a past act, followed by more su btle periods of iden-
+tity alteration. However, the majority of possession states around the world are normal,
+usually part of spiritual practice, and do not meet criteria for dissociative identity disor-
+294 Dissociative Disorders
+der. The identities that arise during possessio n-form dissociative identity disorder present
+recurrently, are unwanted and involuntary, cause clinically significant distress or impair-
+ment (Criterion C), and are not a normal part  of a broadly accepted cultural or religious
+practice (Criterion D).
+Associated Features Supporting Diagnosis 
+Individuals with di ssociative identity disorder typically present with comorbid depression,
+anxiety, substance abuse, self-injury, non-epileptic seizures, or another common symp-
+tom. They often conceal, or are not fully aw are of, disruptions in consciousness, amnesia,
+or other dissociative symptoms. Many individu als with dissociative identity disorder re-
+port dissociative flashbacks during which they undergo a sensory reliving of a previous
+event as though it were occurring in the presen t, often with a change of identity, a partial
+or complete loss of contact wi th or disorientation to current  reality during the flashback,
+and a subsequent amnesia for the content of the flashback. Individuals with the disorder
+typically report multiple types of interpersonal maltreatment during childhood and adult-
+hood. Nonmaltreatment forms of overwhelming early life events, such as multiple long,
+painful, early-life medical pr ocedures, also may be reported. Self-mutilation and suicidal
+behavior are frequent. On standardized meas ures, these individuals report higher levels
+of hypnotizability and dissociativity compared with other clinical groups and healthy con-
+trol subjects. Some individuals experience transient psychotic phenomena or episodes.
+Several brain regions have been implicated in the pathophysiology of dissociative identity
+disorder, including the orbito frontal cortex, hippocampus, parahippocampal gyrus, and
+amygdala.
+Prevalence
+The 12-month preval ence of dissociative id entity disorder among adults in a small U.S.
+community study was 1.5%. The prevalence ac ross genders in that study was 1.6% for
+males and 1.4% for females. 
+Development and Course
+Dissociative identity disorder is associated  with overwhelming experiences, traumatic
+events, and/or abuse oc curring in childhood. The full disorder may first manifest at al-
+most any age (from earliest childhood to late life). Dissociation in children may generate
+problems with memory, concentration, attach ment, and traumatic play . Nevertheless, chil-
+dren usually do not present with  identity changes; instead they present primarily with over-
+lap and interference among mental states (Cri terion A phenomena), with symptoms related
+to discontinuities of experience. Sudden changes in identity during adolescence may ap-
+pear to be just adolescent turmoil or the ea rly stages of another mental disorder. Older
+individuals may present to treatment with what appear to be late-life mood disorders, ob-
+sessive-compulsive disorder, paranoia, psycho tic mood disorders, or even cognitive dis-
+orders due to dissociative amnesia. In some  cases, disruptive affects and memories may
+increasingly intrude into aw areness with advancing age. 
+Psychological decompensation and overt change s in identity may be triggered by 1) re-
+moval from the traumatizing situation (e.g.,  through leaving home); 2) the individual’s
+children reaching the same age at which the in dividual was originally abused or trauma-
+tized; 3) later traumatic experiences, even seemingly inconsequential ones, like a minor
+motor vehicle accident; or 4) th e death of, or the onset of a fatal illness in, their abuser(s).
+Risk and Prognostic Factors 
+Environmental. Interpersonal physical and sexual abus e is associated with an increased
+risk of dissociative identity disorder. Prev alence of childhood abuse and neglect in the
+Dissociative Identity Disorder 295
+United States, Canada, and Europe among th ose with the disorder is about 90%. Other
+forms of traumatizing experiences, includin g childhood medical and surgical procedures,
+war, childhood prostitution, and terrorism, have been reported.
+Course modifiers. Ongoing abuse, later-life retrauma tization, comorbid ity with mental
+disorders, severe medical illness, and delay in appropriate treatment are associated with
+poorer prognosis.
+Culture-Related Diagnostic Issues 
+Many features of dissociative identity disord er can be influenced by the individual’s cul-
+tural background. Individuals with this disorder may pres ent with prominent medically
+unexplained neurological symptoms, such as no n-epileptic seizures, paralyses, or sensory
+loss, in cultural settings where such symptoms are common. Similarly, in settings where
+normative possession is common (e.g., rural areas in the developing world, among certain
+religious groups in the United States and Euro pe), the fragmented identities may take the
+form of possessing spirits, de ities, demons, animals, or myth ical figures. Acculturation or
+prolonged intercultural contact may shape the characteristics of  the other identities (e.g.,
+identities in India may speak English exclu sively and wear Western clothes). Possession-
+form dissociative identity diso rder can be distinguished from  culturally accepted posses-
+sion states in that the former is involunta ry, distressing, uncontro llable, and often recur-
+rent or persistent; involves conflict between  the individual and his or her surrounding
+family, social, or work milieu; and is manifest ed at times and in places that violate the
+norms of the culture or religion. 
+Gender-Related Diagnostic Issues
+Females with dissociative identity disorder pr edominate in adult clinical settings but not
+in child clinical settings. Adult males with dissociative identity disorder may deny their
+symptoms and trauma  histories, and this can lead to el evated rates of false negative di-
+agnosis. Females with dissociative identity di sorder present more frequently with acute
+dissociative states (e.g., flashb acks, amnesia, fugue, function al neurological [conversion]
+symptoms, hallucinations, self-mutilation). Ma les commonly exhibit more criminal or vi-
+olent behavior than females; among males, comm on triggers of acute dissociative states in-
+clude combat, prison conditions, and physical or sexual assaults.
+Suicide Risk
+Over 70% of outpatients with dissociative id entity disorder have attempted suicide; mul-
+tiple attempts are common, and other self-inj urious behavior is frequent. Assessment of
+suicide risk may be complicated when there is amnesia for past suicid al behavior or when
+the presenting identity does no t feel suicidal and is unaware that other dissociated iden-
+tities do. 
+Functional Consequences of 
+Dissociative Identity Disorder
+Impairment varies widely, from apparently minimal (e.g., in high-functioning profession-
+als) to profound. Regardless of level of disability, individuals with dissociative identity
+disorder commonly minimize the impact of their dissociative an d posttraumatic symp-
+toms. The symptoms of higher-functioning in dividuals may impair their relational, mar-
+ital, family, and parenting functions more th an their occupational and professional life
+(although the latter also may be affected). With appropriate treatment, many impaired in-
+dividuals show marked improvement in occupational and personal functioning. How-
+ever, some remain highly impaired in most ac tivities of living. These individuals may only
+respond to treatment very slowly, with gr adual reduction in or improved tolerance of
+296 Dissociative Disorders
+their dissociative and posttraumatic sympto ms. Long-term supportive treatment may
+slowly increase these individuals’ ability to  manage their symptoms  and decrease use of
+more restrictive levels of care. 
+Differential Diagnosis 
+Other specified dissociative disorder. The core of dissociative identity disorder is the
+division of identity, with recurrent disruption of conscious functioning and sense of self.
+This central feature is sh ared with one form of other specified dissociative disorder, which
+may be distinguished from dissociative identity disorder by the presence of chronic or re-
+current mixed dissociative symptoms that do not meet Criterion A for dissociative identity
+disorder or are not accomp anied by recurrent amnesia.
+Major depressive disorder. Individuals with dissociative identity disorder are often de-
+pressed, and their symptoms may appear to m eet the criteria for a major depressive episode.
+Rigorous assessment indicates that this depression in some cases does not meet full criteria for
+major depressive disorder. Othe r specified depressive disorder  in individual s with dissocia-
+tive identity disorder often has an importan t feature: the depressed mood and cognitions fluc-
+tuate  because they are experienced in some identity states but not others. 
+Bipolar disorders. Individuals with dissociative iden tity disorder are often misdiag-
+nosed with a bipolar disorder, mo st often bipolar II disorder. The relatively rapid shifts in
+mood in individuals with this disorder—typica lly within minutes or hours, in contrast to
+the slower mood changes typically seen in individuals with bipolar disorders—are due to
+the rapid, subjective shifts in  mood commonly reported acro ss dissociative states, some-
+times accompanied by fluctuation in levels of activation. Furtherm ore, in dissociative
+identity disorder, elevated or depressed mood  may be displayed in conjunction with overt
+identities, so one or the other mood may pred ominate for a relatively  long period of time
+(often for days) or may shift within minutes.
+Posttraumatic stress disorder. Some traumatized individua ls have both posttraumatic
+stress disorder (PTSD) and dissociative identity disorder. Accordingly, it is crucial to dis-
+tinguish between individuals with PTSD only an d individuals who have both PTSD and
+dissociative identity disorder. This different ial diagnosis requires that the clinician estab-
+lish the presence or absence of dissociative sy mptoms that are not characteristic of acute
+stress disorder or PTSD. Some individuals wi th PTSD manifest diss ociative symptoms that
+also occur in dissociative identity disorder: 1) amnesia for some aspe cts of trauma, 2) dis-
+sociative flashbacks (i.e., reliving of the trauma, with reduced awareness of one’s current
+orientation), and 3) symptoms of intrusion an d avoidance, negative alterations in cogni-
+tion and mood, and hyperarousal that are focu sed around the traumatic event. On the other
+hand, individuals with dissociative identity disorder manifest dissociative symptoms that
+are not a manifestation of PTSD: 1) amnesias for many everyday (i.e., nontraumatic) events,
+2) dissociative flashbacks that may be followe d by amnesia for the content of the flashback,
+3) disruptive intrusions (unrelated to trau matic material) by dissociated identity states
+into the individual’s sense of self and agency, and 4) infrequent, full-blown changes
+among different identity states.
+Psychotic disorders. Dissociative identity disorder may be confused with schizophre-
+nia or other psychotic disorders. The personified, internally communicative inner voices
+of dissociative identity di sorder, especially of a child (e.g., “I hear a little girl crying in a
+closet and an angry man yelling at her”), may be mistaken for psychotic hallucinations.
+Dissociative experiences of identity fragmentat ion or possession, and of perceived loss of
+control over thoughts, feelings, impulses, and acts, may be confused with signs of formal
+thought disorder, such as thought insertion or withdrawal. Individu als with dissociative
+identity disorder may also report visual, tact ile, olfactory, gustatory, and somatic halluci-
+nations, which are usually related to posttrau matic an d dissociative factors, such as partial
+Dissociative Identity Disorder 297
+flashbacks. Individuals with dissociative iden tity disorder experience these symptoms as
+caused by alternate identities, do not have  delusional explanations for the phenomena,
+and often describe the symptoms in a personified way (e.g., “I feel like someone else wants
+to cry with my eyes”). Persecutory and derogato ry internal voices in dissociative identity
+disorder associated with depressive symptoms  may be misdiagnosed as major depression
+with psychotic features. Chaotic identity change and acute intrusions that disrupt thought
+processes may be distinguished from brief psychotic disorder by the predominance of dis-
+sociative symptoms and amnesia for the episode,  and diagnostic evaluation after cessation
+of the crisis can help confirm the diagnosis. 
+Substance/medication-induced disorders. Symptoms associated with the physiological
+effects of a substance can be distinguished from dissociative identity disorder if the sub-
+stance in question is judged to be et iologically related to the disturbance.
+Personality disorders. Individuals with dissociative identity disorder often present identi-
+ties that appear to encapsulat e a variety of severe personality disorder features, suggesting a
+differential diagnosis of personality disorder, especially of the borderline type. Importantly,
+however, the individual’s longitudinal variabi lity in personality style (due to inconsistency
+among identities) differs from the pervasive an d persistent dysfunctio n in affect management
+and interpersonal relationships typical of those with personality disorders.
+Conversion disorder (functional neurological symptom disorder). This disorder may be
+distinguished from dissociative identity disord er by the absence of an identity disruption
+characterized by two or more distinct personality states or an experience of possession.
+Dissociative amnesia in conver sion disorder is more  limited and circumscribed (e.g., am-
+nesia for a non-epileptic seizure).
+Seizure disorders. Individuals with dissociative identity disorder may present with sei-
+zurelike symptoms and behaviors that resemb le complex partial seizures with temporal
+lobe foci. These include déjà vu, jamais vu, de personalization, derea lization, out-of-body
+experiences, amnesia, disruptions of consci ousness, hallucinations, and other intrusion
+phenomena of sensation, affect, and thought . Normal electroencep halographic findings,
+including telemetry, differenti ate non-epileptic seiz ures from the seizurelike symptoms of
+dissociative identity disorder. Also, individua ls with dissociative identity disorder obtain
+very high dissociation scores, whereas indivi duals with complex partial seizures do not.
+Factitious disorder and malingering. Individuals who feign dissociative identity disor-
+der do not report the subtle symptoms of intr usion characteristic of the disorder; instead
+they tend to overreport well-publicized symp toms of the disorder, such as dissociative
+amnesia, while underreporting less-publicized  comorbid symptoms, such as depression.
+Individuals who feign dissociative identity d isorder tend to be relatively undisturbed by
+or may even seem to enjoy “having” the diso rder. In contrast, individuals with genuine
+dissociative identity disorder tend to be ashamed of and overwhelmed by their symptoms
+and to underreport their symptoms or deny th eir condition. Sequential observation, cor-
+roborating history, and intensive psycho metric and psychological assessment may be
+helpful in assessment.
+Individuals who malinger dissociative identity  disorder usually create limited, stereo-
+typed alternate identities, with feigned amnesia, related to the events for which gain is
+sought. For example, they may present an “all-good” identity and an “all-bad” identity in
+hopes of gaining exculpation for a crime.
+Comorbidity
+Many individuals with dissociative identity disorder present with a comorbid disorder. If
+not assessed and treated specifically for the dissociative disorder, these individuals often
+receive prolonged treatment for the comorbid diagnosis only, with limited overall treat-
+ment response and resultant demoralization, and disability.
+298 Dissociative Disorders
+Individuals with dissociative identity disorder usually ex hibit a large number of co-
+morbid disorders. In particular, most develo p PTSD. Other disorders that are highly co-
+morbid with dissociative identity disorder include depressive di sorders, trauma- and
+stressor-related disorders, personality diso rders (especially avoidant and borderline per-
+sonality disorders), conversion disorder (functional neurological symptom disorder),
+somatic symptom disorder, eating disorders,  substance-related disorders, obsessive-
+compulsive disorder, and sleep disorders. Dissociative alterations in identity, memory,
+and consciousness may affect the sympto m presentation of comorbid disorders.
+Dissociative Amnesia
+Diagnostic Criteria 300.12 (F44.0)
+A. An inability to recall important autobiographical information, usually of a traumatic or
+stressful nature, that is inconsistent with ordinary forgetting.
+Note:  Dissociative amnesia most often consists of localized or selective amnesia for a
+specific event or events; or generalized amnesia for identity and life history.
+B. The symptoms cause clinically significant distress or impairment in social, occupa-
+tional, or other important areas of functioning.
+C. The disturbance is not attributable to the physiological effects of a substance (e.g., al-
+cohol or other drug of abuse, a medication) or a neurological or other medical condition
+(e.g., partial complex seizures, transient global amnesia, sequelae of a closed head in-
+jury/traumatic brain injury, other neurological condition).
+D. The disturbance is not better explained by dissociative identity disorder, posttraumatic
+stress disorder, acute stress disorder, somatic symptom disorder, or major or mild neu-
+rocognitive disorder.
+Coding note: The code for dissociative amnesia without dissociative fugue is 300.12
+(F44.0). The code for dissociative amnesia with dissociative fugue is 300.13 (F44.1).
+Specify if:
+300.13 (F44.1) With dissociative fugue:  Apparently purposeful travel or bewildered
+wandering that is associated with amnesia for identity or for other important autobio-
+graphical information.
+Diagnostic Features
+The defining characteristic of dissociative amnesia is an inability to recall important auto-
+biographical information that 1) should be su ccessfully stored in me mory and 2) ordinar-
+ily would be readily remembered (Criterion  A). Dissociative amnesia differs from the
+permanent amnesias due to neurob iological damage or toxicity that prevent memory stor-
+age or retrieval in that it is always potentially reversible because the memory has been suc-
+cessfully stored. 
+Localized amnesia,  a failure to recall events during a circumscribed period of time, is the
+most common form of dissocia tive amnesia. Localized amnesi a may be broader than am-
+nesia for a single traumatic event (e.g., months or years associated with child abuse or in-
+tense combat). In selective amnesia,  the individual can recall some , but not all, of the events
+during a circumscribed period of time. Thus, the individual may remember part of a trau-
+matic event but not other parts. Some individu als report both localized and selective am-
+nesias. 
+Generalized amnesia,  a complete loss of memory for one’ s life history, is rare. Individuals
+with generalized amnesia may forget personal  identity. Some lose previous knowledge
+about the world (i.e., semantic knowledge) and can no longer access well-learned skills
+Dissociative Amnesia 299
+(i.e., procedural knowledge). Generalized amnesia has an acute onset; the perplexity, dis-
+orientation, and purposeless wandering of individuals with generalized amnesia usually
+bring them to the attention of the police or psychiatric emergency services. Generalized
+amnesia may be more common among combat veterans, sexual  assault victims, and indi-
+viduals experiencing extreme emotional stress or conflict. 
+Individuals with dissociative amnesia are fr equently unaware (or only partially aware)
+of their memory problems. Many, especially those with localized am nesia, minimize the
+importance of their memory loss and may be come uncomfortable when prompted to ad-
+dress it. In systematized amnesia,  the individual loses memory for a specific category of in-
+formation (e.g., all memories relating to on e’s family, a particular person, or childhood
+sexual abuse). In continuous amnesia,  an individual forgets each new event as it occurs.
+Associated Features Supporting Diagnosis
+Many individuals with dissociative amnesia are chronically impaired in their ability to
+form and sustain satisfactory relationships. Histories of trauma, child abuse, and victim-
+ization are common. Some indivi duals with dissociative amnesia report dissociative flash-
+backs (i.e., behavioral reexperiencing of trau matic events). Many have a history of self-
+mutilation, suicide attempts, and other high -risk behaviors. Depressive and functional
+neurological symptoms are common, as are depersonalization, auto-hypnotic symptoms,
+and high hypnotizability. Sexual dysfunctions are common. Mild traumatic brain injury
+may precede dissociative amnesia. 
+Prevalence
+The 12-month prevalence for dissociative amnesia among ad ults in a small U.S. commu-
+nity study was 1.8% (1.0% fo r males; 2.6% for females). 
+Development and Course
+Onset of generalized amnesia is usually sudden . Less is known about the onset of localized
+and selective amnesias because these amnesias ar e seldom evident, even to the individual.
+Although overwhelming or intolerable events typically precede localized amnesia, its on-
+set may be delayed for ho urs, days, or longer. 
+Individuals may report multiple episodes of dissociative amnesia. A single episode
+may predispose to future episodes. In between episodes of amnesia, the individual may or
+may not appear to be acutely symptomatic. Th e duration of the forgotten events can range
+from minutes to decades. Some episodes of  dissociative amnesia resolve rapidly (e.g.,
+when the person is removed from combat or some other stressful situation), whereas other
+episodes persist for long periods of time. So me individuals may grad ually recall the dis-
+sociated memories years later. Dissociative capacities may decline with age, but not al-
+ways. As the amnesia remits, there may be considerable distress, su icidal behavior, and
+symptoms of posttraumatic stress disorder (PTSD). 
+Dissociative amnesia has been observed in young children, adolescents, and adults.
+Children may be the most difficult to evaluate because they often have difficulty under-
+standing questions about amnesia, and interviewers may find it difficult to formulate child-
+friendly questions about memory and amnesia. Observations of apparent dissociative am-
+nesia are often difficult to differentiate from inattention, absorption , anxiety, oppositional
+behavior, and learning disorders. Reports fr om several different sources (e.g., teacher,
+therapist, case worker) may be needed  to diagnose amnesia in children. 
+Risk and Prognostic Factors 
+Environmental. Single or repeated traumatic experiences (e.g., war, childhood maltreat-
+ment, natural disaster, internment in conc entration camps, genocide) are common ante-
+300 Dissociative Disorders
+cedents. Dissociative amnesia is more likely to  occur with 1) a greater number of adverse
+childhood experiences, particularly physical and/or sexual abuse, 2) interpersonal vio-
+lence; and 3) increased severity, frequency, and violence of the trauma. 
+Genetic and physiological. There are no genetic studies of  dissociative amnesia. Stud-
+ies of dissociation report significant genetic an d environmental factors in both clinical and
+nonclinical samples. 
+Course modifiers. Removal from the traumatic circumstances underlying the dissociative
+amnesia (e.g., combat) may bring about a rapid re turn of memory. The memory loss of indi-
+viduals with dissociative fugue may be particularly refractory. Onset of PTSD symptoms may
+decrease localized, selective, or systematized amnesia. The returning memory, however, may
+be experienced as flashbacks that alternate wi th amnesia for the content of the flashbacks. 
+Culture-Related Diagnostic Issues
+In Asia, the Middle East, and Latin America, non-epileptic seizures and other functional
+neurological symptoms may accompany dissociat ive amnesia. In cultur es with highly re-
+strictive social traditions, th e precipitants of dissociative  amnesia often do not involve
+frank trauma. Instead, the amnesia is preceded by severe psychological stresses or con-
+flicts (e.g., marital conflict, other family d isturbances, attachment problems, conflicts due
+to restriction or oppression). 
+Suicide Risk
+Suicidal and other self-destructive behavior s are common in individuals with dissociative
+amnesia. Suicidal behavior may be a particular risk when the amnesia remits suddenly
+and overwhelms the individual  with intolerable memories.
+Functional Consequences of Dissociative Amnesia 
+The impairment of individuals with localized, selective, or systemat ized dissociative am-
+nesia ranges from limited to severe. Individu als with chronic generalized dissociative am-
+nesia usually have impairment in all aspects of functioning. Even when these individuals
+“re-learn” aspects of their life history, au tobiographical memory remains very impaired.
+Most become vocationally an d interpersonally disabled. 
+Differential Diagnosis
+Dissociative identity disorder. Individuals with dissociati ve amnesia may report de-
+personalization and auto-hypnotic symptoms. In dividuals with dissociative identity dis-
+order report pervasive disconti nuities in sense of self and agency, accompanied by many
+other dissociative symptoms. The amnesias of individuals with localized, selective, and/
+or systematized dissociative amnesias are relatively stable. Amnesias in dissociative iden-
+tity disorder include amnesia for everyday events, finding of unexplained possessions,
+sudden fluctuations in skills and knowledge, ma jor gaps in recall of life history, and brief
+amnesic gaps in interpersonal interactions.
+Posttraumatic stress disorder. Some individuals with PTSD cannot recall part or all of
+a specific traumatic event (e.g., a rape victim  with depersonalization and/or derealization
+symptoms who cannot recall most events for the entire day of the rape). When that amne-
+sia extends beyond the immediat e time of the trauma, a comorbid diagnosis of dissociative
+amnesia is warranted. 
+Neurocognitive disorders. In neurocognitive disorders, memory loss for personal infor-
+mation is usually embedded in cognitive, lingu istic, affective, atte ntional, and behavioral
+Dissociative Amnesia 301
+disturbances. In dissociative amnesia, memory  deficits are primarily for autobiographical
+information; intellectual and co gnitive abilities are preserved. 
+Substance-related disorders. In the context of repeated intoxication with alcohol or
+other substances/medications, there may be episod es of “black outs” or periods for which the
+individual has no memory. To aid in distingu ishing these episodes from dissociative am-
+nesia, a longitudinal history noting that the amnestic episodes occur only in the context of
+intoxication and do no t occur in other situations would help identify the source as sub-
+stance-induced; however the distinction may be difficult when the individual with dis-
+sociative amnesia may also misuse alcohol or other substances in the context of stressful
+situations that may also exac erbate dissociative symptoms. Some individuals with comor-
+bid dissociative amnesia and substance use disorders will at tribute their memory prob-
+lems solely to the substance use. Prolonged us e of alcohol or other substances may result in
+a substance-induced neurocognitive disorder that may be associated with impaired cog-
+nitive function, but in this co ntext the protracted history of  substance use and the persis-
+tent deficits associated with the neurocognitive disorder would serve to distinguish it
+from dissociative amnesia, wher e there is typically no evidence of persistent impairment in
+intellectual functioning.
+Posttraumatic amnesia due to brain injury. Amnesia may occur in th e context of a trau-
+matic brain injury (TBI) when th ere has been an impact to th e head or other mechanisms of
+rapid movement or displacement of the brain within the skull TBI. Other characteristics of
+TBI include loss of consciousness, disorientati on and confusion, or, in more severe cases,
+neurological signs (e.g., abnormalities on neuroimaging, a new onset of seizures or a marked
+worsening of a preexisting seizure disorder, visual field cuts, anos mia). A neurocognitive
+disorder attributable to TBI must present either  immediately after brain injury occurs or im-
+mediately after the individual recovers consciousness after th e injury, and persist past the
+acute post-injury period. The cognitive presenta tion of a neurocognitive disorder following
+TBI is variable and includes difficulties in the domains of complex attention, executive func-
+tion, learning and memory as well as slowed speed of information processing and distur-
+bances in social cognition. Th ese additional features help di stinguish it from dissociative
+amnesia. 
+Seizure disorders. Individuals with seizure disorders may exhibit complex behavior dur-
+ing seizures or post-ictally wi th subsequent amnesia. Some individuals with a seizure disorder
+engage in nonpurposive wandering that is lim ited to the period of seizure activity. Con-
+versely, behavior during a di ssociative fugue is usually purposeful, complex, and goal-
+directed and may last for days, weeks, or long er. Occasionally, individuals with a seizure dis-
+order will report that earlier autobiographical me mories have been “wiped out” as the seizure
+disorder progresses. Such  memory loss is not associated with traumatic circumstances and ap-
+pears to occur randomly. Serial electroencepha lograms usually show abnormalities. Telemet-
+ric electroencephalographic monitoring usually shows an association between the episodes of
+amnesia and seizure activity. Dissociativ e and epileptic amnesias may coexist.
+Catatonic stupor. Mutism in catatonic stupor may sugg est dissociative amnesia, but fail-
+ure of recall is absent. Other catatonic symptoms  (e.g., rigidity, post uring, negativism) are
+usually present.
+Factitious disorder and malingering. There is no test, battery of tests, or set of procedures
+that invariably distinguishes dissociative am nesia from feigned amnesia. Individuals with
+factitious disorder or malingering have been noted to continue their deception even during
+hypnotic or barbiturate-facilitated interviews. Feigned amnesia is more common in individ-
+uals with 1) acute, florid dissociative amnesia; 2) financial, sexual, or legal problems; or 3) a
+wish to escape stressful circumstances. True amnesia can be associated with those same cir-
+cumstances. Many individuals who malinger confess spontane ously or when confronted. 
+302 Dissociative Disorders
+Normal and age-related changes in memory. Memory decrements in major and mild
+neurocognitive disorders differ from those of  dissociative amnesia, which are usually as-
+sociated with stressful events and are more specific, extensive, and/or complex.
+Comorbidity
+As dissociative amnesia begins  to remit, a wide variety of  affective phenomena may sur-
+face: dysphoria, grief, rage, shame, guilt, psychological conf lict and turmoil, and suicidal
+and homicidal ideation, impulses, and acts. These individuals may have symptoms that
+then meet diagnostic criteria  for persistent depressive disorder (dysthymia); major de-
+pressive disorder; other specified or unspec ified depressive disord er; adjustment disor-
+der, with depressed mood; or adjustment disorder, with mixed disturbance of emotions
+and conduct. Many individuals with dissociative amnesia develop PTSD at some point
+during their life, especially when the traumatic antecedent s of their amnesia are brought
+into conscious awareness. 
+Many individuals with dissociative amnesia have symptoms that meet diagnostic cri-
+teria for a comorbid somatic symptom or related disorder (and vice versa), including so-
+matic symptom disorder and conversion di sorder (functional neurological symptom
+disorder). Many individuals with dissociative  amnesia have symptoms  that meet diagnos-
+tic criteria for a personality disorder, especially dependent, avoidant, and borderline. 
+Depersonalization/Derealization Disorder
+Diagnostic Criteria 300.6 (F48.1)
+A. The presence of persistent or recurrent experiences of depersonalization, derealiza-
+tion, or both:
+1.Depersonalization:  Experiences of unreality, detachment, or being an outside ob-
+server with respect to one’s thoughts, feelings, sensations, body, or actions (e.g.,
+perceptual alterations, distorted sense of time, unreal or absent self, emotional and/
+or physical numbing).
+2.Derealization:  Experiences of unreality or detachment with respect to surround-
+ings (e.g., individuals or objects are ex perienced as unreal, dreamlike, foggy, life-
+less, or visually distorted).
+B. During the depersonalization or derealization experiences, reality testing remains intact.
+C. The symptoms cause clinically significant distress or impairment in social, occupa-
+tional, or other important areas of functioning.
+D. The disturbance is not attributable to the physiological effects of a substance (e.g., a
+drug of abuse, medication) or another medical condition (e.g., seizures).
+E. The disturbance is not better explained by another mental disorder, such as schizo-
+phrenia, panic disorder, major depressive di sorder, acute stress disorder, posttrau-
+matic stress disorder, or another dissociative disorder.
+Diagnostic Features
+The essential features of depe rsonalization/derealization diso rder are persistent or recur-
+rent episodes of depersonalization, derealization, or both. Episodes of depersonalization
+are characterized by a feeling of unreality or detachment from, or unfamiliarity with, one’s
+whole self or from aspects of the self (Cri terion A1). The indivi dual may feel detached
+from his or her entire being (e.g., “I am no on e,” “I have no self”). He or she may also feel
+subjectively detached from aspects of the self , including feelings (e.g., hypoemotionality:
+Depersonalization/Derealization Disorder 303
+“I know I have feelings but I don’t feel them”), thoughts (e.g., “My thoughts don’t feel like
+my own,” “head filled with cotton ”), whole body or body parts, or sensations (e.g., touch,
+proprioception, hunger, thirst, libido). There may also be a diminished sense of agency
+(e.g., feeling robotic, like an automaton; lacking control of one’s speech or movements).
+The depersonalization experience can sometimes be one of a split self, with one part ob-
+serving and one participating, known as an “o ut-of-body experience” in its most extreme
+form. The unitary symptom of “depersonalization” consists of several symptom factors:
+anomalous body experiences (i.e., unreality of  the self and perceptual alterations); emo-
+tional or physical numbing; an d temporal distortions with anomalous subjective recall. 
+Episodes of derealization are characterize d by a feeling of unreality or detachment
+from, or unfamiliarity with, the world, be it individuals, inanimate objects, or all surround-
+ings (Criterion A2). The individual may feel as if he or she were in a fog, dream, or bubble, or
+as if there were a veil or a glass wall between the individual and world around. Surround-
+ings may be experienced as artificial, colorles s, or lifeless. Derealization is commonly ac-
+companied by subjective visual distortions, su ch as blurriness, heig htened acuity, widened
+or narrowed visual field, two-dimensionalit y or flatness, exaggerated three-dimensional-
+ity, or altered distance or size of objects (i.e ., macropsia or micropsia). Auditory distortions
+can also occur, whereby voices or sounds ar e muted or heightened. In addition, Criterion
+C requires the presence of clinically signific ant distress or impairment in social, occupa-
+tional, or other important areas of functionin g, and Criteria D and E describe exclusionary
+diagnoses. 
+Associated Features Supporting Diagnosis
+Individuals with depersonalization/derealizat ion disorder may have difficulty describ-
+ing their symptoms and may think they are “crazy” or “going crazy”. Another common
+experience is the fear of irreversible brai n damage. A commonly associated symptom is a
+subjectively altered sense of time (i.e., too fast  or too slow), as well as a subjective difficulty
+in vividly recalling past memories and owning  them as personal and emotional. Vague so-
+matic symptoms, such as head fullness, ting ling, or lightheadedne ss, are not uncommon.
+Individuals may suffer extreme rumination or  obsessional preoccupation (e.g., constantly
+obsessing about whether they really exist, or checking their perc eptions to determine
+whether they appear real). Varying degrees of  anxiety and depression are also common as-
+sociated features. Individuals with the disord er have been found to have physiological
+hyporeactivity to emotional stimuli. Neural substrates of interest include the hypotha-
+lamic-pituitary-adrenocortical ax is, inferior parietal lobule, and prefrontal cortical-limbic
+circuits.
+Prevalence
+Transient depersonalization/derealization sy mptoms lasting hours to days are common
+in the general population. The 12-month prev alence of depersonalization/derealization
+disorder is thought to be markedly less than  for transient symptoms, although precise es-
+timates for the disorder are unavailable. In general, approximately one-half of all adults
+have experienced at least one lifetime episode of depersonalization/derealization. How-
+ever, symptomatology that meets full criter ia for depersonalization/derealization disor-
+der is markedly less common than transient sy mptoms. Lifetime prevalence in U.S. and
+non-U.S. countries is approximat ely 2% (range of 0.8% to 2. 8%). The gender ratio for the
+disorder is 1:1.
+Development and Course
+The mean age at onset of depersonalization/derealization disorder is 16 years, although the
+disorder can start in early or middle childhood; a minority cannot recall ever not having had
+304 Dissociative Disorders
+the symptoms. Less than 20% of individuals experience onset after age 20 years and only
+5% after age 25 years. Onset in the fourth decade of life or later is highly unusual. Onset can
+range from extremely sudden to gradual. Du ration of depersonalization/derealization
+disorder episodes can vary greatly, from brief (hours or days) to prolonged (weeks,
+months, or years). Given the rari ty of disorder onset after age 40 years, in such cases the in-
+dividual should be examined more closely fo r underlying medical conditions (e.g., brain
+lesions, seizure disorders, sl eep apnea). The course of the disorder is often persistent.
+About one-third of cases involve discrete episodes; another third, continuous symptoms
+from the start; and still another third, an initially episodic co urse that even tually becomes
+continuous. 
+While in some individuals the intensity of symptoms can wax and wane considerably,
+others report an unwavering level of intensity that in extreme cases can be constantly pres-
+ent for years or decades. Internal and extern al factors that affect  symptom intensity vary
+between individuals, yet some typical pattern s are reported. Exacerbations can be trig-
+gered by stress, worsening mood or anxiety symptoms, novel or over stimulating settings,
+and physical factors such as lighting or lack of sleep. 
+Risk and Prognostic Factors 
+Temperamental. Individuals with depersonalization/ derealization disorder are charac-
+terized by harm-avoidant temperament, imma ture defenses, and both disconnection and
+overconnection schemata. Imma ture defenses such as idea lization/devaluation, projec-
+tion and acting out result in deni al of reality and poor adaptation. Cognitive disconnection
+schemata  reflect defectiveness and emotional inhibi tion and subsume themes of abuse, ne-
+glect, and deprivation. Overconnection schemata  involve impaired autonomy with themes
+of dependency, vulnerability, and incompetence.
+Environmental. There is a clear association between the disorder and childhood interper-
+sonal traumas in a substantial portion of individu als, although this association is not as prev-
+alent or as extreme in the nature of the trau mas as in other dissociative disorders, such as
+dissociative identity disorder. In particular, emotional abuse and emotional neglect have been
+most strongly and consistently associated with  the disorder. Other st ressors can include phys-
+ical abuse; witnessing domestic  violence; growing up with a se riously impaired, mentally ill
+parent; or unexpected de ath or suicide of a family member or close friend. Sexual abuse is a
+much less common antecedent but can be encountered. The most common proximal precipi-
+tants of the disorder are severe stress (interpersonal, financ ial, occupational), depression, anx-
+iety (particularly panic attacks), and illicit drug  use. Symptoms may be specifically induced by
+substances such as tetrahydrocannabinol, ha llucinogens, ketamine, MDMA (3,4-methylene-
+dioxymethamphetamine; “ecstasy ”) and salvia. Marijuana use may precipitate new-onset
+panic attacks and depersonalization/derealization symptoms simultaneously.
+Culture-Related Diagnostic Issues
+Volitionally induced experiences of depersonalization/dereali zation can be a part of med-
+itative practices that are prevalent in many religions and cult ures and should not be diag-
+nosed as a disorder. However, there are in dividuals who initially induce these states
+intentionally but over time lose control over  them and may develop a fear and aversion for
+related practices. 
+Functional Consequences of 
+Depersonalization/De realization Disorder
+Symptoms of depersonalization/derealization disorder are highly distressing and are as-
+sociated with major morbidity. The affectivel y flattened and robotic demeanor that these
+Depersonalization/Derealization Disorder 305
+individuals often demonstrate may appear incongruent with the extreme emotional pain
+reported by those with the disorder. Impairment is often experienced in both interpersonal
+and occupational spheres, largel y due to the hypoemotionality with others, subjective diffi-
+culty in focusing and retaining information, and a general sense of disconnectedness from
+life. 
+Differential Diagnosis
+Illness anxiety disorder. Although individuals with depersonalization/derealization dis-
+order can present with vague somatic complaints as well as fears of permanent brain dam-
+age, the diagnosis of depersonalization/derealization disorder is characterized by the
+presence of a constellation of typical depersonalization/derealization symptoms and the ab-
+sence of other manifestations  of illness anxiety disorder. 
+Major depressive disorder. Feelings of numbness, deadne ss, apathy, and being in a
+dream are not uncommon in major depressive  episodes. However, in depersonalization/
+derealization disorder, such symptoms are a ssociated with further symptoms of the dis-
+order. If the depersonalization/derealization clearly precedes the onset of a major depres-
+sive episode or clearly continues after its resolution, the diagnosis of depersonalization/
+derealization disorder applies. 
+Obsessive-compulsive disorder. Some individuals with depersonalization/dereal-
+ization disorder can become obsessively preo ccupied with their subjective experience or
+develop rituals checking on the status of their symptoms. However, other symptoms of
+obsessive-compulsive disorder  unrelated to depersonali zation/derealization are not
+present. 
+Other dissociative disorders. In order to diagnose depersonalization/derealization
+disorder, the symptoms should not occur in th e context of another dissociative disorder,
+such as dissociative identity disorder. Differentiation from dissociative amnesia and con-
+version disorder (functional neurological sy mptom disorder) is simpler, as the symptoms
+of these disorders do not overlap with those of depersonalization/derealization disorder. 
+Anxiety disorders. Depersonalization/derealization is one of the symptoms of panic at-
+tacks, increasingly common as panic attack severity increases. Therefore, depersonal-
+ization/derealization disorder should not be diagnosed when the symptoms occur only
+during panic attacks that are part of panic disorder, social anxiety disorder, or specific
+phobia. In addition, it is not uncommon for depersonalization/derealization symptoms
+to first begin in the context of new-onset pani c attacks or as panic disorder progresses and
+worsens. In such presentations, the diagno sis of depersonalization/ derealization disorder
+can be made if 1) the depersonalization/de realization component of  the presentation is
+very prominent from the start, clearly exceed ing in duration and intensity the occurrence
+of actual panic attacks; or 2) the depersona lization/derealization continues after panic dis-
+order has remitted or has be en successfully treated. 
+Psychotic disorders. The presence of intact reality testing specifically regarding the
+depersonalization/derealization symptoms is essential to differentiating depersonal-
+ization/derealization disord er from psychotic disorder s. Rarely, positive-symptom
+schizophrenia can pose a diagnostic challenge when nihilistic delusions are present. For
+example, an individual may complain that he or she is dead or the world is not real; this
+could be either a subjective experience that the individual knows is not true or a delusional
+conviction.
+Substance/medication-induced disorders. Depersonalization/dere alization associated
+with the physiological effects of substances duri ng acute intoxication or withdrawal is not
+diagnosed as depersonalization/derealizatio n disorder. The most common precipitating
+substances are the illicit drugs marijuana, hallucinogens, ketamine, ecstasy, and salvia. In
+306 Dissociative Disorders
+about 15% of all cases of depersonalization/derealization disorder, the symptoms are pre-
+cipitated by ingestion of such substances. If the symptoms persist for some time in the ab-
+sence of any further substance or medication  use, the diagnosis of depersonalization/
+derealization disorder applies. This diagnosis is usually easy to establish since the vast ma-
+jority of individuals with this presentation become highly phobic and aversive to the trig-
+gering substance and do not use it again.
+Mental disorders due to another medical condition. Features such as onset after age
+40 years or the presence of atypical symptoms  and course in any individual suggest the
+possibility of an underlying medical condition. In such cases, it is essential to conduct a
+thorough medical and neurological evaluation, which may include standard laboratory
+studies, viral titers, an electroencephalogram, ve stibular testing, visual testing, sleep stud-
+ies, and/or brain imaging. When the suspicion of an underlying seizure disorder proves
+difficult to confirm, an ambulatory electr oencephalogram may be indicated; although
+temporal lobe epilepsy is most commonly implicated, pariet al and frontal lobe epilepsy
+may also be associated.
+Comorbidity
+In a convenience sample of adults recruite d for a number of depersonalization research
+studies, lifetime comorbidities were high for unipolar depressive disorder and for any
+anxiety disorder, with a signific ant proportion of the sample having both disorders. Comor-
+bidity with posttraumatic stress disorder was low. The three most commonly co-occurring
+personality disorders were avoidant, borderline, and ob sessive-compulsive.
+Other Specified Dissociative Disorder
+300.15 (F44.89)
+This category applies to presentations in which symptoms characteristic of a dissociative
+disorder that cause clinically significant distress or impairment in social, occupational, or
+other important areas of functioning predominate but do not meet the full criteria for any of
+the disorders in the dissociative disorders diagnostic class. The other specified dissocia-
+tive disorder category is used in situations in which the clinician chooses to communicate
+the specific reason that the presentation does not meet the criteria for any specific disso-
+ciative disorder. This is done by recording “other specified dissociative disorder” followed
+by the specific reason (e.g., “dissociative trance”).
+Examples of presentations that can be specified using the “other specified” designation
+include the following:
+1.Chronic and recurrent syndromes of  mixed dissociative symptoms:  This cate-
+gory includes identity disturbance associated with less-than-marked discontinuities in
+sense of self and agency, or alterations of identity or episodes of possession in an in-
+dividual who reports no dissociative amnesia. 
+2.Identity disturbance due to prolong ed and intense coercive persuasion:  Individ-
+uals who have been subjected to intense coercive persuasion (e.g., brainwashing,
+thought reform, indoctrination while captive, torture, long-term political imprisonment,
+recruitment by sects/cults or by terror organizations) may present with prolonged
+changes in, or conscious questioning of, their identity.
+3.Acute dissociative reactions to stressful events:  This category is for acute, tran-
+sient conditions that typically last less than 1 month, and sometimes only a few hours
+or days. These conditions are characterized by constriction of consciousness; deper-
+sonalization; derealization; perceptual disturbances (e.g., time slowing, macropsia);
+Unspecified Dissociative Disorder 307
+micro-amnesias; transient stupor; and/or altera tions in sensory-motor functioning (e.g.,
+analgesia, paralysis).
+4.Dissociative trance:  This condition is characterized by an acute narrowing or com-
+plete loss of awareness of immediate surroundings that manifests as profound unre-
+sponsiveness or insensitivity to environmental stimuli. The unresponsiveness may be
+accompanied by minor stereotyped behaviors (e.g., finger movements) of which the in-
+dividual is unaware and/or that he or she cannot control, as well as transient paralysis
+or loss of consciousness. The dissociative trance is not a normal part of a broadly ac-
+cepted collective cultural or religious practice.
+Unspecified Dissociative Disorder
+300.15 (F44.9)
+This category applies to presentations in which symptoms characteristic of a dissociative
+disorder that cause clinically significant distress or impairment in social, occupational, or
+other important areas of functioning predominate but do not meet the full criteria for any of
+the disorders in the dissociative disorders diagnostic class. The unspecified dissociative
+disorder category is used in situations in which the clinician chooses not to specify the rea-
+son that the criteria are not met for a specific dissociative disorder, and includes presen-
+tations for which there is insufficient information to make a more specific diagnosis (e.g.,
+in emergency room settings).
+This page intentionally left blank 

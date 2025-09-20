@@ -1,0 +1,669 @@
+Here are the diagnostic criteria extracted from the provided text:
+
+---
+
+**Substance/Medication-Induced Mental Disorders (General Criteria)**
+
+A. The disorder represents a clinically significant symptomatic presentation of a relevant mental disorder.
+B. There is evidence from the history, physical examination, or laboratory findings of both of the following:
+    1. The disorder developed during or within 1 month of a substance intoxication or withdrawal or taking a medication; and
+    2. The involved substance/medication is capable of producing the mental disorder.
+C. The disorder is not better explained by an independent mental disorder (i.e., one that is not substance- or medication-induced). Such evidence of an independent mental disorder could include the following:
+    1. The disorder preceded the onset of severe intoxication or withdrawal or exposure to the medication; or
+    2. The full mental disorder persisted for a substantial period of time (e.g., at least 1 month) after the cessation of acute withdrawal or severe intoxication or taking the medication. This criterion does not apply to substance-induced neurocognitive disorders or hallucinogen persisting perception disorder, which persist beyond the cessation of acute intoxication or withdrawal.
+D. The disorder does not occur exclusively during the course of a delirium.
+E. The disorder causes clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+
+---
+
+**Alcohol Use Disorder**
+
+A. A problematic pattern of alcohol use leading to clinically significant impairment or distress, as manifested by at least two of the following, occurring within a 12-month period:
+    1. Alcohol is often taken in larger amounts or over a longer period than was intended.
+    2. There is a persistent desire or unsuccessful efforts to cut down or control alcohol use.
+    3. A great deal of time is spent in activities necessary to obtain alcohol, use alcohol, or recover from its effects.
+    4. Craving, or a strong desire or urge to use alcohol.
+    5. Recurrent alcohol use resulting in a failure to fulfill major role obligations at work, school, or home.
+    6. Continued alcohol use despite having persistent or recurrent social or interpersonal problems caused or exacerbated by the effects of alcohol.
+    7. Important social, occupational, or recreational activities are given up or reduced because of alcohol use.
+    8. Recurrent alcohol use in situations in which it is physically hazardous.
+    9. Alcohol use is continued despite knowledge of having a persistent or recurrent physical or psychological problem that is likely to have been caused or exacerbated by alcohol.
+    10. Tolerance, as defined by either of the following:
+        a. A need for markedly increased amounts of alcohol to achieve intoxication or desired effect.
+        b. A markedly diminished effect with continued use of the same amount of alcohol.
+    11. Withdrawal, as manifested by either of the following:
+        a. The characteristic withdrawal syndrome for alcohol (refer to Criteria A and B of the criteria set for alcohol withdrawal, pp. 499–500).
+        b. Alcohol (or a closely related substance, such as a benzodiazepine) is taken to relieve or avoid withdrawal symptoms.
+
+Specify if:
+*   **In early remission:** After full criteria for alcohol use disorder were previously met, none of the criteria for alcohol use disorder have been met for at least 3 months but for less than 12 months (with the exception that Criterion A4, “Craving, or a strong desire or urge to use alcohol,” may be met).
+*   **In sustained remission:** After full criteria for alcohol use disorder were previously met, none of the criteria for alcohol use disorder have been met at any time during a period of 12 months or longer (with the exception that Criterion A4, “Craving, or a strong desire or urge to use alcohol,” may be met).
+*   **In a controlled environment:** This additional specifier is used if the individual is in an environment where access to alcohol is restricted.
+
+Specify current severity:
+*   **Mild:** Presence of 2–3 symptoms.
+*   **Moderate:** Presence of 4–5 symptoms.
+*   **Severe:** Presence of 6 or more symptoms.
+
+---
+
+**Alcohol Intoxication**
+
+A. Recent ingestion of alcohol.
+B. Clinically significant problematic behavioral or psychological changes (e.g., inappropriate sexual or aggressive behavior, mood lability, impaired judgment) that developed during, or shortly after, alcohol ingestion.
+C. One (or more) of the following signs or symptoms developing during, or shortly after, alcohol use:
+    1. Slurred speech.
+    2. Incoordination.
+    3. Unsteady gait.
+    4. Nystagmus.
+    5. Impairment in attention or memory.
+    6. Stupor or coma.
+D. The signs or symptoms are not attributable to another medical condition and are not better explained by another mental disorder, including intoxication with another substance.
+
+---
+
+**Alcohol Withdrawal**
+
+A. Cessation of (or reduction in) alcohol use that has been heavy and prolonged.
+B. Two (or more) of the following, developing within several hours to a few days after the cessation of (or reduction in) alcohol use described in Criterion A:
+    1. Autonomic hyperactivity (e.g., sweating or pulse rate greater than 100 bpm).
+    2. Increased hand tremor.
+    3. Insomnia.
+    4. Nausea or vomiting.
+    5. Transient visual, tactile, or auditory hallucinations or illusions.
+    6. Psychomotor agitation.
+    7. Anxiety.
+    8. Generalized tonic-clonic seizures.
+C. The signs or symptoms in Criterion B cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+D. The signs or symptoms are not attributable to another medical condition and are not better explained by another mental disorder, including intoxication or withdrawal from another substance.
+
+Specify if:
+*   **With perceptual disturbances:** This specifier applies in the rare instance when hallucinations (usually visual or tactile) occur with intact reality testing, or auditory, visual, or tactile illusions occur in the absence of a delirium.
+
+---
+
+**Caffeine Intoxication**
+
+A. Recent consumption of caffeine (typically a high dose well in excess of 250 mg).
+B. Five (or more) of the following signs or symptoms developing during, or shortly after, caffeine use:
+    1. Restlessness.
+    2. Nervousness.
+    3. Excitement.
+    4. Insomnia.
+    5. Flushed face.
+    6. Diuresis.
+    7. Gastrointestinal disturbance.
+    8. Muscle twitching.
+    9. Rambling flow of thought and speech.
+    10. Tachycardia or cardiac arrhythmia.
+    11. Periods of inexhaustibility.
+    12. Psychomotor agitation.
+C. The signs or symptoms in Criterion B cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+D. The signs or symptoms are not attributable to another medical condition and are not better explained by another mental disorder, including intoxication with another substance.
+
+---
+
+**Caffeine Withdrawal**
+
+A. Prolonged daily use of caffeine.
+B. Abrupt cessation of or reduction in caffeine use, followed within 24 hours by three (or more) of the following signs or symptoms:
+    1. Headache.
+    2. Marked fatigue or drowsiness.
+    3. Dysphoric mood, depressed mood, or irritability.
+    4. Difficulty concentrating.
+    5. Flu-like symptoms (nausea, vomiting, or muscle pain/stiffness).
+C. The signs or symptoms in Criterion B cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+D. The signs or symptoms are not associated with the physiological effects of another medical condition (e.g., migraine, viral illness) and are not better explained by another mental disorder, including intoxication or withdrawal from another substance.
+
+---
+
+**Cannabis Use Disorder**
+
+A. A problematic pattern of cannabis use leading to clinically significant impairment or distress, as manifested by at least two of the following, occurring within a 12-month period:
+    1. Cannabis is often taken in larger amounts or over a longer period than was intended.
+    2. There is a persistent desire or unsuccessful efforts to cut down or control cannabis use.
+    3. A great deal of time is spent in activities necessary to obtain cannabis, use cannabis, or recover from its effects.
+    4. Craving, or a strong desire or urge to use cannabis.
+    5. Recurrent cannabis use resulting in a failure to fulfill major role obligations at work, school, or home.
+    6. Continued cannabis use despite having persistent or recurrent social or interpersonal problems caused or exacerbated by the effects of cannabis.
+    7. Important social, occupational, or recreational activities are given up or reduced because of cannabis use.
+    8. Recurrent cannabis use in situations in which it is physically hazardous.
+    9. Cannabis use is continued despite knowledge of having a persistent or recurrent physical or psychological problem that is likely to have been caused or exacerbated by cannabis.
+    10. Tolerance, as defined by either of the following:
+        a. A need for markedly increased amounts of cannabis to achieve intoxication or desired effect.
+        b. Markedly diminished effect with continued use of the same amount of cannabis.
+    11. Withdrawal, as manifested by either of the following:
+        a. The characteristic withdrawal syndrome for cannabis (refer to Criteria A and B of the criteria set for cannabis withdrawal, pp. 517–518).
+        b. Cannabis (or a closely related substance) is taken to relieve or avoid withdrawal symptoms.
+
+Specify if:
+*   **In early remission:** After full criteria for cannabis use disorder were previously met, none of the criteria for cannabis use disorder have been met for at least 3 months but for less than 12 months (with the exception that Criterion A4, “Craving, or a strong desire or urge to use cannabis,” may be met).
+*   **In sustained remission:** After full criteria for cannabis use disorder were previously met, none of the criteria for cannabis use disorder have been met at any time during a period of 12 months or longer (with the exception that Criterion A4, “Craving, or a strong desire or urge to use cannabis,” may be present).
+*   **In a controlled environment:** This additional specifier is used if the individual is in an environment where access to cannabis is restricted.
+
+Specify current severity:
+*   **Mild:** Presence of 2–3 symptoms.
+*   **Moderate:** Presence of 4–5 symptoms.
+*   **Severe:** Presence of 6 or more symptoms.
+
+---
+
+**Cannabis Intoxication**
+
+A. Recent use of cannabis.
+B. Clinically significant problematic behavioral or psychological changes (e.g., impaired motor coordination, euphoria, anxiety, sensation of slowed time, impaired judgment, social withdrawal) that developed during, or shortly after, cannabis use.
+C. Two (or more) of the following signs or symptoms developing within 2 hours of cannabis use:
+    1. Conjunctival injection.
+    2. Increased appetite.
+    3. Dry mouth.
+    4. Tachycardia.
+D. The signs or symptoms are not attributable to another medical condition and are not better explained by another mental disorder, including intoxication with another substance.
+
+Specify if:
+*   **With perceptual disturbances:** Hallucinations with intact reality testing or auditory, visual, or tactile illusions occur in the absence of a delirium.
+
+---
+
+**Cannabis Withdrawal**
+
+A. Cessation of cannabis use that has been heavy and prolonged (i.e., usually daily or almost daily use over a period of at least a few months).
+B. Three (or more) of the following signs and symptoms develop within approximately 1 week after Criterion A:
+    1. Irritability, anger, or aggression.
+    2. Nervousness or anxiety.
+    3. Sleep difficulty (e.g., insomnia, disturbing dreams).
+    4. Decreased appetite or weight loss.
+    5. Restlessness.
+    6. Depressed mood.
+    7. At least one of the following physical symptoms causing significant discomfort: abdominal pain, shakiness/tremors, sweating, fever, chills, or headache.
+C. The signs or symptoms in Criterion B cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+D. The signs or symptoms are not attributable to another medical condition and are not better explained by another mental disorder, including intoxication or withdrawal from another substance.
+
+---
+
+**Phencyclidine Use Disorder**
+
+A. A pattern of phencyclidine (or a pharmacologically similar substance) use leading to clinically significant impairment or distress, as manifested by at least two of the following, occurring within a 12-month period:
+    1. Phencyclidine is often taken in larger amounts or over a longer period than was intended.
+    2. There is a persistent desire or unsuccessful efforts to cut down or control phencyclidine use.
+    3. A great deal of time is spent in activities necessary to obtain phencyclidine, use the phencyclidine, or recover from its effects.
+    4. Craving, or a strong desire or urge to use phencyclidine.
+    5. Recurrent phencyclidine use resulting in a failure to fulfill major role obligations at work, school, or home (e.g., repeated absences from work or poor work performance related to phencyclidine use; phencyclidine-related absences, suspensions, or expulsions from school; neglect of children or household).
+    6. Continued phencyclidine use despite having persistent or recurrent social or interpersonal problems caused or exacerbated by the effects of the phencyclidine (e.g., arguments with a spouse about consequences of intoxication; physical fights).
+    7. Important social, occupational, or recreational activities are given up or reduced because of phencyclidine use.
+    8. Recurrent phencyclidine use in situations in which it is physically hazardous (e.g., driving an automobile or operating a machine when impaired by a phencyclidine).
+    9. Phencyclidine use is continued despite knowledge of having a persistent or recurrent physical or psychological problem that is likely to have been caused or exacerbated by the phencyclidine.
+    10. Tolerance, as defined by either of the following:
+        a. A need for markedly increased amounts of the phencyclidine to achieve intoxication or desired effect.
+        b. A markedly diminished effect with continued use of the same amount of the phencyclidine.
+    Note: Withdrawal symptoms and signs are not established for phencyclidines, and so this criterion does not apply. (Withdrawal from phencyclidines has been reported in animals but not documented in human users.)
+
+Specify if:
+*   **In early remission:** After full criteria for phencyclidine use disorder were previously met, none of the criteria for phencyclidine use disorder have been met for at least 3 months but for less than 12 months (with the exception that Criterion A4, “Craving, or a strong desire or urge to use the phencyclidine,” may be met).
+*   **In sustained remission:** After full criteria for phencyclidine use disorder were previously met, none of the criteria for phencyclidine use disorder have been met at any time during a period of 12 months or longer (with the exception that Criterion A4, “Craving, or a strong desire or urge to use the phencyclidine,” may be met).
+*   **In a controlled environment:** This additional specifier is used if the individual is in an environment where access to phencyclidines is restricted.
+
+Specify current severity:
+*   **Mild:** Presence of 2–3 symptoms.
+*   **Moderate:** Presence of 4–5 symptoms.
+*   **Severe:** Presence of 6 or more symptoms.
+
+---
+
+**Other Hallucinogen Use Disorder**
+
+A. A problematic pattern of hallucinogen (other than phencyclidine) use leading to clinically significant impairment or distress, as manifested by at least two of the following, occurring within a 12-month period:
+    1. The hallucinogen is often taken in larger amounts or over a longer period than was intended.
+    2. There is a persistent desire or unsuccessful efforts to cut down or control hallucinogen use.
+    3. A great deal of time is spent in activities necessary to obtain the hallucinogen, use the hallucinogen, or recover from its effects.
+    4. Craving, or a strong desire or urge to use the hallucinogen.
+    5. Recurrent hallucinogen use resulting in a failure to fulfill major role obligations at work, school, or home (e.g., repeated absences from work or poor work performance related to hallucinogen use; hallucinogen-related absences, suspensions, or expulsions from school; neglect of children or household).
+    6. Continued hallucinogen use despite having persistent or recurrent social or interpersonal problems caused or exacerbated by the effects of the hallucinogen (e.g., arguments with a spouse about consequences of intoxication; physical fights).
+    7. Important social, occupational, or recreational activities are given up or reduced because of hallucinogen use.
+    8. Recurrent hallucinogen use in situations in which it is physically hazardous (e.g., driving an automobile or operating a machine when impaired by the hallucinogen).
+    9. Hallucinogen use is continued despite knowledge of having a persistent or recurrent physical or psychological problem that is likely to have been caused or exacerbated by the hallucinogen.
+    10. Tolerance, as defined by either of the following:
+        a. A need for markedly increased amounts of the hallucinogen to achieve intoxication or desired effect.
+        b. A markedly diminished effect with continued use of the same amount of the hallucinogen.
+    Note: Withdrawal symptoms and signs are not established for hallucinogens, and so this criterion does not apply.
+
+Specify the particular hallucinogen.
+
+Specify if:
+*   **In early remission:** After full criteria for other hallucinogen use disorder were previously met, none of the criteria for other hallucinogen use disorder have been met for at least 3 months but for less than 12 months (with the exception that Criterion A4, “Craving, or a strong desire or urge to use the hallucinogen,” may be met).
+*   **In sustained remission:** After full criteria for other hallucinogen use disorder were previously met, none of the criteria for other hallucinogen use disorder have been met at any time during a period of 12 months or longer (with the exception that Criterion A4, “Craving, or a strong desire or urge to use the hallucinogen,” may be met).
+*   **In a controlled environment:** This additional specifier is used if the individual is in an environment where access to hallucinogens is restricted.
+
+Specify current severity:
+*   **Mild:** Presence of 2–3 symptoms.
+*   **Moderate:** Presence of 4–5 symptoms.
+*   **Severe:** Presence of 6 or more symptoms.
+
+---
+
+**Phencyclidine Intoxication**
+
+A. Recent use of phencyclidine (or a pharmacologically similar substance).
+B. Clinically significant problematic behavioral changes (e.g., belligerence, assaultiveness, impulsiveness, unpredictability, psychomotor agitation, impaired judgment) that developed during, or shortly after, phencyclidine use.
+C. Within 1 hour, two (or more) of the following signs or symptoms:
+    Note: When the drug is smoked, “snorted,” or used intravenously, the onset may be particularly rapid.
+    1. Vertical or horizontal nystagmus.
+    2. Hypertension or tachycardia.
+    3. Numbness or diminished responsiveness to pain.
+    4. Ataxia.
+    5. Dysarthria.
+    6. Muscle rigidity.
+    7. Seizures or coma.
+    8. Hyperacusis.
+D. The signs or symptoms are not attributable to another medical condition and are not better explained by another mental disorder, including intoxication with another substance.
+
+---
+
+**Other Hallucinogen Intoxication**
+
+A. Recent use of a hallucinogen (other than phencyclidine).
+B. Clinically significant problematic behavioral or psychological changes (e.g., marked anxiety or depression, ideas of reference, fear of “losing one’s mind,” paranoid ideation, impaired judgment) that developed during, or shortly after, hallucinogen use.
+C. Perceptual changes occurring in a state of full wakefulness and alertness (e.g., subjective intensification of perceptions, depersonalization, derealization, illusions, hallucinations, synesthesias) that developed during, or shortly after, hallucinogen use.
+D. Two (or more) of the following signs developing during, or shortly after, hallucinogen use:
+    1. Pupillary dilation.
+    2. Tachycardia.
+    3. Sweating.
+    4. Palpitations.
+    5. Blurring of vision.
+    6. Tremors.
+    7. Incoordination.
+E. The signs or symptoms are not attributable to another medical condition and are not better explained by another mental disorder, including intoxication with another substance.
+
+---
+
+**Hallucinogen Persisting Perception Disorder**
+
+A. Following cessation of use of a hallucinogen, the reexperiencing of one or more of the perceptual symptoms that were experienced while intoxicated with the hallucinogen (e.g., geometric hallucinations, false perceptions of movement in the peripheral visual fields, flashes of color, intensified colors, trails of images of moving objects, positive afterimages, halos around objects, macropsia and micropsia).
+B. The symptoms in Criterion A cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+C. The symptoms are not attributable to another medical condition (e.g., anatomical lesions and infections of the brain, visual epilepsies) and are not better explained by another mental disorder (e.g., delirium, major neurocognitive disorder, schizophrenia) or hypnopompic hallucinations.
+
+---
+
+**Inhalant Use Disorder**
+
+A. A problematic pattern of use of a hydrocarbon-based inhalant substance leading to clinically significant impairment or distress, as manifested by at least two of the following, occurring within a 12-month period:
+    1. The inhalant substance is often taken in larger amounts or over a longer period than was intended.
+    2. There is a persistent desire or unsuccessful efforts to cut down or control use of the inhalant substance.
+    3. A great deal of time is spent in activities necessary to obtain the inhalant substance, use it, or recover from its effects.
+    4. Craving, or a strong desire or urge to use the inhalant substance.
+    5. Recurrent use of the inhalant substance resulting in a failure to fulfill major role obligations at work, school, or home.
+    6. Continued use of the inhalant substance despite having persistent or recurrent social or interpersonal problems caused or exacerbated by the effects of its use.
+    7. Important social, occupational, or recreational activities are given up or reduced because of use of the inhalant substance.
+    8. Recurrent use of the inhalant substance in situations in which it is physically hazardous.
+    9. Use of the inhalant substance is continued despite knowledge of having a persistent or recurrent physical or psychological problem that is likely to have been caused or exacerbated by the substance.
+    10. Tolerance, as defined by either of the following:
+        a. A need for markedly increased amounts of the inhalant substance to achieve intoxication or desired effect.
+        b. A markedly diminished effect with continued use of the same amount of the inhalant substance.
+
+Specify the particular inhalant: When possible, the particular substance involved should be named (e.g., “solvent use disorder”).
+
+Specify if:
+*   **In early remission:** After full criteria for inhalant use disorder were previously met, none of the criteria for inhalant use disorder have been met for at least 3 months but for less than 12 months (with the exception that Criterion A4, “Craving, or a strong desire or urge to use the inhalant substance,” may be met).
+*   **In sustained remission:** After full criteria for inhalant use disorder were previously met, none of the criteria for inhalant use disorder have been met at any time during a period of 12 months or longer (with the exception that Criterion A4, “Craving, or a strong desire or urge to use the inhalant substance,” may be met).
+*   **In a controlled environment:** This additional specifier is used if the individual is in an environment where access to inhalant substances is restricted.
+
+Specify current severity:
+*   **Mild:** Presence of 2–3 symptoms.
+*   **Moderate:** Presence of 4–5 symptoms.
+*   **Severe:** Presence of 6 or more symptoms.
+
+---
+
+**Inhalant Intoxication**
+
+A. Recent intended or unintended short-term, high-dose exposure to inhalant substances, including volatile hydrocarbons such as toluene or gasoline.
+B. Clinically significant problematic behavioral or psychological changes (e.g., belligerence, assaultiveness, apathy, impaired judgment) that developed during, or shortly after, exposure to inhalants.
+C. Two (or more) of the following signs or symptoms developing during, or shortly after, inhalant use or exposure:
+    1. Dizziness.
+    2. Nystagmus.
+    3. Incoordination.
+    4. Slurred speech.
+    5. Unsteady gait.
+    6. Lethargy.
+    7. Depressed reflexes.
+    8. Psychomotor retardation.
+    9. Tremor.
+    10. Generalized muscle weakness.
+    11. Blurred vision or diplopia.
+    12. Stupor or coma.
+    13. Euphoria.
+D. The signs or symptoms are not attributable to another medical condition and are not better explained by another mental disorder, including intoxication with another substance.
+
+---
+
+**Opioid Use Disorder**
+
+A. A problematic pattern of opioid use leading to clinically significant impairment or distress, as manifested by at least two of the following, occurring within a 12-month period:
+    1. Opioids are often taken in larger amounts or over a longer period than was intended.
+    2. There is a persistent desire or unsuccessful efforts to cut down or control opioid use.
+    3. A great deal of time is spent in activities necessary to obtain the opioid, use the opioid, or recover from its effects.
+    4. Craving, or a strong desire or urge to use opioids.
+    5. Recurrent opioid use resulting in a failure to fulfill major role obligations at work, school, or home.
+    6. Continued opioid use despite having persistent or recurrent social or interpersonal problems caused or exacerbated by the effects of opioids.
+    7. Important social, occupational, or recreational activities are given up or reduced because of opioid use.
+    8. Recurrent opioid use in situations in which it is physically hazardous.
+    9. Continued opioid use despite knowledge of having a persistent or recurrent physical or psychological problem that is likely to have been caused or exacerbated by the substance.
+    10. Tolerance, as defined by either of the following:
+        a. A need for markedly increased amounts of opioids to achieve intoxication or desired effect.
+        b. A markedly diminished effect with continued use of the same amount of an opioid.
+    Note: This criterion is not considered to be met for those taking opioids solely under appropriate medical supervision.
+    11. Withdrawal, as manifested by either of the following:
+        a. The characteristic opioid withdrawal syndrome (refer to Criteria A and B of the criteria set for opioid withdrawal, pp. 547–548).
+        b. Opioids (or a closely related substance) are taken to relieve or avoid withdrawal symptoms.
+    Note: This criterion is not considered to be met for those individuals taking opioids solely under appropriate medical supervision.
+
+Specify if:
+*   **In early remission:** After full criteria for opioid use disorder were previously met, none of the criteria for opioid use disorder have been met for at least 3 months but for less than 12 months (with the exception that Criterion A4, “Craving, or a strong desire or urge to use opioids,” may be met).
+*   **In sustained remission:** After full criteria for opioid use disorder were previously met, none of the criteria for opioid use disorder have been met at any time during a period of 12 months or longer (with the exception that Criterion A4, “Craving, or a strong desire or urge to use opioids,” may be met).
+*   **On maintenance therapy:** This additional specifier is used if the individual is taking a prescribed agonist medication such as methadone or buprenorphine and none of the criteria for opioid use disorder have been met for that class of medication (except tolerance to, or withdrawal from, the agonist). This category also applies to those individuals being maintained on a partial agonist, an agonist/antagonist, or a full antagonist such as oral naltrexone or depot naltrexone.
+*   **In a controlled environment:** This additional specifier is used if the individual is in an environment where access to opioids is restricted.
+
+Specify current severity:
+*   **Mild:** Presence of 2–3 symptoms.
+*   **Moderate:** Presence of 4–5 symptoms.
+*   **Severe:** Presence of 6 or more symptoms.
+
+---
+
+**Opioid Intoxication**
+
+A. Recent use of an opioid.
+B. Clinically significant problematic behavioral or psychological changes (e.g., initial euphoria followed by apathy, dysphoria, psychomotor agitation or retardation, impaired judgment) that developed during, or shortly after, opioid use.
+C. Pupillary constriction (or pupillary dilation due to anoxia from severe overdose) and one (or more) of the following signs or symptoms developing during, or shortly after, opioid use:
+    1. Drowsiness or coma.
+    2. Slurred speech.
+    3. Impairment in attention or memory.
+D. The signs or symptoms are not attributable to another medical condition and are not better explained by another mental disorder, including intoxication with another substance.
+
+Specify if:
+*   **With perceptual disturbances:** This specifier may be noted in the rare instance in which hallucinations with intact reality testing or auditory, visual, or tactile illusions occur in the absence of a delirium.
+
+---
+
+**Opioid Withdrawal**
+
+A. Presence of either of the following:
+    1. Cessation of (or reduction in) opioid use that has been heavy and prolonged (i.e., several weeks or longer).
+    2. Administration of an opioid antagonist after a period of opioid use.
+B. Three (or more) of the following developing within minutes to several days after Criterion A:
+    1. Dysphoric mood.
+    2. Nausea or vomiting.
+    3. Muscle aches.
+    4. Lacrimation or rhinorrhea.
+    5. Pupillary dilation, piloerection, or sweating.
+    6. Diarrhea.
+    7. Yawning.
+    8. Fever.
+    9. Insomnia.
+C. The signs or symptoms in Criterion B cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+D. The signs or symptoms are not attributable to another medical condition and are not better explained by another mental disorder, including intoxication or withdrawal from another substance.
+
+---
+
+**Sedative, Hypnotic, or Anxiolytic Use Disorder**
+
+A. A problematic pattern of sedative, hypnotic, or anxiolytic use leading to clinically significant impairment or distress, as manifested by at least two of the following, occurring within a 12-month period:
+    1. Sedatives, hypnotics, or anxiolytics are often taken in larger amounts or over a longer period than was intended.
+    2. There is a persistent desire or unsuccessful efforts to cut down or control sedative, hypnotic, or anxiolytic use.
+    3. A great deal of time is spent in activities necessary to obtain the sedative, hypnotic, or anxiolytic; use the sedative, hypnotic, or anxiolytic; or recover from its effects.
+    4. Craving, or a strong desire or urge to use the sedative, hypnotic, or anxiolytic.
+    5. Recurrent sedative, hypnotic, or anxiolytic use resulting in a failure to fulfill major role obligations at work, school, or home (e.g., repeated absences from work or poor work performance related to sedative, hypnotic, or anxiolytic use; sedative-, hypnotic-, or anxiolytic-related absences, suspensions, or expulsions from school; neglect of children or household).
+    6. Continued sedative, hypnotic, or anxiolytic use despite having persistent or recurrent social or interpersonal problems caused or exacerbated by the effects of sedatives, hypnotics, or anxiolytics (e.g., arguments with a spouse about consequences of intoxication; physical fights).
+    7. Important social, occupational, or recreational activities are given up or reduced because of sedative, hypnotic, or anxiolytic use.
+    8. Recurrent sedative, hypnotic, or anxiolytic use in situations in which it is physically hazardous (e.g., driving an automobile or operating a machine when impaired by sedative, hypnotic, or anxiolytic use).
+    9. Sedative, hypnotic, or anxiolytic use is continued despite knowledge of having a persistent or recurrent physical or psychological problem that is likely to have been caused or exacerbated by the sedative, hypnotic, or anxiolytic.
+    10. Tolerance, as defined by either of the following:
+        a. A need for markedly increased amounts of the sedative, hypnotic, or anxiolytic to achieve intoxication or desired effect.
+        b. A markedly diminished effect with continued use of the same amount of the sedative, hypnotic, or anxiolytic.
+    Note: This criterion is not considered to be met for individuals taking sedatives, hypnotics, or anxiolytics under medical supervision.
+    11. Withdrawal, as manifested by either of the following:
+        a. The characteristic withdrawal syndrome for sedatives, hypnotics, or anxiolytics (refer to Criteria A and B of the criteria set for sedative, hypnotic, or anxiolytic withdrawal, pp. 557–558).
+        b. Sedatives, hypnotics, or anxiolytics (or a closely related substance, such as alcohol) are taken to relieve or avoid withdrawal symptoms.
+    Note: This criterion is not considered to be met for individuals taking sedatives, hypnotics, or anxiolytics under medical supervision.
+
+Specify if:
+*   **In early remission:** After full criteria for sedative, hypnotic, or anxiolytic use disorder were previously met, none of the criteria for sedative, hypnotic, or anxiolytic use disorder have been met for at least 3 months but for less than 12 months (with the exception that Criterion A4, “Craving, or a strong desire or urge to use the sedative, hypnotic, or anxiolytic,” may be met).
+*   **In sustained remission:** After full criteria for sedative, hypnotic, or anxiolytic use disorder were previously met, none of the criteria for sedative, hypnotic, or anxiolytic use disorder have been met at any time during a period of 12 months or longer (with the exception that Criterion A4, “Craving, or a strong desire or urge to use the sedative, hypnotic, or anxiolytic,” may be met).
+*   **In a controlled environment:** This additional specifier is used if the individual is in an environment where access to sedatives, hypnotics, or anxiolytics is restricted.
+
+Specify current severity:
+*   **Mild:** Presence of 2–3 symptoms.
+*   **Moderate:** Presence of 4–5 symptoms.
+*   **Severe:** Presence of 6 or more symptoms.
+
+---
+
+**Sedative, Hypnotic, or Anxiolytic Intoxication**
+
+A. Recent use of a sedative, hypnotic, or anxiolytic.
+B. Clinically significant maladaptive behavioral or psychological changes (e.g., inappropriate sexual or aggressive behavior, mood lability, impaired judgment) that developed during, or shortly after, sedative, hypnotic, or anxiolytic use.
+C. One (or more) of the following signs or symptoms developing during, or shortly after, sedative, hypnotic, or anxiolytic use:
+    1. Slurred speech.
+    2. Incoordination.
+    3. Unsteady gait.
+    4. Nystagmus.
+    5. Impairment in cognition (e.g., attention, memory).
+    6. Stupor or coma.
+D. The signs or symptoms are not attributable to another medical condition and are not better explained by another mental disorder, including intoxication with another substance.
+
+---
+
+**Sedative, Hypnotic, or Anxiolytic Withdrawal**
+
+A. Cessation of (or reduction in) sedative, hypnotic, or anxiolytic use that has been prolonged.
+B. Two (or more) of the following, developing within several hours to a few days after the cessation of (or reduction in) sedative, hypnotic, or anxiolytic use described in Criterion A:
+    1. Autonomic hyperactivity (e.g., sweating or pulse rate greater than 100 bpm).
+    2. Hand tremor.
+    3. Insomnia.
+    4. Nausea or vomiting.
+    5. Transient visual, tactile, or auditory hallucinations or illusions.
+    6. Psychomotor agitation.
+    7. Anxiety.
+    8. Grand mal seizures.
+C. The signs or symptoms in Criterion B cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+D. The signs or symptoms are not attributable to another medical condition and are not better explained by another mental disorder, including intoxication or withdrawal from another substance.
+
+Specify if:
+*   **With perceptual disturbances:** This specifier may be noted when hallucinations with intact reality testing or auditory, visual, or tactile illusions occur in the absence of a delirium.
+
+---
+
+**Stimulant Use Disorder**
+
+A. A pattern of amphetamine-type substance, cocaine, or other stimulant use leading to clinically significant impairment or distress, as manifested by at least two of the following, occurring within a 12-month period:
+    1. The stimulant is often taken in larger amounts or over a longer period than was intended.
+    2. There is a persistent desire or unsuccessful efforts to cut down or control stimulant use.
+    3. A great deal of time is spent in activities necessary to obtain the stimulant, use the stimulant, or recover from its effects.
+    4. Craving, or a strong desire or urge to use the stimulant.
+    5. Recurrent stimulant use resulting in a failure to fulfill major role obligations at work, school, or home.
+    6. Continued stimulant use despite having persistent or recurrent social or interpersonal problems caused or exacerbated by the effects of the stimulant.
+    7. Important social, occupational, or recreational activities are given up or reduced because of stimulant use.
+    8. Recurrent stimulant use in situations in which it is physically hazardous.
+    9. Stimulant use is continued despite knowledge of having a persistent or recurrent physical or psychological problem that is likely to have been caused or exacerbated by the stimulant.
+    10. Tolerance, as defined by either of the following:
+        a. A need for markedly increased amounts of the stimulant to achieve intoxication or desired effect.
+        b. A markedly diminished effect with continued use of the same amount of the stimulant.
+    Note: This criterion is not considered to be met for those taking stimulant medications solely under appropriate medical supervision, such as medications for attention-deficit/hyperactivity disorder or narcolepsy.
+    11. Withdrawal, as manifested by either of the following:
+        a. The characteristic withdrawal syndrome for the stimulant (refer to Criteria A and B of the criteria set for stimulant withdrawal, p. 569).
+        b. The stimulant (or a closely related substance) is taken to relieve or avoid withdrawal symptoms.
+    Note: This criterion is not considered to be met for those taking stimulant medications solely under appropriate medical supervision, such as medications for attention-deficit/hyperactivity disorder or narcolepsy.
+
+Specify if:
+*   **In early remission:** After full criteria for stimulant use disorder were previously met, none of the criteria for stimulant use disorder have been met for at least 3 months but for less than 12 months (with the exception that Criterion A4, “Craving, or a strong desire or urge to use the stimulant,” may be met).
+*   **In sustained remission:** After full criteria for stimulant use disorder were previously met, none of the criteria for stimulant use disorder have been met at any time during a period of 12 months or longer (with the exception that Criterion A4, “Craving, or a strong desire or urge to use the stimulant,” may be met).
+*   **In a controlled environment:** This additional specifier is used if the individual is in an environment where access to stimulants is restricted.
+
+Specify current severity:
+*   **Mild:** Presence of 2–3 symptoms.
+*   **Moderate:** Presence of 4–5 symptoms.
+*   **Severe:** Presence of 6 or more symptoms.
+
+---
+
+**Stimulant Intoxication**
+
+A. Recent use of an amphetamine-type substance, cocaine, or other stimulant.
+B. Clinically significant problematic behavioral or psychological changes (e.g., euphoria or affective blunting; changes in sociability; hypervigilance; interpersonal sensitivity; anxiety, tension, or anger; stereotyped behaviors; impaired judgment) that developed during, or shortly after, use of a stimulant.
+C. Two (or more) of the following signs or symptoms, developing during, or shortly after, stimulant use:
+    1. Tachycardia or bradycardia.
+    2. Pupillary dilation.
+    3. Elevated or lowered blood pressure.
+    4. Perspiration or chills.
+    5. Nausea or vomiting.
+    6. Evidence of weight loss.
+    7. Psychomotor agitation or retardation.
+    8. Muscular weakness, respiratory depression, chest pain, or cardiac arrhythmias.
+    9. Confusion, seizures, dyskinesias, dystonias, or coma.
+D. The signs or symptoms are not attributable to another medical condition and are not better explained by another mental disorder, including intoxication with another substance.
+
+Specify the specific intoxicant (i.e., amphetamine-type substance, cocaine, or other stimulant).
+
+Specify if:
+*   **With perceptual disturbances:** This specifier may be noted when hallucinations with intact reality testing or auditory, visual, or tactile illusions occur in the absence of a delirium.
+
+---
+
+**Stimulant Withdrawal**
+
+A. Cessation of (or reduction in) prolonged amphetamine-type substance, cocaine, or other stimulant use.
+B. Dysphoric mood and two (or more) of the following physiological changes, developing within a few hours to several days after Criterion A:
+    1. Fatigue.
+    2. Vivid, unpleasant dreams.
+    3. Insomnia or hypersomnia.
+    4. Increased appetite.
+    5. Psychomotor retardation or agitation.
+C. The signs or symptoms in Criterion B cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+D. The signs or symptoms are not attributable to another medical condition and are not better explained by another mental disorder, including intoxication or withdrawal from another substance.
+
+Specify the specific substance that causes the withdrawal syndrome (i.e., amphetamine-type substance, cocaine, or other stimulant).
+
+---
+
+**Tobacco Use Disorder**
+
+A. A problematic pattern of tobacco use leading to clinically significant impairment or distress, as manifested by at least two of the following, occurring within a 12-month period:
+    1. Tobacco is often taken in larger amounts or over a longer period than was intended.
+    2. There is a persistent desire or unsuccessful efforts to cut down or control tobacco use.
+    3. A great deal of time is spent in activities necessary to obtain or use tobacco.
+    4. Craving, or a strong desire or urge to use tobacco.
+    5. Recurrent tobacco use resulting in a failure to fulfill major role obligations at work, school, or home (e.g., interference with work).
+    6. Continued tobacco use despite having persistent or recurrent social or interpersonal problems caused or exacerbated by the effects of tobacco (e.g., arguments with others about tobacco use).
+    7. Important social, occupational, or recreational activities are given up or reduced because of tobacco use.
+    8. Recurrent tobacco use in situations in which it is physically hazardous (e.g., smoking in bed).
+    9. Tobacco use is continued despite knowledge of having a persistent or recurrent physical or psychological problem that is likely to have been caused or exacerbated by tobacco.
+    10. Tolerance, as defined by either of the following:
+        a. A need for markedly increased amounts of tobacco to achieve the desired effect.
+        b. A markedly diminished effect with continued use of the same amount of tobacco.
+    11. Withdrawal, as manifested by either of the following:
+        a. The characteristic withdrawal syndrome for tobacco (refer to Criteria A and B of the criteria set for tobacco withdrawal).
+        b. Tobacco (or a closely related substance, such as nicotine) is taken to relieve or avoid withdrawal symptoms.
+
+Specify if:
+*   **In early remission:** After full criteria for tobacco use disorder were previously met, none of the criteria for tobacco use disorder have been met for at least 3 months but for less than 12 months (with the exception that Criterion A4, “Craving, or a strong desire or urge to use tobacco,” may be met).
+*   **In sustained remission:** After full criteria for tobacco use disorder were previously met, none of the criteria for tobacco use disorder have been met at any time during a period of 12 months or longer (with the exception that Criterion A4, “Craving, or a strong desire or urge to use tobacco,” may be met).
+*   **On maintenance therapy:** The individual is taking a long-term maintenance medication, such as nicotine replacement medication, and no criteria for tobacco use disorder have been met for that class of medication (except tolerance to, or withdrawal from, the nicotine replacement medication).
+*   **In a controlled environment:** This additional specifier is used if the individual is in an environment where access to tobacco is restricted.
+
+Specify current severity:
+*   **Mild:** Presence of 2–3 symptoms.
+*   **Moderate:** Presence of 4–5 symptoms.
+*   **Severe:** Presence of 6 or more symptoms.
+
+---
+
+**Tobacco Withdrawal**
+
+A. Daily use of tobacco for at least several weeks.
+B. Abrupt cessation of tobacco use, or reduction in the amount of tobacco used, followed within 24 hours by four (or more) of the following signs or symptoms:
+    1. Irritability, frustration, or anger.
+    2. Anxiety.
+    3. Difficulty concentrating.
+    4. Increased appetite.
+    5. Restlessness.
+    6. Depressed mood.
+    7. Insomnia.
+C. The signs or symptoms in Criterion B cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+D. The signs or symptoms are not attributed to another medical condition and are not better explained by another mental disorder, including intoxication or withdrawal from another substance.
+
+---
+
+**Other (or Unknown) Substance Use Disorder**
+
+A. A problematic pattern of use of an intoxicating substance not able to be classified within the alcohol; caffeine; cannabis; hallucinogen (phencyclidine and others); inhalant; opioid; sedative, hypnotic, or anxiolytic; stimulant; or tobacco categories and leading to clinically significant impairment or distress, as manifested by at least two of the following, occurring within a 12-month period:
+    1. The substance is often taken in larger amounts or over a longer period than was intended.
+    2. There is a persistent desire or unsuccessful efforts to cut down or control use of the substance.
+    3. A great deal of time is spent in activities necessary to obtain the substance, use the substance, or recover from its effects.
+    4. Craving, or a strong desire or urge to use the substance.
+    5. Recurrent use of the substance resulting in a failure to fulfill major role obligations at work, school, or home.
+    6. Continued use of the substance despite having persistent or recurrent social or interpersonal problems caused or exacerbated by the effects of its use.
+    7. Important social, occupational, or recreational activities are given up or reduced because of use of the substance.
+    8. Recurrent use of the substance in situations in which it is physically hazardous.
+    9. Use of the substance is continued despite knowledge of having a persistent or recurrent physical or psychological problem that is likely to have been caused or exacerbated by the substance.
+    10. Tolerance, as defined by either of the following:
+        a. A need for markedly increased amounts of the substance to achieve intoxication or desired effect.
+        b. A markedly diminished effect with continued use of the same amount of the substance.
+    11. Withdrawal, as manifested by either of the following:
+        a. The characteristic withdrawal syndrome for other (or unknown) substance (refer to Criteria A and B of the criteria sets for other [or unknown] substance withdrawal, p. 583).
+        b. The substance (or a closely related substance) is taken to relieve or avoid withdrawal symptoms.
+
+Specify if:
+*   **In early remission:** After full criteria for other (or unknown) substance use disorder were previously met, none of the criteria for other (or unknown) substance use disorder have been met for at least 3 months but for less than 12 months (with the exception that Criterion A4, “Craving, or a strong desire or urge to use the substance,” may be met).
+*   **In sustained remission:** After full criteria for other (or unknown) substance use disorder were previously met, none of the criteria for other (or unknown) substance use disorder have been met at any time during a period of 12 months or longer (with the exception that Criterion A4, “Craving, or a strong desire or urge to use the substance,” may be met).
+*   **In a controlled environment:** This additional specifier is used if the individual is in an environment where access to the substance is restricted.
+
+Specify current severity:
+*   **Mild:** Presence of 2–3 symptoms.
+*   **Moderate:** Presence of 4–5 symptoms.
+*   **Severe:** Presence of 6 or more symptoms.
+
+---
+
+**Other (or Unknown) Substance Intoxication**
+
+A. The development of a reversible substance-specific syndrome attributable to recent ingestion of (or exposure to) a substance that is not listed elsewhere or is unknown.
+B. Clinically significant problematic behavioral or psychological changes that are attributable to the effect of the substance on the central nervous system (e.g., impaired motor coordination, psychomotor agitation or retardation, euphoria, anxiety, belligerence, mood lability, cognitive impairment, impaired judgment, social withdrawal) and develop during, or shortly after, use of the substance.
+C. The signs or symptoms are not attributable to another medical condition and are not better explained by another mental disorder, including intoxication with another substance.
+
+---
+
+**Other (or Unknown) Substance Withdrawal**
+
+A. Cessation of (or reduction in) use of a substance that has been heavy and prolonged.
+B. The development of a substance-specific syndrome shortly after the cessation of (or reduction in) substance use.
+C. The substance-specific syndrome causes clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+D. The signs or symptoms are not attributable to another medical condition and are not better explained by another mental disorder, including withdrawal from another substance.
+E. The substance involved cannot be classified under any of the other substance categories (alcohol; caffeine; cannabis; opioids; sedatives, hypnotics, or anxiolytics; stimulants; or tobacco) or is unknown.
+
+---
+
+**Gambling Disorder**
+
+A. Persistent and recurrent problematic gambling behavior leading to clinically significant impairment or distress, as indicated by the individual exhibiting four (or more) of the following in a 12-month period:
+    1. Needs to gamble with increasing amounts of money in order to achieve the desired excitement.
+    2. Is restless or irritable when attempting to cut down or stop gambling.
+    3. Has made repeated unsuccessful efforts to control, cut back, or stop gambling.
+    4. Is often preoccupied with gambling (e.g., having persistent thoughts of reliving past gambling experiences, handicapping or planning the next venture, thinking of ways to get money with which to gamble).
+    5. Often gambles when feeling distressed (e.g., helpless, guilty, anxious, depressed).
+    6. After losing money gambling, often returns another day to get even (“chasing” one’s losses).
+    7. Lies to conceal the extent of involvement with gambling.
+    8. Has jeopardized or lost a significant relationship, job, or educational or career opportunity because of gambling.
+    9. Relies on others to provide money to relieve desperate financial situations caused by gambling.
+B. The gambling behavior is not better explained by a manic episode.
+
+Specify if:
+*   **Episodic:** Meeting diagnostic criteria at more than one time point, with symptoms subsiding between periods of gambling disorder for at least several months.
+*   **Persistent:** Experiencing continuous symptoms, to meet diagnostic criteria for multiple years.
+
+Specify if:
+*   **In early remission:** After full criteria for gambling disorder were previously met, none of the criteria for gambling disorder have been met for at least 3 months but for less than 12 months.
+*   **In sustained remission:** After full criteria for gambling disorder were previously met, none of the criteria for gambling disorder have been met during a period of 12 months or longer.
+
+Specify current severity:
+*   **Mild:** 4–5 criteria met.
+*   **Moderate:** 6–7 criteria met.
+*   **Severe:** 8–9 criteria met.

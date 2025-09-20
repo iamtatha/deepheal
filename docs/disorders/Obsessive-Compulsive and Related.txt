@@ -1,0 +1,1426 @@
+235 Obsessive-Compulsive and
+Related Disorders
+Obsessive-compulsive  and related disorders in clude obsessive-compulsive
+disorder (OCD), body dysmor phic disorder, hoarding diso rder, trichotillomania (hair-
+pulling disorder), excoriation (skin-picking) disorder, substance/medication-induced ob-
+sessive-compulsive and related disorder, obsessive-compulsive and related disorder due
+to another medical condition, and other spec ified obsessive-compulsive and related dis-
+order and unspecified obsessive-compulsive and related disorder (e.g ., body-focused re-
+petitive behavior disorder, obsessional jealousy).
+OCD is characterized by the presence of obsessions and/or compulsions. Obsessions
+are recurrent and persistent th oughts, urges, or images that are experienced as intrusive
+and unwanted, whereas compulsions  are repetitive behaviors or mental acts that an indi-
+vidual feels driven to perform in response to  an obsession or according to rules that must
+be applied rigidly. Some other obsessive-comp ulsive and related disorders are also char-
+acterized by preoccupations and by repetitive behaviors or mental acts in response to the
+preoccupations. Other obsessive-compulsive and related disorders are characterized pri-
+marily by recurrent body -focused repetitive behaviors (e.g.,  hair pulling, sk in picking) and
+repeated attempts to decrease or stop the behaviors.
+The inclusion of a chapter on  obsessive-compulsive and rela ted disorders in DSM-5 re-
+flects the increasing evidence of these disorders’ relatedness to one an other in terms of a
+range of diagnostic validators as well as the c linical utility of grouping these disorders in
+the same chapter. Clinicians are encouraged to  screen for these cond itions in individuals
+who present with one of them and be aware of overlaps between these conditions. At the
+same time, there are important differences in  diagnostic validators and treatment ap-
+proaches across these disorders. Moreover, there are close relationships between the anx-
+iety disorders and some of the obsessive-compulsive and related disorders (e.g., OCD),
+which is reflected in the sequence of DSM-5 chapters, with obsessive-compulsive and re-
+lated disorders following anxiety disorders. 
+The obsessive-compulsive and related diso rders differ from developmentally norma-
+tive preoccupations and rituals by being exce ssive or persisting beyond developmentally
+appropriate periods. The distinction between the presence of subclinical symptoms and a
+clinical disorder requires assessment of a nu mber of factors, including the individual’s
+level of distress and impa irment in functioning. 
+The chapter begins with OCD. It then co vers body dysmorphic disorder and hoarding
+disorder, which are characterized by cognit ive symptoms such as perceived defects or
+flaws in physical appearance or the perceived need to save possessions, respectively. The
+chapter then covers trichotillomania (hair-pulling disorder) and excoriation (skin-picking)
+disorder, which are characterized by recurrent body-focused repetitive behaviors. Finally,
+it covers substance/medication-induced obsessive-compulsive an d related disorder,
+obsessive-compulsive and relate d disorder due to another me dical condition, and other
+specified obsessive-compulsive and related disorder and unspecified obsessive-compul-
+sive and related disorder.
+While the specific content of obsessions and compulsions varies among individuals,
+certain symptom dimensions are common in OCD, including th ose of cleaning (contami-
+nation obsessions and cleaning compulsions); symmetry (symmetry obsessions and repeat-
+236 Obsessive-Compulsive and Related Disorders
+ing, ordering, and counting compulsions); fo rbidden or taboo thoug hts (e.g., aggressive,
+sexual, and religious obsessions and related co mpulsions); and harm (e .g., fears of harm to
+oneself or others and related checking comp ulsions). The tic-related specifier of OCD is
+used when an individual has a curren t or past history of a tic disorder.
+Body dysmorphic disorder is characterize d by preoccupation with one or more per-
+ceived defects or flaws in physical appearance that are not observable or appear only slight
+to others, and by repetitive  behaviors (e.g., mirror checking, excessive grooming, skin
+picking, or reassurance seeking) or mental acts (e.g., comparing one’s appearance with that
+of other people) in response to the appear ance concerns. The appearance preoccupations
+are not better explained by concerns with body fat or weight in an individual with an eat-
+ing disorder. Muscle dysmorphia is a form of body dysmorphic disord er that is character-
+ized by the belief that one’s body build is too small or is insu fficiently muscular.
+Hoarding disorder is characterized by persis tent difficulty discarding or parting with
+possessions, regardless of their actual value, as a result of a strong perceived need to save
+the items and to distress associated with disc arding them. Hoarding disorder differs from
+normal collecting. For example, symptoms of hoarding disorder result in the accumula-
+tion of a large number of possessions that co ngest and clutter active living areas to the ex-
+tent that their intended use is substantially  compromised. The excessive acquisition form
+of hoarding disorder, which characterizes most  but not all individuals with hoarding dis-
+order, consists of excessive collecting, buying , or stealing of items that are not needed or
+for which there is no available space.
+Trichotillomania (hair-pulling disorder) is characterized by recurrent pulling out of
+one's hair resulting in hair loss, and repeated  attempts to decrease or stop hair pulling.
+Excoriation (skin-picking) disord er is characterized by recurrent picking of one’s skin re-
+sulting in skin lesions and repeated attempts to decrease or stop skin picking. The body-
+focused repetitive behaviors that characterize  these two disorders are not triggered by ob-
+sessions or preoccupations; however, they ma y be preceded or accompanied by various
+emotional states, such as feelin gs of anxiety or boredom. They may also be preceded by an
+increasing sense of tension or may lead to gr atification, pleasure, or  a sense of relief when
+the hair is pulled out or the skin is picked. In dividuals with these disorders may have vary-
+ing degrees of conscious awareness of the beha vior while engaging in it, with some indi-
+viduals displaying more focused attention on  the behavior (with preceding tension and
+subsequent relief) and other individuals displaying more automatic behavior (with the be-
+haviors seeming to occur without full awareness).
+Substance/medication-i nduced obsessive-compulsive an d related disorder consists of
+symptoms that are due to substance intoxicati on or withdrawal or to a medication. Obses-
+sive-compulsive and related disorder due to another medica l condition involves symptoms
+characteristic of obsessive-comp ulsive and related disorders th at are the direct pathophysio-
+logical consequence of a medical disorder. Othe r specified obsessive-compulsive and related
+disorder and unspecified obsessive-compulsive and related disorder consist of symptoms
+that do not meet criteria for a specific obse ssive-compulsive and related disorder because of
+atypical presentation or uncertain etiology; th ese categories are also used for other specific
+syndromes that are not listed in Section II and when insufficient information is available to di-
+agnose the presentation as another obsessive -compulsive and related disorder. Examples of
+specific syndromes not listed in Section II, an d therefore diagnosed as other specified obses-
+sive-compulsive and related disorder or as unspecified obsessive-co mpulsive and related
+disorder include body-focused  repetitiv e behavior disord er and obsessional jealousy.
+Obsessive-compulsive and relate d disorders that have a cognitive component have in-
+sight as the basis for specifiers; in each of th ese disorders, insight ranges from “good or fair
+insight” to “poor insight” to “absent insight/ delusional beliefs” with respect to disorder-
+related beliefs. For individuals whose obsess ive-compulsive and related disorder symp-
+toms warrant the “with absent insight/delu sional beliefs” specifier, these symptoms
+should not be diagnosed as a psychotic disorder.
+Obsessive-Compulsive Disorder 237
+Obsessive-Compulsive Disorder
+Diagnostic Criteria 300.3 (F42)
+A. Presence of obsessions, compulsions, or both: 
+Obsessions are defined by (1) and (2): 
+1. Recurrent and persistent thoughts, urges, or images that are experienced, at some
+time during the disturbance, as intrusive and unwanted, and that in most individuals
+cause marked anxiety or distress.
+2. The individual attempts to ignore or suppres s such thoughts, urges, or images, or to
+neutralize them with some other thought or  action (i.e., by performing a compulsion). 
+Compulsions are defined by (1) and (2): 
+1. Repetitive behaviors (e.g., hand washing, ordering, checking) or mental acts (e.g.,
+praying, counting, repeating words silently ) that the individual feels driven to per-
+form in response to an obsession or according to rules that must be applied rigidly.
+2. The behaviors or mental acts are aimed at preventing or reducing anxiety or dis-
+tress, or preventing some dreaded event or situation; however, these behaviors or
+mental acts are not connected in a realistic way with what they are designed to neu-
+tralize or prevent, or are clearly excessive.
+Note:  Young children may not be able to articulate the aims of these behaviors or
+mental acts.
+B. The obsessions or compulsions are time-consuming (e.g., take more than 1 hour per
+day) or cause clinically significant distress or impairment in social, occupational, or
+other important areas of functioning. 
+C. The obsessive-compulsive symptoms are not attributable to the physiological effects
+of a substance (e.g., a drug of abuse, a medication) or another medical condition.
+D. The disturbance is not better explained by the symptoms of another mental disorder
+(e.g., excessive worries, as in generalized anxiety disorder; preoccupation with ap-
+pearance, as in body dysmorphic disorder; difficulty discarding or parting with posses-
+sions, as in hoarding disorder; hair pulling, as in trichotillomania [hair-pulling disorder];
+skin picking, as in excoriation [skin-picking] disorder; stereotypies, as in stereotypic
+movement disorder; ritualized eating behavior, as in eating disorders; preoccupation
+with substances or gambling, as in substance-related and addictive disorders; preoc-
+cupation with having an illness, as in illness anxiety disorder; sexual urges or fantasies,
+as in paraphilic disorders; impulses, as in disruptive, impulse-control, and conduct dis-
+orders; guilty ruminations, as in major depressive disorder; thought insertion or delu-
+sional preoccupations, as in schizophrenia spectrum and other psychotic disorders; or
+repetitive patterns of behavior, as in autism spectrum disorder). 
+Specify if: 
+With good or fair insight:  The individual recognizes that obsessive-compulsive dis-
+order beliefs are definitely or probably not true or that they may or may not be true.
+With poor insight:  The individual thinks obsessive-compulsive disorder beliefs are
+probably true.
+With absent insight/delusional beliefs:  The individual is completely convinced that
+obsessive-compulsive disorder beliefs are true.
+Specify if: 
+Tic-related:  The individual has a current or past history of a tic disorder.
+238 Obsessive-Compulsive and Related Disorders
+Specifiers
+Many individuals with obsessive-compulsive disorder (OCD) have dysfunctional beliefs.
+These beliefs can include an inflated sense of responsibility and the tendency to overesti-
+mate threat; perfectionism and intolerance of uncertainty; an d over-importance of thoughts
+(e.g., believing that having a fo rbidden thought is as bad as acting on it) and the need to
+control thoughts. 
+Individuals with OCD vary in the degree of insight they have about the accuracy of the
+beliefs that underlie their obsessive-compulsive symptoms. Many individuals have good or
+fair insight  (e.g., the individual believes that the house definitely will not, probably will not,
+or may or may not burn down if the stove is not checked 30 times). Some have poor insight
+(e.g., the individual believes that the house w ill probably burn down if the stove is not
+checked 30 times), and a few (4% or less) have absent insight/delu sional beliefs  (e.g., the in-
+dividual is convinced that the house will burn down if the stove is not checked 30 times).
+Insight can vary within an individual over the course of the illness. Poorer insight has been
+linked to worse long-term outcome.
+Up to 30% of individuals with OCD have a lifetime tic disorder. This is most common
+in males with onset of OCD in childhood. Thes e individuals tend to differ from those with-
+out a history of tic disorders in the themes of their OCD sy mptoms, comorbidity, course,
+and pattern of fam ilial transmission. 
+Diagnostic Features
+The characteristic symptoms of OCD are the pr esence of obsessions and compulsions (Cri-
+terion A). Obsessions  are repetitive and persistent thoughts (e.g., of contamination), images
+(e.g., of violent or horrific scenes), or urges (e.g., to stab someone) . Importantly, obsessions
+are not pleasurable or experi enced as voluntary: they ar e intrusive and unwanted and
+cause marked distress or anxiety in most indi viduals. The individual attempts to ignore or
+suppress these obsessions (e.g., avoiding tri ggers or using thought suppression) or to neu-
+tralize them with another thought or ac tion (e.g., performing a compulsion). Compulsions
+(or rituals) are repetitive behaviors (e.g., washing, checking) or mental acts (e.g., counting,
+repeating words silently) that the individual feels driven to perform in response to an
+obsession or according to rules that must be  applied rigidly. Most individuals with OCD
+have both obsessions and compulsions. Comp ulsions are typically performed in response
+to an obsession (e.g., thoughts of contaminatio n leading to washing rituals or that some-
+thing is incorrect leading to repeating rituals unt il it feels “just right”). The aim is to reduce
+the distress triggered by obsessions or to pr event a feared event (e.g., becoming ill). How-
+ever, these compulsions either are not connected in a realistic way to the feared event (e.g.,
+arranging items symmetrically to prevent harm  to a loved one) or are clearly excessive
+(e.g., showering for hours each day). Compulsions are not done for pleasure, although some
+individuals experience relief from anxiety or distress. 
+Criterion B emphasizes that obsessions and compulsions must be time-consuming (e.g.,
+more than 1 hour per day) or cause clinically significant distress or impairment to warrant
+a diagnosis of OCD. This criterion helps to distinguish the disorder from the occasional in-
+trusive thoughts or repetitive behaviors that  are common in the general population (e.g.,
+double-checking that a door is locked). The frequency and severity of obsessions and com-
+pulsions vary across individuals with OCD (e.g., some have mild to moderate symptoms,
+spending 1–3 hours per day obsessing or doin g compulsions, where as others have nearly
+constant intrusive thoughts or comp ulsions that can be  incapacitating).
+Associated Features Supporting Diagnosis
+The specific content of obsessions and comp ulsions varies between individuals. However,
+certain themes, or dimensions, are common, including those of cleaning (contamination
+obsessions and cleaning compulsions); sy mmetry (symmetry obsess ions and repeating,
+Obsessive-Compulsive Disorder 239
+ordering, and counting compulsions); forbidden or taboo th oughts (e.g., aggressive, sexual,
+or religious obsessions and related compulsions) ; and harm (e.g., fears of harm to oneself
+or others and checking compulsions). Some individuals also  have difficulties discarding
+and accumulate (hoard) object s as a consequence of typical obsessions and compulsions,
+such as fears of harming othe rs. These themes occur across different cultures, are rela-
+tively consistent over time in adults with th e disorder, and may be as sociated with differ-
+ent neural substrates. Importantly, individu als often have symptoms  in more than one
+dimension. 
+Individuals with OCD experience a range of  affective responses when confronted with
+situations that trigger obsessions and compul sions. For example, many individuals expe-
+rience marked anxiety that can include recurren t panic attacks. Others report strong feel-
+ings of disgust. While perfor ming compulsions, some individuals report a distressing
+sense of “incompleteness” or uneasiness unt il things look, feel, or sound “just right.” 
+It is common for individuals with the disorder to avoid people, places, and things that
+trigger obsessions and compulsions. For example, individuals with contamination con-
+cerns might avoid public situat ions (e.g., restaurants, public  restrooms) to reduce ex-
+posure to feared contaminants; individuals with intrusive thoughts about causing harm
+might avoid social interactions. 
+Prevalence
+The 12-month prevalence of OCD in the United St ates is 1.2%, with a similar prevalence in-
+ternationally (1.1%–1.8%). Females are affected  at a slightly higher rate than males in
+adulthood, although males are more commonly affected in childhood. 
+Development and Course
+In the United States, the mean age at onset of OCD is 19.5 years, and 25% of cases start by
+age 14 years. Onset after age 35 years is unusual but does occur. Males have an earlier age
+at onset than females: nearly 25% of males have onset before age 10 years. The onset of
+symptoms is typically gradual; however,  acute onset has also been reported.
+If OCD is untreated, the cour se is usually chronic, often with waxing and waning symp-
+toms. Some individuals have an episodic course, and a minority have a deteriorating
+course. Without treatment, remission rates in  adults are low (e.g., 20% for those reevalu-
+ated 40 years later). Onset in childhood or adolescence can le ad to a lifetim e of OCD. How-
+ever, 40% of individuals with onset of OCD in childhood or adolescence may experience
+remission by early adulthood. The course of OCD is often complicated by the co-occurrence
+of other disorders (see section “C omorbidity” for this disorder).
+Compulsions are more easily diagnosed in  children than obsessions are because com-
+pulsions are observable. However, most childr en have both obsessions and compulsions
+(as do most adults). The pattern  of symptoms in adults can be stable over time, but it is
+more variable in children. Some differences in the content of obsessions and compulsions
+have been reported when children and adol escent samples have been compared with
+adult samples. These differences likely refl ect content appropriate to different develop-
+mental stages (e.g., higher rates of sexual an d religious obsessions in adolescents than in
+children; higher rates of harm obsessions [e.g ., fears of catastrophic events, such as death
+or illness to self or loved ones] in ch ildren and adolescents than in adults). 
+Risk and Prognostic Factors
+Temperamental. Greater internalizing symptoms, hi gher negative emotionality, and
+behavioral inhibition in childhood are possible temperamental risk factors. 
+Environmental. Physical and sexual abuse in childho od and other stressful or traumatic
+events have been associated with an increased risk for de veloping OCD. Some children
+240 Obsessive-Compulsive and Related Disorders
+may develop the sudden onset of obsessive- compulsive symptoms, which has been asso-
+ciated with different environmental factors,  including various infectious agents and a
+post-infectious auto immune syndrome.
+Genetic and physiological. The rate of OCD among first-degree relatives of adults with
+OCD is approximately two times that among fi rst-degree relatives of those without the
+disorder; however, among first-degree relatives of individuals with onset of OCD in child-
+hood or adolescence, the rate is increased 10-fold. Familial transmission is due in part to
+genetic factors (e.g., a concordance rate of 0.57  for monozygotic vs. 0.22  for dizygotic twins).
+Dysfunction in the orbitofrontal cortex, anteri or cingulate cortex, and striatum have been
+most strongly implicated.
+Culture-Related Diagnostic Issues 
+OCD occurs across the world. There is substant ial similarity across cultures in the gender
+distribution, age at onset, and comorbidity of OCD. Moreover, around the globe, there is a
+similar symptom structure in volving cleaning, symmetry, hoarding, taboo thoughts, or
+fear of harm. However, regional variation in symptom expression exists, and cultural
+factors may shape the content of obsessions and compulsions.
+Gender-Related Diagnostic Issues
+Males have an earlier age at onset of OCD than females and are more likely to have co-
+morbid tic disorders. Gender differences in the pattern of symptom dimensions have been
+reported, with, for example, females more likel y to have symptoms in the cleaning dimen-
+sion and males more likely to have symptoms in the forbidden thoughts and symmetry di-
+mensions. Onset or exacerbation of OCD, as well as symptoms that can interfere with the
+mother-infant relationship (e.g., aggressive ob sessions leading to avoidance of the infant),
+have been reported in the peripartum period. 
+Suicide Risk
+Suicidal thoughts occur at some point in as many as about half of individuals with OCD.
+Suicide attempts are also report ed in up to one-quarter of individuals with OCD; the pres-
+ence of comorbid major depressiv e disorder increases the risk. 
+Functional Consequences of 
+Obsessive-Compu lsive Disorder
+OCD is associated with reduced quality of life as  well as high levels of social and occupa-
+tional impairment. Impairment occurs across many different domains of life and is asso-
+ciated with symptom severity. Impairment can be caused by the time spent obsessing and
+doing compulsions. Avoi dance of situations that can tr igger obsessions or compulsions
+can also severely restrict functioning. In addition, specific sympto ms can create specific
+obstacles. For example, obsessions about harm can make relationships with family and
+friends feel hazardous; the result can be av oidance of these rela tionships. Obsessions
+about symmetry can derail the timely completion of school or work projects because the
+project never feels “just right,” potentially resulting in school failure or job loss. Health
+consequences can also occur. For example, individuals with contamination concerns may
+avoid doctors’ offices and hospit als (e.g., because of fears of exposure to germs) or develop
+dermatological problems (e.g., skin lesion s due to excessive washing). Sometimes the
+symptoms of the disorder inte rfere with its own treatment (e .g., when medications are con-
+sidered contaminated). When th e disorder starts in childhood  or adolescence, individuals
+may experience developmental difficulties. Fo r example, adolescents may avoid socializ-
+ing with peers; young adults may struggle when they leave home to live independently.
+Obsessive-Compulsive Disorder 241
+The result can be few significant relationship s outside the family and a lack of autonomy
+and financial independence from their family of origin. In addition, some individuals with
+OCD try to impose rules and prohibitions on  family members beca use of their disorder
+(e.g., no one in the family can have visitors to the house for fear of contamination), and this
+can lead to family dysfunction. 
+Differential Diagnosis
+Anxiety disorders. Recurrent thoughts, avoidant behavi ors, and repetitive requests for
+reassurance can also occur in anxiety disorders. Ho wever, the recurrent thoughts that are
+present in generalized anxiety disorder (i.e., worries) are usually ab out real-life concerns,
+whereas the obsessions of OCD usually do no t involve real-life concerns and can include
+content that is odd, irrational, or of a se emingly magical nature; moreover, compulsions
+are often present and usually linked to the obsessions. Like individuals with OCD, indi-
+viduals with specific phobia can have a fear re action to specific objects or situations; how-
+ever, in specific phobia the feared object is usually much more circ umscribed, and rituals
+are not present. In social anxiety disorder (social phobia), the feared objects or situations
+are limited to social interactions, and avoida nce or reassurance seeking is focused on re-
+ducing this social fear.
+Major depressive disorder. OCD can be distinguished from the rumination of major
+depressive disorder, in whic h thoughts are usually mood-c ongruent and not necessarily
+experienced as intrusive or distressing; mo reover, ruminations are not linked to compul-
+sions, as is typical in OCD. 
+Other obsessive-compulsive and related disorders. In body dysmorphic disorder, the
+obsessions and compulsions are limited to concerns about physical appearance; and in
+trichotillomania (hair-pulling diso rder), the compulsive behavior is limited to hair pulling
+in the absence of obsessions. Hoarding diso rder symptoms focus exclusively on the per-
+sistent difficulty discarding or parting with  possessions, marked distress associated with
+discarding items, and excessive accumulation of  objects. However, if an individual has ob-
+sessions that are typical of OCD (e.g., concer ns about incompleteness or harm), and these
+obsessions lead to compulsive hoarding behaviors (e.g., acquirin g all objects in a set to at-
+tain a sense of completeness or not discarding old newspape rs because they may contain
+information that could prevent harm), a di agnosis of OCD should be given instead. 
+Eating disorders. OCD can be distinguished from anorexia nervosa in that in OCD the
+obsessions and compulsions are not limite d to concerns about weight and food.
+Tics (in tic disorder) and stereotyped movements. A tic is a sudden, rapid, recurrent,
+nonrhythmic motor movement or vocalization (e.g., eye blinking, th roat clearing). A ste-
+reotyped movement  is a repetitive, seemingly driven, nonfunctional motor behavior (e.g.,
+head banging, body rocking,  self-biting). Tics and ster eotyped movements are typically
+less complex than compulsions and are not aimed at neutralizing obsessions. However,
+distinguishing between complex tics and comp ulsions can be difficult. Whereas compul-
+sions are usually preceded by obsessions, tics  are often preceded by premonitory sensory
+urges. Some individuals have symptoms of both OCD and a tic disorder, in which case
+both diagnoses may be warranted. 
+Psychotic disorders. Some individuals with OCD have poor insight or even delusional
+OCD beliefs. However, they have obsessions and compulsions (disting uishing their
+condition from delusional diso rder) and do not have other features of schizophrenia or
+schizoaffective disorder (e.g., hallucinations or formal thought disorder). 
+Other compulsive-like behaviors. Certain behaviors are sometimes described as “com-
+pulsive,” including sexual behavior (in the ca se of paraphilias), ga mbling (i.e., gambling
+242 Obsessive-Compulsive and Related Disorders
+disorder), and substance use (e.g., alcohol us e disorder). However, these behaviors differ
+from the compulsions of OCD in that the pers on usually derives pleasure from the activity
+and may wish to resist it only beca use of its deleterious consequences.
+Obsessive-compulsive personality disorder. Although obsessive-compulsive person-
+ality disorder and OCD have similar names, the clinical manifestations of these disorders
+are quite different. Obsessive- compulsive personality disorder is not characterized by in-
+trusive thoughts, images, or ur ges or by repetitive behavior s that are performed in re-
+sponse to these intrusions; instead, it in volves an enduring and pervasive maladaptive
+pattern of excessive perfectionism and rigid co ntrol. If an individual manifests symptoms
+of both OCD and obsessive-compulsive persona lity disorder, both diagnoses can be given.
+Comorbidity 
+Individuals with OCD often have other psycho pathology. Many adults with the disorder
+have a lifetime diagnosis of an anxiety disord er (76%; e.g., panic disorder, social anxiety
+disorder, generalized anxiety disorder, specific  phobia) or a depressive or bipolar disorder
+(63% for any depressive or bipolar disorder, with the most common being major depres-
+sive disorder [41%]). Onset of OCD is usually later than for most co morbid anxiety disor-
+ders (with the exception of separation anxiet y disorder) and PTSD bu t often precedes that
+of depressive disorders. Comorbid obsessi ve-compulsive personality disorder is also
+common in individuals with OCD (e.g., ranging from 23% to 32%). 
+Up to 30% of individuals with OCD also have a lifetime tic disorder. A comorbid tic
+disorder is most common in males with onset of OCD in childhood. These individuals
+tend to differ from those without a history of tic disorders in the themes of their OCD
+symptoms, comorbidity, course, and pattern of familial transmission. A triad of OCD, tic
+disorder, and attention-deficit/hyperactivit y disorder can also be seen in children.
+Disorders that occur more frequently in individuals with OCD than in those without
+the disorder include several obsessive-compulsive and related disorders such as body
+dysmorphic disorder, trichotillomania (hair-pulling disorder), and excoriation (skin-pick-
+ing) disorder. Finally, an association betw een OCD and some disorders characterized by
+impulsivity, such as oppositional de fiant disorder, has been reported. 
+OCD is also much more common in individuals with certain other disorders than
+would be expected based on its prevalence in  the general population ; when one of those
+other disorders is diagnosed, the individual should be assessed for OCD as well. For ex-
+ample, in individuals with schizophrenia or  schizoaffective disorder, the prevalence of
+OCD is approximately 12%. Rates of OCD are also  elevated in bipolar disorder; eating dis-
+orders, such as anorexia nervosa and bu limia nervosa; and Tourette’s disorder.
+Body Dysmorphic Disorder
+Diagnostic Criteria 300.7 (F45.22)
+A. Preoccupation with one or more perceived defects or flaws in physical appearance that
+are not observable or appear slight to others.  
+B. At some point during the course of the disorder, the individual has performed repetitive
+behaviors (e.g., mirror checking, excessive grooming, skin picking, reassurance seek-
+ing) or mental acts (e.g., comparing his or her appearance with that of others) in re-
+sponse to the appearance concerns.
+C. The preoccupation causes clinically significant distress or impairment in social, occu-
+pational, or other important areas of functioning. 
+D. The appearance preoccupation is not better explained by concerns with body fat or
+weight in an individual whose symptoms meet diagnostic criteria for an eating disorder.
+Body Dysmorphic Disorder 243
+Specify if:
+With muscle dysmorphia:  The individual is preoccupied with the idea that his or her
+body build is too small or insufficiently muscular. This specifier is used even if the indi-
+vidual is preoccupied with other body areas, which is often the case. 
+Specify if: 
+Indicate degree of insight regarding body dysmorphic disorder beliefs (e.g., “I look ugly” or
+“I look deformed”).
+With good or fair insight:  The individual recognizes that the body dysmorphic disor-
+der beliefs are definitely or probably not true or that they may or may not be true.
+With poor insight:  The individual thinks that the body dysmorphic disorder beliefs are
+probably true.
+With absent insight/delusional beliefs:  The individual is completely convinced that
+the body dysmorphic disorder beliefs are true.
+Diagnostic Features 
+Individuals with body dysmorphic disorder (formerly known as dysmorphophobia ) are pre-
+occupied with one or more perceived defects or flaws in their physical appearance, which
+they believe look ugly, unattractive, abnormal , or deformed (Criterion A). The perceived
+flaws are not observable or appear only slig ht to other individuals. Concerns range from
+looking “unattractive” or “not  right” to looking “hideous” or “like a monster.” Preoccu-
+pations can focus on one or many body are as, most commonly the skin (e.g., perceived
+acne, scars, lines, wrinkles, paleness), hair (e.g., “thinning” hair or “e xcessive” body or fa-
+cial hair), or nose (e.g., size or shape). Howe ver, any body area can be the focus of concern
+(e.g., eyes, teeth, weight, stomach, breasts, le gs, face size or shape, lips, chin, eyebrows,
+genitals). Some individuals are concerned abou t perceived asymmetry of body areas. The
+preoccupations are intrusive,  unwanted, time-consuming (occurring, on average, 3–8
+hours per day), and usually diff icult to resist or control. 
+Excessive repetitive behaviors or mental ac ts (e.g., comparing) are performed in re-
+sponse to the preoccupation (Criterion B). The individual feels driven to perform these be-
+haviors, which are not pleasurable and may increase anxiety and dysphoria. They are
+typically time-consuming and difficult to re sist or control. Common behaviors are com-
+paring one’s appearance with that of other individuals; repeatedly checking perceived
+defects in mirrors or other reflecting surf aces or examining them directly; excessively
+grooming (e.g., combing, stylin g, shaving, plucking, or pull ing hair); camouflaging (e.g.,
+repeatedly applying makeup or covering dislik ed areas with such things as a hat, clothing,
+makeup, or hair); seeking reassurance about how the perceived flaws look; touching dis-
+liked areas to check them; excessively exerci sing or weight lifting; and seeking cosmetic
+procedures. Some individuals exce ssively tan (e.g., to darken “pale” skin or diminish per-
+ceived acne), repeatedly change their clothe s (e.g., to camouflage perceived defects), or
+compulsively shop (e.g., for beauty produc ts). Compulsive skin picking intended to
+improve perceived skin defects is common and can cause skin damage, infections, or
+ruptured blood vessels. The preoccupation must cause clinically significant distress or im-
+pairment in social, occupational, or other important areas of functioning (Criterion C);
+usually both are present. Body dysmorphic diso rder must be differentiated from an eating
+disorder.
+Muscle dysmorphia, a form of body dysmorphic disorder occurring almost exclusively
+in males, consists of preoccup ation with the idea that one’s body is too small or insuffi-
+ciently lean or muscular. Individuals with this  form of the disorder actually have a nor-
+mal-looking body or are even very muscular . They may also be preoccupied with other
+body areas, such as skin or hair. A majority (b ut not all) diet, exerc ise, and/or lift weights
+excessively, sometimes causing bodily damage . Some use potentially dangerous anabolic-
+244 Obsessive-Compulsive and Related Disorders
+androgenic steroids and other substances to try to make their body bigger and more mus-
+cular. Body dysmorphic disorder by proxy is a form of body dy smorphic disorder in
+which individuals are preoccupied with defects they perceive in another person’s appear-
+ance.
+Insight regarding body dysmorphic disorder  beliefs can range from good to absent/
+delusional (i.e., delusional beliefs consisting of complete conviction that the individual’s
+view of their appearance is accurate and un distorted). On average, insight is poor; one-
+third or more of individuals currently have delusional body dysmorphic disorder beliefs.
+Individuals with delusional body dysmorphic di sorder tend to have greater morbidity in
+some areas (e.g., suicidality), but this appears accounted fo r by their tendency to have
+more severe body dysmorphic disorder symptoms. 
+Associated Features Supporting Diagnosis 
+Many individuals with body dysmorphic disord er have ideas or delusions of reference,
+believing that other people take special notice  of them or mock them because of how they
+look. Body dysmorphic disorder is associated with high levels of anxiety, social anxiety,
+social avoidance, depressed mood, neuroticism, and perfectionism as well as low extro-
+version and low self-esteem. Many individuals are ashamed of their appearance and their
+excessive focus on how they look, and are relu ctant to reveal their concerns to others. A
+majority of individuals receiv e cosmetic treatment to try to  improve their perceived de-
+fects. Dermatological treatment and surgery ar e most common, but any type (e.g., dental,
+electrolysis) may be received . Occasionally, individuals may perform surgery on them-
+selves. Body dysmorphic disorder appears to respond poorly to  such treatments and
+sometimes becomes worse. Some individuals ta ke legal action or are violent toward the
+clinician because they are dissat isfied with the cosmetic outcome.
+Body dysmorphic disorder has been associat ed with executive dysfunction and visual
+processing abnormalities, with a bias for an alyzing and encoding details rather than ho-
+listic or configural aspects of vi sual stimuli. Individuals with this disorder tend to have a
+bias for negative and threatening interpretati ons of facial expressions and ambiguous sce-
+narios. 
+Prevalence 
+The point prevalence among U.S.  adults is 2.4% (2.5% in females and 2.2% in males). Out-
+side the United States (i.e., Germany), cu rrent prevalence is approximately 1.7%–1.8%,
+with a gender distribution similar to that in  the United States. The current prevalence is
+9%–15% among dermatology patients, 7%–8% am ong U.S. cosmetic surgery patients, 3%–
+16% among international cosmetic surgery patients (most studies), 8% among adult orth-
+odontia patients, and 10% among patients presenting for oral or maxillofacial surgery.
+Development and Course 
+The mean age at disorder onset is 16–17 years, the median age at onset is 15 years, and the
+most common age at onset is 12–13 years. Two-thirds of individuals have disorder onset
+before age 18. Subclinical body dysmorphic diso rder symptoms begin, on average, at age
+12 or 13 years. Subclinical concerns usually ev olve gradually to the full disorder, although
+some individuals experience abrupt onset of body dysmorphic disorder. The disorder
+appears to usually be chronic, although improvement is likely when evidence-based
+treatment is received. The disorder’s clinical features appear largely similar in children/
+adolescents and adults. Body dysm orphic disorder occurs in th e elderly, but little is known
+about the disorder in this age group. Individu als with disorder onset before age 18 years
+are more likely to attempt suicide, have more comorbidity, and have  gradual (rather than
+acute) disorder onset than those with adult-onset body dysmorphic disorder.
+Body Dysmorphic Disorder 245
+Risk and Prognostic Factors 
+Environmental. Body dysmorphic disorder has been as sociated with high rates of child-
+hood neglect and abuse. 
+Genetic and physiological. The prevalence of body dysmor phic disorder is elevated in
+first-degree relatives of individuals with  obsessive-compulsi ve disorder (OCD).
+Culture-Related Diagnostic Issues 
+Body dysmorphic disorder has be en reported internationally. It appears that the disorder
+may have more similarities th an differences across races and cultures but that cultural
+values and preferences may influence symptom content to some degree. Taijin kyofusho,
+included in the traditional Japanese diagnost ic system, has a subtype similar to body dys-
+morphic disorder: shubo-kyofu  (“the phobia of a deformed body”). 
+Gender-Related Diagnostic Issues 
+Females and males appear to have more similariti es than differences in terms of most clin-
+ical features— for example, di sliked body areas, types of repetitive behaviors, symptom
+severity, suicidality, comorbidity, illness course, and receipt of cosmetic procedures for
+body dysmorphic disorder. However, males ar e more likely to have genital preoccupa-
+tions, and females are more likely to have a comorbid eating disord er. Muscle dysmorphia
+occurs almost exclusively in males. 
+Suicide Risk
+Rates of suicidal ideation and suicide attemp ts are high in both adults and children/ado-
+lescents with body dysmorphic disorder. Furthe rmore, risk for suicide appears high in ad-
+olescents. A substantial proportion of individuals attribute suicidal ideation or suicide
+attempts primarily to their appearance concerns. Individuals with body dysmorphic dis-
+order have many risk factors for completed suic ide, such as high rates of suicidal ideation
+and suicide attempts, demographic characterist ics associated with suicide, and high rates
+of comorbid major depressive disorder. 
+Functional Consequences of 
+Body Dysmorphic Disorder
+Nearly all individuals with body dysmorphic disorder experience impaired psychosocial
+functioning because of their appearance concerns. Impairment can range from moderate
+(e.g., avoidance of some social situations) to  extreme and incapacitating (e.g., being com-
+pletely housebound). On average, psychosocial functioning and quality of life are mark-
+edly poor. More severe body dysmorphic diso rder symptoms are associated with poorer
+functioning and quality of life. Most individu als experience impairment in their job, aca-
+demic, or role function ing (e.g., as a parent or caregive r), which is often severe (e.g., per-
+forming poorly, missing school  or work, not working). About 20% of youths with body
+dysmorphic disorder report dropping out of school primarily because of their body dys-
+morphic disorder symptoms. Impair ment in social functioning (e.g., social activities, rela-
+tionships, intimacy), includ ing avoidance, is common. In dividuals may be housebound
+because of their body dysmor phic disorder symptoms, some times for years. A high pro-
+portion of adults and adolescents have been psychiatrically hospitalized.
+Differential Diagnosis
+Normal appearance concerns and cl early noticeable physical defects. Body dysmor-
+phic disorder differs from normal appearance  concerns in being characterized by exces-
+246 Obsessive-Compulsive and Related Disorders
+sive appearance-related preoccupations and re petitive behaviors that are time-consuming,
+are usually difficult to resist or control, and ca use clinically significant distress or impair-
+ment in functioning. Physical defects that ar e clearly noticeable (i.e., not slight) are not
+diagnosed as body dysmorphic disorder. Ho wever, skin picking as a symptom of body
+dysmorphic disorder can cause noticeable skin lesions and scarring; in such cases, body dys-
+morphic disorder should be diagnosed.
+Eating disorders. In an individual with an eating di sorder, concerns ab out being fat are
+considered a symptom of the eating disorder  rather than body dysmorphic disorder.
+However, weight concerns may occur in body  dysmorphic disorder. Eating disorders and
+body dysmorphic disorder can be comorbid, in which case both should be diagnosed. 
+Other obsessive-compulsive and related disorders. The preoccupations and repetitive
+behaviors of body dysmorphic  disorder differ from obsessions and compulsions in OCD
+in that the former focus only on appearance. These disorders have other differences, such
+as poorer insight in body dysmorphic disorder. When sk in picking is intended to improve
+the appearance of perceived skin defects, bo dy dysmorphic disorder, rather than excoria-
+tion (skin-picking) disorder, is diagnosed. Wh en hair removal (plucking, pulling, or other
+types of removal) is intended to improve pe rceived defects in the appearance of facial
+or body hair, body dysmorphic disorder is diagnosed rather than trichotillomania (hair-
+pulling disorder).
+Illness anxiety disorder. Individuals with body dysmor phic disorder are not preoccu-
+pied with having or acquiring a serious illness and do not have particularly elevated levels
+of somatization. 
+Major depressive disorder. The prominent preoccupation with appearance and exces-
+sive repetitive behaviors in body dysmorphi c disorder differentiate it from major de-
+pressive disorder. However, major depressi ve disorder and depressive symptoms are
+common in individuals with body dysmorphic disorder, often appearing to be secondary
+to the distress and impairment that body dysmorphic disorder causes. Body dysmorphic
+disorder should be diagnosed in  depressed individuals if diag nostic criteria for body dys-
+morphic disorder are met. 
+Anxiety disorders. Social anxiety and avoidance are common in body dysmorphic dis-
+order. However, unlike social anxiety disorder (social phobia), agoraphobia, and avoidant
+personality disorder, body dy smorphic disorder includes prominent appearance-related
+preoccupation, which may be delusional, and repetitive behaviors, and the social anxiety
+and avoidance are due to concerns about perceived appearance defects and the belief or
+fear that other people will consider these indivi duals ugly, ridicule them, or reject them be-
+cause of their physical features. Unlike gene ralized anxiety disorder, anxiety and worry in
+body dysmorphic disorder focus on  perceived appearance flaws. 
+Psychotic disorders. Many individuals with body dy smorphic disorder have delu-
+sional appearance beliefs (i.e., complete convic tion that their view of their perceived de-
+fects is accurate), which is diagnosed as body dysmorphic disorder, with absent insight/
+delusional beliefs, not as delusional disorder. Appearance-related ideas or delusions of
+reference are common in body dysmorphic di sorder; however, unlike schizophrenia or
+schizoaffective disorder, body dysmorphic disorder involves  prominent appearance pre-
+occupations and related repetitive behaviors,  and disorganized behavior and other psy-
+chotic symptoms are absent (except for appearance beliefs , which may be delusional). 
+Other disorders and symptoms. Body dysmorphic disorder should not be diagnosed if
+the preoccupation is limited to discomfort with  or a desire to be rid of one’s primary and/
+or secondary sex characteristics in an individu al with g ender dysphoria or if the preoccu-
+pation focuses on the belief th at one emits a foul or offens ive body odor as in olfactory
+reference syndrome (which is not a DSM-5 di sorder). Body identity integrity disorder
+Hoarding Disorder 247
+(apotemnophilia) (which is not a DSM-5 disord er) involves a desire to have a limb ampu-
+tated to correct an experience of mismatch be tween a person’s sense of body identity and
+his or her actual anatomy. However, the conc ern does not focus on the limb’s appearance,
+as it would in body dysmorphic disorder. Koro,  a culturally related disorder that usually
+occurs in epidemics in Southeastern Asia, consists  of a fear that the penis (labia, nipples, or
+breasts in females) is shrink ing or retracting and will disa ppear into the abdomen, often
+accompanied by a belief that death will result . Koro differs from body dysmorphic disor-
+der in several ways, including a focus on death rather than preoccupation with perceived
+ugliness. Dysmorphic concern  (which is not a DSM-5 disorder) is a much broader construct
+than, and is not equivalent to, body dysmorphi c disorder. It involves symptoms reflecting
+an overconcern with slight or imagined flaws in appearance.
+Comorbidity 
+Major depressive disorder is the most commo n comorbid disorder, with onset usually af-
+ter that of body dysmorphic disorder. Comorb id social anxiety disorder (social phobia),
+OCD, and substance-related disorders are also common.
+Hoarding Disorder
+Diagnostic Criteria 300.3 (F42)
+A. Persistent difficulty discarding or parting with possessions, regardless of their actual value.
+B. This difficulty is due to a perceived need to save the items and to distress associated
+with discarding them.
+C. The difficulty discarding possessions results in the accumulation of possessions that
+congest and clutter active living areas and substantially compromises their intended
+use. If living areas are uncluttered, it is only because of the interventions of third parties
+(e.g., family members, cleaners, authorities).
+D. The hoarding causes clinically significant distress or impairment in social, occupa-
+tional, or other important areas of functioning (including maintaining a safe environ-
+ment for self and others).
+E. The hoarding is not attributable to another medical condition (e.g., brain injury, cere-
+brovascular disease, Prader-Willi syndrome).
+F. The hoarding is not better explained by the symptoms of another mental disorder (e.g.,
+obsessions in obsessive-compulsive disorder, decreased energy in major depressive
+disorder, delusions in schizophrenia or another psychotic disorder, cognitive deficits in
+major neurocognitive disorder, restricted interests in autism spectrum disorder). 
+Specify if:
+With excessive acquisition:  If difficulty discarding possessions is accompanied by ex-
+cessive acquisition of items that are not needed or for which there is no available space.
+Specify if:
+With good or fair insight: The individual recognizes that hoarding-related beliefs and
+behaviors (pertaining to difficulty discarding items, clutter, or excessive acquisition) are
+problematic.
+With poor insight : The individual is mostly convinced that hoarding-related beliefs
+and behaviors (pertaining to difficulty discarding items, clutter, or excessive acquisi-
+tion) are not problematic despite evidence to the contrary.
+With absent insight/delusional beliefs:  The individual is completely convinced that
+hoarding-related beliefs and behaviors (pertaini ng to difficulty discarding items, clutter,
+or excessive acquisition) are not problematic despite evidence to the contrary.
+248 Obsessive-Compulsive and Related Disorders
+Specifiers
+With excessive acquisition. Approximately 80%–90% of individuals with hoarding
+disorder display excessive acquisition. The most frequent form of acqu isition is excessive
+buying, followed by acquisition of free item s (e.g., leaflets, items discarded by others).
+Stealing is less common. Some individuals may deny excessive acquisition when first as-
+sessed, yet it may appear later during the co urse of treatment. Individuals with hoarding
+disorder typically experience distress if they are unable to or are prevented from acquiring
+items.
+Diagnostic Features
+The essential feature of hoarding  disorder is persistent difficulties discarding or parting
+with possessions, regardless of their actual value (Criterion A). The term persistent  indi-
+cates a long-standing difficulty rather than more transient life circumstances that may lead
+to excessive clutter, such as inheriting prop erty. The difficulty in discarding possessions
+noted in Criterion A refers to  any form of discarding, including throwing away, selling,
+giving away, or recycling. The main reasons given for these difficult ies are the perceived
+utility or aesthetic value of the items or stro ng sentimental attachment to the possessions.
+Some individuals feel responsi ble for the fate of their possessions and often go to great
+lengths to avoid being wasteful. Fears of lo sing important information are also common.
+The most commonly saved item s are newspapers, magazines, old clothing, bags, books,
+mail, and paperwork, but virtually any item can be saved. The nature of items is not lim-
+ited to possessions that most other people would define as useles s or of limited value.
+Many individuals collect and save large numbers of valuable things as well, which are of-
+ten found in piles mixed with other less valuable items. 
+Individuals with hoarding disorder purpos efully save possessions and experience dis-
+tress when facing the prospect of discarding them (Criterion B). This criterion emphasizes
+that the saving of possessions is intentional,  which discriminates hoarding disorder from
+other forms of psychopathology that are ch aracterized by the pa ssive accumulation of
+items or the absence of distress  when possessions are removed. 
+Individuals accumulate large numbers of items that fill up and clutter active living ar-
+eas to the extent that their intended use is no longer possible (Criterion C). For example,
+the individual may not be able to cook in the kitchen, sleep in his or her bed, or sit in a
+chair. If the space can be used, it  is only with great difficulty. Clutter  is defined as a large
+group of usually unrelated or marginally rela ted objects piled together in a disorganized
+fashion in spaces designed for ot her purposes (e.g., tabletops,  floor, hallway). Criterion C
+emphasizes the “active” living areas of the ho me, rather than more peripheral areas, such
+as garages, attics, or basements, that are so metimes cluttered in homes of individuals with-
+out hoarding disorder. However, individuals with hoarding disorder often have posses-
+sions that spill beyond the active living areas and can occupy and impair the use of other
+spaces, such as vehicles, yards, the workplace,  and friends’ and relatives’ houses. In some
+cases, living areas may be uncluttered because of the intervention of third parties (e.g.,
+family members, cleaners, loca l authorities). Individuals who have been forced to clear
+their homes still have a symptom picture that meets criteria fo r hoarding disorder because
+the lack of clutter is due to a third-party intervention. Hoarding disorder contrasts with
+normative collecting beha vior, which is organized and systematic, even if in some cases
+the actual amount of possessions may be similar to the amount accumulated by an indi-
+vidual with hoarding disord er. Normative collecting does not produce the clutter, dis-
+tress, or impairment typi cal of hoarding disorder. 
+Symptoms (i.e., difficulties discarding and/or  clutter) must cause clinically significant
+distress or impairment in social, occupational , or other important area s of functioning, in-
+cluding maintaining a safe environment for self  and others (Criterion D). In some cases,
+Hoarding Disorder 249
+particularly when there is poor insight, the individual may not report distress, and the im-
+pairment may be apparent only to those arou nd the individual. However, any attempts to
+discard or clear the possessions by third pa rties result in high levels of distress. 
+Associated Features Supporting Diagnosis
+Other common features of hoarding disorder include indecisiveness, perfectionism,
+avoidance, procrastination, di fficulty planning and organizing tasks, and distractibility.
+Some individuals with hoarding disorder live in unsanitary conditions that may be a log-
+ical consequence of severely cluttered spaces and/or that are related to planning and or-
+ganizing difficulties. Animal hoarding  can be defined as the accumulation of a large number
+of animals and a failure to provide minimal st andards of nutrition, sanitation, and veter-
+inary care and to act on the de teriorating condition of the an imals (including disease, star-
+vation, or death) and the en vironment (e.g., severe overcrowding, extremely unsanitary
+conditions). Animal hoarding may be a spec ial manifestation of ho arding disorder. Most
+individuals who hoard animals also hoard inan imate objects. The mo st prominent differ-
+ences between animal and object hoarding are the extent of unsanitary conditions and the
+poorer insight in animal hoarding. 
+Prevalence
+Nationally representative prevalence studies of hoarding disorder are not available. Com-
+munity surveys estimate the point prevalence of clinically significant hoarding in the
+United States and Europe to be approximately 2%–6%. Hoarding disorder affects both
+males and females, but some epidemiological studies have reported a significantly greater
+prevalence among males. This contrasts with clinical samples, which are predominantly
+female. Hoarding symptoms appear to be almost three times more prevalent in older
+adults (ages 55–94 years) compared with younger adults (ages 34–44 years). 
+Development and Course
+Hoarding appears to begin early in life and spans well into the late stages. Hoarding symp-
+toms may first emerge around ages 11–15 years, start interfering with the individual’s ev-
+eryday functioning by the mid-20s, and cause clinically significant impairment by the
+mid-30s. Participants in clinical research stud ies are usually in their 50s. Thus, the severity
+of hoarding increases with each decade of lif e. Once symptoms begin, the course of hoard-
+ing is often chronic, with few individuals reporting a waxing and waning course.
+Pathological hoarding in children appears to be easily distin guished from develop-
+mentally adaptive saving and collecting behaviors. Because children and adolescents
+typically do not control their living environm ent and discarding behaviors, the possible
+intervention of third parties (e.g., parents ke eping the spaces usable and thus reducing in-
+terference) should be considered when making the diagnosis. 
+Risk and Prognostic Factors 
+Temperamental. Indecisiveness is a prominent featur e of individuals wi th hoarding dis-
+order and their first-degree relatives.
+Environmental. Individuals with hoarding disorder often retrospectively report stressful
+and traumatic life events preceding the onset of the disorder or causing an exacerbation. 
+Genetic and physiological. Hoarding behavior is familial,  with about 50% of individu-
+als who hoard reporting having a relative who also hoards. Twin studies indicate that ap-
+proximately 50% of the variability in hoarding behavior is attr ibutable to additive genetic
+factors. 
+250 Obsessive-Compulsive and Related Disorders
+Culture-Related Diagnostic Issues
+While most of the research has been done in  Western, industrialized countries and urban
+communities, the available data from non-Western and developing countries suggest that
+hoarding is a universal phenomenon wi th consistent clinical features. 
+Gender-Related Diagnostic Issues
+The key features of hoarding disorder (i.e., difficulties discarding, excessive amount of
+clutter) are generally comparable in males an d females, but females tend to display more
+excessive acquisition, particularly excessive buying, than do males. 
+Functional Consequences  of Hoarding Disorder
+Clutter impairs basic activities, such as moving through the house, cooking, cleaning, per-
+sonal hygiene, and even sleepin g. Appliances may be broken, and utilities such as water
+and electricity may be disconnected, as access for repair work may be difficult. Quality of
+life is often considerably impaired. In severe cases, hoarding can put in dividuals at risk for
+fire, falling (especially elderly individuals), po or sanitation, and other health risks. Hoard-
+ing disorder is associated with occupational impairment, poor physical health, and high
+social service utilization. Family relationsh ips are frequently under great strain. Conflict
+with neighbors and local author ities is common, and a substa ntial proportion of individ-
+uals with severe hoarding disorder have been  involved in legal eviction proceedings, and
+some have a history of eviction. 
+Differential Diagnosis
+Other medical conditions. Hoarding disorder is not di agnosed if the symptoms are
+judged to be a direct conseque nce of another medical condition (Criterion E), such as trau-
+matic brain injury, surgical resection for trea tment of a tumor or seizure control, cerebro-
+vascular disease, infections of the central ne rvous system (e.g., herpes simplex encephalitis),
+or neurogenetic conditions such as Prader -Willi syndrome. Damage to the anterior ven-
+tromedial prefrontal and cingulate cortices ha s been particularly associated with the ex-
+cessive accumulation of objects. In these individuals, the hoarding behavior is not present
+prior to the onset of the brain damage and a ppears shortly after the brain damage occurs.
+Some of these individuals appear to have li ttle interest in the accumulated items and are
+able to discard them easily or do not care if  others discard them, whereas others appear to
+be very reluctant to discard anything. 
+Neurodevelopmental disorders. Hoarding disorder is not diagnosed if the accumula-
+tion of objects is judged to be a direct co nsequence of a neurodevel opmental disorder, such
+as autism spectrum disorder or  intellectual disability (intellectual developmental disorder).
+Schizophrenia spectrum and other psychotic disorders. Hoarding disorder is not di-
+agnosed if the accumulation of objects is judged  to be a direct consequence of delusions or
+negative symptoms in schizophrenia sp ectrum and other psychotic disorders.
+Major depressive episode. Hoarding disorder is not diagnosed if the accumulation of
+objects is judged to be a dire ct consequence of ps ychomotor retardation, fatigue, or loss of
+energy during a major depressive episode. 
+Obsessive-compulsive disorder. Hoarding disorder is not diagnosed if the symptoms
+are judged to be a direct consequence of typical obsessions or compulsions, such as fears
+of contamination, harm, or feelings of inco mpleteness in obsessive-compulsive disorder
+(OCD). Feelings of incomplete ness (e.g., losing one’s identity , or having to document and
+preserve all life experiences) are the most frequent OCD symptoms associated with this
+form of hoarding. The accumulation of objects can also be the result of persistently avoid-
+Trichotillomania (Hair-Pulling Disorder) 251
+ing onerous rituals (e.g., not discarding object s in order to avoid endless washing or check-
+ing rituals).
+In OCD, the behavior is gene rally unwanted and highly distressing, and the individual ex-
+periences no pleasure or reward from it. Excessive acquisition is  usually not present; if exces-
+sive acquisition is present, items are acquired because of a specific obsession (e.g., the need to
+buy items that have been accidentally touched in order to avoid cont aminating other people),
+not because of a genuine desire to possess the items. Individuals who hoard in the context of
+OCD are also more likely to accumulate bizarre it ems, such as trash, feces, urine, nails, hair,
+used diapers, or rotten food. Accumulation of su ch items is very unusual in hoarding disorder.
+When severe hoarding appears concurrently  with other typical symptoms of OCD but
+is judged to be independent from these symptoms, both hoarding disorder and OCD may
+be diagnosed. 
+Neurocognitive disorders. Hoarding disorder is not diagnosed if the accumulation of
+objects is judged to be a direct consequence of a degenerati ve disorder, such as neurocog-
+nitive disorder associated wi th frontotemporal lobar degeneration or Alzheimer’s disease.
+Typically, onset of the accumu lating behavior is gradual and follows onset of the neuro-
+cognitive disorder. The accumulating behavior  may be accompanied by self-neglect and
+severe domestic squalor, alongside other neuropsychiatric symptoms, such as disinhibi-
+tion, gambling, rituals/stereotypies, tics, and self-injurious behaviors. 
+Comorbidity
+Approximately 75% of individuals with hoardi ng disorder have a comorbid mood or anx-
+iety disorder. The most common comorbid conditions are major depressive disorder (up
+to 50% of cases), social anxi ety disorder (social phobia), an d generalized anxiety disorder.
+Approximately 20% of individuals with hoardi ng disorder also have symptoms that meet
+diagnostic criteria for OCD. These comorbidit ies may often be the main reason for consul-
+tation, because individuals are unlikely to spontaneously report hoarding symptoms, and
+these symptoms are often not asked ab out in routine clinical interviews.
+Trichotillomania (Hair-Pulling Disorder)
+Diagnostic Criteria 312.39 (F63.3)
+A. Recurrent pulling out of one’s hair, resulting in hair loss.
+B. Repeated attempts to decrease or stop hair pulling. 
+C. The hair pulling causes clinically significant distress or impairment in social, occupa-
+tional, or other important areas of functioning. 
+D. The hair pulling or hair loss is not attri butable to another medical condition (e.g., a der-
+matological condition). 
+E. The hair pulling is not better explained by the symptoms of another mental disorder
+(e.g., attempts to improve a perceived defect or flaw in appearance in body dysmorphic
+disorder).
+Diagnostic Features
+The essential feature of trichotillomania (hai r-pulling disorder) is the recurrent pulling out
+of one’s own hair (Criterion A). Hair pullin g may occur from any region of the body in
+which hair grows; the most co mmon sites are the scalp, eyebrows, and eyelids, while less
+common sites are axillary, facial, pubic, and peri-rectal regions. Hair-pulling sites may
+vary over time. Hair pulling may occur in brief episodes sc attered throughout the day or
+during less frequent bu t more sustained periods that can continue for hours, and such hair
+252 Obsessive-Compulsive and Related Disorders
+pulling may endure for months or years. Criterion A requires th at hair pulling lead to hair
+loss, although individuals with this disorder may pull hair in a widely distributed pattern
+(i.e., pulling single hairs from all over a site) such that hair loss may not be clearly visible.
+Alternatively, individuals may attempt to conceal or camouflage hair loss (e.g., by using
+makeup, scarves, or wigs). Individuals with  trichotillomania have made repeated at-
+tempts to decrease or stop hair pulling (Crite rion B). Criterion C indicates that hair pulling
+causes clinically significant distress or impa irment in social, occupational, or other impor-
+tant areas of functioning. The term distress  includes negative affects that may be experi-
+enced by individuals with hair  pulling, such as feeling a lo ss of control, embarrassment,
+and shame. Significant impairment may occur in several different areas of functioning
+(e.g., social, occupational, academic, and leisure), in part because of avoidance of work,
+school, or other public situations. 
+Associated Features Supporting Diagnosis
+Hair pulling may be accompanied by a range of behaviors or rituals involving hair. Thus,
+individuals may search for a particular kind of hair to pull (e.g., hairs with a specific tex-
+ture or color), may try to pull out hair in a spec ific way (e.g., so that the root comes out in-
+tact), or may visually examine or tactilely or  orally manipulate the hair after it has been
+pulled (e.g., rolling the hair between the fingers,  pulling the strand between the teeth, bit-
+ing the hair into pieces, or swallowing the hair). 
+Hair pulling may also be preceded or acco mpanied by various emot ional states; it may
+be triggered by feelings of anxiety or boredo m, may be preceded by an increasing sense of
+tension (either immediately before pulling out the hair or when attempting to resist the
+urge to pull), or may lead to gratification, pleasure, or a sense of relief when the hair is
+pulled out. Hair-pulling behavior may involv e varying degrees of conscious awareness,
+with some individuals displaying more focused attention on the hair pulling (with pre-
+ceding tension and subsequent relief), and other individuals displaying more automatic
+behavior (in which the hair pulling seems to occur without full awareness). Many individ-
+uals report a mix of both behavioral styles. Some individuals experience an “itch-like” or
+tingling sensation in the scalp that is alleviated by the act of pulling hair. Pain does not
+usually accompany hair pulling.
+Patterns of hair loss are highly variable. Ar eas of complete alopecia, as well as areas of
+thinned hair density, are common. When the sc alp is involved, there may be a predilection
+for pulling out hair in the crown or parietal regions. There may be a pattern of nearly com-
+plete baldness except for a narrow perimeter around the outer margins of the scalp, par-
+ticularly at the nape of the neck (“tonsure trichotillomania”). Eyebrows and eyelashes may
+be completely absent. 
+Hair pulling does not usually occur in the pr esence of other individuals, except imme-
+diate family members. Some in dividuals have urges to pull hair from other individuals
+and may sometimes try to find opportunities to  do so surreptitiously. Some individuals
+may pull hairs from pets, dolls, and other fi brous materials (e.g., sw eaters or carpets).
+Some individuals may deny their hair pulling to others. The majority of individuals with
+trichotillomania also have one or more other body-focused repetitive behaviors, including
+skin picking, nail biting, and lip chewing.
+Prevalence
+In the general population, the 12-month preval ence estimate for trichotillomania in adults
+and adolescents is 1%–2%. Females are more frequently affected than males, at a ratio of
+approximately 10:1. This estimate  likely reflects the true gender  ratio of the condition, al-
+though it may also reflect differential treatment seeking based on ge nder or cultural at-
+titudes regarding appearance (e.g., acceptan ce of normative hair loss among males).
+Among children with trichotillo mania, males and females are more equally represented. 
+Trichotillomania (Hair-Pulling Disorder) 253
+Development and Course
+Hair pulling may be seen in infants, and this behavior typically resolves during early devel-
+opment. Onset of hair pulling in trichotilloman ia most commonly coincides with, or follows
+the onset of, puberty. Sites of hair pulling may vary over time. The usual course of trichotillo-
+mania is chronic, with some waxing and waning if the disorder is untreated. Symptoms may
+possibly worsen in females accompanying horm onal changes (e.g., menstruation, perimeno-
+pause). For some individuals, the disorder may come and go for weeks, months, or years at a
+time. A minority of individuals remit without su bsequent relapse within a few years of onset. 
+Risk and Prognostic Factors
+Genetic and physiological. There is evidence for a genetic vulnerability to trichotillo-
+mania. The disorder is more common in in dividuals with obsessi ve-compulsive disorder
+(OCD) and their first-degree relative s than in the general population. 
+Culture-Related Diagnostic Issues 
+Trichotillomania appears to manifest similarly across cultures, although there is a paucity
+of data from non-Western regions.
+Diagnostic Markers
+Most individuals with trichotillomania admit to hair pulling; thus, dermatopathological
+diagnosis is rarely required. Skin biopsy an d dermoscopy (or trichoscopy) of trichotillo-
+mania are able to differentiat e the disorder from other causes of alopecia. In trichotil-
+lomania, dermoscopy shows a range of charac teristic features, in cluding decreased hair
+density, short vellus hair, and broken hairs with different shaft lengths. 
+Functional Consequences of 
+Trichotillomania (Hair-Pulling Disorder)
+Trichotillomania is associated with distress as well as with social and occupational impair-
+ment. There may be irreversible  damage to hair growth and hair quality. Infrequent med-
+ical consequences of trichotillomania includ e digit purpura, muscul oskeletal injury (e.g.,
+carpal tunnel syndrome; back, shoulder and neck pain), blepharitis, and dental damage
+(e.g., worn or broken teeth due to hair biting). Swallowing of hair (trichophagia) may lead
+to trichobezoars, with subs equent anemia, abdominal pain , hematemesis, nausea and
+vomiting, bowel obstruction,  and even perforation. 
+Differential Diagnosis
+Normative hair re moval/manipulation. Trichotillomania should not be diagnosed when
+hair removal is performed solely for cosmetic reasons (i.e., to improve one’s physical ap-
+pearance). Many individuals twist and play with  their hair, but this behavior does not usu-
+ally qualify for a diagnosis of trichotillomania . Some individuals may bite rather than pull
+hair; again, this does not qualify for a diagnosis of trichotillomania.
+Other obsessive-compulsive and related disorders. Individuals with OCD and sym-
+metry concerns may pull out hairs as part of their symmetry rituals, and individuals with
+body dysmorphic disorder may remove body ha ir that they perceive as ugly, asymmetri-
+cal, or abnormal; in such cases a diagnosis of  trichotillomania is not given. The description
+of body-focused repetitive behavior disorder  in other specified ob sessive-compulsive and
+related disorder excludes individuals who meet  diagnostic criteria for trichotillomania.
+254 Obsessive-Compulsive and Related Disorders
+Neurodevelopmental disorders. In neurodevelopmental di sorders, hair pulling may
+meet the definition of stereotypies (e.g., in stereotypic movement disorder). Tics (in tic dis-
+orders) rarely lead to hair pulling.
+Psychotic disorder. Individuals with a psychotic disord er may remove hair in response
+to a delusion or hallucinati on. Trichotillomania is not diagnosed in such cases.
+Another medical condition. Trichotillomania is not diagnosed if the hair pulling or hair
+loss is attributable to another medical conditio n (e.g., inflammation of the skin or other der-
+matological conditions). Other causes of scarri ng alopecia (e.g., alop ecia areata, androgenic
+alopecia, telogen effluvium) or nonscarring al opecia (e.g., chronic discoid lupus erythema-
+tosus, lichen planopilaris, central centrifugal cicatricial alopecia, pseudopelade, folliculitis
+decalvans, dissecting folliculitis, acne keloidalis nuchae) should be considered in individu-
+als with hair loss who deny hair pulling. Skin biopsy or dermoscopy ca n be used to differ-
+entiate individuals with tric hotillomania from those with  dermatological disorders.
+Substance-related disorders. Hair-pulling symptoms may be exacerbated by certain
+substances—for example, stimulants—but it is less likely that substances are the primary
+cause of persistent hair pulling. 
+Comorbidity
+Trichotillomania is often accompanied by ot her mental disorders, most commonly major
+depressive disorder and excoriation (skin- picking) disorder. Repetitive body-focused
+symptoms other than hair pulling or skin picking (e.g. nail biting) occur in the majority of
+individuals with trichotillomania and may dese rve an additional diagnosis of other spec-
+ified obsessive-compulsive and related disorder (i.e., body-focused repetitive behavior
+disorder).
+Excoriation (Skin-Picking) Disorder
+Diagnostic Criteria 698.4 (L98.1)
+A. Recurrent skin picking resulting in skin lesions.
+B. Repeated attempts to decrease or stop skin picking.
+C. The skin picking causes clinically significant distress or impairment in social, occupa-
+tional, or other important areas of functioning. 
+D. The skin picking is not attributable to the physiological effects of a substance (e.g., co-
+caine) or another medical condition (e.g., scabies). 
+E. The skin picking is not better explained by symptoms of another mental disorder (e.g.,
+delusions or tactile hallucinations in a psychotic disorder, attempts to improve a per-
+ceived defect or flaw in appearance in body dysmorphic disorder, stereotypies in ste-
+reotypic movement disorder, or intention to harm oneself in nonsuicidal self-injury).
+Diagnostic Features
+The essential feature of excori ation (skin-picking) disorder is recurrent picking at one’s
+own skin (Criterion A). The mo st commonly picked sites are the face, arms, and hands, but
+many individuals pick from multiple body sit es. Individuals may pick at healthy skin, at
+minor skin irregularities, at le sions such as pimples or calluse s, or at scabs from previous
+picking. Most individuals pick with their fi ngernails, although many use tweezers, pins,
+or other objects. In addition to skin picking,  there may be skin rubbing, squeezing, lancing,
+and biting. Individuals with excoriation diso rder often spend signif icant amounts of time
+on their picking behavior, sometimes several hours per day, and such skin picking may
+Excoriation (Skin-Picking) Disorder 255
+endure for months or years. Cr iterion A requires that skin picking lead to skin lesions, al-
+though individuals with this disorder often at tempt to conceal or camouflage such lesions
+(e.g., with makeup or clothing). Individuals with excoriation disorder have made repeated
+attempts to decrease or stop skin picking (Criterion B).
+Criterion C indicates that skin picking causes clinically significant distress or impair-
+ment in social, occupational, or other im portant areas of func tioning. The term distress  in-
+cludes negative affects that may be experience d by individuals with skin picking, such as
+feeling a loss of control, em barrassment, and shame. Significant impairment may occur in
+several different areas of functioning (e.g., so cial, occupational, academic, and leisure), in
+part because of avoidance of social situations. 
+Associated Features Supporting Diagnosis
+Skin picking may be accompanied by a range of behaviors or rituals involving skin or scabs.
+Thus, individuals may search for a particular kind of scab to pull, and they may examine,
+play with, or mouth or swallow th e skin after it has be en pulled. Skin picking may also be pre-
+ceded or accompanied by various emotional stat es. Skin picking may be triggered by feelings
+of anxiety or boredom, may be preceded by an  increasing sense of tension (either immedi-
+ately before picking the skin or when attempting to resist the urge to pick), and may lead to
+gratification, pleasure, or a sense of relief when the skin or scab has been picked. Some indi-
+viduals report picking in response to a minor skin irregularity or to relieve an uncomfortable
+bodily sensation. Pain is not routinely reported to accompany skin picking. Some individuals
+engage in skin picking that is more focused (i .e., with preceding tens ion and subsequent re-
+lief), whereas others engage in more automatic picking (i.e., when skin picking occurs with-
+out preceding tension and without full awarene ss), and many have a mix of both behavioral
+styles. Skin picking does not usually occur in the presence of other individuals, except im-
+mediate family members. Some individual s report picking the skin of others.
+Prevalence
+In the general population, the lifetime prevalence  for excoriation disorder in adults is 1.4%
+or somewhat higher. Three-quarters or more of individuals with the disorder are female.
+This likely reflects the true gender ratio of the condition, although it may also reflect dif-
+ferential treatment seeking based on gender or cultural attitudes regarding appearance.
+Development and Course
+Although individuals with excoriation disorder may present at various ages, the skin pick-
+ing most often has onset during adolescence, commonly coinciding wi th or following the
+onset of puberty. The disorder frequently begins with a dermatological condition, such
+as acne. Sites of skin picking may vary over time. The usual course is chronic, with some
+waxing and waning if untreated. For some in dividuals, the disorder may come and go for
+weeks, months, or years at a time.
+Risk and Prognostic Factors
+Genetic and physiological. Excoriation disorder is more  common in individuals with
+obsessive-compulsive disorder (OCD) and thei r first-degree family members than in the
+general population.
+Diagnostic Markers
+Most individuals with excoriation disorder admit to skin picking; therefore, dermato-
+pathological diagnosis is rarely required. Ho wever, the disorder ma y have characteristic
+features on histopathology. 
+256 Obsessive-Compulsive and Related Disorders
+Functional Consequences of 
+Excoriation (Skin-Picking) Disorder 
+Excoriation disorder is associated  with distress as well as with social and occupational im-
+pairment. The majority of indi viduals with this condition spend at least 1 hour per day
+picking, thinking about picking, and resist ing urges to pick. Many individuals report
+avoiding social or entertainment events as well as going out in public. A majority of indi-
+viduals with the disorder also report experien cing work interference from skin picking on
+at least a daily or weekly basi s. A significant proportion of students with excoriation disor-
+der report having missed school, having expe rienced difficulties managing responsibilities
+at school, or having had diffi culties studying because of skin picking. Medical complica-
+tions of skin picking include ti ssue damage, scarring, and infe ction and can be life-threaten-
+ing. Rarely, synovitis of the wrists due to ch ronic picking has been reported. Skin picking
+often results in significant tissue damage and sc arring. It frequently requires antibiotic treat-
+ment for infection, and on o ccasion it may require surgery.
+Differential Diagnosis
+Psychotic disorder. Skin picking may occur in response to a delusion (i.e., parasitosis)
+or tactile hallucination (i.e., fo rmication) in a psychotic disorder. In such cases, excoriation
+disorder should not be diagnosed. 
+Other obsessive-compulsive and related disorders. Excessive washing compulsions
+in response to contamination obsessions in in dividuals with OCD may lead to skin lesions,
+and skin picking may occur in individuals with body dysmorphic disorder who pick their
+skin solely because of appearance concerns; in  such cases, excoriatio n disorder should not
+be diagnosed. The description of body-focused repetitive behavior disorder in other spec-
+ified obsessive-compulsive and related diso rder excludes individuals whose symptoms
+meet diagnostic criteria for excoriation disorder.
+Neurodevelopmental disorders. While stereotypic movement disorder may be charac-
+terized by repetitive self-injurious behavior , onset is in the early developmental period.
+For example, individuals with  the neurogenetic condition Prader-Willi syndrome may
+have early onset of skin picking, and their symptoms may meet criteria for stereotypic
+movement disorder. While tics in individuals with Tourette’s disorder may lead to self-
+injury, the behavior is not ti c-like in excoriation disorder. 
+Somatic symptom and related disorders. Excoriation disorder is not diagnosed if the
+skin lesion is primarily attributable to de ceptive behaviors in factitious disorder.
+Other disorders. Excoriation disorder is not diagnosed if the skin picking is primarily
+attributable to the intention to harm oneself th at is characteristic of nonsuicidal self-injury.
+Other medical conditions. Excoriation disorder is not di agnosed if the skin picking is
+primarily attributable to another medical condition. For example, scabies is a dermatolog-
+ical condition invariably associated with seve re itching and scratching. However, excori-
+ation disorder may be precipitated or ex acerbated by an unde rlying dermatological
+condition. For example, acne may lead to so me scratching and picking, which may also be
+associated with comorbid excoriation diso rder. The differentiation between these two
+clinical situations (acne with some scratching  and picking vs. acne with comorbid excori-
+ation disorder) requires an assessment of the extent to which the individual’s skin picking
+has become independent of the unde rlying dermatological condition. 
+Substance/medication-induced disorders. Skin-picking symptoms may also be induced
+by certain substances (e.g., cocaine), in whic h case excoriation disorder should not be di-
+agnosed. If such skin picking is clinically significant, then a diagnosis of substance/med-
+ication-induced obsessive-compulsive and re lated disorder should be considered. 
+Substance/Medication-Induced Obsessive-Compulsive and Related Disorder 257
+Comorbidity
+Excoriation disorder is often accompanied by other mental disorders. Such disorders in-
+clude OCD and trichotillomania (hair-pulling disorder), as well as major depressive dis-
+order. Repetitive body-focused symptoms othe r than skin picking an d hair pulling (e.g.,
+nail biting) occur in many individuals with excoriation disorder and may deserve an ad-
+ditional diagnosis of other specified obsessive-compulsive and related disorder (i.e.,
+body-focused repetitive behavior disorder).
+Substance/Medication-Induced
+ Obsessive-Compulsive and Related Disorder
+Diagnostic Criteria  
+A. Obsessions, compulsions, skin picking, hair pulling, other body-focused repetitive be-
+haviors, or other symptoms characteristic of the obsessive-compulsive and related dis-
+orders predominate in the clinical picture. 
+B. There is evidence from the history, physical examination, or laboratory findings of both
+(1) and (2):
+1. The symptoms in Criterion A developed during or soon after substance intoxication
+or withdrawal or after exposure to a medication.
+2. The involved substance/medication is capable of producing the symptoms in Crite-
+rion A.
+C. The disturbance is not better explained by an obsessive-compulsive and related disor-
+der that is not substance/medication-induced. Such evidence of an independent ob-
+sessive-compulsive and related disorder could include the following:
+The symptoms precede the onset of the substance/medication use; the symptoms
+persist for a substantial period of time (e.g., about 1 month) after the cessation of acute
+withdrawal or severe intoxication; or there is other evidence suggesting the exis-
+tence of an independent non-substance/medication-induced obsessive-compul-
+sive and related disorder (e.g., a history of recurrent non-substance/medication-
+related episodes). 
+D. The disturbance does not occur exclusively during the course of a delirium.
+E. The disturbance causes clinically significant distress or impairment in social, occupa-
+tional, or other important areas of functioning.
+Note:  This diagnosis should be made in addition to a diagnosis of substance intoxication
+or substance withdrawal only when the symptom s in Criterion A predominate in the clinical
+picture and are sufficiently severe to warrant clinical attention. 
+Coding note: The ICD-9-CM and ICD-10-CM codes for the [specific substance/medica-
+tion]-induced obsessive-compulsive and related disorders are indicated in the table below.
+Note that the ICD-10-CM code depends on whether or not there is a comorbid substance
+use disorder present for the same class of substance. If a mild substance use disorder is
+comorbid with the substance-induced obsessive-compulsive and related disorder, the 4th
+position character is “1,” and the clinician should record “mild [substance] use disorder”
+before the substance-induced obsessive-compulsive and related disorder (e.g., “mild co-
+caine use disorder with cocaine-induced obs essive-compulsive and related disorder”). If
+a moderate or severe substance use disorder is comorbid with the substance-induced ob-
+sessive-compulsive and related disorder, the 4th position character is “2,” and the clinician
+should record “moderate [substance] use disorder” or “severe [substance] use disorder,”
+depending on the severity of the comorbid substance use disorder. If there is no comorbid
+258 Obsessive-Compulsive and Related Disorders
+substance use disorder (e.g., after a one-time heavy use of the substance), then the 4th
+position character is “9,” and the clinician should record only the substance-induced ob-
+sessive-compulsive and related disorder.
+Specify if (see Table 1 in the chapter “Substance-Related and Addictive Disorders” for di-
+agnoses associated with substance class):
+With onset during intoxication:  If the criteria are met for intoxication with the sub-
+stance and the symptoms develop during intoxication.
+With onset during withdrawal:  If criteria are met for withdrawal from the substance
+and the symptoms develop during, or shortly after, withdrawal.
+With onset after medication use:  Symptoms may appear either at initiation of medi-
+cation or after a modification or change in use.
+Recording Procedures
+ICD-9-CM. The name of the substanc e/medication-induced ob sessive-compulsive and
+related disorder begins with the specific subs tance (e.g., cocaine) that is presumed to be
+causing the obsessive-compulsive and related symptoms. The diagnostic code is selected
+from the table included in the criteria set, wh ich is based on the drug class. For substances
+that do not fit into any of the classes, the co de for “other substance” should be used; and in
+cases in which a substance is judged to be an etiological factor but the specific class of sub-
+stance is unknown, the category “u nknown substance” should be used.
+The name of the disorder is followed by the sp ecification of onset (i.e., onset during in-
+toxication, onset during withdrawal, with onse t after medication use). Unlike the record-
+ing procedures for ICD-10-CM, which combine the substance-induced disorder and
+substance use disorder into a single code, for ICD-9-CM a separate diagnostic code is
+given for the substance use disorder. For exampl e, in the case of re petitive behaviors oc-
+curring during intoxica tion in a man with a severe coca ine use disorder, the diagnosis is
+292.89 cocaine-induced obsessive-compulsive and related disorder, with onset during in-
+toxication. An additional diagnosis of 304.20 severe cocaine use disorder is also given.
+When more than one substance is judged to play a significant role in the development of
+the obsessive-compulsive and related disord er, each should be listed separately.
+ICD-10-CM. The name of the substance/medication-induced obsessive-compulsive and re-
+lated disorder begins with the specific substance (e.g., cocaine) that is presumed to be causing
+the obsessive-compulsive and related symptoms. Th e diagnostic code is selected from the ta-
+ble included in the criteria set,  which is based on the drug clas s and presence or absence of a
+comorbid substance use disorder . For substances that do no t fit into any of the classes,
+the code for “other substance” with no comorb id substance use should be used; and in cases in
+which a substance is judged to be an etiological fa ctor but the specific class of substance is un-
+known, the category “unknown substance” with  no comorbid substance use should be used.ICD-10-CM
+ICD-9-CMWith use 
+disorder, 
+mildWith use 
+disorder, 
+moderate 
+or severeWithout 
+use 
+disorder
+Amphetamine (or other 
+stimulant)292.89 F15.188 F15.288 F15.988
+Cocaine 292.89 F14.188 F14.288 F14.988
+Other (or unknown) substance 292.89 F19.188 F19.288 F19.988
+Substance/Medication-Induced Obsessive-Compulsive and Related Disorder 259
+When recording the name of the disorder, the comorbid substance use disorder (if any) is
+listed first, followed by the wo rd “with,” followed by the name  of the substance-induced ob-
+sessive-compulsive and related diso rder, followed by the specification of onset (i.e., onset dur-
+ing intoxication, onset during withdrawal, with  onset after medication use). For example, in
+the case of repetitive behaviors occurring during  intoxication in a man with a severe cocaine
+use disorder, the diagnosis is F14.288 severe co caine use disorder with cocaine-induced obses-
+sive-compulsive and related disorder, with onse t during intoxication. A separate diagnosis of
+the comorbid severe cocaine use disorder is not given. If the substance-induced obsessive-
+compulsive and related disorder occurs without a comorbid substance use disorder (e.g., after
+a one-time heavy use of the substance), no accompanying substance use disorder is noted (e.g.,
+F15.988 amphetamine-induced obsessive-compulsive  and related disorder, with onset during
+intoxication). When more than on e substance is judged to play a significant role in the devel-
+opment of the obsessive-compulsive and relate d disorder, each should be listed separately.
+Diagnostic Features
+The essential features of substance/medicati on-induced obsessive-co mpulsive and related
+disorder are prominent symptoms of an obsessive-compulsive  and related disorder (Criterion
+A) that are judged to be attributable to the e ffects of a substance (e.g., drug of abuse, medica-
+tion). The obsessive-compulsive and related disorder symptoms must have developed during
+or soon after substance intoxication or withdraw al or after exposure to a medication or toxin,
+and the substance/medication must be capable of producing the symptoms (Criterion B). Sub-
+stance/medication-induced obsessive-compulsive and related disorder due to a prescribed
+treatment for a mental disorder or general medi cal condition must have its onset while the in-
+dividual is receiving the medi cation. Once the treatment is discontinued, the obsessive-com-
+pulsive and related disorder symp toms will usually improve or remit within days to several
+weeks to 1 month (depending on the half-life of the substance/medica tion). The diagnosis of
+substance/medication-induced obsessive-comp ulsive and related disorder should not be
+given if onset of the obsessive-compulsive an d related disorder symp toms precedes the sub-
+stance intoxicati on or medication use, or if the symp toms persist for a substantial period of
+time, usually longer than 1 month,  from the time of severe into xication or with drawal. If the
+obsessive-compulsive and related disorder symptoms persist for a substantial period of time,
+other causes for the symptoms should be cons idered. The substance/medication-induced ob-
+sessive-compulsive and related disorder diagnosis should be made in addition to a diagnosis
+of substance intoxication only when the sympto ms in Criterion A pred ominate in the clinical
+picture and are sufficiently severe to warrant independent clinical attention
+Associated Features Supporting Diagnosis
+Obsessions, compulsions, hair pulling, skin pick ing, or other body-focused repetitive be-
+haviors can occur in association with intoxication with the following classes of substances:
+stimulants (including cocaine) and other (o r unknown) substances. Heavy metals and tox-
+ins may also cause obsessive-compulsive and related disorder symptoms. Laboratory as-
+sessments (e.g., urine toxicology) may be usef ul to measure substance intoxication as part
+of an assessment for obsessive-co mpulsive and related disorders.
+Prevalence
+In the general population, the very limited data  that are available indicate that substance-
+induced obsessive-compulsive and related disorder is very rare. 
+Differential Diagnosis
+Substance intoxication. Obsessive-compulsive and relate d disorder symptoms may oc-
+cur in substance intoxication. The diagnosis of  the substance-specific  intoxication will usu-
+260 Obsessive-Compulsive and Related Disorders
+ally suffice to categorize the symptom presentation. A diagnosis of an obsessive-compulsive
+and related disorder should be made in additi on to substance intoxication when the symp-
+toms are judged to be in exce ss of those usually associated with intoxication and are suf-
+ficiently severe to warrant independent clinical attention.
+Obsessive-compulsive and related disorder (i.e., not induced by a substance). Sub-
+stance/medication-induced obsessive-compulsive and related disorder is judged to be
+etiologically related to the substance/medi cation. Substance/medi cation-induced obses-
+sive-compulsive and related disorder is dist inguished from a prim ary obsessive-compul-
+sive and related disorder by considering the onset, course, and other factors with respect
+to substances/medications. For drugs of abuse, there must be  evidence from the history,
+physical examination, or laboratory findings  for use or intoxication. Substance/medica-
+tion-induced obsessive-compulsiv e and related disorder arises only in association with in-
+toxication, whereas a primary obsessive-compulsive and relate d disorder may precede the
+onset of substance/medication use. The presence  of features that are atypical of a primary
+obsessive-compulsive and relate d disorder, such as atypical age at onset of symptoms,
+may suggest a substance-induced etiology. A primary obsessive-compulsive and related
+disorder diagnosis is warranted if the sympto ms persist for a substa ntial period of time
+(about 1 month or longer) after the end of the substance intoxication or the individual has
+a history of an obsessive-co mpulsive and related disorder.
+Obsessive-compulsive and related disorder due to another medical condition. If the
+obsessive-compulsive and relate d disorder symptoms are attr ibutable to another medical
+condition (i.e., rather than to the medication taken for the other me dical condition), obses-
+sive-compulsive and related di sorder due to another medical condition should be diag-
+nosed. The history often provides the basis for judgment. At times, a change in the
+treatment for the other medical condition (e.g ., medication substitu tion or discontinua-
+tion) may be needed to determine whether or not the medication is the causative agent (in
+which case the symptoms may be better expl ained by substance/medication-induced ob-
+sessive-compulsive and related diso rder). If the disturbance is attributable to both another
+medical condition and substance use, both diagnoses (i.e., obsessive-compulsive and related
+disorder due to another medical condition and substance/medicati on-induced obsessive-
+compulsive and related disorder) may be given. When there is insufficie nt evidence to de-
+termine whether the symptoms are attributable  to either a substanc e/medication or an-
+other medical condition or are primary (i.e., a ttributable to neither a substance/medication
+nor another medical condition), a diagnosis of other specified or unspecified obsessive-
+compulsive and related disorder would be indicated.
+Delirium. If obsessive-compulsive and related disorder symptoms occur exclusively
+during the course of delirium, they are consid ered to be an associated  feature of the delir-
+ium and are not diagnosed separately. 
+Obsessive-Compulsive and Related Disorder
+Due to Another Medical Condition
+Diagnostic Criteria 294.8 (F06.8)
+A. Obsessions, compulsions, preoccupations with appearance, hoarding, skin picking,
+hair pulling, other body-focused repetitive beha viors, or other symptoms characteristic
+of obsessive-compulsive and related disorder predominate in the clinical picture. 
+B. There is evidence from the history, physical examination, or laboratory findings that the
+disturbance is the direct pathophysiological consequence of another medical condition. 
+C. The disturbance is not better explained by another mental disorder. 
+Obsessive-Compulsive and Related Disorder Due to Another Medical Condition 261
+D. The disturbance does not occur exclusively during the course of a delirium. 
+E. The disturbance causes clinically significant distress or impairment in social, occupa-
+tional, or other important areas of functioning.
+Specify if:
+With obsessive-compulsive disorder–like symptoms:  If obsessive-compulsive dis-
+order–like symptoms predominate in the clinical presentation.
+With appearance preoccupations:  If preoccupation with perceived appearance de-
+fects or flaws predominates in the clinical presentation.
+With hoarding symptoms: If hoarding predominates in the clinical presentation.
+With hair-pulling symptoms:  If hair pulling predominates in the clinical presentation.
+With skin-picking symptoms:  If skin picking predominates in the clinical presenta-
+tion.
+Coding note: Include the name of the other medical condition in the name of the mental
+disorder (e.g., 294.8 [F06.8] obsessive-compulsive and related disorder due to cerebral
+infarction). The other medical condition should be coded and listed separately immediately
+before the obsessive-compulsive and related disorder due to the medical condition (e.g.,
+438.89 [I69.398] cerebral infarction; 294.8 [F06.8] obsessive-compulsive and related dis-
+order due to cerebral infarction).
+Diagnostic Features
+The essential feature of obsessive-compulsive an d related disorder due to another medical
+condition is clinically significant obsessiv e-compulsive and related symptoms that are
+judged to be best explained as the direct pathophysiological consequence of another med-
+ical condition. Symptoms can include pr ominent obsessions, compulsions, preoccu-
+pations with appearance, hoarding, hair pull ing, skin picking, or other body-focused
+repetitive behaviors (Criterion A). The judgme nt that the symptoms are best explained by
+the associated medical condition must be based on evidence from the history, physical ex-
+amination, or laboratory findings (Criterion B). Additionally, it must be judged that the
+symptoms are not better explained by another mental disorder (Criterion C). The diagno-
+sis is not made if the obsessive-compulsive and related symptoms o ccur only during the
+course of a delirium (Criterion D). The obsessive-compulsive and related symptoms must
+cause clinically significant distress or impairment in social, occupa tional, or other impor-
+tant areas of functioning (Criterion E).
+In determining whether the ob sessive-compulsive and rela ted symptoms are attribut-
+able to another medical condit ion, a relevant medical condition must be present. Further-
+more, it must be established that obsessive-compulsive and related symptoms can be
+etiologically related to the medical condit ion through a pathophysiological mechanism
+and that this best explains the symptoms in the individual. Although there are no infallible
+guidelines for determining whether the relationship between the obsessive-compulsive
+and related symptoms and the medical conditio n is etiological, considerations that may
+provide some guidance in making this diagno sis include the presence of a clear temporal
+association between the onset, exacerbation, or remission of the medical condition and the
+obsessive-compulsive and related symptoms; the presence of features that are atypical of
+a primary obsessive-compulsive and related disord er (e.g., atypical age at onset or course);
+and evidence in the literature that a known physiological mechanism (e.g., striatal dam-
+age) causes obsessive-compulsive and rela ted symptoms. In addi tion, the disturbance
+cannot be better explained by a primary obse ssive-compulsive and related disorder, a sub-
+stance/medication-induced obsessive-compul sive and related disorder, or another men-
+tal disorder.
+There is some controversy about whether ob sessive-compulsive and related disorders
+can be attributed to Group A streptococcal infection. Sydenham’s chorea is the neurolog-
+262 Obsessive-Compulsive and Related Disorders
+ical manifestation of rheumatic fever, which is in turn due to Group A streptococcal in-
+fection. Sydenham’s chorea is characterized by a combination of motor and nonmotor
+features. Nonmotor feat ures include obsessions, compulsi ons, attention deficit, and emo-
+tional lability. Although indi viduals with Sydenh am’s chorea may present with non-
+neuropsychiatric features of acute rheumatic fe ver, such as carditis and arthritis, they may
+present with obsessive-compu lsive disorder–like symptoms; such individuals should
+be diagnosed with obsessive-compulsive and related disorder due to another medical
+condition. 
+Pediatric autoimmune neuropsychiatric diso rders associated with  streptococcal infec-
+tions (PANDAS) has been identified as an other post-infectious autoimmune disorder
+characterized by the sudden onset of obsessions, compulsions, and/or tics accompanied
+by a variety of acute neuropsychiatric symptoms  in the absence of chorea, carditis, or ar-
+thritis, after Group A streptoc occal infection. Although there is a body of evidence that
+supports the existence of PANDAS, it remains a controversial diagnosis. Given this ongo-
+ing controversy, the description of PANDAS ha s been modified to eliminate etiological
+factors and to designate an expanded clinical  entity: pediatric acute-onset neuropsychiat-
+ric syndrome (PANS) or idiopathic childhood  acute neuropsychiatric symptoms (CANS),
+which deserves further study.
+Associated Features Supporting Diagnosis
+A number of other medical disorders are know n to include obsessive-compulsive and re-
+lated symptoms as a manifestation. Examples  include disorders leading to striatal dam-
+age, such as cerebral infarction.
+Development and Course
+The development and course of  obsessive-compulsive and rela ted disorder due to another
+medical condition generally follows the course of the underlying illness. 
+Diagnostic Markers
+Laboratory assessments and/or medical examinations are necessary to confirm the diag-
+nosis of another medical condition.
+Differential Diagnosis
+Delirium. A separate diagnosis of obsessive-compul sive and related disorder due to an-
+other medical condition is not given if the disturbance occurs exclusively during the
+course of a delirium. Howeve r, a diagnosis of obsessive-compulsive and related disorder
+due to another medical condition may be given in addition to a diagnosis of major neuro-
+cognitive disorder (dementia) if the etiolo gy of the obsessive-compulsive symptoms is
+judged to be a physiological consequence of the pathological process causing the dementia
+and if obsessive-compulsive symptoms are a pr ominent part of the clinical presentation. 
+Mixed presentation of symptoms (e.g., mood and obsessive-compulsive and related
+disorder symptoms). If the presentation includes a mix of different types of symptoms,
+the specific mental disorder due to another medical condition depends on which symp-
+toms predominate in the clinical picture.
+Substance/medication-induced obsessive-compulsive and related disorders. If there
+is evidence of recent or pr olonged substance use (including medications with psychoac-
+tive effects), withdrawal from a substance, or exposure to a toxin, a substance/medication-
+induced obsessive-compulsive and related diso rder should be considered. When a sub-
+stance/medication-induced ob sessive-compulsive and related disorder is being diag-
+nosed in relation to drugs of abuse, it may be  useful to obtain a urine or blood drug screen
+Other Specified Obsessive-Compulsive and Related Disorder 263
+or other appropriate laboratory evaluation. Symptoms that o ccur during or shortly after
+(i.e., within 4 weeks of) substance intoxication  or withdrawal or after medication use may
+be especially indicative of a substance/medi cation-induced obsessive-compulsive and re-
+lated disorder, depending on the type, duration, or amount of the substance used.
+Obsessive-compulsive and re lated disorders (primary). Obsessive-compulsive and re-
+lated disorder due to another medical condition should be distinguished fr om a primary
+obsessive-compulsive and related disorder. In primary mental disorders, no specific and
+direct causative physiological mechanisms associated with a medical condition can be
+demonstrated. Late age at onse t or atypical symptoms suggest the need for a thorough as-
+sessment to rule out the diagnosis of obsessive-compulsive and related disorder due to an-
+other medical condition. 
+Illness anxiety disorder. Illness anxiety disorder is charac terized by a preoccupation with
+having or acquiring a serious illness. In the case of illness anxiety disorder, individuals
+may or may not have diagnosed medical conditions.
+Associated feature of another mental disorder. Obsessive-compulsive and related symp-
+toms may be an associated feature of another mental disorder (e.g., schizophrenia, an-
+orexia nervosa). 
+Other specified obsessive-compulsive and related disorder or unspecified obsessive-
+compulsive and related disorder. These diagnoses are given if it is unclear whether the
+obsessive-compulsive and rela ted symptoms are primary, substance-induced, or due to
+another medical condition.
+Other Specified Obsessive-Compulsive
+and Related Disorder
+300.3 (F42)
+This category applies to presentations in which symptoms characteristic of an obsessive-
+compulsive and related disorder that cause clinically significant distress or impairment in
+social, occupational, or other important areas of functioning predominate but do not meet
+the full criteria for any of the disorders in the obsessive-compulsive and related disorders
+diagnostic class. The other specified obsessive -compulsive and related disorder category
+is used in situations in which the clinician chooses to communicate the specific reason that
+the presentation does not meet the criteria for any specific obsessive-compulsive and re-
+lated disorder. This is done by recording “other specified obsessive-compulsive and relat-
+ed disorder” followed by the specific reason (e.g., “body-focused repetitive behavior
+disorder”).
+Examples of presentations that can be specified using the “other specified” designation
+include the following:
+1.Body dysmorphic–like disorder with actual flaws:  This is similar to body dysmor-
+phic disorder except that the defects or flaws in physical appearance are clearly ob-
+servable by others (i.e., they are more noticeable than “slight”). In such cases, the
+preoccupation with these flaws is clearly excessive and causes significant impairment
+or distress.
+2.Body dysmorphic–like disorder  without repetitive behaviors: Presentations that
+meet body dysmorphic disorder except that the individual has not performed repetitive
+behaviors or mental acts in response to the appearance concerns. 
+3.Body-focused repetitive behavior disorder:  This is characterized by recurrent body-
+focused repetitive behaviors (e.g., nail biting, lip biting, cheek chewing) and repeated
+attempts to decrease or stop the behaviors. These symptoms cause clinically significant
+264 Obsessive-Compulsive and Related Disorders
+distress or impairment in social, occupational , or other important areas of functioning
+and are not better explained by trichotillomania (hair-pulling disorder), excoriation (skin-
+picking) disorder, stereotypic movement disorder, or nonsuicidal self-injury. 
+4.Obsessional jealousy:  This is characterized by nondelusional preoccupation with a
+partner’s perceived infidelity. The preoccupations may lead to repetitive behaviors or
+mental acts in response to the infidelity concerns; they cause clinically significant dis-
+tress or impairment in social, occupational, or other important areas of functioning; and
+they are not better explained by another mental  disorder such as delusional disorder,
+jealous type, or paranoid personality disorder. 
+5.Shubo-kyofu: A variant of taijin kyofusho  (see “Glossary of Cultural Concepts of Dis-
+tress” in the Appendix) that is similar to body dysmorphic disorder and is characterized
+by excessive fear of having a bodily deformity.
+6.Koro:  Related to dhat syndrome (see “Glossary of Cultural Concepts of Distress” in
+the Appendix), an episode of sudden and intense anxiety that the penis (or the vulva
+and nipples in females) will recede into the body, possibly leading to death.
+7.Jikoshu-kyofu:  A variant of taijin kyofusho  (see “Glossary of Cultural Concepts of Dis-
+tress” in the Appendix) characterized by fear of having an offensive body odor (also
+termed olfactory reference syndrome).
+Unspecified Obsessive-Compulsive
+and Related Disorder
+300.3 (F42)
+This category applies to presentations in which symptoms characteristic of an obsessive-
+compulsive and related disorder that cause clinically significant distress or impairment in
+social, occupational, or other important ar eas of functioning predominate but do not meet
+the full criteria for any of the disorders in the obsessive-compulsive and related disorders
+diagnostic class. The unspecified obsessive-co mpulsive and related disorder category is
+used in situations in which the clinician chooses not to specify the reason that the criteria
+are not met for a specific obsessive-compul sive and related disorder, and includes presen-
+tations in which there is insufficient information to make a more specific diagnosis (e.g., in
+emergency room settings).
