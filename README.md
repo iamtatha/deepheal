@@ -46,4 +46,9 @@ Run the following
 python manage.py runserver
 ```
 
+
+## License
+This project is licensed under the [Custom License](./LICENSE).
+
+
 Now you will be able to chat in `localhost:8000` address and see the logs in `localhost:8000/logs`
