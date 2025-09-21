@@ -1,5 +1,5 @@
 # Deepheal Codebase
-World's first AI-powered mental health assistant. Led by Tathagata Dey [Webpage](www.iamtatha.github.io).
+World's first AI-powered mental health assistant. Led by Tathagata Dey [Webpage](https://iamtatha.github.io).
 
 ## How to Set up
 - Install python `3.10` and then pip install the virtuelenv library by the following
@@ -45,10 +45,9 @@ Run the following
 ```
 python manage.py runserver
 ```
+Now you will be able to chat in `localhost:8000` address and see the logs in `localhost:8000/logs`
 
 
 ## License
 This project is licensed under the [Custom License](./LICENSE).
 
-
-Now you will be able to chat in `localhost:8000` address and see the logs in `localhost:8000/logs`
