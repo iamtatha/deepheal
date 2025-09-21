@@ -2,37 +2,28 @@
 World's first AI-powered mental health assistant. Led by Tathagata Dey [Webpage](https://iamtatha.github.io).
 
 ## How to Set up
-- Install python `3.10` and then pip install the virtuelenv library by the following
+- Install python `3.10` and then pip install the virtuelenv library, create a library and initialize to install the requirements. For now start an environment with the name `env`.
 ```
 pip install virtualenv
-```
-- Start a new virtual environment with the name `env`
-```
 python -m venv env
 ```
 - Initiate the virtual environment
-  - On windows
-```
-source env/Scripts/activate
-```
-  - On Linux/Mac
-```
-source env/bin/activate
-```
+  - On windows: `source env/Scripts/activate`
+  - On Linux/Mac: `source env/bin/activate`
 - Install the requirements folder
 ```
 pip install -r requirements.txt
 ```
 - You still need to install `ffmpeg`
-### MAC Process
+### Install ffmpeg: MAC Process
 ```
 brew install ffmpeg
 ```
-### Linux Process
+### Install ffmpeg: Linux Process
 ```
 sudo apt install ffmpeg -y
 ```
-### Windows Process
+### Install ffmpeg: Windows Process
 ```
 winget install ffmpeg
 ```
