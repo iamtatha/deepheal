@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    "channels",
     "chat",
 ]
 
@@ -69,6 +70,14 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'deepheal.wsgi.application'
 
+ASGI_APPLICATION = "deepheal.asgi.application"
+
+CHANNEL_LAYERS = {
+    "default": {
+        "BACKEND": "channels_redis.core.RedisChannelLayer",
+        "CONFIG": {"hosts": [("127.0.0.1", 6379)]},  # make sure Redis is running
+    }
+}
 
 # Database
 # https://docs.djangoproject.com/en/5.2/ref/settings/#databases

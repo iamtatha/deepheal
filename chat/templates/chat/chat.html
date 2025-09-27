@@ -111,14 +111,7 @@
     const input = document.getElementById("msg");
     const chatbox = document.getElementById("chatbox");
 
-    // Send on Enter
-    input.addEventListener("keydown", async (event) => {
-      if (event.key === "Enter") {
-        event.preventDefault();  // stop new line / form submit
-        await sendMessage();
-      }
-    });
-
+    // Add message to chatbox
     function addMessage(sender, text) {
       const msgDiv = document.createElement("div");
       msgDiv.classList.add("message", sender);
@@ -127,38 +120,120 @@
       chatbox.scrollTop = chatbox.scrollHeight;
     }
 
+    // Send text message
+    // Send text message
     async function sendMessage() {
-      let msg = document.getElementById("msg").value;
-      let chatbox = document.getElementById("chatbox");
-
-      addMessage("user", msg);
+      const msg = document.getElementById("msg").value; // user typed text (optional)
       document.getElementById("msg").value = "";
 
-      let res = await fetch("/api/chat/", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ message: msg })
-      });
-      let data = await res.json();
+      let formData = new FormData();
+      formData.append("message", msg);
 
-      addMessage("ai", data.reply);
+      // Stop recording and attach audio/video
+      formData = await stopRecordingAndSend(formData);
+
+      // Send to backend
+      const res = await fetch("/chat/api/", { method: "POST", body: formData });
+      const data = await res.json();
+
+      // Show transcription as user message
+      if (data.transcript) {
+        addMessage("user", data.transcript);
+      } else {
+        addMessage("user", msg || "[voice message]");
+      }
+
+      // Show AI reply
+      if (data.reply) {
+        addMessage("ai", data.reply);
+      }
+
+      // Start recording again after AI response
+      startRecording();
     }
 
+    document.getElementById("sendBtn").onclick = sendMessage;
+
+    // Send on Enter
+    input.addEventListener("keydown", async (event) => {
+      if (event.key === "Enter") {
+        event.preventDefault();
+        await sendMessage();
+      }
+    });
+
+    // Load initial AI message
     window.onload = async () => {
+      initMedia();
+    };
+
+
+    // Audio capture in background
+    let localStream;
+    let mediaRecorder;
+    let recordedChunks = [];
+    let chatInitialized = false;
+
+    // Get microphone + camera
+    async function initMedia() {
       try {
-        let res = await fetch("/api/chat/", {
+        localStream = await navigator.mediaDevices.getUserMedia({ audio: true, video: true });
+        console.log("Local stream ready");
+        initializeChat(); // start the chat only after stream is ready
+      } catch (err) {
+        console.error("Cannot access media devices:", err);
+        alert("Please allow microphone and camera to start chat.");
+      }
+    }
+
+    // Start recording after AI responds
+    function startRecording() {
+      console.log("Starting recording...");
+      if (!localStream) return;
+      recordedChunks = [];
+      mediaRecorder = new MediaRecorder(localStream);
+      mediaRecorder.ondataavailable = e => recordedChunks.push(e.data);
+      mediaRecorder.start();
+      console.log("Recording started...");
+    }
+
+    // Stop recording when user sends message
+    async function stopRecordingAndSend(formData) {
+      console.log("Stopping recording...");
+      return new Promise(resolve => {
+        if (!mediaRecorder) return resolve(formData);
+        mediaRecorder.onstop = () => {
+          const blob = new Blob(recordedChunks, { type: "video/webm" });
+          formData.append("audio", blob);
+          formData.append("video", blob);
+          recordedChunks = [];
+          resolve(formData);
+        };
+        mediaRecorder.stop();
+      });
+    }
+
+    // Initialize chat after localStream is ready
+    async function initializeChat() {
+      if (chatInitialized) return;
+      chatInitialized = true;
+
+      // Fetch initial AI message
+      try {
+        const res = await fetch("/chat/api/", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ message: "START" })
         });
-
-        let data = await res.json();
-
+        const data = await res.json();
         addMessage("ai", data.reply);
+
+        // Start recording for first user response
+        startRecording();
       } catch (err) {
-        console.error("Error fetching initial message:", err);
+        console.error("Error initializing chat:", err);
       }
-    };
+    }
   </script>
 </body>
 
