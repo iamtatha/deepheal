@@ -15,6 +15,7 @@ blinker==1.9.0
 cachetools==5.5.2
 certifi==2025.8.3
 cffi==2.0.0
+channels==4.3.1
 charset-normalizer==3.4.3
 click==8.3.0
 colorama==0.4.6
